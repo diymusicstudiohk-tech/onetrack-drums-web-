@@ -4,13 +4,13 @@ Viobe 的學鼓檔案
 
 ---
 
-*上課日期與剩餘堂數：*
+***上課日期與剩餘堂數：***
 1_  2025-12-30
 2_  2026-1-7
 3_  2026-1-20
 4_  2026-1-27
 
-*課堂記錄*
+***課堂記錄***
 
 [2026-1-27]
 開碗8th R with kick 抓手：  140bpm
@@ -24,21 +24,21 @@ tried till Drum solo part 2, 0.8x
 
 Last C
 https://gscribe.com/share/D6owBKr9nbF15ehi8
-![[Screenshot 2026-01-27 at 13.32.35.png]]
+![[attachments/Viobe_20260127_Last_C.jpg]]
 
-[2025-12-30]
+**[2025-12-30]**
 執咗 and tried 0.8x till 3rd C 普天下歡慶
 
-[2026-1-7]
+**[2026-1-7]**
 Tried 0.8-9x till 3rd C 普天下歡慶
 另 tried 咗 0.6x drum solo only x4 普天下歡慶
 
-[2026-1-20]
+**[2026-1-20]**
 開碗練習 (Full 8th 120-130bpm / 16th 110bpm / No kick 16th 150bpm)
 Tried 0.8-9x till 3rd C 普天下歡慶
 Tried 0.8x drum solo only x4 (Last C1 C2 用 4th crash)
 
-*購買記錄*
+***購買記錄***
 在 2025-12-30 已購買4堂，有效期至 2026-2-28
 (收據圖片，如有）
 **
