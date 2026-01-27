@@ -12,12 +12,15 @@ Don’t let go (ori, Jan 26);
 2_ 2025-10-21 (應為 10-22)
 3_ 2025-11-20
 4_ 2026-1-8
-5_ 
+5_ 2026-1-27
 6_ 
 7_ 
 8_ 
 
 ***課堂記錄***
+
+**[2026-1-27]**
+開碗 8th R+kick:  145bpm , 8th R only no kick : 165bpm ; 8th L with kick : 140bpm, without kick :155bpm ;; 雙手簡易 8th 16th  with kick :130bpm, without kick : 165bpm
 
 **[2026-1-8]**
 今日覆咗 Rockschool grade 5 - don’t let go 原速
