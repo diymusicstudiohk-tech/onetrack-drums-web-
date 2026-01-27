@@ -24,7 +24,7 @@ tried till Drum solo part 2, 0.8x
 
 Last C
 https://gscribe.com/share/D6owBKr9nbF15ehi8
-![[attachments/Viobe_20260127_Last_C.jpg]]
+![[Screenshot 2026-01-27 at 13.32.35.png]]
 
 [2025-12-30]
 執咗 and tried 0.8x till 3rd C 普天下歡慶
