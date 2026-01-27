@@ -1,4 +1,4 @@
-[Remark: 5月 11 日生日快樂 | 張敬軒 fans ，五月天 OK]
+[Remark: 11-17/2 2026 年去咗大版 ； 15月 11 日生日快樂 | 張敬軒 fans ，五月天 OK]
 
 ---
 
@@ -6,9 +6,33 @@
 1_  2025-10-9
 2_  2025-10-20
 3_  2026-1-9
-4_  
+4_  2026-1-27
 
 ***課堂記錄***
+
+**[2026-1-27]**
+今日執咗 手繪黑卡 (64) 去到 Bridge
+tried 0.8x with 馮允謙 Jay Fung - 手繪黑卡 I drew you a black card (Drum cover).mp4
+爭last Chorus 8個 bar 未整
+可以就咁望住譜打唔洗動態譜
+
+bar 1-4
+https://gscribe.com/share/RLto85p9m11BGL7t9
+
+bar 5-8 
+https://gscribe.com/share/yYb1CHqbWvSPgKec6
+
+bar 9 -12
+https://gscribe.com/share/SPHuLTnnRTJapFXYA
+
+bar 13 16
+https://gscribe.com/share/PYFuHCqKGfUy6TGN9
+
+bar 17-21
+https://gscribe.com/share/gc9HX6x1DjtFuFDA6
+
+bar 22-25
+https://gscribe.com/share/mE1NgjuNPtLKpJrQ9
 
 **[2026-1-9]**
 今日開 馮允謙 Jay Fung - 手繪黑卡
