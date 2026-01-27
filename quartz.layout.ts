@@ -27,8 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         // Component.Search() removed
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        // Component.Darkmode() removed to force light mode
+        Component.ReaderMode(),
       ],
     }),
   ],
