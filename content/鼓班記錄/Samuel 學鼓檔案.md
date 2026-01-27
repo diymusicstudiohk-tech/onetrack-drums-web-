@@ -20,7 +20,14 @@ Don’t let go (ori, Jan 26);
 ***課堂記錄***
 
 **[2026-1-27]**
-開碗 8th R+kick:  145bpm , 8th R only no kick : 165bpm ; 8th L with kick : 140bpm, without kick :155bpm ;; 雙手簡易 8th 16th  with kick :130bpm, without kick : 165bpm
+開碗 8th R+kick:  145bpm , 
+8th R only no kick : 165bpm ; 
+8th L with kick : 140bpm, without kick :155bpm ;; 
+雙手簡易 8th 16th  with kick :130bpm, without kick : 165bpm
+
+今日試咗 0.8-0.85x canned heat - samuel ver - RSL grade 5 2024 - AFTER LESSON 27 Jan26.pdf
+
+WITH ending fill - canned heat grade 5.mp4
 
 **[2026-1-8]**
 今日覆咗 Rockschool grade 5 - don’t let go 原速

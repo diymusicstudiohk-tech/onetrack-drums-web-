@@ -1,52 +1,60 @@
 #!/bin/bash
-# Targeted Sync for Drum Lesson Records
+# Full Sync (Safe) for Obsidian Vault to Quartz Website
 
-SOURCE_DIR="/Users/benzonkpchan/obsidian/personal/鼓班記錄"
-DEST_DIR="/Users/benzonkpchan/onetrack-drums-web/content/鼓班記錄"
+VAULT_DIR="/Users/benzonkpchan/obsidian/personal"
+WEB_CONTENT_DIR="/Users/benzonkpchan/onetrack-drums-web/content"
 WEB_DIR="/Users/benzonkpchan/onetrack-drums-web"
 
-echo "🚀 Syncing Drum Lesson Records to Quartz..."
+echo "🚀 Syncing ALL SAFE Obsidian notes to Quartz..."
 
-# 1. Ensure target directory exists
-mkdir -p "$DEST_DIR"
+# 1. Sync EVERYTHING except sensitive files to avoid GitHub Push Protection blocks
+# Excluded: .obsidian, .DS_Store, API-keys.md, login info, and personal shopping logs
+rsync -av --delete \
+  --exclude='.obsidian' \
+  --exclude='.DS_Store' \
+  --exclude='.trash' \
+  --exclude='API-keys.md' \
+  --exclude='Claude code CC login.md' \
+  --exclude='個人購物記錄.md' \
+  "$VAULT_DIR/" "$WEB_CONTENT_DIR/"
 
-# 2. Sync ONLY the 鼓班記錄 folder (including its attachments subfolder)
-# -a: preserve attributes, -v: verbose, --delete: remove files at dest not at source
-rsync -av --delete --exclude='.DS_Store' "$SOURCE_DIR/" "$DEST_DIR/"
-
-# 3. Update index.md to list all students
-cat << 'EOF' > "$WEB_DIR/content/index.md"
+# 2. Update index.md to list all students in the 鼓班記錄 folder
+cat << 'EOF' > "$WEB_CONTENT_DIR/index.md"
 # 🤖 Onetrack Studio 最新學鼓學生檔案
 
 歡迎使用我們的在線記錄系統。
 
+## 🥁 學生檔案
 EOF
 
 # Loop through all students and add them to index
-cd "$DEST_DIR"
+cd "$WEB_CONTENT_DIR/鼓班記錄"
 for file in *.md; do
-    if [[ "$file" != "index.md" && "$file" != "Viobe 的學鼓檔案.md" && "$file" != "Judy 學鼓檔案.md" && "$file" != "Hana 學鼓檔案.md" ]]; then
-        # Handle cases where I might have missed specific files in the hardcoded list above
-        :
-    fi
-    if [[ "$file" == *.md && "$file" != "index.md" ]]; then
+    if [[ "$file" != "index.md" ]]; then
         filename="${file%.md}"
-        echo "- [[鼓班記錄/$filename|$filename]]" >> "$WEB_DIR/content/index.md"
+        echo "- [[鼓班記錄/$filename|$filename]]" >> "$WEB_CONTENT_DIR/index.md"
     fi
 done
 
-echo -e "\n\n最後更新時間: $(date)" >> "$WEB_DIR/content/index.md"
+echo -e "\n## 👨‍🍳 職人食譜" >> "$WEB_CONTENT_DIR/index.md"
+cd "$WEB_CONTENT_DIR/Recipes"
+for file in *.md; do
+    filename="${file%.md}"
+    echo "- [[Recipes/$filename|$filename]]" >> "$WEB_CONTENT_DIR/index.md"
+done
 
-# 4. Navigate back to web directory
+echo -e "\n\n最後更新時間: $(date)" >> "$WEB_CONTENT_DIR/index.md"
+
+# 3. Navigate back to web directory
 cd "$WEB_DIR"
 
-# 5. Git operations
+# 4. Git operations
 git add .
 if git diff --staged --quiet; then
     echo "✅ No changes to sync."
 else
     echo "📦 Committing changes..."
-    git commit -m "Targeted sync: $(date)"
+    git commit -m "Full safe sync: $(date)"
     echo "📤 Pushing to GitHub..."
     git push origin v4
     echo "🎉 Sync complete! Website will update in 1-2 minutes."
