@@ -7,6 +7,7 @@
 2_  
 3_  
 4_  
+5_  （上一期嘅補堂要喺2026-3-24前補回）
 
 ***課堂記錄***
 
@@ -33,6 +34,9 @@ https://gscribe.com/share/gc9HX6x1DjtFuFDA6
 
 bar 22-25
 https://gscribe.com/share/mE1NgjuNPtLKpJrQ9
+
+![[attachments/Judy_HandmadeBlackCard.png]]
+
 
 ***購買記錄***
 在 2026-1-27 已購買4堂，有效期至 2026-3-24
