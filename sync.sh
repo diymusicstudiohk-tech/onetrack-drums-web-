@@ -1,19 +1,20 @@
 #!/bin/bash
-# Sync Obsidian Drum Lesson Records to Quartz Website
+# Targeted Sync for Drum Lesson Records
 
 SOURCE_DIR="/Users/benzonkpchan/obsidian/personal/鼓班記錄"
 DEST_DIR="/Users/benzonkpchan/onetrack-drums-web/content/鼓班記錄"
 WEB_DIR="/Users/benzonkpchan/onetrack-drums-web"
 
-echo "🚀 Syncing Obsidian files to Quartz..."
+echo "🚀 Syncing Drum Lesson Records to Quartz..."
 
-# Ensure target directory exists
+# 1. Ensure target directory exists
 mkdir -p "$DEST_DIR"
 
-# Copy files (only if changed)
-cp -R "$SOURCE_DIR/" "$DEST_DIR/"
+# 2. Sync ONLY the 鼓班記錄 folder (including its attachments subfolder)
+# -a: preserve attributes, -v: verbose, --delete: remove files at dest not at source
+rsync -av --delete --exclude='.DS_Store' "$SOURCE_DIR/" "$DEST_DIR/"
 
-# Update index.md to list all students automatically
+# 3. Update index.md to list all students
 cat << 'EOF' > "$WEB_DIR/content/index.md"
 # 🤖 Onetrack Studio 最新學鼓學生檔案
 
@@ -24,7 +25,11 @@ EOF
 # Loop through all students and add them to index
 cd "$DEST_DIR"
 for file in *.md; do
-    if [ "$file" != "index.md" ]; then
+    if [[ "$file" != "index.md" && "$file" != "Viobe 的學鼓檔案.md" && "$file" != "Judy 學鼓檔案.md" && "$file" != "Hana 學鼓檔案.md" ]]; then
+        # Handle cases where I might have missed specific files in the hardcoded list above
+        :
+    fi
+    if [[ "$file" == *.md && "$file" != "index.md" ]]; then
         filename="${file%.md}"
         echo "- [[鼓班記錄/$filename|$filename]]" >> "$WEB_DIR/content/index.md"
     fi
@@ -32,16 +37,16 @@ done
 
 echo -e "\n\n最後更新時間: $(date)" >> "$WEB_DIR/content/index.md"
 
-# Navigate back to web directory
+# 4. Navigate back to web directory
 cd "$WEB_DIR"
 
-# Git operations
+# 5. Git operations
 git add .
 if git diff --staged --quiet; then
     echo "✅ No changes to sync."
 else
     echo "📦 Committing changes..."
-    git commit -m "Sync drum lesson records and update index: $(date)"
+    git commit -m "Targeted sync: $(date)"
     echo "📤 Pushing to GitHub..."
     git push origin v4
     echo "🎉 Sync complete! Website will update in 1-2 minutes."

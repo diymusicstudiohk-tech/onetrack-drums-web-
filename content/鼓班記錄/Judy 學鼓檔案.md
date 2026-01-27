@@ -14,7 +14,11 @@
 **[2026-1-27]**
 今日執咗 手繪黑卡 (64) 去到 Bridge
 tried 0.8x with 馮允謙 Jay Fung - 手繪黑卡 I drew you a black card (Drum cover).mp4
-開碗 8th with kick :120bpm, without kick: 150bpm, 開碗8th without kick 左手:145bpm
+
+開碗 8th with kick :120bpm, 
+without kick: 150bpm, 
+開碗8th without kick 左手:145bpm
+
 爭last Chorus 8個 bar 未整
 可以就咁望住譜打唔洗動態譜
 
