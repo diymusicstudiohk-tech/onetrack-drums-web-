@@ -15,7 +15,23 @@
 ***課堂記錄***
 
 **[2026-1-27]**
-(今日上堂記錄待更新)
+
+為左練習出隊，今日執咗因主的名after lesson.pdf
+
+因主的名 MB (分享嗰陣嘅打法) 
+
+https://gscribe.com/share/yD8aDghVYdPhuu3s7
+
+因主的名 verse chorus main pattern and fill 
+
+https://gscribe.com/share/mwu3NjAdRSxZAfJC6
+
+因主的名 coda
+
+https://gscribe.com/share/VpcgX2Noa11kmcJr6
+
+HW: 1. red sea 嗰首你剪番啱個錄音 including all content ; 2. 用今日因主的名教嘅 野 你自己 prep 下 red sea 首歌嘅譜
+
 
 **[2025-12-16]**
 今日 cover 咗 將天敞開 原速 嘅 V C C B B

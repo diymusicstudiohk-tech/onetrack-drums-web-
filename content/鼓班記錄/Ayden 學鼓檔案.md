@@ -1,0 +1,388 @@
+Ayden 學鼓檔案
+
+[Remark: Aug 9th Birthday]
+
+<aside>
+⭐
+**Grade 3 考試目標 (Reference):**
+Old Bone Blues: https://youtu.be/R9_hy67ql7U
+Standard: https://www.youtube.com/watch?v=xLEpAmk7EOs
+Smooth: https://youtu.be/b8UJKo4LI4k
+Overrated: https://youtu.be/VWQV2LFJn0U
+You Really Got Me: https://www.youtube.com/watch?v=dw9gUqbWDCo
+
+**Wishlist:**
+After Noisy Neighbour: eScape - ff14 (https://www.youtube.com/watch?v=ucphXNy1NjY)
+WISHLIST: https://www.youtube.com/watch?v=EnCuPkBvZ-o
+</aside>
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-12-30
+2_  2026-1-4
+3_  2026-1-6
+4_  2026-1-13
+5_  2026-1-18
+6_  2026-1-20
+7_  2026-1-25
+8_
+
+***課堂記錄***
+
+**[2026-1-25]**
+開碗 8th 捉手： R: 150-160bpm, L: 145bpm
+開碗 16th (2) ： 150bpm
+今日整咗 g4 hammerblow-wtih updated rolling score - ayden ver.mp4
+tried 0.8x
+(Files: IMG_4224.MOV, g4 hammerblow-wtih updated rolling score - ayden ver.mp4)
+
+**[2026-1-20]**
+開碗 full 150-160bpm
+今日終於試過全首 0.7x LOUDER DRUMS - Hammerblow Grade 4 Ayden copy.mp4
+bar 35-42 未整落動態譜
+https://gscribe.com/share/eFLtH9wrdawYTadu5
+https://gscribe.com/share/HLCPC7P6zoh1tsoY8
+
+**[2026-1-13, 1-18]**
+18/1/26 - 開碗 full 140-150bpm
+LOUDER DRUMS - Hammerblow Grade 4 Ayden copy.mp4
+今日 溫咗 bar 21,22 ; 試咗 bar 27, 28 at 50bpm
+https://gscribe.com/share/UxbzxTY3Q8bb8dfb7
+https://gscribe.com/share/6z5cCrLVQLnxQPgL7
+
+**[2026-1-4, 1-6]**
+今日試咗 0.75x LOUDER DRUMS - Hammerblow Grade 4 Ayden copy.mp4
+去到 bar 23
+(Files: LOUDER DRUMS - Hammerblow Grade 4 Ayden copy.mp4)
+https://gscribe.com/share/6XbvwFJDEGyTZJyK8
+
+**[2025-12-30]**
+今日cover 咗 Full song - One Piece - Angel & Devil.mp4
+(Files: Ayden cover - One Piece - Angel & Devil.mp4)
+
+***購買記錄***
+在 2026-1-6 已購買8堂，有效期至 2026-5-6
+(receipt)
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-11-23
+2_  2025-11-25
+3_  2025-11-30
+4_  2025-12-2
+5_  2025-12-9
+6_  2025-12-14
+7_  2025-12-21
+8_  2025-12-23
+
+***課堂記錄***
+
+**[2025-12-23]**
+今日整咗同 tried 0.9x Full song - One Piece - Angel & Devil.mp4
+(Files: Full song - One Piece - Angel & Devil.mp4)
+
+**[2025-12-21]**
+今日試咗 0.83-0.9x Full song - ANGEL & DEVIL .mp4
+(Files: IMG_3710.MOV, IMG_3711.MOV)
+
+**[2025-12-14]**
+今日執咗 Full song - ANGEL & DEVIL .mp4
+試咗 少少 點打
+(Files: Full song - ANGEL & DEVIL .mp4)
+
+**[2025-12-9]**
+今日 Ayden 完成原速 Respect - Rockschool Grade 4 copy.mp4
+next: 開 One Piece Opening 27 ANGEL & DEVIL | 4K 60FPS | SUB
+今日 Ayden 完成原速 Respect - Rockschool Grade 4 copy.mp4
+整咗少少 譜 for Angel & Devil
+(Files: IMG_3425.MOV)
+https://gscribe.com/share/enFBm4XoesmjKgLb9
+https://gscribe.com/share/HgyztV87CFkPZfRx5
+
+**[2025-12-2]**
+今日 Ayden 狀態好 d 打到全首 0.9x Respect - Rockschool Grade 4 copy.mp4
+(Files: IMG_3301.MOV, IMG_3302.MOV, IMG_3303.MOV)
+
+**[2025-11-25, 11-30]**
+今日試過全首 0.7x Respect - Rockschool Grade 4 copy.mp4
+(Files: IMG_3185.MOV)
+
+***購買記錄***
+在 2025-10-29 已購買8堂，有效期至 2026-2-29
+(receipt)
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-10-19
+2_  2025-10-21
+3_  2025-10-29
+4_  2025-11-2
+5_  2025-11-9
+6_  2025-11-11
+7_  2025-11-16
+8_  2025-11-16
+
+***課堂記錄***
+
+**[2025-11-18, 11-23]**
+今日開始 Respect - Rockschool Grade 4 copy.mp4 去到 bar 23
+https://gscribe.com/share/YtnhmxXUNWYL2eWx8
+
+**[2025-11-16]**
+today cove 咗 full song - eScape.mp4 原速
+(Files: IMG_2930.MOV)
+
+**[2025-11-11]**
+today tried till full song - eScape.mp4 , 0.8-0.9x
+Bridge 2 not stable
+
+**[2025-11-2]**
+tried till B2, full song - eScape.mp4 ( not with video )
+(Files: full song - eScape.mp4)
+
+**[2025-10-29]**
+今日試咗 0.9 till B1 eScape.mp4
+(Files: till B1 eScape.mp4, IMG_2269.MOV)
+
+**[2025-10-21]**
+TODAY STARTED ESCAPE INTRO TO 1ST V, 0.80-1X
+(Files: IMG_2089.MOV, intro and 1st V - eScape (145) .mp4)
+
+***購買記錄***
+在 2025-9-7 已購買8堂，有效期至 2026-1-7
+(Invoice 0000663.pdf)
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-9-7
+2_  2025-9-9
+3_  2025-9-14
+4_  2025-9-16
+5_  2025-9-21
+6_  2025-10-5
+7_  2025-10-12
+8_  2025-10-15
+
+***課堂記錄***
+
+**[2025-10-19]**
+今再重溫 Grade 4 - Noisy neighbour with ALL SOLO copy
+(Files: IMG_2033.MOV)
+
+**[2025-10-15]**
+今日完成 原速 Grade 4 - Noisy neighbour with ALL SOLO copy
+
+**[2025-10-12]**
+今日試 Grade 4 - Noisy neighbour with ALL SOLO copy
+去到 16th Solo , 0.8x
+(Files: IMG_1844.MOV)
+
+**[2025-10-5]**
+今日 重溫咗 原速 full song crazy noisy.mp4
+開始 四級 考战歌 Grade 4 - Noisy neighbour with ALL SOLO copy
+(Files: IMG_1423.MOV, IMG_1425.MOV)
+
+**[2025-9-21]**
+今日 拍到 原速 full song crazy noisy.mp4
+(Files: IMG_1172.MOV, IMG_1179.MOV)
+
+**[2025-9-16]**
+今日 tried 0.85x 到 full song crazy noisy.mp4
+係咁kick Last C 第一個bar 嗰個fill
+
+**[2025-9-14]**
+今日 tried 0.85x 到 full song crazy noisy.mp4
+(Files: IMG_0920.MOV)
+
+**[2025-9-9]**
+今日 tried 0.8x 到 full song crazy noisy.mp4
+
+**[2025-9-7]**
+今日 tried 到 full song crazy noisy.mp4
+(Files: FULL SONG crazy noisy.mp4)
+
+***購買記錄***
+在 2025-8-11 已購買8堂，有效期至 2025-12-8
+(Invoice 0000652.pdf)
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-7-29 Ayden
+2_  2025-8-7 Ayden
+3_  2025-8-10 Ayden
+4_  2025-8-12 Ayden
+5_  2025-8-17
+6_  2025-8-19
+7_  2025-8-24
+8_  2025-9-3
+
+***課堂記錄***
+
+**[2025-9-3]**
+今日 tried 到 till Bridge crazy noisy.mp4
+(Files: till Bridge crazy noisy.mp4)
+
+**[2025-8-24]**
+今日 試咗 0.9x 2nd PC crazy noisy.mp4，
+有d 細節爭D
+(Files: till 2nd PC crazy noisy.mp4, 2nd PC crazy noisy.mp4)
+
+**[2025-8-19]**
+today covered 0.75x till 2nd PC crazy noisy.mp4
+next: 要整埋後要嘅譜
+(Files: IMG_0439.MOV)
+
+**[2025-8-17]**
+today tried 0.85x till 2nd PC crazy noisy.mp4
+(Files: 0.85x till 2nd PC crazy noisy.mp4)
+
+**[2025-8-12]**
+today tried 0.85X TILL 1ST PC crazy noisy.mp4
+(Files: TILL 1ST PC crazy noisy.mp4, 0.85X TILL 1ST PC crazy noisy.mp4)
+
+**[2025-8-10]**
+今日開始 crazy noisy 0.8x intro only
+(Files: IMG_0279.MOV, IMG_0280.MOV, INTRO ONLY CRAZY NOISY.mp4)
+
+**[2025-8-7]**
+今日拍埋最後一次 grade 3 ，不過拍唔出黎嘅結果不比之前好～
+next: (Link)完咗呢首就開始 grade 5 嘅歌～
+(Files: IMG_0228.MOV, IMG_0231.MOV, IMG_0232.MOV)
+
+**[2025-7-29]**
+今日拍咗 1 take 幾好，拍咗嗰take之後就拍唔番 🤣
+(Files: IMG_0060.MOV)
+
+***購買記錄***
+在 2025-6-18 已購買8堂，有效期至 2025-10-18
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-6-17 Alisa
+2_  2025-6-24 Alisa
+3_  2025-6-25 Ayden
+4_  2025-7-6 Ayden
+5_  2025-7-13 Ayden
+6_  2025-7-15 AYDEN
+7_  2025-7-22 Ayden
+8_  2025-7-27 Ayden
+
+***課堂記錄***
+
+**[2025-7-26]**
+今日都係練習 only ，拍片係咁甩，拍片拍熟D 俾星期二拍片
+(Files: IMG_0018.MOV, IMG_0019.MOV)
+
+**[2025-7-22]**
+今日拍咗 1 take 幾好，拍咗嗰take之後就拍唔番 🤣
+
+**[2025-7-15]**
+今日繼續拍grade 3 希望拍到 take 好 d，但佢keep 住錯 😓
+
+**[2025-7-13]**
+今日錄咗 一take 好嘅take ！ayden grade 3 good take number 1.MOV
+淨係錯咗一個位
+(Files: ayden grade 3 good take number 1.MOV)
+
+**[2025-7-6]**
+今日拍咗一 take 合格但唔係全對嘅 take ~
+
+**[2025-6-25]**
+今日kick 喺第三首考試歌 Smooth bar 32-37, bar 48
+星期日再拍過～～
+
+***購買記錄***
+在 2025-5-12 已購買8堂，有效期至 2025-9-12
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-5-11 Ayden
+2_  2025-5-12 Alisa
+3_  2025-5-18 Ayden
+4_  2025-5-20 Alisa
+5_  2025-6-1 Ayden
+6_  2025-6-3 Alisa
+7_  2025-6-8 Ayden
+8_  2025-6-16 Ayden
+
+***課堂記錄***
+
+**[2025-6-15]**
+繼續拍 grade 3 考試片，不過今次拍到 第三首 smooth 就錯得好勁，因為佢呢個星期無練
+
+**[2025-6-8]**
+佢今日都試拍咗 grade 3 考試片，好過上次都仲係因為緊張甩甩漏漏咁，不過好過上次打一首就錯到七彩 🤣
+特別係呢一段
+(Files: ayden grade 3 5 songs exam ver.mp4)
+
+**[2025-6-1]**
+今日 exam ver grade 3 試拍咗 但不成功，太緊張～
+
+**[2025-5-18]**
+今日 exam ver grade 3 試拍咗 但不成功，太緊張～
+
+**[2025-5-11]**
+今日 Ayden 跟 grade 3 有鼓版嘅 動態譜打得好好
+今日整咗考試用嘅無鼓版動態譜，佢跟甩少少
+
+***購買記錄***
+在 2025-3-16 已購買8堂，有效期至 2025-7-16
+**
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2025-2-9
+2_  2025-2-10
+3_  2025-2-23
+4_  2025-2-24
+5_  2025-3-2
+6_  2025-3-3
+7_  2025-3-9
+8_  2025-3-10
+
+***課堂記錄***
+
+**[2025-4-27]**
+今日 Ayden 試咗一口氣打哂五首 考試歌 但唔穩定
+第四首最尾甩咗，甩到第五首
+
+**[2025-4-23]**
+今日 Ayden 試咗一口氣打哂五首 考試歌 但唔穩定
+
+**[2025-3-15]**
+今日打到 You really got me 嘅考試原速
+另外 開始練打 一口氣打哂五首 grade 3 考試歌
+準備之後拍考試片
+(Files: ayden grade 3 5 songs.mp4)
+
+**[2025-3-9]**
+今日 完成咗 100% Overrated ，開始第五首考試歌 you raelly got me
+(Files: 完成咗 100% Overrated, 0.8x you really got me)
+
+**[2025-3-2]**
+今日重溫咗Smooth 100% ，Overrated 試打哂全首 0.8x
+(Files: Overrated 試打哂全首 0.8x)
+
+**[2025-2-23]**
+今日打得番 smooth 100% 不過最後一頁4個 bar not stable
+also 重溫 old bone blues, standard 同 smooth 100% 考試原速
+
+***購買記錄***
+在 2025-2-09 已購買8堂，有效期至 2025-6-09
+**
+
+---
