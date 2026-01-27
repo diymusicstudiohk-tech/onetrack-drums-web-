@@ -1,5 +1,7 @@
 Samuel 學鼓檔案
 
+[Remark: Rockschool grade 5 已完成目標: Hard to handle (ori, Jan26), Tiberius (0.7x , Jan26) , Don’t let go (ori, Jan 26);]
+
 ---
 
 ***上課日期與剩餘堂數：***
