@@ -40,7 +40,7 @@ https://gscribe.com/share/gc9HX6x1DjtFuFDA6
 bar 22-25
 https://gscribe.com/share/mE1NgjuNPtLKpJrQ9
 
-![[attachments/Judy_HandmadeBlackCard.png]]
+![[鼓班記錄/attachments/Judy_HandmadeBlackCard.png]]
 
 
 ***購買記錄***

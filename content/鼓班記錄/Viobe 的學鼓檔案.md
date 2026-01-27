@@ -23,7 +23,7 @@ tried till Drum solo part 2, 0.8x
 
 Last C
 https://gscribe.com/share/D6owBKr9nbF15ehi8
-![[attachments/Viobe_20260127_Last_C.jpg]]
+![[鼓班記錄/attachments/Viobe_20260127_Last_C.jpg]]
 
 
 **[2025-12-30]**
