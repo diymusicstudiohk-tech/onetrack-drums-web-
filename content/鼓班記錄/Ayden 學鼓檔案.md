@@ -31,12 +31,10 @@ WISHLIST: https://www.youtube.com/watch?v=EnCuPkBvZ-o
 ***課堂記錄***
 
 **[2026-1-27]**
-今日上咗堂。
-*課堂間分享：Warhammer RTS 遊戲簡介*
-Warhammer 系列主要分為兩大類 RTS 遊戲：
-1. **Dawn of War 系列 (WH40K)**：經典的科幻即時戰略，第一代強調基地建設與大規模作戰；第二代則偏向小隊戰術與英雄養成。
-2. **Total War: Warhammer 系列 (Fantasy)**：將宏觀的帝國經營與成千上萬士兵的即時戰場指揮結合，是以奇幻世界觀為背景的代表作。
-這些遊戲以厚重的世界觀和極具特色的兵種（如星際戰士、獸人、靈族等）著稱。
+開碗 8th 捉手： R: 150-160bpm, L: 145bpm
+開碗 16th (2) ： 150bpm
+今日 covered 1x g4 hammerblow-wtih updated rolling score - ayden ver.mp4
+(Files: g4 hammerblow-wtih updated rolling score - ayden ver.mp4)
 
 **[2026-1-25]**
 開碗 8th 捉手： R: 150-160bpm, L: 145bpm
