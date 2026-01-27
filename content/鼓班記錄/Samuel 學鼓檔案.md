@@ -1,5 +1,8 @@
 Remark:
 最早可 7:15pm 上堂
+
+2月尾可能會出隊 
+
 Rockschool grade 5 已完成目標: 
 Hard to handle (ori, Jan26), 
 Tiberius (0.7x , Jan26) , 

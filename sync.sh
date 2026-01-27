@@ -1,24 +1,25 @@
 #!/bin/bash
-# Full Sync (Safe) for Obsidian Vault to Quartz Website
+# STRICT Sync for Drum Lesson Records ONLY
 
 VAULT_DIR="/Users/benzonkpchan/obsidian/personal"
 WEB_CONTENT_DIR="/Users/benzonkpchan/onetrack-drums-web/content"
 WEB_DIR="/Users/benzonkpchan/onetrack-drums-web"
 
-echo "🚀 Syncing ALL SAFE Obsidian notes to Quartz..."
+echo "🚀 Syncing ONLY Student Records to Quartz..."
 
-# 1. Sync EVERYTHING except sensitive files to avoid GitHub Push Protection blocks
-# Excluded: .obsidian, .DS_Store, API-keys.md, login info, and personal shopping logs
-rsync -av --delete \
-  --exclude='.obsidian' \
-  --exclude='.DS_Store' \
-  --exclude='.trash' \
-  --exclude='API-keys.md' \
-  --exclude='Claude code CC login.md' \
-  --exclude='個人購物記錄.md' \
-  "$VAULT_DIR/" "$WEB_CONTENT_DIR/"
+# 1. Clean up existing content to ensure strictness
+rm -rf "$WEB_CONTENT_DIR/鼓班記錄"
+rm -rf "$WEB_CONTENT_DIR/Recipes"
+rm -f "$WEB_CONTENT_DIR"/*.md
 
-# 2. Update index.md to list all students in the 鼓班記錄 folder
+# 2. Re-create directories
+mkdir -p "$WEB_CONTENT_DIR/鼓班記錄"
+
+# 3. Copy ONLY Student Records and their attachments
+# Using rsync to copy the specific folder
+rsync -av --delete --exclude='.DS_Store' "$VAULT_DIR/鼓班記錄/" "$WEB_CONTENT_DIR/鼓班記錄/"
+
+# 4. Create a clean index.md
 cat << 'EOF' > "$WEB_CONTENT_DIR/index.md"
 # 🤖 Onetrack Studio 最新學鼓學生檔案
 
@@ -27,7 +28,7 @@ cat << 'EOF' > "$WEB_CONTENT_DIR/index.md"
 ## 🥁 學生檔案
 EOF
 
-# Loop through all students and add them to index
+# Loop through students and add them to index
 cd "$WEB_CONTENT_DIR/鼓班記錄"
 for file in *.md; do
     if [[ "$file" != "index.md" ]]; then
@@ -36,25 +37,20 @@ for file in *.md; do
     fi
 done
 
-echo -e "\n## 👨‍🍳 職人食譜" >> "$WEB_CONTENT_DIR/index.md"
-cd "$WEB_CONTENT_DIR/Recipes"
-for file in *.md; do
-    filename="${file%.md}"
-    echo "- [[Recipes/$filename|$filename]]" >> "$WEB_CONTENT_DIR/index.md"
-done
-
 echo -e "\n\n最後更新時間: $(date)" >> "$WEB_CONTENT_DIR/index.md"
 
-# 3. Navigate back to web directory
+# 5. Navigate back to web directory
 cd "$WEB_DIR"
 
-# 4. Git operations
+# 6. Git operations
 git add .
+# Force remove untracked files from git that were deleted from content/
+git add -u
 if git diff --staged --quiet; then
     echo "✅ No changes to sync."
 else
     echo "📦 Committing changes..."
-    git commit -m "Full safe sync: $(date)"
+    git commit -m "Strict student-only sync: $(date)"
     echo "📤 Pushing to GitHub..."
     git push origin v4
     echo "🎉 Sync complete! Website will update in 1-2 minutes."
