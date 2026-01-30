@@ -17,7 +17,20 @@ Ellen 學鼓檔案
 ***課堂記錄***
 
 **[2026-1-30]**
-8&16th 開碗 ex003 best score : 160bpm (with kick);
+8&16th 開碗 ex003 best score : 160bpm (with kick); 170bpm (without kick ) 
+純 8th : R: 160bpm (with Kick); L: 150bpm  (with Kick)
+
+今日試cover 咗 Problem - Ariana Grande 原速但d fill 仍不穩定～
+source:[Lv.15] Problem - Ariana Grande (★★★★☆) Pop Drum Cover (1080p_60fps_H264-128kbit_AAC).mp4
+
+下堂除咗試多次 cover Problem - Arianda Grande
+可能要 開始搞 Natalie 婚禮嘅 worship set :
+
+Song lyrics, chords and flow 🎼
+(everyone can chip in!)
+
+https://docs.google.com/document/d/1lmJ9KFpTRcpScTdA28U6uQPqC2_bSkJDPjLk4EolO04/edit?usp=drivesdk
+
 
 **[2026-1-9]**
 今日tried 咗 0.9x Problem - Ariana Grande (★★★★☆) Pop Drum Cover
