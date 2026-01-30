@@ -10,11 +10,14 @@
 - [[鼓班記錄/DT的學鼓檔案|DT的學鼓檔案]]
 - [[鼓班記錄/Ellen的學鼓檔案|Ellen的學鼓檔案]]
 - [[鼓班記錄/Hana的學鼓檔案|Hana的學鼓檔案]]
+- [[鼓班記錄/Hayden蔣溢希的學鼓檔案|Hayden蔣溢希的學鼓檔案]]
 - [[鼓班記錄/Janis的學鼓檔案|Janis的學鼓檔案]]
 - [[鼓班記錄/Judy的學鼓檔案|Judy的學鼓檔案]]
+- [[鼓班記錄/Kae的學鼓檔案|Kae的學鼓檔案]]
 - [[鼓班記錄/Katrina-Jonathan的學鼓檔案|Katrina-Jonathan的學鼓檔案]]
+- [[鼓班記錄/Makis的學鼓檔案|Makis的學鼓檔案]]
 - [[鼓班記錄/Samuel的學鼓檔案|Samuel的學鼓檔案]]
 - [[鼓班記錄/Viobe的學鼓檔案|Viobe的學鼓檔案]]
 
 
-最後更新時間: Fri Jan 30 13:11:13 HKT 2026
+最後更新時間: Fri Jan 30 13:16:48 HKT 2026
