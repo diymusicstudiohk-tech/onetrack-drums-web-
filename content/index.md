@@ -9,10 +9,11 @@
 - [[鼓班記錄/Coco的學鼓檔案|Coco的學鼓檔案]]
 - [[鼓班記錄/DT的學鼓檔案|DT的學鼓檔案]]
 - [[鼓班記錄/Hana的學鼓檔案|Hana的學鼓檔案]]
+- [[鼓班記錄/Janis的學鼓檔案|Janis的學鼓檔案]]
 - [[鼓班記錄/Judy的學鼓檔案|Judy的學鼓檔案]]
 - [[鼓班記錄/Katrina-Jonathan的學鼓檔案|Katrina-Jonathan的學鼓檔案]]
 - [[鼓班記錄/Samuel的學鼓檔案|Samuel的學鼓檔案]]
 - [[鼓班記錄/Viobe的學鼓檔案|Viobe的學鼓檔案]]
 
 
-最後更新時間: Fri Jan 30 13:04:22 HKT 2026
+最後更新時間: Fri Jan 30 13:09:09 HKT 2026
