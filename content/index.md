@@ -19,7 +19,8 @@
 - [[鼓班記錄/Po的學鼓檔案|Po的學鼓檔案]]
 - [[鼓班記錄/Ryan-Chu的學鼓檔案|Ryan-Chu的學鼓檔案]]
 - [[鼓班記錄/Samuel的學鼓檔案|Samuel的學鼓檔案]]
+- [[鼓班記錄/Twinkle-Hayden的學鼓檔案|Twinkle-Hayden的學鼓檔案]]
 - [[鼓班記錄/Viobe的學鼓檔案|Viobe的學鼓檔案]]
 
 
-最後更新時間: Fri Jan 30 13:21:43 HKT 2026
+最後更新時間: Fri Jan 30 13:35:04 HKT 2026
