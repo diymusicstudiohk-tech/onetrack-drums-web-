@@ -17,7 +17,7 @@ Ellen 學鼓檔案
 ***課堂記錄***
 
 **[2026-1-30]**
-(今日上堂)
+8&16th 開碗 ex003 best score : 150bpm
 
 **[2026-1-9]**
 今日tried 咗 0.9x Problem - Ariana Grande (★★★★☆) Pop Drum Cover
