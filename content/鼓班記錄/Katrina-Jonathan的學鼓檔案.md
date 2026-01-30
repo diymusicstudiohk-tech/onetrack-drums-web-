@@ -34,7 +34,6 @@ Jonathan 五首考試歌 影片
 開碗 8th with kick : R: 100bpm, L:90bpm
 雙手 R-L-R-L-R-L-RLRL without kick : 95bpm
 mimi tried grade 1- time is running out 0.7x till bar 28
-(Files: 願盡我一生 coco ver live ver.mp4 - *Note: 此檔名可能誤植，請確認*)
 
 **[2026-1-22]**
 **Jon:** 開碗 8th full 155bpm , 16th full 100 bpm

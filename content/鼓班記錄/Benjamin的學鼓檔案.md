@@ -1,12 +1,17 @@
-# Benjamin學鼓檔案
 
-<aside>
+
+
 💡
 **Remark:**
-有興趣嘅 grade 4 歌 : scary, hammerblow, in my place , NOISY NEIGHBOUR
-Grade 5 song choices : Tiberius, Hard to handle (ori, Jan26), Tiberius (0.7x , Jan26) , Don’t let go (ori, Jan 26);
+有興趣嘅 grade 4 歌 : 
+scary, hammerblow, in my place , NOISY NEIGHBOUR
+
+Grade 5 song choices : 
+Tiberius, Hard to handle (ori, Jan26), Tiberius (0.7x , Jan26) , 
+Don’t let go (ori, Jan 26);
+
 or Bryan’s take Geek and Window seat.
-</aside>
+
 
 ---
 
