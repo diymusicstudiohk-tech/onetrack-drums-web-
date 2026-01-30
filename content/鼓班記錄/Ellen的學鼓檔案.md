@@ -1,6 +1,6 @@
 Ellen 學鼓檔案
 
-[Remark: ☠️ Muay Thai Fighter ❗❗❗ | 11st July BDay | ENFP]
+[Remark: ☠️ Muay Thai Fighter ❗❗❗ | 11st July BDay | ENFP | 手碗有舊患!!]
 
 ---
 
@@ -17,7 +17,7 @@ Ellen 學鼓檔案
 ***課堂記錄***
 
 **[2026-1-30]**
-8&16th 開碗 ex003 best score : 150bpm
+8&16th 開碗 ex003 best score : 160bpm (with kick);
 
 **[2026-1-9]**
 今日tried 咗 0.9x Problem - Ariana Grande (★★★★☆) Pop Drum Cover
