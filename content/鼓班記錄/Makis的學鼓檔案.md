@@ -17,6 +17,11 @@
 **[2026-1-30]**
 8&16th 開碗 ex003 打到 115bpm
 
+TODAY TRIED GRADE 3 INDECISIVE 0.7X, till bar 51
+
+bar 51-54
+https://gscribe.com/share/2Z6HtJNKY7Lh6t7o8
+
 **[2026-1-23]**
 開碗 8th R : 130bpm , L: 110bpm
 開碗練習 16th new : 110bpm
