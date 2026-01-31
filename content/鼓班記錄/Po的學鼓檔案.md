@@ -6,6 +6,50 @@ Po 學鼓檔案
 ---
 
 ***上課日期與剩餘堂數：***
+1_  2026-1-31
+2_
+3_
+4_
+5_
+6_
+7_
+8_
+
+***課堂記錄***
+
+**[2026-1-31]**
+
+今日先將大部份 太陽與地球(66) 變成 gs formart
+gs format 可能可以整 動態譜都可以 practice only
+試咗跟0.85x LOUD DRUMS - 太陽與地球.mp4 till Chorus ends ( bar 51)
+
+
+bar 31 -38
+https://gscribe.com/share/YwAh5whu61XA7jsT9
+
+bar 39 - 42
+https://gscribe.com/share/95iVJ5fpwBZfxvcD8
+
+bar 42-51
+https://gscribe.com/share/MpxhJPs7LDTDqdtYA
+
+bar 52 -61
+https://gscribe.com/share/ghQ6PKDu7SLLSgKb8
+
+ V TO PC 
+ https://gscribe.com/share/JgxXLLTFfpmLEqbN6
+
+
+
+
+***購買記錄***
+在 2026-1-31 已購買8堂，有效期至 2026-5-31
+(收據圖檔)
+**
+
+---
+
+***上課日期與剩餘堂數：***
 1_  2025-11-15
 2_  2025-11-22
 3_  2025-11-30
@@ -118,5 +162,3 @@ today tried 0.8x drums only 1st PC and C - Omoinotake | 幾億光年.mp4
 在 2025-7-6 已購買8堂，有效期至 2025-11-6
 (收據圖檔)
 **
-
----
