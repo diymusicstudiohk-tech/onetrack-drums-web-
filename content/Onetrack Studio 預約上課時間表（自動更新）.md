@@ -1,4 +1,9 @@
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FHong_Kong&showPrint=0&mode=WEEK&src=YjUzY2RjOWNiMWE5MDNiMGM5MTI0MTE0YmUwMTdjODVkYWQwYmJjYjAwOTA0MTg0MzZmZDA3NGQ0MDNjYWIwNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=bHVuYXJfX3poX3R3QGhvbGlkYXkuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%2333B679&color=%23C0CA33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FHong_Kong&showPrint=0&mode=WEEK&src=YjUzY2RjOWNiMWE5MDNiMGM5MTI0MTE0YmUwMTdjODVkYWQwYmJjYjAwOTA0MTg0MzZmZDA3NGQ0MDNjYWIwNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=bHVuYXJfX3poX3R3QGhvbGlkYXkuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%2333B679&color=%23C0CA33" 
+  style="border:solid 1px #777; width: 100%; aspect-ratio: 3 / 4; max-width: 1000px;" 
+  frameborder="0" 
+  scrolling="no">
+</iframe>
+
 
 > [!NOTE] Onetrack Studio: 地址
 > **旺角好景商業中心28樓11室（白色門）**

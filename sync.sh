@@ -21,32 +21,20 @@ rsync -av --delete --exclude='.DS_Store' "$VAULT_DIR/鼓班記錄/" "$WEB_CONTEN
 # Copy the specific Schedule file
 cp "$VAULT_DIR/Onetrack Studio 預約上課時間表（自動更新）.md" "$WEB_CONTENT_DIR/"
 
-# 4. Create a clean index.md
-cat << 'EOF' > "$WEB_CONTENT_DIR/index.md"
-# 🤖 Onetrack Studio 最新學鼓學生檔案
+# 4. Create blank index files to hide lists
+# Root index (https://diymusicstudiohk-tech.github.io/onetrack-drums-web-/)
+echo "" > "$WEB_CONTENT_DIR/index.md"
+# Folder index (https://diymusicstudiohk-tech.github.io/onetrack-drums-web-/鼓班記錄/)
+echo "" > "$WEB_CONTENT_DIR/鼓班記錄/index.md"
 
-歡迎使用我們的在線記錄系統。
-
-## 🥁 Onetrack Studio 預約上課時間表（自動更新）
-- [[Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-
-## 🥁 學生檔案
-EOF
-
-# Process each student file: Add schedule link and add to index
+# Process each student file: Add schedule link
 cd "$WEB_CONTENT_DIR/鼓班記錄"
 for file in *.md; do
     if [[ "$file" != "index.md" ]]; then
         # Add the schedule link to the student file after the first H1 header
-        # We use a temporary file to safely perform the insertion
         sed -i '' '1s/$/\'$'\n''- [[..\/Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]/' "$file"
-        
-        filename="${file%.md}"
-        echo "- [[鼓班記錄/$filename|$filename]]" >> "$WEB_CONTENT_DIR/index.md"
     fi
 done
-
-echo -e "\n\n最後更新時間: $(date)" >> "$WEB_CONTENT_DIR/index.md"
 
 # 5. Navigate back to web directory
 cd "$WEB_DIR"
@@ -59,7 +47,7 @@ if git diff --staged --quiet; then
     echo "✅ No changes to sync."
 else
     echo "📦 Committing changes..."
-    git commit -m "Strict student-only sync: $(date)"
+    git commit -m "Strict student-only sync (Blank index): $(date)"
     echo "📤 Pushing to GitHub..."
     git push origin v4
     echo "🎉 Sync complete! Website will update in 1-2 minutes."
