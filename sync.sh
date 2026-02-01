@@ -15,15 +15,20 @@ rm -f "$WEB_CONTENT_DIR"/*.md
 # 2. Re-create directories
 mkdir -p "$WEB_CONTENT_DIR/鼓班記錄"
 
-# 3. Copy ONLY Student Records and their attachments
-# Using rsync to copy the specific folder
+# 3. Copy Student Records and Specific Schedule File
+# Copy Drum Lesson records
 rsync -av --delete --exclude='.DS_Store' "$VAULT_DIR/鼓班記錄/" "$WEB_CONTENT_DIR/鼓班記錄/"
+# Copy the specific Schedule file
+cp "$VAULT_DIR/Onetrack Studio 預約上課時間表（自動更新）.md" "$WEB_CONTENT_DIR/"
 
 # 4. Create a clean index.md
 cat << 'EOF' > "$WEB_CONTENT_DIR/index.md"
 # 🤖 Onetrack Studio 最新學鼓學生檔案
 
 歡迎使用我們的在線記錄系統。
+
+## 🥁 Onetrack Studio 預約上課時間表（自動更新）
+- [[Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ## 🥁 學生檔案
 EOF

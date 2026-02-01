@@ -2,6 +2,9 @@
 
 歡迎使用我們的在線記錄系統。
 
+## 🥁 Onetrack Studio 預約上課時間表（自動更新）
+- [[Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+
 ## 🥁 學生檔案
 - [[鼓班記錄/Ayden的學鼓檔案|Ayden的學鼓檔案]]
 - [[鼓班記錄/Barry的學鼓檔案|Barry的學鼓檔案]]
@@ -20,7 +23,6 @@
 - [[鼓班記錄/Katrina-Jonathan的學鼓檔案|Katrina-Jonathan的學鼓檔案]]
 - [[鼓班記錄/Makis的學鼓檔案|Makis的學鼓檔案]]
 - [[鼓班記錄/Mei-Yan的學鼓檔案|Mei-Yan的學鼓檔案]]
-- [[鼓班記錄/Onetrack Studio 預約上課時間表（自動更新）|Onetrack Studio 預約上課時間表（自動更新）]]
 - [[鼓班記錄/Po的學鼓檔案|Po的學鼓檔案]]
 - [[鼓班記錄/Ryan-Chu的學鼓檔案|Ryan-Chu的學鼓檔案]]
 - [[鼓班記錄/Samuel的學鼓檔案|Samuel的學鼓檔案]]
@@ -28,4 +30,4 @@
 - [[鼓班記錄/Viobe的學鼓檔案|Viobe的學鼓檔案]]
 
 
-最後更新時間: Sun Feb  1 15:14:37 HKT 2026
+最後更新時間: Sun Feb  1 15:21:07 HKT 2026
