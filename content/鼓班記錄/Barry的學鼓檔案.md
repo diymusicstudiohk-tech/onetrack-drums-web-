@@ -1,4 +1,4 @@
-Barry 學鼓檔案
+
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 Remark: 前茶餐廳太子爺]

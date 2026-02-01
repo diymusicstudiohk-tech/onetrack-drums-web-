@@ -1,4 +1,4 @@
-Ayden 學鼓檔案
+
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 [Remark: Aug 9th Birthday]

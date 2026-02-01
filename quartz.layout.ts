@@ -17,7 +17,6 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -35,7 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(), 
-    Component.ContentMeta()
   ],
   left: [
     Component.MobileOnly(Component.Spacer()),

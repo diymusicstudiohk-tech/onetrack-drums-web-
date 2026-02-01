@@ -1,6 +1,5 @@
-Hayden 學鼓檔案
-- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
 [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
 [Remark: 2nd Aug 沖繩]
