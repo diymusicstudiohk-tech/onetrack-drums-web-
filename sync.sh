@@ -21,11 +21,20 @@ rsync -av --delete --exclude='.DS_Store' "$VAULT_DIR/鼓班記錄/" "$WEB_CONTEN
 # Copy the specific Schedule file
 cp "$VAULT_DIR/Onetrack Studio 預約上課時間表（自動更新）.md" "$WEB_CONTENT_DIR/"
 
-# 4. Create blank index files to hide lists
-# Root index (https://diymusicstudiohk-tech.github.io/onetrack-drums-web-/)
-echo "" > "$WEB_CONTENT_DIR/index.md"
-# Folder index (https://diymusicstudiohk-tech.github.io/onetrack-drums-web-/鼓班記錄/)
-echo "" > "$WEB_CONTENT_DIR/鼓班記錄/index.md"
+# 4. Create blank index files with dummy content to prevent auto-generation
+# Root index
+echo "---
+title: \" \"
+---
+
+" > "$WEB_CONTENT_DIR/index.md"
+
+# Folder index
+echo "---
+title: \" \"
+---
+
+" > "$WEB_CONTENT_DIR/鼓班記錄/index.md"
 
 # Process each student file: Add schedule link
 cd "$WEB_CONTENT_DIR/鼓班記錄"
@@ -47,7 +56,7 @@ if git diff --staged --quiet; then
     echo "✅ No changes to sync."
 else
     echo "📦 Committing changes..."
-    git commit -m "Strict student-only sync (Blank index): $(date)"
+    git commit -m "Strict student-only sync (Blank index with YAML): $(date)"
     echo "📤 Pushing to GitHub..."
     git push origin v4
     echo "🎉 Sync complete! Website will update in 1-2 minutes."
