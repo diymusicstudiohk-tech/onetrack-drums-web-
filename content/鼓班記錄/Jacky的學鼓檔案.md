@@ -17,10 +17,20 @@
 ***課堂記錄***
 
 **[2026-2-01]**
+今日 cover 咗 COVER エガクミライ（描绘未来）【MyGO!!!!!】.mp4
+
+next： start LOUDER DRUMS 静降想.mp4
+
+![[Screenshot 2026-02-01 at 12.58.24.png]]
+https://gscribe.com/share/jK4c4xF9Y6P7S1JA6
+
+
+
 
 
 **[2026-1-25]**
 8&16th 開碗: 130bpm
+
 tried 0.8x whole song エガクミライ（描绘未来）【MyGO!!!!!】动态鼓谱 (1080p_30fps_H264-128kbit_AAC).mp4
 主要用動態譜，唔用圖片譜
 https://gscribe.com/share/GvwXpe5bneUzpTMy8
