@@ -44,7 +44,7 @@ https://gscribe.com/share/ghQ6PKDu7SLLSgKb8
 
 ***購買記錄***
 在 2026-1-31 已購買8堂，有效期至 2026-5-31
-(收據圖檔)
+![[鼓班記錄/attachments/Po-receipt-20260131.jpg]]
 **
 
 ---

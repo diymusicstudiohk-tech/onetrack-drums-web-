@@ -1,20 +1,34 @@
-
+[Remark: Hayden 用左手mx]
 ---
 
 ***上課日期與剩餘堂數：***
 1_  2026-1-17
-2_
+2_  2026-1-31
 3_
 4_
 
 ***課堂記錄***
+
+**[2026-1-31]**
+Twinkle :
+Weak ¦ Rockschool Drums Grade 4 2024 (1080p_30fps_H264-128kbit_AAC).mp4
+開碗 8th RL only : 155bpm
+
+今日 Twinkle 練習 Grade 4 - Weak , 0.7x 去到 bar 35
+
+Hayden:
+8&16th 開碗 ex003, with kick 95bpm , without kick : 105bpm
+開碗 8th RL: with kick 141bpm; without kick 149bpm
+
+今日 Hayden 練習 Grade 2 考試歌 0.9x 第二首去到完
 
 **[2026-1-16]**
 開碗練習
 8th only (Hayden, 140bpm),
 8th only (Twinkle, 140bpm); 16th only (Twinkle , 100bpm )
 今日 twinkle cover 咗 打 周杰倫 - 愛你沒差 chorus, 原速
-細路用 SYNC and LOUD drums grade 2 twinkle 5 songs 練習第 2， 3， 5 首考試歌嘅 OHH, 0.9x
+細路用 SYNC and LOUD drums grade 2 twinkle 5 songs 
+練習第 2， 3， 5 首考試歌嘅 OHH, 0.9x
 (Files: Twinkle cover 愛你沒差1st Chorus .mp4, IMG_4102.MOV)
 
 **[2026-1-10]**

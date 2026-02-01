@@ -18,6 +18,7 @@ Isaac 學鼓檔案
 **[2026-1-31]**
 8&16th 開碗 ex003 with kick : 100bpm, without kick : 110bpm
 16th 短爆炸 : 100bpm with kick , 120bpm without kick 
+tried 0.8x till 2nd C 求主給 isaac ver.mp4
 
 下次玩捉手 8th
 
