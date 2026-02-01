@@ -33,10 +33,14 @@ cat << 'EOF' > "$WEB_CONTENT_DIR/index.md"
 ## 🥁 學生檔案
 EOF
 
-# Loop through students and add them to index
+# Process each student file: Add schedule link and add to index
 cd "$WEB_CONTENT_DIR/鼓班記錄"
 for file in *.md; do
     if [[ "$file" != "index.md" ]]; then
+        # Add the schedule link to the student file after the first H1 header
+        # We use a temporary file to safely perform the insertion
+        sed -i '' '1s/$/\'$'\n''- [[..\/Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]/' "$file"
+        
         filename="${file%.md}"
         echo "- [[鼓班記錄/$filename|$filename]]" >> "$WEB_CONTENT_DIR/index.md"
     fi

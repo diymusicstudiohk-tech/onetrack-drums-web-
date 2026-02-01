@@ -1,4 +1,5 @@
 Ellen 學鼓檔案
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 [Remark: ☠️ Muay Thai Fighter ❗❗❗ | 11st July BDay | ENFP | 手碗有舊患!!]
 

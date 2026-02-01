@@ -1,4 +1,5 @@
 Po 學鼓檔案
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 [Remark: 自稱 I 人 😱]
 [Travel: NIT (UK) 7th - 2x th August 2025]

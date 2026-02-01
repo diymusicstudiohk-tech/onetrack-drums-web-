@@ -1,4 +1,5 @@
 學鼓檔案
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 [Remark: 16/5 BDAY, 打肶王 ; 之後要練 kick heel down + 鬆開]
 

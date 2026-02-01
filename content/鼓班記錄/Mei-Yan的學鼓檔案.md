@@ -1,4 +1,5 @@
 Mei Yan 學鼓檔案
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 [Remark: Onetrack Studio 預約上課時間表連結: https://drive.google.com/drive/folders/1Eqwf30ZLmxvk9Vnw989KapdrPbBy0Ixr?usp=drive_link]
 

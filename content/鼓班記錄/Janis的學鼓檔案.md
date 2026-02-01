@@ -1,4 +1,5 @@
 [Remark: ISFP, 10th Dec BDAY; 成日打字機； 🎮 🕹️ 👷🏻]
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 [Travel: 9/7 - 23/7 奧地利 - Hungary - Cze Rep; 1-12/2 Norway/Finland]
 
 ---

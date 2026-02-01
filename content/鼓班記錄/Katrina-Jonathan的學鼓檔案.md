@@ -1,4 +1,5 @@
 李承恩 Katrina (Mimi) & 李祖匡 Jonathan 學鼓檔案
+- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
 [Mimi 👭 Katniss , Yanni, Chenzeya]
