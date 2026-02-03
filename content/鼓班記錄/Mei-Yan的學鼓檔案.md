@@ -5,7 +5,7 @@
 ---
 
 ***上課日期與剩餘堂數：***
-1_  
+1_  2026-02-02
 2_  
 3_  
 4_  
@@ -16,7 +16,11 @@
 
 ***課堂記錄***
 
+**[2026-02-02]**
+8&16th 開碗 ex003 with kick  "145bpm", without kick 150-155bpm  
+捉手 8th : L&R : 155bpm 
 
+今日執咗 主信實無變 mei yan 128 n 34 ver.pdf / pages 探討 128 vs  34 pattern difference
 
 ***購買記錄***
 

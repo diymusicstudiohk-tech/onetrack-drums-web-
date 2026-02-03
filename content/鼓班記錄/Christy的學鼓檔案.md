@@ -19,11 +19,37 @@ Home：light practice on 學緊個首歌, single stroke practice, focus on 雙�
 3_  2025-12-19
 4_  2026-1-05
 5_  2026-1-22
-6_  
+6_  2026-02-02
 7_  
 8_  
 
 ***課堂記錄***
+
+**[2026-02-02]**
+8&16th 開碗 ex003 with kick : 150bpm ; without kick :155bpm
+捉手 8th : R with kick : 155bpm without kick : 160bpm; 
+left with kick : 16bpm, without kick : 170bpm
+
+開碗練習 16th 5 and 21 夾棍： 160bpm 
+
+流離者的海 第二頁 crash -ride 嗰段
+手腳協調打main pattern 唔夠 
+
+手腳協調打main pattern 練習： ( best score 95-100bpm ，慢過流離者的海  120bpm)
+https://gscribe.com/share/1M1ZKWGpom5LVgim9
+
+手腳協調打main pattern 練習 (2), 易 d （best score: 120bpm) 
+
+https://gscribe.com/share/ehpxzAXwg5sUxunx8
+
+## 今日tried 流離者的海 full song 0.95x-1x 
+
+ref:
+《流離者的海》林家謙 Terence 2026 ver.pdf
+
+## 下次resume 讚美之泉 16th /32th 的 不停讚美你
+## 一係每堂都用少少時間練吓一直協調唔到既野 其他時間就開新歌
+
 
 **[2026-1-22]**
 開碗full : 130bpm , without kick 155bpm ,
@@ -36,7 +62,15 @@ update咗 流離者的海 第二頁 crash -ride 嗰段
 **[2026-1-05]**
 今日試咗 0.9x 流離者的海 ，不過暫時放低先因為 bottleneck 咗喺 手腳協調
 HW: 為咗 打到 不停讚美你 main pattern , 同 為榮耀的創造嘅 32th fill , 要練 16th @ 140bpm -170bpm
-(Gscribe links provided for exercises)
+
+以下三個練習係為咗練快 第二頁 crash -ride 嗰段 main pattern 手腳協調 (below best score 105bpm )
+
+
+[https://gscribe.com/share/WDaXq2tucfwhmJfm9](https://gscribe.com/share/WDaXq2tucfwhmJfm9)
+
+[https://gscribe.com/share/5maBboVS64niNpmC6](https://gscribe.com/share/5maBboVS64niNpmC6)
+
+[https://gscribe.com/share/hGwok7uxQsjHtymr5](https://gscribe.com/share/hGwok7uxQsjHtymr5)
 
 **[2025-12-19]**
 今日 試cover 咗 0.9x 流離者的海

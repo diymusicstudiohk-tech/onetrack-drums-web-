@@ -18,6 +18,7 @@
 **[2026-1-30]**
 8&16th 開碗 ex003 : with Kick - 100-110 bpm 
 today tried 0.8x till B3 榮耀的呼召 kae ver.mp4
+today tried 0.8x till B3 榮耀的呼召 kae ver.mp4
 
 **[2026-1-23]**
 開碗 8th R:110bpm , L : 100bpm ;
