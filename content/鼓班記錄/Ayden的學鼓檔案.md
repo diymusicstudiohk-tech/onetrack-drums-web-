@@ -1,21 +1,7 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-
 [Remark: Aug 9th Birthday]
-
-<aside>
-⭐
-**Grade 3 考試目標 (Reference):**
-Old Bone Blues: https://youtu.be/R9_hy67ql7U
-Standard: https://www.youtube.com/watch?v=xLEpAmk7EOs
-Smooth: https://youtu.be/b8UJKo4LI4k
-Overrated: https://youtu.be/VWQV2LFJn0U
-You Really Got Me: https://www.youtube.com/watch?v=dw9gUqbWDCo
-
-**Wishlist:**
-After Noisy Neighbour: eScape - ff14 (https://www.youtube.com/watch?v=ucphXNy1NjY)
-WISHLIST: https://www.youtube.com/watch?v=EnCuPkBvZ-o
-</aside>
+2026Feb: 下堂開 Rockschool Grade 5
 
 ---
 
@@ -32,10 +18,24 @@ WISHLIST: https://www.youtube.com/watch?v=EnCuPkBvZ-o
 ***課堂記錄***
 
 **[2026-2-3]**
+8&16th 開碗 ex003: with kick : 155-160bpm, without kick : 165bpm 
+捉碗 8th : R: with Kick 160bpm; L with Kick : 140-150bpm
+
+今日cover 咗 Grade 4 - Hammerblow 原速
+
+[next]
+Attack on Titan Season 2 Opening Movie｜Linked Horizon「Shinzou wo Sasageyo!」-1920x1080-avc1-mp4a
+
+1:00-1:14
+https://gscribe.com/share/1Ei2jXqi7fT4Mfqh9
+
+1:15-end
+https://gscribe.com/share/qmE5BhjQ6Fgj5USi6
+
 
 
 ***購買記錄***
-
+not yet paid 
 **
 
 ---
