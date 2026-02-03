@@ -13,6 +13,12 @@
 ***課堂記錄***
 
 **[2026-2-3]**
+8&16th 開碗 ex003 : 130bpm (with kick) 140bpm (without kick ) 
+捉手 8th ，R with kick : 135-140bpm , without kick : 165-170bpm; L with kick : 130bpm , L without kick : 170-180bpm 
+
+today tried 0.8-0.9x full song 普天下歡慶.mp4 
+試過 1x 不過 main pattern at chorus 唔太夠快 
+爭 3rd C2 > Drum solo > Chorus 嘅轉接
 
 
 ***購買記錄***
