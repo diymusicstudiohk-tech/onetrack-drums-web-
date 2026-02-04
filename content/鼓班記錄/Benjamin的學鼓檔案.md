@@ -29,12 +29,18 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 **[2026-2-4]**
-(BZ 記錄：今日有上堂)
+*鼓勵Benben 每次目標都要高少少先準停*
+8&16th 開碗 ex003 with kick 120bpm, without kick :130bpm 
+純8th R +L ( with kick ): 145bpm; 
+
+今日tried 0.8x full song , Grade 5 Don't let go
+
+source : Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
 
 **[2026-1-28]**
 8&16th 開碗 with kick : 120bpm; without kick 125bpm
 開碗練習classic with kick : 110 bpm
-tried 5 Tiberius 0.95x full song
+tried Grade 5 Tiberius 0.95x full song
 tried don’t let go 0.8x till bar 17
 next : don’t let go , Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
 
