@@ -24,9 +24,12 @@ or Bryan’s take Geek and Window seat.
 5_  2026-1-14
 6_  2025-1-21
 7_  2026-1-28
-8_
+8_  2026-2-4
 
 ***課堂記錄***
+
+**[2026-2-4]**
+(BZ 記錄：今日有上堂)
 
 **[2026-1-28]**
 8&16th 開碗 with kick : 120bpm; without kick 125bpm
