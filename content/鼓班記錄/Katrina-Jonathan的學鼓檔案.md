@@ -1,9 +1,8 @@
 [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan ]
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi 👭 Katniss , Yanni, Chenzeya]
-[Jon 💋 Eve, David, Jeff]
-
+[Mimi ❤️ Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC 
+[Jon 💔 Eve*, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
 
 💡**Remark:**
 Katrina 五首考試歌影片
@@ -14,6 +13,36 @@ Jonathan 五首考試歌 影片
 
 **Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , hammerblow
 
+
+---
+
+***上課日期與剩餘堂數：***
+1_  2026-2-5 Jonathan
+2_  2026-2-5 Mimi
+3_  
+4_  
+5_  
+6_  
+7_  
+8_  
+
+***課堂記錄***
+
+**[2026-2-5]**
+**Jonathan:** 
+8&16th 開碗 ex003: 120BPM 
+16th 短爆炸: WITH  KICK : 140BPM ; WITHOUT KICK :170BPM
+**Jon:** 繼續  Grade 4 - hammerblow , 0.7x to bar 20
+
+bar 20 -22
+https://gscribe.com/share/PnYWNwudxbfLJG5D9
+
+**Mimi:** 
+mimi 打咗 grade 1- time is running out 0.7x 全首
+
+
+***購買記錄***
+**未付學貴**
 
 ---
 
