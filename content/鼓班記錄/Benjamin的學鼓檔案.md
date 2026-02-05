@@ -31,7 +31,7 @@ or Bryan’s take Geek and Window seat.
 **[2026-2-4]**
 *鼓勵Benben 每次目標都要高少少先準停*
 8&16th 開碗 ex003 with kick 120bpm, without kick :130bpm 
-純8th R +L ( with kick ): 145bpm; 
+純8th R +L ( with kick ): 145bpm; (without kick) : 155bpm
 
 今日tried 0.8x full song , Grade 5 Don't let go
 
