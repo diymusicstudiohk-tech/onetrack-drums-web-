@@ -1,7 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
-
 💡
 **Remark:**
 有興趣嘅 grade 4 歌 : 
@@ -13,6 +12,25 @@ Don’t let go (ori, Jan 26);
 
 or Bryan’s take Geek and Window seat.
 
+
+---
+
+***上課日期與剩餘堂數：***
+1_  
+2_  
+3_  
+4_  
+5_  
+6_  
+7_  
+8_  
+
+***課堂記錄***
+
+***購買記錄***
+在 2026-02-05 已購買8堂，有效期至 2026-06-05
+![[鼓班記錄/attachments/Benjamin-Receipt-2026-02-05.jpg]]
+**
 
 ---
 

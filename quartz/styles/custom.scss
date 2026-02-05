@@ -1,3 +1,106 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Premium UI Overrides & Customizations
+
+// 1. Global Typography & Layout Smoothing
+:root {
+  --font-body: 'Inter', sans-serif;
+  --font-header: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
+}
+
+// 2. Selection Style
+::selection {
+  background: var(--tertiary);
+  color: var(--dark);
+}
+
+// 3. Premium Table Styling (Clean & Modern)
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+thead th {
+  background-color: var(--lightgray);
+  color: var(--darkgray);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--gray);
+}
+
+tbody td {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--lightgray);
+  color: var(--dark);
+  font-size: 0.95em;
+  transition: background-color 0.2s ease;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr:hover td {
+  background-color: rgba(0, 0, 0, 0.015); // Very subtle hover
+}
+
+// 4. Link Styling
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: var(--secondary);
+    text-decoration-color: var(--secondary);
+    background-color: var(--highlight);
+    border-radius: 4px;
+    padding: 0 2px;
+    margin: 0 -2px;
+  }
+}
+
+// 5. Headings
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em; // Tighten headings for Inter
+  color: var(--dark);
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+}
+
+// 6. Blockquotes
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: var(--lightgray);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  color: var(--darkgray);
+  font-style: italic;
+}
+
+// 7. Code Blocks
+pre {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+}
