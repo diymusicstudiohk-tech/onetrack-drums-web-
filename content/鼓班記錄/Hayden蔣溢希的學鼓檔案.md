@@ -1,8 +1,8 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
-> [!TIP] [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
-> [!TIP] [Remark: 2nd Aug 沖繩]
+> [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
+> [Remark: 2nd Aug 沖繩]
 > Kason, Jillian
 
 ---
