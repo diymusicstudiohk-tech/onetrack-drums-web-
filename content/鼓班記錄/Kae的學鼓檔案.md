@@ -1,6 +1,7 @@
 > [!TIP] [Remark: 無耐性的堅持務實者]
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
+>[!DANGER] 問Kae 星期五係唔係 fix 咗一定轉浮動for Luna 6:45pm Fri
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
