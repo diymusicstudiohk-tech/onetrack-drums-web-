@@ -1,6 +1,8 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ☠️ Muay Thai Fighter ❗❗❗ | 11st July BDay | ENFP | 手碗有舊患!!]
+> [!TIP] [Remark: ☠️ Muay Thai Fighter + Hyrox trainee ❗❗❗ | 11st July BDay | ENFP | 手碗有舊患!!]
+> 
+> 28th Mar 2026
 
 ---
 
@@ -9,12 +11,20 @@
 > 2_  2025-12-19
 > 3_  2026-1-9
 > 4_  2026-1-30
-> 5_
+> 5_  2026-2-6
 > 6_
 > 7_
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-6]**
+>今日cover 咗原速嘅Problem - Ariana Grande 原速
+>send 咗去 whatsapp
+>
+>開始咗第一個 natalie wedding service - how great is our god 
+>jam 咗 一take 等nat 覆
+>
 
 > [!NOTE] **[2026-1-30]**
 > 8&16th 開碗 ex003 best score : 160bpm (with kick); 170bpm (without kick ) 

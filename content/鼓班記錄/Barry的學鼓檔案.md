@@ -13,12 +13,30 @@ Rockschool grade 5 pick : tiberius
 > 2_  2026-1-16
 > 3_  2026-1-23
 > 4_  2026-1-30
-> 5_
+> 5_  2026-2-6
 > 6_
 > 7_
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-6]**
+> 
+> 16th 短爆炸: with kick :175bpm, without kick : 180bpm
+> 開碗練習2bars 16th single stroke with break : with 自己棍190bpm
+> 
+> 今日試咗 Tiberius 0.85x 大致OK
+> 係 double time solo 嗰段聽唔到拍子所以不穩
+> 整咗with CLICK - Tiberius - Barry ver.mp4
+> 目標新年後打到 0.9-1x
+> 
+> bar 32
+> https://gscribe.com/share/LVt9phwCKwVCTE2v9
+> 
+> Tiberius 左頁尾去右頁頭
+> https://gscribe.com/share/ozw4mMwuPN3gsZdz9
+> 
+
 
 > [!NOTE] **[2026-1-30]**
 > 今日試咗 0.7x tiberius updated p2.mp4

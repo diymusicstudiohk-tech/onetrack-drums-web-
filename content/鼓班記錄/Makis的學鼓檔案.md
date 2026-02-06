@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 21/12 Birthday]
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ---
@@ -6,7 +6,7 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-1-23
 > 2_  2026-1-30
-> 3_  
+> 3_  2026-2-06
 > 4_  
 > 5_  
 > 6_  
@@ -14,6 +14,18 @@
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-06]**
+> 
+> today tried grade 3 - indecisive 0.7x full song
+> 
+> bar 63-66
+> https://gscribe.com/share/8MhK9Ah86WFWqbcJ6
+> 
+> bar 51-54
+> https://gscribe.com/share/hN6TLjGZ8Gq2coyf8
+> 
+
 
 > [!NOTE] **[2026-1-30]**
 > 8&16th 開碗 ex003 打到 115bpm

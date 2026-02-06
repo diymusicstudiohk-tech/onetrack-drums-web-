@@ -3,6 +3,7 @@
 > [!TIP] [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
 > [!TIP] [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
 > [!TIP] [Remark: 2nd Aug 沖繩]
+> Kason, Jillian
 
 ---
 
@@ -14,12 +15,14 @@
 > 5_  2026-1-16
 > 6_  2026-1-23
 > 7_  2026-1-30
-> 8_  2026-1-31
+> 8_  2026-2-06
 >
 ***課堂記錄***
 
-> [!NOTE] **[2026-1-31]**
-> 今日有上堂
+> [!NOTE] **[2026-2-06]**
+> 今日試咗原速 全首 full song 願盡我一生 coco ver live ver copy.mp4
+> 
+> 8&16th 開碗 ex003: with kick 105bpm ,without kick : 120bpm
 >
 
 > [!NOTE] **[2026-1-30]**
