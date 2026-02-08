@@ -7,7 +7,7 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-2-3
-> 2_  
+> 2_  2026-2-8
 > 3_  
 > 4_  
 > 5_  
@@ -16,6 +16,14 @@
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-8]**
+> 8&16th 開碗 ex003 : wk 155bpm , wok: 170bpm
+> 捉碗 8th : R: wok : 180bpm ; L wok: 160bpm
+> 
+> 今日試打咗原速 bar 18 till ends Attack on Titan (161).mp4
+> 之後整埋前面嗰d 動態譜
+>
 
 > [!NOTE] **[2026-2-3]**
 > 8&16th 開碗 ex003: with kick : 155-160bpm, without kick : 165bpm 

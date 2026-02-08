@@ -1,7 +1,8 @@
-> [!TIP] [Remark: 無耐性的堅持務實者]
+> [!TIP] [Remark: 培養耐性的堅持務實者], 問傳道人咩事
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> 烏南巴托 新年
 
->[!DANGER] 問Kae 星期五係唔係 fix 咗一定轉浮動for Luna 6:45pm Fri
+>[!DANGER]  send 片要用whatsapp 圖片mode send
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -16,10 +17,17 @@
 >
 ***課堂記錄***
 
+> [!NOTE] **[2026-2-7]**
+>  send 片要用whatsapp 圖片mode send
+> 8&16th 開碗 ex003, wk110 wok 120
+> 
+> today tried 0.85x till 3rd C  榮耀的呼召 kae ver.mp4
+> 
+
 > [!NOTE] **[2026-1-30]**
 > 8&16th 開碗 ex003 : with Kick - 100-110 bpm 
 > today tried 0.8x till B3 榮耀的呼召 kae ver.mp4
-> today tried 0.8x till B3 榮耀的呼召 kae ver.mp4
+> 
 >
 
 > [!NOTE] **[2026-1-23]**

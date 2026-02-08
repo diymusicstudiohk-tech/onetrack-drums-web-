@@ -1,14 +1,28 @@
-> [!TIP] [Remark: Hayden 用左手mx]
+> [!TIP] [Remark: Hayden 用左手mx] Twinkle : 銀河守護者
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-1-17
 > 2_  2026-1-31
-> 3_
+> 3_  2026-2-7
 > 4_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-7]**
+> 
+> Twinkle : 
+> bar 39-41
+> https://gscribe.com/share/1KxJPMZGyu64TUUe7
+> 
+> today tried 0.7x  全首  Weak ¦ Rockschool Drums Grade 4 2024 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 今日 Hayden 練習 Grade 2 考試歌 原速 第二首去到完
+
+> 
+> 
+
 
 > [!NOTE] **[2026-1-31]**
 > Twinkle :
