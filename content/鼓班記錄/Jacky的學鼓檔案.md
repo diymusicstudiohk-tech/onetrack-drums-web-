@@ -17,21 +17,28 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-2-08]**
-> 今日上堂紀錄。
->
+今日tried 到 bar 43-46, OUDER DRUMS 静降想.mp4
+>bar 13 -16
+>https://gscribe.com/share/Ktp1oCWxaczQLTQc7
+>bar 43-46
+>https://gscribe.com/share/QsUfTX1xePY4HHqB7
+
+>[!INFO]- 譜
+![[靜降想1.png]]
+![[靜降想2.png]]
+![[靜降想3.png]]
+![[靜降想4.png]]
 
 > [!NOTE] **[2026-2-01]**
 > 今日 cover 咗 COVER エガクミライ（描绘未来）【MyGO!!!!!】.mp4
 >
 > next： start LOUDER DRUMS 静降想.mp4
 >
-> ![[Screenshot 2026-02-01 at 12.58.24.png]]
 > https://gscribe.com/share/jK4c4xF9Y6P7S1JA6
 >
 >
 >
->
->
+
 
 > [!NOTE] **[2026-1-25]**
 > 8&16th 開碗: 130bpm
