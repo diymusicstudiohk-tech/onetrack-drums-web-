@@ -17,6 +17,27 @@
 >
 ***課堂記錄***
 
+> [!NOTE] **[2026-2-10]**
+> 8&16th 開碗 ex003, wk: 165bpm , wok: 185bpm
+> 
+> 整咗大部份 attack on titan 嘅譜，試玩咗約 0.7x 速度但未整動態譜
+> 
+> fill to 0:06
+> https://gscribe.com/share/Zsb3QaZQAEx8DQLq9
+> 
+> 0:06 - 0:18 ( not yet finished )
+> https://gscribe.com/share/rpawo6P8vcM3sB9FA
+> 
+> 0:18 - 0:30 (not yet finished)
+> https://gscribe.com/share/gGnxaiiC3rh2XWvW9
+> 
+> 0:30-0:42
+> https://gscribe.com/share/C8uryZS4LHMxgJFL8
+> 
+> 0:42-0:51
+> https://gscribe.com/share/3PcBu4EniiAXpDh28
+
+
 > [!NOTE] **[2026-2-8]**
 > 8&16th 開碗 ex003 : wk 155bpm , wok: 170bpm
 > 捉碗 8th : R: wok : 180bpm ; L wok: 160bpm

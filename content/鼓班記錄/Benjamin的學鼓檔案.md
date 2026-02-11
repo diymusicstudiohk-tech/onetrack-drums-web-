@@ -1,14 +1,13 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-
-💡
+>[!INFO]- Isaac, Scotty@Scottyducky@YT, Owen
 **Remark:**
 有興趣嘅 grade 4 歌 : 
 scary, hammerblow, in my place , NOISY NEIGHBOUR
 
 Grade 5 song choices : 
-Tiberius, Hard to handle (ori, Jan26), Tiberius (0.7x , Jan26) , 
-Don’t let go (ori, Jan 26);
+Tiberius, Hard to handle ,  
+Don’t let go
 
 or Bryan’s take Geek and Window seat.
 
@@ -16,7 +15,7 @@ or Bryan’s take Geek and Window seat.
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
-> 1_  
+> 1_  2026-02-11
 > 2_  
 > 3_  
 > 4_  
@@ -26,6 +25,19 @@ or Bryan’s take Geek and Window seat.
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-11]**
+> 
+> 16th 短爆炸 wk:137bpm , wok: 147bpm 
+> 
+>今日 cover 咗 grade 5 第二首考試歌 don’t let go ，今日打到考試原速
+>
+>also今日開始hard to handle, tried till bar 12
+>
+>source:Hard To Handle Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 
+
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-02-05 已購買8堂，有效期至 2026-06-05
