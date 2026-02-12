@@ -1,5 +1,6 @@
-> [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan ]
+r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan ]
 > [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
 [Mimi ❤️ Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC 
 [Jon 💔 Eve*, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
@@ -43,7 +44,8 @@ Jonathan 五首考試歌 影片
 >
 
 > [!QUOTE] ***購買記錄***
-> **未付學貴**
+> 2026-02-11 - 已購買堂數：8堂；有效期至 2026-06-03
+> ![[鼓班記錄/attachments/Katrina-Jonathan-Receipt-2026-02-11.jpg]]
 >
 ---
 

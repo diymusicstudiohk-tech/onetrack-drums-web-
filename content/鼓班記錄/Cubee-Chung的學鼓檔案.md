@@ -2,6 +2,28 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海]
 
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-02-12
+>
+
+***課堂記錄***
+
+> [!NOTE] **[2026-02-12]**
+> 今日cover 完成了 FULL SONG愛人呀.mp4
+>
+>8&16th 開碗 ex003: wk, wok : 125bpm 
+>捉手 8th : R: 155bpm, L: 145bpm 
+>
+>16th 短爆炸: wk: 125bpm , wok 155bpm 
+>開碗練習 16th 5 and 21 wok: 120bpm 
+
+
+> [!QUOTE] **購買記錄**
+2026-02-12 - 已購買堂數：x堂（待付款）
+
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***

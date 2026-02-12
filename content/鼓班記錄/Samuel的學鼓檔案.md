@@ -17,11 +17,28 @@ Don’t let go (ori, Jan 26);
 > 3_ 2025-11-20
 > 4_ 2026-1-8
 > 5_ 2026-1-27
-> 6_ 
+> 6_ 2026-02-11
 > 7_ 
 > 8_ 
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-11]**
+> today tried 0.9x - Grade 5 - CANNED HEAT 
+> BAR 31, 71 FILL 不穩定
+> 
+> bar 31
+> https://gscribe.com/share/Fs1FwnDXWnKVi1bb7
+> 
+> bar 71
+> https://gscribe.com/share/ztg8Gccq3CQKSn3j6
+> 
+> 
+> source: WITH ending fill - canned heat grade 5.mp4
+> 
+> 捉手 8th : R : wok: 175bpm ; L : wok : 160bpm 
+> 16th 短爆炸: wk : 145bpm ; wok :170bpm
+>
 
 > [!NOTE] **[2026-1-27]**
 > 開碗 8th R+kick:  145bpm , 

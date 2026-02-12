@@ -16,7 +16,7 @@ or Bryan’s take Geek and Window seat.
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-02-11
-> 2_  
+> 2_  2026-02-11
 > 3_  
 > 4_  
 > 5_  
@@ -25,6 +25,12 @@ or Bryan’s take Geek and Window seat.
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-11]**
+> 今日tried 0.8x full song , Grade 5 Don't let go
+>
+> source : Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+
 
 > [!NOTE] **[2026-02-11]**
 > 
