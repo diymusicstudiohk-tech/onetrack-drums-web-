@@ -1,6 +1,6 @@
 r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan ]
+> [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 > [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
 [Mimi ❤️ Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC 
 [Jon 💔 Eve*, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
@@ -20,7 +20,7 @@ Jonathan 五首考試歌 影片
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-2-5 Jonathan
 > 2_  2026-2-5 Mimi
-> 3_  
+> 3_  2026-02-12 Katrina
 > 4_  
 > 5_  
 > 6_  
@@ -28,6 +28,10 @@ Jonathan 五首考試歌 影片
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-12]**
+> 今日 mimi 打咗 Grade 1 - time is running out , 0.9x-1x 
+>
 
 > [!NOTE] **[2026-2-5]**
 > **Jonathan:** 
