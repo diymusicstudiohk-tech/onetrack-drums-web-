@@ -19,7 +19,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-13]**
->
+> SOURCE : edrum demo - how great is our god.mp3
+> wedding service- how great is our god - ellen.pdf
+> 
+> 今日 fix 咗 natalie wedding - how great is our god drum arrangemetn
+> 拍咗other version 俾 ellen send 出去
+> 
+> 
 
 > [!NOTE] **[2026-2-6]**
 >今日cover 咗原速嘅Problem - Ariana Grande 原速
