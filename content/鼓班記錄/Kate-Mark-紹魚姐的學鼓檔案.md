@@ -31,7 +31,7 @@
 > 今日cover 咗 how r u today
 > 開 戀愛腦之死 ，要簡化原譜
 > 執咗intro  少少 pattern 
-> ⚠️ 但係可能會轉歌
+>  但係可能會轉歌
 > https://gscribe.com/share/DxB2UtNHEUsbVPYv6
 > https://gscribe.com/share/LJkKxugQhR8CcDrm6
 > (Files: Screenshot_2025-12-03_at_16.59.34.png, Screenshot_2025-12-03_at_17.00.12.png, 戀愛腦之死_-_陳健安.pdf, COVER_-_how_r_u_today_.mp4, how_r_u_today.pdf)
