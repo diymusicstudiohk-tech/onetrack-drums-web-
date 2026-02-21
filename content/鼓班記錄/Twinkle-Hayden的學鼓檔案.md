@@ -6,9 +6,22 @@
 > 1_  2026-1-17
 > 2_  2026-1-31
 > 3_  2026-2-7
-> 4_
+> 4_  2026-2-14 ( 淨係 Hayden 上)
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-14]** 
+> 今日只有Hayden 上堂
+> 
+> source: SYNC and LOUD drums grade 2 twinkle 5 songs
+> 
+> 8&16th 開碗 ex003 ： wk and wok: 105bpm 
+> 16th 短爆炸: 107bpm
+> 
+> 今日主要係練 georgia on my mind bar 28 開hihat 嗰度
+> https://gscribe.com/share/yWkFhEZvEafSFhGr5
+> 
+> 
 
 > [!NOTE] **[2026-2-7]**
 > 

@@ -1,16 +1,26 @@
-> [!TIP] [Remark: ] ❤️  👦🏻 📸
+> [!TIP] [Remark: ] ❤️  👦🏻 📸 葉梓灝 2025/2/22 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-02-06
-> 2_  
-> 3_  
-> 4_  
+> 2_  2026-02-202026-02-20
+> 3_
+> 4_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-20]**
+> 待輸入
+>
+
+> [!NOTE] **[2026-02-20]**
+> next: modify last Chorus to Ride? and try original tempo
+> today tried 0.9x full song晴天雨天.mp4
+> source: full song晴天雨天.mp4
+>
 
 > [!NOTE] **[2026-02-06]**
 > 

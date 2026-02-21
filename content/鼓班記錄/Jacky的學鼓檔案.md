@@ -12,12 +12,18 @@
 > 5_  2026-1-25
 > 6_  2026-2-01
 > 7_  2026-2-08
-> 8_  
+> 8_  2026-2-15
 >
 ***課堂記錄***
 
+> [!NOTE] **[2026-2-15]**
+> 
+> SOURCE: LOUDER DRUMS 静降想.MP4 
+> 
+> TODAY TRIED 0.7X LOUDER DRUMS 静降想.MP4 TILL BAR 71
+
 > [!NOTE] **[2026-2-08]**
-今日tried 到 bar 43-46, OUDER DRUMS 静降想.mp4
+今日tried 到 bar 43-46, LOUDER DRUMS 静降想.mp4
 >bar 13 -16
 >https://gscribe.com/share/Ktp1oCWxaczQLTQc7
 >bar 43-46

@@ -1,5 +1,11 @@
-> [!TIP] [Remark: 3rd Aug BDay | 東京 12月25- 12/30, 同朋友去尖東誇年]
+> [!TIP] [Remark: 3rd Aug BDay | 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> target: https://www.youtube.com/watch?v=DpVXFzCFC18
+> https://www.youtube.com/watch?v=qLCQHhqbOlM
+> 
+> 
+> 
+
 
 ---
 
@@ -9,11 +15,20 @@
 > 3_  2025-12-20
 > 4_  2026-1-3
 > 5_  2026-1-17
-> 6_  
-> 7_  
+> 6_  2026-2-7
+> 7_  2026-2-14
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-14]**
+> source: 
+> ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+> 
+> 可能條片嘅拍子機要大聲D
+> 今日試咗原速 5 速 Grade 7 考試歌都OK（without drums ver) 
+> 
+> 
 
 > [!NOTE] **[2026-1-17]**
 > 開碗練習 8th+16th : 170bpm

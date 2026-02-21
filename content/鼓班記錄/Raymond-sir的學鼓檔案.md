@@ -7,11 +7,17 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-1-23
 > 2_  2026-02-13
-> 3_  
-> 4_  
+> 3_  2026-02-20
+> 4_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-20]**
+> 繼續執 How Great Thou Art 執完全首拍咗 demo 
+> 
+> source : HOW GREAT THOU ART full song .mp4
+>
 
 > [!NOTE] **[2026-02-13]**
 > 16th 短爆炸 wk: 140bpm ; wok: 150bpm

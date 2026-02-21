@@ -9,13 +9,28 @@
 > 1_  2026-2-3
 > 2_  2026-2-8
 > 3_  2026-2-10
-> 4_  
+> 4_  2026-2-15
 > 5_  
 > 6_  
 > 7_  
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-2-15]**
+> 8&16th 開碗 ex003, wk: 185bpm , wok: 195bpm
+> 
+> source: full song Attack on Titan (161).mp4
+> 
+> 今日整哂全首動態譜，開始 Ayden 0.7x try 下
+> 
+> 
+> 0:06 - 0:18(completed)
+> https://gscribe.com/share/AEif8iGTbj2d37aK7
+> 
+> 0:18 - 0:30(completed
+> https://gscribe.com/share/TbobUXnAP6EuTK5j7
+
 
 > [!NOTE] **[2026-2-10]**
 > 8&16th 開碗 ex003, wk: 165bpm , wok: 185bpm
