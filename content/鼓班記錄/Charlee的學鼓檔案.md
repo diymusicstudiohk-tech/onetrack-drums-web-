@@ -18,8 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-21]**
-> 待輸入
->
+> today 0.7x till Bridge 風月.mp4
+>source: till Bridge 風月.mp4,  風月 - Pandora copy.pdf
 
 > [!NOTE] **[2026-2-07]**
 > SOURCE:風月 - Pandora copy.pdf
