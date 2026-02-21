@@ -15,11 +15,11 @@
 > **Twinkle**:  
 > source: Weak ¦ Rockschool Drums Grade 4 2024 (1080p_30fps_H264-128kbit_AAC).mp4
 > 
-> today tried 0.7x  全首  
+> today tried Grade 4- Weak-  0.7x  全首  
 > 
 > Hayden:
 > source: SYNC and LOUD drums grade 2 twinkle 5 songs
-> 今日cover 咗五首 grade 2 考試歌 
+> 今日cover 咗五首 grade 2 考試歌 (原速)
 >
 
 > [!QUOTE] ***購買記錄***
