@@ -25,7 +25,7 @@
 > SOURCE:風月 - Pandora copy.pdf
 > 
 > 今日整 動態譜去到 1st C 完 
-> tried 0.9-1x till 1st C 風月.mp[4
+> tried 0.9-1x till 1st C 風月.mp4 
 >
 
 > [!NOTE] **[2026-1-21]**

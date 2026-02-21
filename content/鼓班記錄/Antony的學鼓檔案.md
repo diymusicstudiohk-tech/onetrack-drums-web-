@@ -14,7 +14,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-21]**
-> 待輸入
+> today tried full song 0.8x die with a smile, verse and chorus 16th Hihat not stable
+> source: die with a smilEE.pdf
 >
 
 > [!NOTE] **[2026-2-6]**
