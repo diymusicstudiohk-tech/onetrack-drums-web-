@@ -1,13 +1,13 @@
 > [!TIP] Remark:
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-最早可 7:15pm 上堂
-
-2月尾可能會出隊 
-
-Rockschool grade 5 已完成目標: 
-Hard to handle (ori, Jan26), 
-Tiberius (0.7x , Jan26) , 
-Don’t let go (ori, Jan 26);
+> 最早可 7:15pm 上堂
+> 
+> 2月尾可能會出隊 
+> 
+> Rockschool grade 5 已完成目標: 
+> Hard to handle (ori, Jan26), 
+> Tiberius (0.7x , Jan26) , 
+> Don’t let go (ori, Jan 26);
 
 ---
 
@@ -21,14 +21,10 @@ Don’t let go (ori, Jan 26);
 > 7_
 > 8_
 > 9_ (補堂需在 2026-6-12 前補)
-> 10_(補堂需在 2026-6-12 2026-02-20
-> 8_
->
-***課堂記錄***
+> 10_ (補堂需在 2026-6-12 前補)
+> 
 
-> [!NOTE] **[2026-02-20]**
-> 待輸入
->
+***課堂記錄***
 
 > [!NOTE] **[2026-02-20]**
 > 今日執咗《原是為我 》出隊用 
