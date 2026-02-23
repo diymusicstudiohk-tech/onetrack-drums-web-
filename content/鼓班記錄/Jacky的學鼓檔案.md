@@ -1,6 +1,33 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 21/12 Birthday]
+> [!TIP] [Remark: 21/12 Birthday] , 27/2 to 2/3 Tokyo (live, pokemon park)
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-2-22
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+>
+
+***課堂記錄***
+
+> [!NOTE] **[2026-2-22]**
+> bar 100-102
+> https://gscribe.com/share/kSyATupZr4CtkwS59
+>
+>
+>
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-2-22 已購買8堂，有效期至 2026-6-14
+> ![[鼓班記錄/attachments/Jacky-Receipt-2026-02-22.jpg]]
+**
 
 ---
 
