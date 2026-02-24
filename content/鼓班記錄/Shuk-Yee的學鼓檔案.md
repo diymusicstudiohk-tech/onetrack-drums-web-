@@ -16,7 +16,13 @@
 > 8_
 
 > [!NOTE] **[2026-02-23]**
-> 待輸入
+>  今日tried 原速 - till 2nd C2 - shuk yee 在祢沒有難成的事.mp3
+> 今日整咗 Bridge 去到 Refrain before last C1, 
+> 	Bridge 同 refrain before last C1  極kick 
+> 	logic pro session (shuk yee 在祢沒有難成的事 .logicx)𥚃面有 0.7x 拉慢咗嘅mp3
+> 
+> 
+> source : 在祢沒有難成的事 shuk yee.pages, TILL REFRAIN BEFORE C1 - shuk yee 在祢沒有難成的事.mp3
 
 > [!NOTE] **[2026-02-09]**
 > 今日tried 0.8-0.9x - till 2nd C2 - shuk yee 在祢沒有難成的事.mp3
