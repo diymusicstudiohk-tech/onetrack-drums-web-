@@ -6,8 +6,8 @@
 scary, hammerblow, in my place , NOISY NEIGHBOUR
 
 Grade 5 song choices : 
-Tiberius, Hard to handle ,  
-Don’t let go
+Tiberius~~, Hard to handle~~ ,  
+Don’t let go, Canned heat
 
 or Bryan’s take Geek and Window seat.
 
@@ -16,25 +16,23 @@ or Bryan’s take Geek and Window seat.
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-02-11
-> 2_  2026-02-11
-> 3_  2026-02-25
+> 2_  2026-02-25
+> 3_  
 > 4_  
 > 5_  
 > 6_  
 > 7_  
-> 8_  
+> 8_  (45min)
 >
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-25]**
-> 待輸入
+> 今日重溫咗 原速 Grade 5 - don't let go
+>另外放棄咗 Hard to handle (有 drag ) , 轉咗 canned heat 
 >
-
-> [!NOTE] **[2026-02-11]**
-> 今日tried 0.8x full song , Grade 5 Don't let go
+>tried Grade 5 - Canned Heat till bar 15
 >
-> source : Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
-
+>source: WITH ending fill - canned heat grade 5.mp4
 
 > [!NOTE] **[2026-02-11]**
 > 
