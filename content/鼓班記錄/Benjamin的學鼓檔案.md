@@ -17,7 +17,7 @@ or Bryan’s take Geek and Window seat.
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-02-11
 > 2_  2026-02-11
-> 3_  
+> 3_  2026-02-25
 > 4_  
 > 5_  
 > 6_  
@@ -25,6 +25,10 @@ or Bryan’s take Geek and Window seat.
 > 8_  
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-25]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-02-11]**
 > 今日tried 0.8x full song , Grade 5 Don't let go
