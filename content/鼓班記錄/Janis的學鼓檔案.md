@@ -17,8 +17,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-2-24]**
-> 待輸入
->
+>   TODAY TRIED 0.8X TILL BAR 67 
+>source:  如果花火可不消散 - 晚安莉莉.pdf
 
 > [!NOTE] **[2026-1-29]**
 > 今日原速 cover 咗 晚安莉莉 full song

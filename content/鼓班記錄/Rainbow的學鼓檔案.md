@@ -20,8 +20,21 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-2-24]**
-> 待輸入
->
+>  TODAY TRIED 0.85X TILL 2ND C , TILL 2ND C2 - Zeppelin.mp4
+>  不過freeze 進度，
+>  
+>  先開 
+>  
+>  source: 如果花火可不消散 - 晚安莉莉.pdf
+>  today tried 0.8x till 1st V 如果花火可不消散.mp4
+>  
+> [ Intro 1 ( bar 2 - 9 )](https://gscribe.com/share/zRFWipxdCptnseJ88)
+[> Intro 2 ( bar 10- 17 )](https://gscribe.com/share/G9w7faK6fnPe9wvx5)
+>  [Verse ( bar 18 - 25 )](https://gscribe.com/share/wMTLJnkziqr44dnx8)
+>  not yet simplified:
+>  [PC ( bar 26 - 33 )](https://gscribe.com/share/x7AJ3pf23xaaUYDm9)
+>  
+
 
 > [!NOTE] **[2026-1-26]**
 > 開碗練習 8th R only with kick : 155bpm , 8th L only with kick : 145bpm 
