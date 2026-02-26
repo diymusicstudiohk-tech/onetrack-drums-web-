@@ -21,13 +21,18 @@ Jonathan 五首考試歌 影片
 > 1_  2026-2-5 Jonathan
 > 2_  2026-2-5 Mimi
 > 3_  2026-02-12 Katrina
-> 4_  
-> 5_  
-> 6_  
-> 7_  
-> 8_  
+> 4_  2026-02-26 Jonathan
+> 5_  2026-02-26 Katrina
+> 6_
+> 7_
+> 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-26]**
+> **Jonathan:** 待輸入
+> **Mimi:** 待輸入
+>
 
 > [!NOTE] **[2026-02-12]**
 > 今日 mimi 打咗 Grade 1 - time is running out , 0.9x-1x 
