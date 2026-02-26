@@ -25,8 +25,35 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-26]**
-> 待輸入
+> 開碗 16th 短爆炸 wk, wok :  165-170bpm 
+> 16th 新短爆炸 (5, 13, 21下)  : wk, wok :165BPM , 
+> 
+> source: full song 不停讚美你 antony .pdf
+>不停赞美你(LIVE) | 赞美之泉 | DrumMix@ Skudai Harvest Church
 >
+ > **玩咗 Chorus 1 , Chorus2 ( bar 26-33, bar 34 -41 ) x2 with track **
+>主要係練習 16th pattern
+>今日穩定 0.9x , 1x 有左手協調問題
+>
+>發現係16th 轉鼓 （特別右手要由 hihat 轉snare 或其他鼓）就會 lag
+>玩咗 S.S 轉鼓練習 , best at 80bpm , 
+> https://gscribe.com/share/CXZqt7ahcVfnBQME8
+> 
+> ****
+> 
+> 今日試咗 為榮耀的創造 (68) bar 41-44 中間嘅 32th fill 
+> 32th fill 今日俾打得俾之前清楚
+> 
+> source: 
+> [lgttQlDVECg](https://www.youtube.com/watch?v=lgttQlDVECg)
+> 為榮耀的創造 Made For Your Glory _ 讚美之泉 ( Drum Cover ∖ Sheet ∖ Score)
+> 
+> 
+> bar 41-44
+> https://gscribe.com/share/Ce6svckHguD23Tep6
+> 
+> ![[Screenshot 2026-02-26 at 15.17.28.png]]
+> 
 
 > [!NOTE] **[2026-02-13]**
 > 
