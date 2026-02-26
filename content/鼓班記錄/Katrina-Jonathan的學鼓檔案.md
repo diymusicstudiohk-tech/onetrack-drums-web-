@@ -2,7 +2,7 @@ r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 > [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi ❤️ Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC 
+[Mimi  ❤️  Anson 💔 Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC 
 [Jon 💔 Eve*, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
 
 💡**Remark:**
@@ -12,7 +12,7 @@ Katrina 五首考試歌影片
 Jonathan 五首考試歌 影片
 (Files: jonathan grade 2 5 songs updatde with official audio.mp4)
 
-**Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , hammerblow
+**Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , ~~hammerblow~~, weak 
 
 
 ---
@@ -30,13 +30,20 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-26]**
-> **Jonathan:** 待輸入
-> **Mimi:** 待輸入
+> **Jonathan:** 
+> today tried 0.7x hammerblow till bar 22 
+> 不過今日試吓轉第二首 grade 4 - weak
+> 試咗頭 18個 bar 
+> 
+> source: Weak ¦ Rockschool Drums Grade 4 2024 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> **Mimi:** 打咗 Grade 1 - time is running out 原速
+> source: Katrina Grade 1 5 songs with drums.mp4
 >
 
 > [!NOTE] **[2026-02-12]**
 > 今日 mimi 打咗 Grade 1 - time is running out , 0.9x-1x 
->
+>source: Katrina Grade 1 5 songs with drums.mp4
 
 > [!NOTE] **[2026-2-5]**
 > **Jonathan:** 
