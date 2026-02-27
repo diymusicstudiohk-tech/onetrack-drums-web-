@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海]
+> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF 
 
 
 ---
@@ -8,12 +8,25 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-02-12
 > 2_  2026-02-27
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
 >
 
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-27]**
-> 待輸入
+> source : LOUDER  DRUMS - 理想混蛋 – 離開的一路上 動態鼓譜 ¦ Drum Sheet PDF Free Download (1080p_60fps_H264-128kbit_AAC).mp4
+>
+> today tried 原速 till bar 93
+>
+> bar 88 - 89
+> https://gscribe.com/share/WXTipjVVzG1pMRkM6
+>
+> ![[鼓班記錄/attachments/Cubee-2026-02-27.jpg]]
 >
 
 > [!NOTE] **[2026-02-12]**
