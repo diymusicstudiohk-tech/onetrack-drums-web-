@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-27]**
-> 待輸入
+> 
+> source: 祢是我惟一的倚靠.pdf, .pages
+> 
+> 今日試咗 攝多 d 16th  hihat , V->C 勁 d 嘅 四拍 fill ，同 chorus 勁 d 嘅 pattern 頭兩拍
 >
 
 > [!NOTE] **[2026-02-12]**
