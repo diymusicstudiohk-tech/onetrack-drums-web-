@@ -27,6 +27,7 @@
 > https://gscribe.com/share/WXTipjVVzG1pMRkM6
 >
 > ![[鼓班記錄/attachments/Cubee-2026-02-27.jpg]]
+> ![[鼓班記錄/attachments/Cubee-2026-02-27-2.jpg]]
 >
 
 > [!NOTE] **[2026-02-12]**
