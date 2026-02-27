@@ -14,15 +14,20 @@ Rockschool grade 5 pick : tiberius
 > 3_  2026-1-23
 > 4_  2026-1-30
 > 5_  2026-2-6
-> 6_  2026-2-27
+> 6_  2026-2-27 (45min)
 > 7_
 > 8_
 >
 ***課堂記錄***
 
 > [!NOTE] **[2026-2-27]**
-> 待輸入
+> 今日打 tiberius 0.8x , 發現  double time p1 to p2 fill 唔夠快
+> 
+> 所以要特登練
+> 超短爆炸single stroke for tiberius double time p1 to p2 fill 
+>https://gscribe.com/share/icDWMDaMikHzcSsV8
 >
+>今日呢個 16th  RLR 最快淨係打到 135bpm ，超唔夠首歌 (180bpm ) 要求快
 
 > [!NOTE] **[2026-2-6]**
 > 
