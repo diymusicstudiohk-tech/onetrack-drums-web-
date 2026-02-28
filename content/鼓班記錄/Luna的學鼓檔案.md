@@ -13,12 +13,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-02-27]**
-> 待輸入
->
-
-> [!NOTE] **[2026-02-20]**
-> 待輸入
->
+> 
+> 今日完成原速 full song晴天雨天.mp4
+> 
+> next : # "Homura" MUSiC CLiP (“Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train“ Main theme）
+> https://www.youtube.com/watch?v=4DxL6IKmXx4
+> 
+> 試咗少少 homura 嘅 chorus:
+> https://gscribe.com/share/yXsC6YaYkuVAWbns8
+> 
 
 > [!NOTE] **[2026-02-20]**
 > next: modify last Chorus to Ride? and try original tempo
