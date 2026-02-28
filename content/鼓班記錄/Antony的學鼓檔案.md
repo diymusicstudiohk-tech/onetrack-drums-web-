@@ -6,12 +6,18 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-2-6
-> 2_  2026-02-21
-> 3_
-> 4_
+> 2_  2026-2-21
+> 3_ 2026-2-28
+> 4_ 
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-02-28]**
+> 
+> 今日 cover  咗 die with a smile 原速
+> next: Leave_the_Door_Open-Bruno_Mars,_Anderson_.Paak,_Silk_Sonic
+> 
 
 > [!NOTE] **[2026-02-21]**
 > today tried full song 0.8x die with a smile, verse and chorus 16th Hihat not stable
