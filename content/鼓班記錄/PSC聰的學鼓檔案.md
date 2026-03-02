@@ -55,7 +55,7 @@
 > (Files: till 1st C2 - 跟祢 PSC ver.pdf, edrums demo - till 1st C2 - 跟祢 PSC ver.mp3)
 
 > [!QUOTE] ***購買記錄***
-> 在 2025-11-17 已購買8堂，有效期至 2026-3-17
+> 在 2025-11-17 已購買8堂，有效期至 2026-3-17+14 =2026-3-31
 > (Files: IMG_3034.PNG)
 
 ---
