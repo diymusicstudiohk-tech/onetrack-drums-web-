@@ -18,8 +18,24 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-3]**
-> 待輸入
+> source: 如果花火可不消散 - 晚安莉莉.pdf
+> source: click -louder drums-如果花火可不消散.mp4
 >
+>
+>bar 64 to 67
+>https://gscribe.com/share/G38atShGu1wt1xZ39
+>
+>bar 82 to 85
+>https://gscribe.com/share/swYinHPmYiJsoEms9
+>
+>bar 90 to 93
+>https://gscribe.com/share/8PTFhmuraSttZH446
+>
+>bar 105-112
+>https://gscribe.com/share/SheYVLnBXXoj7X4w7
+>
+>
+
 
 
 > [!QUOTE] ***購買記錄***
@@ -43,6 +59,8 @@
 > [!NOTE] **[2026-2-24]**
 >   TODAY TRIED 0.8X TILL BAR 67 
 >source:  如果花火可不消散 - 晚安莉莉.pdf
+>
+
 
 > [!NOTE] **[2026-1-29]**
 > 今日原速 cover 咗 晚安莉莉 full song

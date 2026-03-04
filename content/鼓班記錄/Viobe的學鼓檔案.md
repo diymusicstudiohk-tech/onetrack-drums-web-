@@ -13,8 +13,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-3]**
-> 待輸入
+> 今日 cover 咗 0.8x 普天下歡慶
+>next: 開番無咁辛苦嘅慢歌
 >
+>16th 新短爆炸 (5, 13, 21下): wk : 115bpm, wok:155bpm 
+>開碗雙手簡易 8th  16th Single Stroke : wok: 140-150 bpm
+
 
 > [!NOTE] **[2026-2-3]**
 > 8&16th 開碗 ex003 : 130bpm (with kick) 140bpm (without kick ) 
