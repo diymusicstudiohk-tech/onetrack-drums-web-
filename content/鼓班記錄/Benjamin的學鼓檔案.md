@@ -27,7 +27,15 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-04]**
-> 待輸入
+> 
+> tried 0.7x  till bar 28 WITH ending fill - canned heat grade 5.mp4
+> 
+> bar 8 to 12 OHH 
+> https://gscribe.com/share/27TUm4W2qxthRc6j7
+> 
+> bar 22 to 24
+> https://gscribe.com/share/Bk2ekebm9bYYMquj9
+> 
 
 > [!NOTE] **[2026-02-25]**
 > 今日重溫咗 原速 Grade 5 - don't let go

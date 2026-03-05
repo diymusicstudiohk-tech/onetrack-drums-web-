@@ -18,7 +18,7 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-04]**
-> 待輸入
+> today tried 0.7x FULL SONG - 風月.mp4, fill at 2nd last C  and Last C not stable
 
 > [!NOTE] **[2026-02-21]**
 > today 0.7x till Bridge 風月.mp4
