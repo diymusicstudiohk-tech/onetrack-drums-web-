@@ -19,7 +19,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-05]**
-> 待輸入
+> 
+> source : LOUDER  DRUMS - 理想混蛋 – 離開的一路上 動態鼓譜 ¦ Drum Sheet PDF Free Download (1080p_60fps_H264-128kbit_AAC).mp4
+> 
+>TODAY TRIED FULL SONG AT 0.9X -1X , next end song
+> 
+> bar 94-101
+> https://gscribe.com/share/HBiz57TdJpG4WVKX8
 >
 
 > [!NOTE] **[2026-02-27]**
