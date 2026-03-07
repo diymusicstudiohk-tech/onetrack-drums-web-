@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-7]**
-> 待輸入
+> 整咗 0.75X again B1 B2 only - 榮耀的呼召 kae ver.mp4
+> today tried  0.8x till 3rd C  榮耀的呼召 kae ver.mp4
 >
 
 > [!NOTE] **[2026-2-7]**

@@ -1,7 +1,7 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 自稱 I 人 😱]
-[Travel: NIT (UK) 7th - 2x th August 2025]
+
 
 ---
 
@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-7]**
-> 待輸入
+> source: full rerolling score 太陽與地球.mp4
+> 今日重溫去到 bar 61, 斷開咁試過 0.7x-0.8x
 >
 
 > [!NOTE] **[2026-2-7]**

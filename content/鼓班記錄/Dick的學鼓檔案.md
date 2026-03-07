@@ -14,7 +14,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-7]**
-> 待輸入
+> today started and tried 0.8x 1st C - MB 長相廝守.mp4
+> 
+> also source: 長相廝守 - ToNick.pdf
 >
 
 > [!NOTE] **[2026-2-20]**

@@ -1,11 +1,34 @@
-> [!TIP] [Remark: 3rd Aug BDay | 
+> [!TIP] [Remark: 3rd Aug BDay |
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > target: https://www.youtube.com/watch?v=DpVXFzCFC18
 > https://www.youtube.com/watch?v=qLCQHhqbOlM
-> 
-> 
-> 
+>
+>
+>
 
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-3-7
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+>
+***課堂記錄***
+
+> [!NOTE] **[2026-3-7]**
+> 待填
+>
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-3-7 已購買8堂，有效期至 2026-6-27
+> ![[鼓班記錄/attachments/Ryan-Chu-receipt-20260307.jpg]]
+**
 
 ---
 
