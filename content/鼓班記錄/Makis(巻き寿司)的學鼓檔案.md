@@ -1,5 +1,7 @@
-> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌  鐘華仁
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> 
+ 
 
 ---
 
@@ -16,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-06]**
-> 待輸入
+> 今日 Makis(巻き寿司) 試咗 grade 3 - indecisive 0.8x full song
+> 
 >
 
 > [!NOTE] **[2026-02-20]**

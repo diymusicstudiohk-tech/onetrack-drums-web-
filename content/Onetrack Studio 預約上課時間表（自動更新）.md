@@ -24,22 +24,30 @@
 > 就假設我一定有空上課～ 感謝！
 
 > [!NOTE] 時租練鼓地方 （旺角）
-> 價錢約 每小時 $60
-> **好景商業中心**
-> *   **RS MUSIC 24小時自助式樂器練習室**
->     *   旺角好景商業中心 7樓01室
->     *   https://bio.rsmusic.studio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio
-> *   **Simply Rock Studio 旺角店**
->     *   Flat 601A, 6/F, Ho King Commercial Center
->     *   5408 1068 將主力處理-好景店-預約 < whatsapp
->     *   [https://simplyrockcom.wordpress.com/旺角店/](https://simplyrockcom.wordpress.com/%E6%97%BA%E8%A7%92%E5%BA%97/)
-> *   **EC music**
->     *   九龍 旺角花園街2-16號 好景商業中心 15樓01室
->     *   https://ecmusic.bookfast.io/#/home
-> **先施大廈**
-> *   **President Piano 總統琴行**
->     *   九龍亞皆老街83號先施大廈816室
->     *   [https://www.facebook.com/p/President-Piano-總統琴行-Official-100063606477204/](https://www.facebook.com/p/President-Piano-%E7%B8%BD%E7%B5%B1%E7%90%B4%E8%A1%8C-Official-100063606477204/)
+> 
+> 時租練鼓地方 （旺角）
+價錢約 每小時 $60
+
+好景商業中心
+
+RS MUSIC 24小時自助式樂器練習室
+旺角好景商業中心 7樓01室
+https://www.instagram.com/drumrs.hk/
+
+Simply Rock Studio 旺角店
+Flat 601A, 6/F, Ho King Commercial Center
+5408 1068 將主力處理-好景店-預約 < whatsapp
+https://simplyrockcom.wordpress.com/旺角店/
+
+EC music
+九龍 旺角花園街2-16號 好景商業中心 15樓01室
+https://ecmusic.bookfast.io/#/home
+
+先施大廈
+
+President Piano 總統琴行
+九龍亞皆老街83號先施大廈816室
+https://www.facebook.com/p/President-Piano-總統琴行-Official-100063606477204/
 
 > [!NOTE] 時間表標記說明
 > 時間表中標為 (R) 

@@ -8,6 +8,7 @@
 > Hard to handle (ori, Jan26), 
 > Tiberius (0.7x , Jan26) , 
 > Don’t let go (ori, Jan 26);
+> Canned heat (ori, feb 26)
 
 ---
 
@@ -27,8 +28,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-06]**
-> 待輸入
->
+> 今日 canned heat - Grade 5 試咗 0.9x-1x , 
+> 開始執ghost  note 要打番細力
+> https://gscribe.com/share/U5GTgihJn3MEzKEe7
+> 
+> bar 31 32 個 fill 一直娻錯咗！！
+> https://gscribe.com/share/ACSdhaaGj9vBLRZE6
+> 
+> next grade 5 候選： 
+> 4:44
+> https://www.youtube.com/watch?v=eJgaopdZNrY
+> 
+> Black Smoke Rising
+> https://www.youtube.com/watch?v=4MmRhGw2ZbM&t=144s
+
 
 > [!NOTE] **[2026-02-20]**
 > 今日執咗《原是為我 》出隊用 
@@ -39,6 +52,7 @@
 > [!QUOTE] ***購買記錄***
 > 在 2026-02-20 已購買8堂，有效期至 2026-06-20
 **
+
 
 ---
 

@@ -19,7 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-06]**
-> 待輸入
+> 今日 review 咗 Natalie同 clement 錄嘅婚禮demo , 打番第一首, 第二首worthy / God i look to you 執咗一半 
+> 
+> source: Ellen , Natalie, Clement - Wedding Worship.pages / .pdf
 >
 
 > [!NOTE] **[2026-02-13]**

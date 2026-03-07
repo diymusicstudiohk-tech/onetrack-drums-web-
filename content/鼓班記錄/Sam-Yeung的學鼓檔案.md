@@ -45,6 +45,13 @@
 > (Files: ケセラセラ-Mrs.GREEN_APPLE_-_sam_gor_ver.pdf, IMG_3696.mov)
 >
 
+> [!QUOTE] ***購買記錄***
+> 在 2025-12-13 已購買8堂，有效期至 2026-4-13
+**
+
+--- 
+
+
 > [!NOTE] **[2025-12-12]**
 > tried 0.8x (Ride新版) FULL SONG - Pretender.mp4
 > (Files: (Ride新版) FULL SONG - Pretender.mp4)
