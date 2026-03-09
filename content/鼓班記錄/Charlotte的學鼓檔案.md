@@ -18,7 +18,32 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-9]**
-> 待輸入
+> 唔洗整動態譜，就咁show網頁就得
+> today tried 0.9-1x LOUDER DRUMS enchated taylor swift.mp4， 
+> till bar  82
+> 
+> bar 30-32 ( Fill to 1st C ) 
+> https://gscribe.com/share/4yYFc5i6KPXgCmZw9
+> 
+> bar 33-42 ( 1st C )
+> https://gscribe.com/share/QN18AsmmAhanLxjM6
+> 
+> bar 43-50 ( 2nd V ) 
+> https://gscribe.com/share/n7bZk3s5VZwA7r1J9
+> 
+> bar 51-58 ( 2nd PC) 
+> https://gscribe.com/share/tZgW1gB8ypV1uwHP8
+> 
+> bar 59 -66 ( 2nd C ) 
+> https://gscribe.com/share/SqQDNapKcBPtKMqz6
+> 
+> bar 67 - 74 ( 3rd repeat C ) 
+> https://gscribe.com/share/b8GfjxJphbn1qXgs6
+> 
+> bar 75-82 ( 2nd MB ) 
+> https://gscribe.com/share/YT6F3FJcqenUrkMp9
+> 
+
 >
 
 > [!NOTE] **[2026-2-7]**
