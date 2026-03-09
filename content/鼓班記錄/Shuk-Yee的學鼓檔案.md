@@ -16,7 +16,16 @@
 > 8_
 
 > [!NOTE] **[2026-3-9]**
->  待輸入
+>  p2 尾 fill 拍子 練習 on pad  
+>  https://gscribe.com/share/uYdcmy6DhF9b3KNZ7
+>  wk: 110bpm, wok: 110bpm 
+>  
+>  LH 8th only 
+>  https://gscribe.com/share/Xud5DDHwj9ZTKRc28
+>  wok:  180bpm 
+>  
+>  source: full song - 在祢沒有難成的事 - shuk yee  ver .mp3
+>  full song - 在祢沒有難成的事 shuk yee.pdf/ .pages
 >
 
 > [!NOTE] **[2026-02-23]**

@@ -1,5 +1,6 @@
-
+> [!TIPS] 94CM 長腿 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+
 > [!WARNING] ***上課日期與剩餘堂數：***
 1_  2026-2-25
 2_  2026-3-9
@@ -11,8 +12,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-9]**
-> 待輸入
->
+> today covered FULL SONG - creep - radioehead - nuria .mp4
+>預習： 
+
+https://www.youtube.com/watch?v=U0-jqyDV5tE
 
 > [!NOTE] **[2026-2-25]**
 > 今日試咗 0.9x till 2nd c - creep - radioehead - nuria trial ver.mp4, 
