@@ -16,6 +16,7 @@
 > source: Weak ¦ Rockschool Drums Grade 4 2024 (1080p_30fps_H264-128kbit_AAC).mp4
 > 
 > today tried Grade 4- Weak-  0.9-1x  全首  
+> 下堂開新歌
 > 
 > Hayden:
 > source: SYNC and LOUD drums grade 2 twinkle 5 songs

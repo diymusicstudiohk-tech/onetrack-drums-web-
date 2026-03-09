@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-8]**
-> 待輸入
+> TRIED WHOLE SONG 0.7-0.8X
+> 
+> SOURCE: 
+> LOUDER DRUMS -UPDATED - 静降想.mp4
 >
 
 > [!NOTE] **[2026-2-22]**

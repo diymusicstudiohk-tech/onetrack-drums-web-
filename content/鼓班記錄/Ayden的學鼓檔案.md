@@ -18,7 +18,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-8]**
-> 待輸入
+> 今日開始 grade 5 嘅歌
+> source:  with CLICK - Tiberius - Barry ver 1.mp4
+> > 
+> basr 15 -16
+> https://gscribe.com/share/kFTkhpfPvw4hAE3v6
+>
+>超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
+>https://gscribe.com/share/AnZTywWkk3SdDdZDA
+>wk: 120bpm, wok: 140bpm 
+>
+>8&16th 開碗 ex003
+>wk:170bpm, wok: 180bpm
+
 >
 
 > [!NOTE] **[2026-3-3]**

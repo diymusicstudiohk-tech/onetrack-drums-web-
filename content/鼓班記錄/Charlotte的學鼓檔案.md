@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: Gen Z]
+> [!TIP] [Remark: Gen Z] nicename: Lotte
 
 ---
 
@@ -11,11 +11,15 @@
 > 4_  2026-1-17
 > 5_  2026-1-24
 > 6_  2026-2-7
-> 7_  
-> 8_  
+> 7_  2026-3-9
+> 8_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-3-9]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-2-7]**
 > source : LOUDER DRUMS enchated taylor swift.mp4
