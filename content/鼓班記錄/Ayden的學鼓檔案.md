@@ -18,7 +18,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-10]**
-> 待輸入
+> 
+> 超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
+> https://gscribe.com/share/RiNqT3Z5WDLCn4DYA
+>wok:155 bpm
+>
+>source:  with CLICK - Tiberius - Barry ver 1.mp4
+> 
+> today tried 0.7x , grad5 - tiberius till bar 25
 
 > [!NOTE] **[2026-3-8]**
 > 今日開始 grade 5 嘅歌

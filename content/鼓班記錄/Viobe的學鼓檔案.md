@@ -13,7 +13,24 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-10]**
-> 待輸入
+> source: 嘉宾 张远 动态鼓谱 ドラム楽譜 (1080p_30fps_H264-128kbit_AAC).mp4
+> 未整louder ver
+> 
+> 今日將陳老師嘅動態譜變番 groove scribe , tried 0.75x till 3rd repeat C 
+> 
+> bar 43 - 50 (2nd V ) 
+> https://gscribe.com/share/vzVuiscbwFUx4hBG7
+> 
+> bar 51-54 (2nd PC ) 
+> https://gscribe.com/share/hawCoPruHoGmVvpD7
+> 
+> bar 55-62 (2nd C ) 
+> https://gscribe.com/share/Fk7U7G21mgZfwsdj8
+> 
+> bar 63-71 (Repeat C)
+> https://gscribe.com/share/Adm7tKd4L3qEdRKx9
+> 
+> 
 
 > [!NOTE] **[2026-3-3]**
 > 今日 cover 咗 0.8x 普天下歡慶

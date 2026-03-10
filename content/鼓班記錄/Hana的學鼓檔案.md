@@ -16,7 +16,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-10]**
-> 待輸入
+> source: hana 10th Mar 26.logicx, hana 10th Mar 26.mp3 (崇拜錄音)
+> source: Dum Lesson 我們的神.pdf (功課，未更新 pattern and fill 嘅譜)
+> 
+> 今日執咗 我們的神 after lesson - hana 10th Mar 26.pdf , 
+> 試用 我們的神 hana after lesson .mp3 練習我們的神執過嘅新patterns and fills 
+> 
+> 
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-2-3 已購買8堂，有效期至 2026-5-26
