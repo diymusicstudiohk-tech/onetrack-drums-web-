@@ -13,8 +13,7 @@
 
 > [!NOTE] **[2026-3-9]**
 > today covered FULL SONG - creep - radioehead - nuria .mp4
->預習： 
-
+>預習： Come as you are - Nirvana
 https://www.youtube.com/watch?v=U0-jqyDV5tE
 
 > [!NOTE] **[2026-2-25]**
