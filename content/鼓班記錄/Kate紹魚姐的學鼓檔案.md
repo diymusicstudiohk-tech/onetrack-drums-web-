@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-11]**
-> 待輸入
+> today tried 0.85x full real rolling score - 手繪黑卡.mp4
+> source: full real rolling score - 手繪黑卡.mp4
 
 > [!NOTE] **[2026-02-11]**
 > 
@@ -45,6 +46,11 @@
 > 6_  2025-12-3
 > 7_  2025-12-22
 > 8_  2025-12-29
+
+> [!NOTE] **[2025-12-29]**
+> 自己整動態譜！today tried 0.8x TILL MB AFTER 2ND - sica - 迷途時發吽哣 .mp4
+> (Files: 迷途時發吽哣_Space_Out_-_Sica_-_Full_Score.pdf, TILL MB AFTER 2ND - sica - 迷途時發吽哣 .mp4)
+>
 
 > [!NOTE] **[2025-12-22]**
 > today tried 0.8-0.9x till 1st C - sica - 迷途時發吽哣

@@ -19,7 +19,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-11]**
-> 待輸入
+> 今日 執 到 till drum solo - resurrection power.mp3
+> source:  Resurrection Power.pages, .pdf
 
 > [!NOTE] **[2026-03-04]**
 > 今日整咗 深觸我心 同 以色列的聖者 嘅出隊嘅譜
