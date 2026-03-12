@@ -27,7 +27,8 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-11]**
-> 待輸入
+> > tried 0.7x  till bar 64 WITH ending fill - canned heat grade 5.mp4 
+> > 要整番中間嗰d develop bar 嘅 動態譜
 
 > [!NOTE] **[2026-03-04]**
 > 
