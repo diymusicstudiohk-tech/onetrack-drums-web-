@@ -6,17 +6,20 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-03-13
+> 2_
+> 3_
+> 4_
 >
 
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-13]**
-> 待輸入
+>今日執咗出隊嘅 # 君尊僕人，Jesus, Name Above all Names
 >
 
 > [!QUOTE] ***購買記錄***
-> 待輸入
-**
+> 在 2026-03-13 已購買4堂，有效期至 2026-05-08
+> ![[鼓班記錄/attachments/Raymond-Receipt-2026-03-13.jpg]]
 
 ---
 
@@ -34,8 +37,8 @@
 >
 
 > [!NOTE] **[2026-02-20]**
-> 繼續執 How Great Thou Art 執完全首拍咗 demo 
-> 
+> 繼續執 How Great Thou Art 執完全首拍咗 demo
+>
 > source : HOW GREAT THOU ART full song .mp4
 >
 
@@ -45,13 +48,13 @@
 >
 
 > [!NOTE] **[2026-1-23]**
-> 開碗8th full : 140bpm 
+> 開碗8th full : 140bpm
 > 開碗 8th single hand without kick : R: 180bpm , L: 145bpm
 >
 
 > [!QUOTE] ***購買記錄***
-在 2026-1-23 已購買4堂，有效期至 2026-3-23
-(receipt)
+> 在 2026-1-23 已購買4堂，有效期至 2026-3-23
+> (receipt)
 
 
 
@@ -88,13 +91,13 @@
 >
 
 > [!NOTE] **[2025-6-11]**
-> 今日執咗 4.什一奉獻歌 嘅譜 ，115bpm 1/8th swing 
+> 今日執咗 4.什一奉獻歌 嘅譜 ，115bpm 1/8th swing
 > https://docs.google.com/document/d/1kqQ7GyyemDTtRgdZwoyt4f_iDHyKdewf/edit?usp=sharing&ouid=109402162135679368920&rtpof=true&sd=true
 >
 
 > [!NOTE] **[2025-6-6]**
-> 今日執咗 深哉深哉耶穌的愛12/8  譜 
-> 
+> 今日執咗 深哉深哉耶穌的愛12/8  譜
+>
 > https://docs.google.com/document/d/1uQecfwz49WfvTyty7HvY2oKWZvZ48Df6/edit?usp=sharing&ouid=109402162135679368920&rtpof=true&sd=true
 >
 
