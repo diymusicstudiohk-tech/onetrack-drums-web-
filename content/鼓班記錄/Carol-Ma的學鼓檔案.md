@@ -16,7 +16,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-12]**
-> 待輸入
+>  SOURCE: DEMO FULL SONG - 重建大衛的帳幕.mp4
+>  SOURCE: FULL SONG - 重建大衛的帳幕.PDF
+>  
+> 今日執咗 2nd V to outro ，重建大衛的帳幕，tried 0.8x 0.8x DEMO FULL SONG - 重建大衛的帳幕.mp4
 >
 
 > [!NOTE] **[2026-1-29]**

@@ -16,9 +16,13 @@ Rockschool grade 5 pick : tiberius
 > 5_  2026-2-6
 > 6_  2026-2-27 (45min)
 > 7_  2026-03-06
-> 8_
+> 8_  2026-03-13
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-03-13]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-03-06]**
 > 今日試打咗 tiberius 原速 ，double time 嘅 fill 同 kick , last section 嘅 kick 都唔穩定

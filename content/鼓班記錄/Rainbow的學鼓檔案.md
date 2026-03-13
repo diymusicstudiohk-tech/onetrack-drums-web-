@@ -20,7 +20,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-12]**
-> 待輸入
+> SOURCE: drums only- till 2nd V - 如果花火可不消散.mp4
+> 
+> SOURCE: till 2nd V - 如果花火可不消散.mp4
+> 
+> today tried 0.7-8x till 2nd V - 如果花火可不消散.mp4
 >
 
 > [!NOTE] **[2026-2-24]**

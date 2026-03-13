@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-12]**
-> 待輸入
+> today tried 0.75x - 0.9x  - Last C - 幸福之歌.mp4
+> Last C3 第二個bar 嘅 手腳協調較kick
+> next: change end song 
 >
 
 > [!NOTE] **[2026-2-26]**
