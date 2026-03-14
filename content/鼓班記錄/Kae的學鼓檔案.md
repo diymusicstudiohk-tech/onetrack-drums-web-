@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-14]**
-> 待輸入
+> today tried 0.8x from beginning to Last C2 - 榮耀的呼召 kae ver.mp4 
+> 下次整埋repeat coda 就 end song
 >
 
 > [!NOTE] **[2026-3-7]**

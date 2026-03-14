@@ -18,7 +18,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-14]**
-> 待輸入
+> 今日 cover 咗原速 full song  - ケセラセラ-Mrs.GREEN APPLE 生徒様用発表会アレンジ 叩いてみた ドラム練習動画
+>
+>開始咗 
+>
+>source: DrumCover】ピノキオピー - 魔法少女とチョコレゐト【叩いてみた】 (128kbit_AAC)-E major-150bpm-440hz
+>
+>用 cover 版本做參考去打 魔法少女 
+>
+>today tried 
+>0.8x till 1st PC - ピノキオピー - 魔法少女とチョコレゐト.mp4
+>
+>
 >
 
 > [!NOTE] **[2026-1-19]**
