@@ -19,7 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-13]**
-> 待輸入
+> 今日 review 咗 Natalie同 clement 錄嘅婚禮demo , 再次執番兩首歌
+> 
+> source: Ellen , Natalie, Clement - Wedding Worship.pages ; 13rd Mar 26 ver - Ellen , Natalie, Clement - Wedding Worship.pdf
 >
 
 > [!NOTE] **[2026-03-06]**

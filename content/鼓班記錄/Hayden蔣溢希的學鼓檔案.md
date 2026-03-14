@@ -3,7 +3,7 @@
 > [!TIP] [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
 > [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
 > [Remark: 2nd Aug 沖繩]
-> Kason, Jillian
+> Kason ( 字醜) , Jillian (演奏級 violin) ； Nemesis: Kaspar (1st in Eng, Science)
 
 ---
 
@@ -20,7 +20,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-13]**
-> 待輸入
+> 今日 cover 咗 原速  主的喜樂是我力量
+> source : UPDATED louder drums- 主的喜樂是我力量 .mp4
 >
 
 > [!NOTE] **[2026-03-06]**

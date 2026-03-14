@@ -18,16 +18,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-13]**
-> 待輸入
->
+> 今日 Makis(巻き寿司) 試咗 0.9x-1x grade 3 - indecisive full song
+>next: maybe try grade 4 rockschool
 
 > [!NOTE] **[2026-03-06]**
 > 今日 Makis(巻き寿司) 試咗 grade 3 - indecisive 0.8x full song
 > 
->
-
-> [!NOTE] **[2026-02-20]**
-> 待輸入
 >
 
 > [!NOTE] **[2026-02-20]**
