@@ -22,7 +22,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-14]**
-> 待輸入
+>  ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+> ROCKSCHOOL GRADE 7 FIVE SONGS WITH DRUMS.mp4
+> 
+> 繼續練習一口氣打哂 五首 原速 Grade 7 考試歌都OK（without drums ver) 
 >
 
 > [!NOTE] **[2026-3-7]**

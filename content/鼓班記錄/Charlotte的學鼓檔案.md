@@ -19,6 +19,23 @@
 
 > [!NOTE] **[2026-3-14]**
 > 
+> 唔洗整動態譜，就咁show網頁就得
+> today tried full song  LOUDER DRUMS enchated taylor swift.mp4
+> 
+> bar 83-90 ( Bridge ) 
+> https://gscribe.com/share/BvcTcdEC2DGmvhGh7
+> 
+> bar 91-92(empty) 93-98
+> https://gscribe.com/share/jWx6dPa8GAj3GbQU7
+> 
+> bar 99 - 106
+> https://gscribe.com/share/BFKxdsy33RmMF4PJ6
+> 
+> bar 107-114
+> https://gscribe.com/share/zsSVCge4AQXay6B59
+> 
+> bar 115 to end
+> https://gscribe.com/share/RzeKGqjVYwPFXuTcA
 >
 
 > [!NOTE] **[2026-3-9]**
