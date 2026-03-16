@@ -18,7 +18,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-15]**
-> 待輸入
+> 超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
+> https://gscribe.com/share/RiNqT3Z5WDLCn4DYA
+>wok:155 bpm
+>
+>開碗 16th (2) 
+>https://gscribe.com/share/6jtm9qAFNJcSFgn56
+>wok: 155bpm 
+>
+>bar 29 - 32 
+>https://gscribe.com/share/oUTNg192vdea7KEB8
+>
+>today tried 0.8x , grad5 - tiberius till bar 32
+>
 
 > [!QUOTE] ***購買記錄***
 > （待填寫）
