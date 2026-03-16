@@ -25,11 +25,24 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-16]**
-> 待輸入
+> 
+> source:為榮耀的創造 original.pdf
+> 
+> today tried 為榮耀的創造0.9x full song 
+> full song kick after Bridge and final chorus
+> 
+> bar 73 ( 32th fill practice)
+> https://gscribe.com/share/oaMPeAWGo9JBUd4XA
+> 
+> bar 76
+> https://gscribe.com/share/LNY9wLomRUJmK8CbA
+> 
+> 
 >
 
 > [!QUOTE] ***購買記錄***
-> 待填寫
+> 在 2026-3-16 已購買8堂，有效期至 2026-7-16
+> ![[鼓班記錄/attachments/Christy-Receipt-2026-03-16.jpg]]
 
 ---
 
