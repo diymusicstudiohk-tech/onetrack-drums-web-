@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: Seventeen, n.flying ;]
+> [!TIP] [Remark: Seventeen, n.flying ;] wishlist: rooftop , i like you (n.flying)
 
 ---
 
@@ -18,7 +18,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-17]**
-> 待輸入
+> 今日cover 咗 原速 手繪黑卡～
+> 
+> source: N.Flying - Rooftop p1.png, N.Flying - Rooftop p2.png, N.Flying - Rooftop p3.png
+> source: rooftop （資料夾for stems) 
+> 
+> 今日tried 0.9x rooftop till bar 37
 
 > [!NOTE] **[2026-03-11]**
 > today tried 0.85x full real rolling score - 手繪黑卡.mp4
