@@ -17,7 +17,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-16]**
-> 待輸入
+> 今日試咗 d swing/shuffle pattern  at 120bpm  with 新離堂曲 
+> 
+> 離堂曲 pattern 1
+> https://gscribe.com/share/54JCB7n38ntiZAf56
+> 
+> 離堂曲 pattern2
+> https://gscribe.com/share/jvXUUkWNptgmT5Jn8
 >
 
 > [!NOTE] **[2026-02-27]**

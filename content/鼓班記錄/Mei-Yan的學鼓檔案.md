@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-16]**
-> 待輸入
+>  source: full demo - 祢在萬有之上 .mp4, full song 祢在萬有之上.pdf
+>  
+>  今日 跟我嘅 祢在萬有之上 demo 試咗全首歌 0.9x （斷開咁試）
+>  另外試玩咗 rsl grade 6 tech ex, group A 55-80bpm
 >
 
 > [!NOTE] **[2026-02-20]**

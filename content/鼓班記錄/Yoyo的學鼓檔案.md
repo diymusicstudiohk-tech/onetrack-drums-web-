@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 全班第一班長， 💅🏻 🦻🏻]
+> [!TIP] [Remark: 全班第一班長， 💅🏻 🦻🏻] , econ , bafs, APL, 
 
 ---
 
@@ -14,7 +14,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-16]**
-> 待輸入
+> source: till 2nd C 說了再見.mp4, FOLDER: 周杰伦 说了再见鼓谱drum scoreドラム楽譜
+> 
+> today tried 0.9-1x till 2nd C 說了再見.mp4
+> CHORUS main pattern not stable at 1x
 >
 
 > [!NOTE] **[2026-02-21]**
