@@ -18,8 +18,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-17]**
-> 待輸入
+> TIBERIUS DOUBLE TIME 左頁
+> https://gscribe.com/share/3oUqWsTFB7ZHbeeV9
+> 
+> TIBERIUS DOUBLE TIME 右頁
+> https://gscribe.com/share/6EcZJtRpnGNa9mMN9
+> 
+> 超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
+> https://gscribe.com/share/RiNqT3Z5WDLCn4DYA
+>wok:155 bpm
 
+> 
 > [!NOTE] **[2026-3-15]**
 > 超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
 > https://gscribe.com/share/RiNqT3Z5WDLCn4DYA
