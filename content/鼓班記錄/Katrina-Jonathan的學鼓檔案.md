@@ -2,8 +2,8 @@ r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 > [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi   💔 Hanna  💔 Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
-[Jon 💔 Eve*, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
+[Mimi 😱🐍  💔 Hanna  💔 Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
+[Jon 😱  🕷️ 💔 Eve*, 🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
 
 💡**Remark:**
 Katrina 五首考試歌影片
@@ -31,9 +31,14 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-19]**
-> **Jonathan:** 待輸入
-> **Mimi:** 待輸入
+> **Jonathan:** 
+> today tried 0.7x  grade 4 - weak
+> tried 0.7x till bar 35
+> 
+> **Mimi:** 今日 cover 咗  Grade 1 - Yeah 原速
+> 開始咗 supersonic 0.7x , till bar 32
 >
+>source: Katrina Grade 1 5 songs with drums.mp4
 
 > [!NOTE] **[2026-03-12]**
 **Jonathan:** 
@@ -42,7 +47,7 @@ Jonathan 五首考試歌 影片
 > 
 > source: Weak ¦ Rockschool Drums Grade 4 2024 (1080p_30fps_H264-128kbit_AAC).mp4
 >
-> **Mimi:** today tried 0.8-0.9x Grade 1 - Yeah full son g
+> **Mimi:** today tried 0.8-0.9x Grade 1 - Yeah full song
 > source: Katrina Grade 1 5 songs with drums.mp4
 >
 

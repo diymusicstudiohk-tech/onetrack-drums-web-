@@ -13,7 +13,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-19]**
-> 待輸入
+> 
+> source: mary on a cross -ghost - drum cover - screen recording .MP4
+> 
+> Mary On A Cross GHOST main pattern loop practice 
+> https://gscribe.com/share/mbwKokxctBZKjWXeA
+>today highest tempo: 115bpm
+>
+>
+>
+>今日cover 咗 幸福之歌 last chorus (0.8x-1x) 
 >
 
 > [!NOTE] **[2026-03-12]**
