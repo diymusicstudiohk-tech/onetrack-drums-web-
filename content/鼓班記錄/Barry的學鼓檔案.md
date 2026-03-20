@@ -9,6 +9,33 @@ Rockschool grade 5 pick : tiberius
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-03-20
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+>
+***課堂記錄***
+
+> [!NOTE] **[2026-03-20]**
+> source : WITH ending fill - canned heat grade 5.mp4
+>
+> 今日tried 0.7x till bar 31, canned heat
+> whatsapp cap 咗 d 開合 hi-hat 嘅pattern 要練咗先
+>
+>
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-03-20 已購買8堂，有效期至 2026-07-10
+> ![[鼓班記錄/attachments/532268918_1773977226.jpg]]
+**
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-1-9
 > 2_  2026-1-16
 > 3_  2026-1-23
@@ -20,9 +47,7 @@ Rockschool grade 5 pick : tiberius
 >
 ***課堂記錄***
 
-> [!NOTE] **[2026-03-20]**
-> 待輸入
->
+
 
 > [!NOTE] **[2026-03-13]**
 > 今日試打咗 tiberius 0.9X- 原速 ，double time 嘅 fill 同 kick , last section 嘅 kick 都唔穩定
