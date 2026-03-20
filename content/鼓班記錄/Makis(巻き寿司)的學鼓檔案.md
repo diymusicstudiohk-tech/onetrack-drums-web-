@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-20]**
-> 待輸入
+>
+>source: IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4 (720p_60fps_H264-128kbit_AAC).mp4
+>
+ 今日開始同cover 咗 Grade 4 - In my place 全首 0.8-0.9x 
 >
 
 > [!QUOTE] ***購買記錄***

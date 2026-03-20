@@ -19,7 +19,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-20]**
-> 待輸入
+> 今日執埋 FINAL - Ellen , Natalie, Clement - Wedding Worship
+> wedding service 祝順利！
 >
 
 > [!NOTE] **[2026-03-13]**
