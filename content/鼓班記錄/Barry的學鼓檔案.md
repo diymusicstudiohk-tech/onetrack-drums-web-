@@ -20,12 +20,18 @@ Rockschool grade 5 pick : tiberius
 >
 ***課堂記錄***
 
+> [!NOTE] **[2026-03-20]**
+> 待輸入
+>
+
 > [!NOTE] **[2026-03-13]**
 > 今日試打咗 tiberius 0.9X- 原速 ，double time 嘅 fill 同 kick , last section 嘅 kick 都唔穩定
 > 
 >超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
 >https://gscribe.com/share/kgu4bgCZnfm6UiJe6
 >^^^^^^^ 今日 best score : 160 bpm 
+>
+>
 >
 >bar 1-7 
 >https://gscribe.com/share/JUzgKzFbPzNBUzC39
