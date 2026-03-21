@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 自稱 I 人 😱]
+> [!TIP] [Remark: 自稱 I 人 😱] 26年復活節：胡志明, 
 
 
 ---
@@ -18,8 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-21]**
-> 待輸入
->
+> 今日cover 咗0.95x-1x  太陽與地球 
+> 
+> next: 我推的孩子嗰首歌
+>可以試下 magnesium
 
 > [!NOTE] **[2026-3-14]**
 >  source: full rerolling score 太陽與地球.mp4

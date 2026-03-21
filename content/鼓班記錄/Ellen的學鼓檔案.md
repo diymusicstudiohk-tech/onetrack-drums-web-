@@ -7,6 +7,29 @@
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-3-20
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+>
+***課堂記錄***
+
+> [!NOTE] **[2026-03-20]**
+> 今日執埋 FINAL - Ellen , Natalie, Clement - Wedding Worship
+> wedding service 祝順利！
+>
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-3-21 已購買8堂；有效期至 2026-7-11
+> ![[鼓班記錄/attachments/Ellen-Receipt-2026-03-21.jpg]]
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2025-12-12
 > 2_  2025-12-19
 > 3_  2026-1-9
@@ -17,11 +40,6 @@
 > 8_  2026-03-13
 >
 ***課堂記錄***
-
-> [!NOTE] **[2026-03-20]**
-> 今日執埋 FINAL - Ellen , Natalie, Clement - Wedding Worship
-> wedding service 祝順利！
->
 
 > [!NOTE] **[2026-03-13]**
 > 今日 review 咗 Natalie同 clement 錄嘅婚禮demo , 再次執番兩首歌
