@@ -1,5 +1,6 @@
 > [!TIP] [Remark: Hayden 用左手mx] Twinkle : 銀河守護者，譚扯謙鐘意肥妹仔同學范思婷
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> 
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -11,11 +12,30 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-21]**
-> 待輸入
->
+> 
+> **Twinkle**: 
+> source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
+> 
+> 今日開始第五首 Grade 4 - Noisy neighbour
+> tried 0.7x till bar 34 Grade 4 - Noisy neighbour
+> 
+> Hayden: 
+> 
+> 今日繼續練 0.8x 無鼓版  exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+> 練咗頭三首
+
+> [!NOTE] ### 成團背景
+hrtz.wav 係透過 Mnet 樂團生存節目 **「STEAL HEART CLUB」**（2025年）選出嘅5人樂隊，於 2025年12月23日正式確定成員陣容。
+###成員
+| 윤영준 (Youn Youngjun) | 鍵盤 | 前韓國雙人樂隊 NND 成員 |
+| 리안 (Riaan) | 主唱 | 與 Dane 係高中同學 |
+| 데인 (Dane) | 低音結他 | 與 Riaan 同一家公司出道 |
+| 케이텐 (Keiten) | 結他 | 節目期間與 Hagiwa 同住 |
+| 하기와 (Hagiwa) | 鼓手 | 日本人，前知名網紅（戴口罩出鏡）|
 
 > [!QUOTE] ***購買記錄***
-> 在 待輸入 已購買4堂；有效期至 待輸入
+> 在 2026-3-21 已購買4堂；有效期至 2026-5-16
+> ![[鼓班記錄/attachments/Twinkle-Receipt-2026-03-21.jpg]]
 
 ---
 

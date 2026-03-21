@@ -22,7 +22,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-21]**
-> 待輸入
+> 
+> ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+> ROCKSCHOOL GRADE 7 FIVE SONGS WITH DRUMS.mp4
+> 
+> intro to verse
+> 
+> https://gscribe.com/share/wemrtj1wHn5qJrtF6
+> 
+> 今日練 razor head ，三吓 8th 音符 crash 嗰d 要轉用 RLR 
+> 下堂要重心練練呢個
 >
 
 > [!NOTE] **[2026-3-14]**

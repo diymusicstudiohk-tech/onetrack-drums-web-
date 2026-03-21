@@ -14,13 +14,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-21]**
-> 待輸入
+> 
+> source: Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video] (128kbit_AAC)-C major-74bpm-441hz
+> 
+> source: Leave_the_Door_Open-Bruno_Mars,_Anderson_.Paak,_Silk_Sonic.pdf
+> 
+> 今日tried full song 0.8x 
 >
 
 > [!NOTE] **[2026-02-28]**
 > 
 > 今日 cover  咗 die with a smile 原速
 > next: Leave_the_Door_Open-Bruno_Mars,_Anderson_.Paak,_Silk_Sonic
+> 
+> 
 > 
 
 > [!NOTE] **[2026-02-21]**

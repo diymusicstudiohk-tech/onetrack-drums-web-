@@ -18,7 +18,7 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-21]**
-> 待輸入
+>  today tried 0.9-1x , full song 榮耀的呼召 kae ver.mp4
 >
 
 > [!QUOTE] ***購買記錄***
