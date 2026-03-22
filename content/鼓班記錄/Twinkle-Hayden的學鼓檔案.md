@@ -13,16 +13,15 @@
 
 > [!NOTE] **[2026-3-21]**
 > 
-> **Twinkle**: 
 > source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
 > 
+> **Twinkle**: 
 > 今日開始第五首 Grade 4 - Noisy neighbour
 > tried 0.7x till bar 34 Grade 4 - Noisy neighbour
 > 
 > Hayden: 
-> 
 > 今日繼續練 0.8x 無鼓版  exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
-> 練咗頭三首
+> 
 
 > [!NOTE] ### 成團背景
 hrtz.wav 係透過 Mnet 樂團生存節目 **「STEAL HEART CLUB」**（2025年）選出嘅5人樂隊，於 2025年12月23日正式確定成員陣容。
