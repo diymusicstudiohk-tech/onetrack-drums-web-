@@ -16,7 +16,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-23]**
-> 待輸入
+> 
+> source:p1_KATSUO ONO ( Detective Conan-OST
+> source:p2_KATSUO ONO ( Detective Conan-OST
+> 
+> 今日開始咗柯南主題曲去到p.1 B段尾，tried 100-100bpm (0.7-0.8x)
+> 未整louder drum version 嘅bg track/vdo 
+> 
+> https://gscribe.com/share/W5MTgryit7b2Ffy47
+> https://gscribe.com/share/aM9qSvhKu7VTNsgn7
 >
 
 > [!NOTE] **[2026-3-9]**

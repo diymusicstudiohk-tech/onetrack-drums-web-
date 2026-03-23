@@ -16,7 +16,9 @@
 > 8_
 
 > [!NOTE] **[2026-3-23]**
-> 待輸入
+> today tried 0.9x full song - 在祢沒有難成的事 , not stable
+>
+> ![[鼓班記錄/attachments/532268918_1774264290.jpg]]
 >
 
 > [!NOTE] **[2026-3-9]**

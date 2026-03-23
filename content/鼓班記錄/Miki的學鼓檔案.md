@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-23]**
-> 待輸入
+> source:轉回 C and MB only.mp4
+> 
+> today tried 0.9x 轉回 C and MB only.mp4
 >
 
 > [!QUOTE] ***購買記錄***
