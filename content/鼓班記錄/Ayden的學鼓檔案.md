@@ -18,7 +18,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-22]**
-> 待輸入
+> 
+> 今日繼續練習 Grade 5 - Tiberius 的 double time 兩頁，試過 0.6x (110bpm) 至 0.7x 
+> 
+> TIBERIUS DOUBLE TIME 左頁
+> https://gscribe.com/share/3oUqWsTFB7ZHbeeV9
+> 
+> TIBERIUS DOUBLE TIME 右頁
+> https://gscribe.com/share/6EcZJtRpnGNa9mMN9
+> 
+> 超短爆ss for tiberius double time  fill  雜綿 (3, 7 ss roll) 
+> https://gscribe.com/share/RiNqT3Z5WDLCn4DYA
+>wok:155 bpm
 
 > [!NOTE] **[2026-03-17]**
 > TIBERIUS DOUBLE TIME 左頁

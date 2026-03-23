@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-22]**
-> 待輸入
+>  source : LOUDER DRUMS -UPDATED - 静降想 copy.mp4
+>  
+>  today tried 0.9x full song , next end song ,  LOUDER DRUMS -UPDATED - 静降想 copy.mp4
+
 
 > [!NOTE] **[2026-3-15]**
 > source : LOUDER DRUMS -UPDATED - 静降想 copy.mp4
