@@ -28,7 +28,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-23]**
-> 待輸入
+> 
+> SOURCE: louder drums with click- Black Smoke Rising.mp4
+> 
+> 今日開 Grade 5 - Black Smoke Rising, 
+> TODAY TRIED TILL BAR 39
+> 
+> bar 3 -8(revised) 
+> https://gscribe.com/share/1Xsa5s8b8taQYJxi9
 >
 
 > [!NOTE] **[2026-03-06]**
