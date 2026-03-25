@@ -25,7 +25,26 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-24]**
-> 待輸入
+> 
+> 今日繼續 0.9-1x, 為榮耀的創造 original version
+> 係爭第二頁 32th fill + 32th marching 未好準
+> 
+> source: 資料夾"Made For Your Glory】現場敬拜MV (Worship MV) - 讚美之泉敬拜讚美 (30) (128kbit_AAC)-A major-68bpm-441hz"
+> 
+> 下次可能要練 R L R L R L K R+L
+> 
+> bar 73 ( 32th fill practice) << today best :130bpm 
+> https://gscribe.com/share/xVgAvaCWrRXY64QX7
+> 
+> 為榮耀的創造 bar 73 sticking practice << today best :110bpm 
+> https://gscribe.com/share/Sv24Dff5ozJPjTAd8
+> 
+> bar 83 practice
+> https://gscribe.com/share/97D6gcEQW7eSkoB38
+> 
+> 
+> 
+
 >
 
 > [!NOTE] **[2026-3-16]**

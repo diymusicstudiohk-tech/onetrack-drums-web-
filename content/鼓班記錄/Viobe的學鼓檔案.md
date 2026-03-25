@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-24]**
-> 待輸入
+> SOURCE: full song 嘉賓 - 張遠.mp4
+> 
+> 今日整咗全首動態譜，試咗 0.65-7x till Bridge not stable
 >
 
 > [!NOTE] **[2026-3-10]**

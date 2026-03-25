@@ -19,12 +19,15 @@ or Bryan’s take Geek and Window seat.
 > 2_  2026-02-25
 > 3_  2026-03-04
 > 4_  2026-03-11
-> 5_  
-> 6_  
-> 7_  
+> 5_  2026-03-25
+> 6_
+> 7_
 > 8_  (45min)
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-03-25]**
+> 待輸入
 
 > [!NOTE] **[2026-03-11]**
 > > tried 0.7x  till bar 64 WITH ending fill - canned heat grade 5.mp4 
