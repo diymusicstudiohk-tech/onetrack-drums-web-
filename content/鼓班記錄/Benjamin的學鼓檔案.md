@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
->[!INFO]- Isaac, Scotty@Scottyducky@YT, Owen
+>[!INFO] Isaac, Scotty@Scottyducky@YT, Owen；； 1月 20 日生日
 **Remark:**
 有興趣嘅 grade 4 歌 : 
 scary, hammerblow, in my place , NOISY NEIGHBOUR
@@ -27,11 +27,15 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-25]**
-> 待輸入
+> 
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried Grade 5- canned heat 0.7x full song not stable
+> 
 
 > [!NOTE] **[2026-03-11]**
-> > tried 0.7x  till bar 64 WITH ending fill - canned heat grade 5.mp4 
-> > 要整番中間嗰d develop bar 嘅 動態譜
+> tried 0.7x  till bar 64 WITH ending fill - canned heat grade 5.mp4 
+> 要整番中間嗰d develop bar 嘅 動態譜
 
 > [!NOTE] **[2026-03-04]**
 > 

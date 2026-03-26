@@ -27,11 +27,16 @@ Jonathan 五首考試歌 影片
 > 7_  2026-03-12 Katrina
 > 8_  2026-03-19 Jonathan
 > 9_  2026-03-19 Katrina
+> 10_  2026-03-26 Katrina
 >
 ***課堂記錄***
 
+> [!NOTE] **[2026-03-26]**
+> **Mimi:** 待輸入
+>
+
 > [!NOTE] **[2026-03-19]**
-> **Jonathan:** 
+> **Jonathan:**
 > today tried 0.7x  grade 4 - weak
 > tried 0.7x till bar 35
 > 
