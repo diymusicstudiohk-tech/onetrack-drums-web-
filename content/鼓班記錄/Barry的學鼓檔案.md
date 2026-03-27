@@ -21,7 +21,25 @@ Rockschool grade 5 pick : tiberius
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-27]**
-> 待輸入
+> 
+> 連 16th 攝ghost snare pattern :
+> today best score : 130bpm 
+> 
+> https://gscribe.com/share/aPau8d5CdkxfWoxu9
+> 
+> Canned heat final 4 bars (today best : 110bpm)
+> https://gscribe.com/share/ecsjoqH3msTJm4mR6
+> 
+> Canned heat 3 hard patterns (today best : 60bpm , very kick)
+> https://gscribe.com/share/xvUDKMtSRmPDTAbT8
+> 
+> tried 0.7x canned full song , not stable bars:
+> bar 23, 31, 47, 51, 55
+> 
+> 
+> SOURCE: UPDATED WITH ending fill - canned heat grade 5.mp4
+
+
 >
 
 > [!NOTE] **[2026-03-20]**
