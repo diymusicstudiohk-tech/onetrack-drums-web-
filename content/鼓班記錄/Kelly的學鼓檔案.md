@@ -13,7 +13,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-26]**
-> 待輸入
+> TODAY TRIED 0.9X till 1st C2 Mary On A Cross.mp4, NOT STABLE
+> 
+> SOURCE: till 1st C2 Mary On A Cross.mp4
+> 
+> RAW source: mary on a cross -ghost - drum cover - screen recording .MP4
+> 
+> RAW source: 我cap 咗圖喺desktop 資料夾 "mary on a cross" 係cover rolling score 嘅 cap 圖譜
 >
 
 > [!NOTE] **[2026-03-19]**

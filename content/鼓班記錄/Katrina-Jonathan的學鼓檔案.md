@@ -2,8 +2,8 @@ r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 > [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi 😱🐍  💔 Hanna  💔 Verna ❌Jumbo, 👭 Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
-[Jon 😱  🕷️ 💔 Eve*, 🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
+[Mimi 😱🐍  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
+[Jon 😱  🕷️ 💔 Eve*,🏀 unknown enemy,  🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
 
 💡**Remark:**
 Katrina 五首考試歌影片

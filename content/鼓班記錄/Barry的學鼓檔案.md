@@ -10,7 +10,7 @@ Rockschool grade 5 pick : tiberius
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-03-20
-> 2_
+> 2_  2026-03-27
 > 3_
 > 4_
 > 5_
@@ -19,6 +19,10 @@ Rockschool grade 5 pick : tiberius
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-03-27]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-03-20]**
 > source : WITH ending fill - canned heat grade 5.mp4
