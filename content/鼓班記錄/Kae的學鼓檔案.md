@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-28]**
-> 待輸入
+> SOURCE: till 2nd C 將天敞開(2026updated ver).mp4
+> 
+> today begin and tried 0.7x till 2nd C 將天敞開(2026updated ver).mp4
 >
 
 > [!NOTE] **[2026-3-21]**
