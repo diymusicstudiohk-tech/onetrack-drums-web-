@@ -16,8 +16,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-27]**
-> 待輸入
+> SOURCE: till 2nd C Homura- LiSA.mp4
 >
+> 今日開 0.7-0.8x  till 2nd C Homura- LiSA.mp4
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-03-20 已購買8堂，有效期至 2026-07-10

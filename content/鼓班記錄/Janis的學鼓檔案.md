@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-27]**
-> 待輸入
+> source: 如果花火可不消散 - 晚安莉莉.pdf
+> **source**: click -louder drums-如果花火可不消散.mp4
+> 
+> 今日重溫咗全首歌 0.8-0.9x , 1st 2nd PC , 第二頁尾至第三頁not stable
 >
 
 > [!NOTE] **[2026-3-10]**
@@ -34,7 +37,9 @@
 >  bar 127 to 136
 >  https://gscribe.com/share/FecGjnXMt67tSYe5A
 >  
->  
+>  bar141-144
+>  https://gscribe.com/share/GGKGHLswpganrJ1i8
+> 
 
 > [!NOTE] **[2026-3-3]**
 > source: 如果花火可不消散 - 晚安莉莉.pdf

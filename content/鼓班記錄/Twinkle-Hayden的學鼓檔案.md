@@ -22,14 +22,18 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-3-21
-> 2_
+> 2_  2026-3-28 (Twinkle only)
 > 3_
 > 4_
 >
 ***課堂記錄***
 
+> [!NOTE] **[2026-3-28]**
+> 待輸入
+>
+
 > [!NOTE] **[2026-3-21]**
-> 
+>
 > source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
 > 
 > **Twinkle**: 

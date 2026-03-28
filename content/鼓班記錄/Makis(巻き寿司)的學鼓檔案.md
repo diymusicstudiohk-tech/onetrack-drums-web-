@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌  鐘華仁
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北  ❤️ 鐘華仁 🤭Gisella
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
  
@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-27]**
-> 待輸入
+> 
+> Makis cover 咗Grade 4 考試原速  IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4
+> 
+> airdrop 咗 0.8X noisy neighbour rsl grade 4 with solo .mp4俾makis
+> 
+> 今日開另一首 Grade 4 , today tried 0.7x Grade 4 noisy neighbour till bar 18 
 >
 
 > [!NOTE] **[2026-03-20]**

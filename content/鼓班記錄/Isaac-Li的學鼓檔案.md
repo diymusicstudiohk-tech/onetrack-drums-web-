@@ -16,8 +16,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-27]**
-> 待輸入
+> 
+> Fill at Last C1 C2 (today best 60bpm, target 70)
+> https://gscribe.com/share/dUafGCZZsGN1TFRm6
+> 
+> hand kick kick practice(today best 60bpm, target 70)
+> https://gscribe.com/share/tr22EVSGmgmSy8ux6
+> 
+> Fill at PC before last C1
+>https://gscribe.com/share/9Uk8k7HciXeEW1NH6
 >
+>上面呢三個 fill practice 今日打到 60bpm , 目標要打快 d 打到 70bpm 
+「求主給」其他部份today tried 0.9x ，但應有能力打到 原速～
 
 > [!NOTE] **[2026-03-13]**
 > tried 0.9x till 2nd C 求主給 isaac ver.mp4
