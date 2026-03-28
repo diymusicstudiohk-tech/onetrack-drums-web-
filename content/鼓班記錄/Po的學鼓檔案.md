@@ -18,8 +18,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-28]**
-> 待輸入
+> SOURCE: 26UPDATED - full moon 有馬 FULL SONG ROLLING SCORE.mp4
+> 
+> 今日開始重溫 this at 0.7x till B after 2nd C
+> FINAL CUT PRO 有 reddit session "full moon 有馬"
+> 
 > ![[鼓班記錄/attachments/532268918_1774663471.jpg]]
+> ![[鼓班記錄/attachments/532268918_1774665096.jpg]]
 >
 
 > [!NOTE] **[2026-3-21]**
