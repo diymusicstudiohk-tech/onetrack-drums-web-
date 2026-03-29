@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-3-28]**
-> 待輸入
+> source: 長相廝守 - ToNick.pdf
+> 
+> SOURCE : TODAY TRIED 0.7X till 1st MB 長相廝守.mp4
 >
 
 > [!QUOTE] ***購買記錄***
