@@ -12,6 +12,10 @@
 
 ***課堂記錄***
 
+> [!NOTE] **[2026-03-30]**
+> 待輸入
+>
+
 > [!NOTE] **[2026-03-26]**
 > TODAY TRIED 0.9X till 1st C2 Mary On A Cross.mp4, NOT STABLE
 > 
