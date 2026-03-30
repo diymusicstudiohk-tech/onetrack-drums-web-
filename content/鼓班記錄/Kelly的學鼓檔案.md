@@ -13,7 +13,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-30]**
-> 待輸入
+>  source : FULL SONG - Mary On A Cross.mp4
+>  
+>  today tried 0.95x FULL SONG - Mary On A Cross.mp4
+>  next end song 
 >
 
 > [!NOTE] **[2026-03-26]**
@@ -50,3 +53,4 @@ today tried 0.7X - Last C - 幸福之歌.mp4
 
 > [!QUOTE] ***購買記錄***
 在 2026-02-26 已購買4堂，有效期至 2026-04-23
+![[鼓班記錄/attachments/532268918_1774874079.jpg]]

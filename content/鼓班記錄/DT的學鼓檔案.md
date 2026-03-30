@@ -17,7 +17,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-30]**
-> 待輸入
+> source:full rerolling score 太陽與地球.mp4
+> 
+> 今日玩咗 0.9x full rerolling score 太陽與地球.mp4, 去到 bar 51
 >
 
 > [!NOTE] **[2026-3-16]**
