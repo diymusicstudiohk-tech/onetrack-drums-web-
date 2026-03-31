@@ -10,7 +10,37 @@
 > 2_  2026-03-17
 > 3_  2026-03-22
 > 4_  2026-03-29
-> 5_
+> 5_  2026-03-29
+> 5_  2026-03-31
+> 6_
+> 7_
+> 8_
+>
+***課堂記錄***
+
+> [!NOTE] **[2026-03-31]**
+> 待輸入
+>
+
+> [!NOTE] **[2026-03-29]**
+> 
+> 超短爆ss for tiberius double time fill 雜綿 (3, 7 ss roll)  
+[https://gscribe.com/share/RiNqT3Z5WDLCn4DYA](https://gscribe.com/share/RiNqT3Z5WDLCn4DYA)  
+wok:155 bpm 
+>
+>
+> TIBERIUS DOUBLE TIME 左頁 (best :155bpm) 
+> https://gscribe.com/share/3oUqWsTFB7ZHbeeV9
+> 
+> TIBERIUS DOUBLE TIME 右頁
+> https://gscribe.com/share/gAHnX59TJuKS3ZyRA
+> 
+>今日由頭 cover Grade 5 - Tiberius 0.7x 去到double time 完結
+>
+>
+>
+>
+
 > 6_
 > 7_
 > 8_
