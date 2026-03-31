@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-31]**
-> 待輸入
+> 今日 tried 0.7x full song 嘉賓 - 張遠.mp4
+> bar 69-71 打後 bridge, last C not stable 
+> ![[鼓班記錄/attachments/532268918_1774935853.jpg]]
 >
 
 > [!NOTE] **[2026-3-24]**
