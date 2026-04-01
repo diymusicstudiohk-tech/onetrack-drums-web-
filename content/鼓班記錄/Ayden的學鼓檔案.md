@@ -19,7 +19,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-31]**
-> 待輸入
+> 
+> 今日 cover  full song Grade 5 - Tiberius 0.7x not stable
+> 
+> tiberius last part 1
+> https://gscribe.com/share/V46K3msrQTKNZgXT6
+> 
+> tiberius last part 2
+> https://gscribe.com/share/7WAQAryEet4mPimd9
+> 
+> 
 >
 
 > [!NOTE] **[2026-03-29]**
