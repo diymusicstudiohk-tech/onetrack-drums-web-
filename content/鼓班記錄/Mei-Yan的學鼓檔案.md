@@ -17,7 +17,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-01]**
-> 待輸入
+> 
+> grade 6 tech ex group A 
+> https://gscribe.com/share/vrWPDw2xMySy1Lx89
+> today best: single stroke: 85bpm, double stroke stroke 85bpm
+> 
+> 今日玩咗原速祢在萬有之上cover
+> 俾咗 grade 6 ziggy stardust 你預習吓
+> 
 >
 
 > [!NOTE] **[2026-3-16]**

@@ -1,4 +1,4 @@
-
+ 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 >[!INFO] Isaac, Scotty@Scottyducky@YT, Owen；； 1月 20 日生日
 **Remark:**
@@ -27,7 +27,7 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-01]**
-> 待輸入
+> cover咗0.85x grade 5 canned heat
 >
 
 > [!NOTE] **[2026-03-25]**

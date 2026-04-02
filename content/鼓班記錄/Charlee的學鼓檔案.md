@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-01]**
-> 待輸入
+> SOURCE: full song 你的世界.mp4
+> 
+> TODAY TRIED 0.8X full song 你的世界.mp4
 >
 
 > [!NOTE] **[2026-03-25]**
