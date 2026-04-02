@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-02]**
-> 待輸入
+> source: full rerolling score 太陽與地球.mp4
+> 
+>today tried 0.8-9x full rerolling score 太陽與地球.mp4
+>not stable
 >
 
 > [!NOTE] **[2026-03-12]**
