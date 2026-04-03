@@ -32,8 +32,7 @@ Jonathan 五首考試歌 影片
 
 > [!NOTE] **[2026-04-02]**
 > **Jonathan:** 
-> today tried 0.7x  grade 4 - weak
-> tried 0.7x till bar 35
+> today tried 0.7x  grade 4 - weak till bar 35
 > 
 >
 

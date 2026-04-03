@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-02]**
-> 待輸入
+> SOURCE: with click 當昨日凝視着我.mp4
+> source: 當昨日凝視望着我 - 晚安莉莉.pdf
+> 
+> today tried 0.8x full song with click 當昨日凝視着我.mp4
 >
 
 > [!NOTE] **[2026-03-27]**
