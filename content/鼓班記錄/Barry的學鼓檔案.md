@@ -21,7 +21,13 @@ Rockschool grade 5 pick : tiberius
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-03]**
-> 待輸入
+> 
+> SOURCE: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> tried 0.7x canned full song ,
+> canned heat - bar 52-59 要練練～
+> canned heat bar 64-71 都要熟d ～
+> canned heat 最尾練熟d~
 >
 
 > [!NOTE] **[2026-03-27]**
@@ -43,8 +49,6 @@ Rockschool grade 5 pick : tiberius
 > 
 > SOURCE: UPDATED WITH ending fill - canned heat grade 5.mp4
 
-
->
 
 > [!NOTE] **[2026-03-20]**
 > source : WITH ending fill - canned heat grade 5.mp4

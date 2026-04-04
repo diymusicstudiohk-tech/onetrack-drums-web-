@@ -1,6 +1,9 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
+> 
+> 生日在考試週
+> 
 > [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
 > [Remark: 2nd Aug 沖繩]
 > Kason ( 字醜) , Jillian (演奏級 violin) ； Nemesis: Kaspar (1st in Eng, Science)
@@ -20,7 +23,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-03]**
-> 待輸入
+> SOURCE: till 1st C - shut down - black pink .mp4
+> FINAL CUT PRO 入面  有鼓譜
+> 
+> today tried 0.8x till 1st C - shut down - black pink .mp4
 >
 
 > [!NOTE] **[2026-03-27]**

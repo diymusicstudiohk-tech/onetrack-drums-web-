@@ -18,7 +18,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-03]**
-> 待輸入
+> n flying rooftop cover 原速
+> 
+> next: 喺 JDownload入面 : 
+> 엔플라잉(N.flying) - 피었습니다(Into bloom) Lv3ㅣ드럼커버ㅣDrum coverㅣ드럼악보
+> 
+> 整係揀咗歌，試咗main pattern 未cap 整譜
 >
 
 > [!NOTE] **[2026-03-17]**

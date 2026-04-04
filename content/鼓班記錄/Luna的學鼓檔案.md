@@ -16,7 +16,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-03]**
-> 待輸入
+> SOURCE: full song Homura- LiSA.mp4
+> 
+> TODAY TRIED 0.75X FULL SONG
+> 2ND V RIM CLICK NOT STABLE
 >
 
 > [!NOTE] **[2026-03-27]**
