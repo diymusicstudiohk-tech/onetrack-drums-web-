@@ -1,6 +1,6 @@
-> [!TIP] [Remark: 培養耐性的堅持務實者], 問傳道人咩事
+> [!TIP] [Remark: 培養耐性的堅持務實者], 問傳道人咩事, 29/5 生日
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> 烏南巴托 新年
+> 22/5 生日 trip 宿霧 
 
 >[!DANGER]  send 片要用whatsapp 圖片mode send
 ---
@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-07]**
-> 待輸入
+> source: till Verse02 after Bridge 將天敞開.mp4
+> 
+> today tried 0.7x till Verse02 after Bridge 將天敞開.mp4
 >
 
 > [!NOTE] **[2026-3-28]**
