@@ -25,6 +25,7 @@
 > today tried 0.8x FULL SONG, louder drums - 엔플라잉(N.flying) - 피었습니다(Into bloom) .mp4
 > ![[鼓班記錄/attachments/kate-lesson-20260407.jpg]]
 > ![[鼓班記錄/attachments/kate-lesson-20260407-2.jpg]]
+> ![[鼓班記錄/attachments/kate-lesson-20260407-3.jpg]]
 
 > [!NOTE] **[2026-04-03]**
 > n flying rooftop cover 原速
