@@ -1,6 +1,7 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: Seventeen, n.flying ;] wishlist: rooftop , i like you (n.flying)
+> 26/4/10 台北 n flying  fan meeting早機去凌晨返
 
 ---
 
@@ -18,8 +19,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-07]**
-> 待輸入
->
+> source: louder drums - 엔플라잉(N.flying) - 피었습니다(Into bloom) .mp4
+> source: n flying into bloom p1.png, n flying into bloom p2.png, n flying into bloom p3.png
+> 
+> today tried 0.8x FULL SONG, louder drums - 엔플라잉(N.flying) - 피었습니다(Into bloom) .mp4
+> ![[鼓班記錄/attachments/kate-lesson-20260407.jpg]]
 
 > [!NOTE] **[2026-04-03]**
 > n flying rooftop cover 原速
