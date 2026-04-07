@@ -22,8 +22,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-4]**
-> 待輸入
->
+> source: ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+> 
+> 今日仍然 grade 7 , no drums ver 
+> 
+> razorhead 腳問題發現 kick 踩得唔夠盡唔夠實，同埋向後縮
+> 要練習
+> 今日練咗少少 去到 150-160bpm 以下練習就not stable 
+>https://gscribe.com/share/V5LzAZ3wwppFsRFs9
 
 > [!NOTE] **[2026-3-28]**
 > source: ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
