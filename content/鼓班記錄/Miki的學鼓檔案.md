@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-8]**
-> 待輸入
+> SOURCE: till Bridge 02轉回.mp4
+> 
+> TODAY TRIED 0.9X-1X till Bridge 02轉回.mp4
 >
 
 > [!NOTE] **[2026-3-23]**

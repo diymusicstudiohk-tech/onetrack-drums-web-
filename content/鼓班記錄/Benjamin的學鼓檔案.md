@@ -27,7 +27,7 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-8]**
-> 待輸入
+> 今日cover 咗考試原速嘅 Grade 5 Canned Heat
 >
 
 > [!NOTE] **[2026-04-01]**

@@ -17,6 +17,8 @@
 
 ***課堂記錄***
 
+>[!DANGER] 鼓棍破壞王！！！成地碎！！！！
+
 > [!NOTE] **[2026-04-07]**
 > SOURCE: with click 當昨日凝視着我.mp4
 > SOURCE:min music 當昨日凝視着我.mp4
