@@ -18,8 +18,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-07]**
-> 待輸入
+> SOURCE: with click 當昨日凝視着我.mp4
+> SOURCE:min music 當昨日凝視着我.mp4
+> source: 當昨日凝視望着我 - 晚安莉莉.pdf
+> 
+> today tried 0.9-1x full song with click 當昨日凝視着我.mp4
+>用 min music 當昨日凝視着我.mp4 會calibrate 得好d 拍子
 >
+>SOURCE： 我很不愛你 - 陳健安 On Chan.pdf
+>SOURCE： （資料夾）On Chan - 我很不愛你 I Don’t Love You (Official Music Video) (128kbit_AAC)-C major-132bpm-441hz
+>
+>今日平衡開埋 我很不愛你 , tried 0.9x full song 
 
 > [!NOTE] **[2026-04-02]**
 > SOURCE: with click 當昨日凝視着我.mp4

@@ -1,7 +1,7 @@
 , 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: Aug 9th Birthday]
-2026Feb: 下堂開 Rockschool Grade 5
+2026Feb: 下堂開 Rockschool Grade 5, 2026-4/30至5/4  大板
 
 ---
 
@@ -19,8 +19,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-07]**
-> 待輸入
+> 超短爆ss for tiberius double time fill 雜綿 (3, 7 ss roll)  
+> https://gscribe.com/share/UEURWYgHJaDdogKE8
+>wok:160 bpm 
 >
+>今日 cover 咗 full song Grade 5 - Tiberius 0.8x
 
 > [!NOTE] **[2026-03-31]**
 > 
@@ -54,10 +57,7 @@ wok:155 bpm
 >
 >
 
-> 6_
-> 7_
-> 8_
->
+
 ***課堂記錄***
 
 > [!NOTE] **[2026-03-29]**
