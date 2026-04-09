@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 全班第一班長， 💅🏻 🦻🏻] , econ , bafs, APL, 
+> [!TIP] [Remark: 全班第一班長， 💅🏻 🦻🏻 NO PE 🏋🏻‍♀️ ] , econ , bafs, APL, 
 
 ---
 
@@ -15,7 +15,9 @@
 
 
 > [!NOTE] **[2026-4-8]**
-> 待輸入
+>  SOURCE: FULL SONG 說了再見.mp4
+> 
+> today tried 0.8x FULL SONG 說了再見.mp4
 >
 
 >[!QUOTE] 購買記錄  
