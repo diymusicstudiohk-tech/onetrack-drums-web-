@@ -21,14 +21,36 @@ Jonathan 五首考試歌 影片
 > 1_  2026-03-19 Katrina
 > 2_  2026-03-26 Katrina
 > 3_ 2026-04-02 Jonathan only
-> 4_
-> 5_
+> 4_  2026-04-09 Katrina
+> 5_  2026-04-09 Jonathan
 > 6_
 > 7_
 > 8_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-04-09]**
+> **Katrina:** 待輸入
+>
+> **Jonathan:** 待輸入
+>
+
+> [!NOTE] **[2026-03-26]**
+> **Mimi:** 今日 cover咗 supersonic 0.7x 全首 
+>
+>source: Katrina Grade 1 5 songs with drums.mp4
+>
+
+> [!NOTE] **[2026-03-19]**
+> **Jonathan:**
+> today tried 0.7x  grade 4 - weak
+> tried 0.7x till bar 35
+> 
+> **Mimi:** 今日 cover 咗  Grade 1 - Yeah 原速
+> 開始咗 supersonic 0.7x , till bar 32
+>
+>source: Katrina Grade 1 5 songs with drums.mp4
 
 > [!NOTE] **[2026-04-02]**
 > **Jonathan:** 
@@ -38,7 +60,7 @@ Jonathan 五首考試歌 影片
 
 
 > [!QUOTE] ***購買記錄***
-> 2026-04-09 - 已購買堂數：8堂；有效期至 2026-07-30
+> 2026-04-09 - 已購買堂數：8堂；有效期至 2026-07-19 (由2026-03-19起計)
 > ![[鼓班記錄/attachments/532268918_1775704048.jpg]]
 >
 
@@ -56,21 +78,6 @@ Jonathan 五首考試歌 影片
 
 ***課堂記錄***
 
-> [!NOTE] **[2026-03-26]**
-> **Mimi:** 今日 cover咗 supersonic 0.7x 全首 
->
->source: Katrina Grade 1 5 songs with drums.mp4
->
-
-> [!NOTE] **[2026-03-19]**
-> **Jonathan:**
-> today tried 0.7x  grade 4 - weak
-> tried 0.7x till bar 35
-> 
-> **Mimi:** 今日 cover 咗  Grade 1 - Yeah 原速
-> 開始咗 supersonic 0.7x , till bar 32
->
->source: Katrina Grade 1 5 songs with drums.mp4
 
 > [!NOTE] **[2026-03-12]**
 **Jonathan:** 
