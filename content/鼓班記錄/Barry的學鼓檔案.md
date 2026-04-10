@@ -21,7 +21,14 @@ Rockschool grade 5 pick : tiberius
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-10]**
-> 待輸入
+> 今日完咗 0.9x Grade 5 Canned Heat, 
+> 玩吓 ghost note 練習
+> https://gscribe.com/share/noZDyZH45hSWuBZx8
+> 
+> 下堂唔開考試歌住，就開嗰首大波妹嘅 rock 歌 CS歌
+>    Bring Me To Life - Evanescence
+>    
+>    https://www.youtube.com/watch?v=slf_vjD0eGY
 >
 
 > [!NOTE] **[2026-04-03]**
