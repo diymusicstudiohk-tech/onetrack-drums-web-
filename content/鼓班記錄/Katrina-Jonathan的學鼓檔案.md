@@ -2,8 +2,8 @@ r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 > [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi 😱🐍  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
-[Jon 😱  🕷️ 💔 Eve*,🏀 unknown enemy,  🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister
+[Mimi 😱🐍  😘💋 許超然 💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
+[Jon 😱  🕷️ 💔 Eve*, 🏀❌ LOGAN,  🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister, 普通話藍球教練
 
 💡**Remark:**
 Katrina 五首考試歌影片
@@ -19,7 +19,7 @@ Jonathan 五首考試歌 影片
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-03-19 Katrina
-> 2_  2026-03-26 Katrina
+> 2_  2026-03-26 Katrina only
 > 3_ 2026-04-02 Jonathan only
 > 4_  2026-04-09 Katrina
 > 5_  2026-04-09 Jonathan
@@ -31,10 +31,16 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-09]**
-> **Katrina:** 待輸入
+> **Katrina:** 今日 cover咗 supersonic 0.7x 全首 
 >
-> **Jonathan:** 待輸入
+> **Jonathan:** 
+> today tried 0.7x  grade 4 - weak till bar 39
 >
+
+> [!NOTE] **[2026-04-02]**
+> **Jonathan:** 
+> today tried 0.7x  grade 4 - weak till bar 35
+> 
 
 > [!NOTE] **[2026-03-26]**
 > **Mimi:** 今日 cover咗 supersonic 0.7x 全首 
@@ -52,11 +58,6 @@ Jonathan 五首考試歌 影片
 >
 >source: Katrina Grade 1 5 songs with drums.mp4
 
-> [!NOTE] **[2026-04-02]**
-> **Jonathan:** 
-> today tried 0.7x  grade 4 - weak till bar 35
-> 
->
 
 
 > [!QUOTE] ***購買記錄***

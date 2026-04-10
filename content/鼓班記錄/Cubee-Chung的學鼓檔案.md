@@ -19,7 +19,7 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-09]**
-> 待輸入
+> today cover 咗原速嘅 full rerolling score 太陽與地球
 >
 
 > [!NOTE] **[2026-04-02]**

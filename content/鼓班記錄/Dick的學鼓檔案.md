@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-09]**
-> 待輸入
+> SOURCE: till 2nd C 長相廝守.mp4
+> 
+> TODAY TRIED 0.7-0.8X till 2nd C 長相廝守.mp4
 >
 
 > [!NOTE] **[2026-3-28]**
