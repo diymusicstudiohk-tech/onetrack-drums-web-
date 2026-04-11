@@ -13,12 +13,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-11]**
-> 待輸入
+> 今日 cover 咗 祢在萬有之上 yvonne cover .mp4
+> 
+> next ? https://www.youtube.com/watch?v=KeZR2lx8T0k
 >
 
 > [!QUOTE] ***購買記錄***
-> 未付學費
-**
+> 2026-4-11 - 已購買堂數：4堂；有效期至 2026-06-06
+> ![[鼓班記錄/attachments/Yvonne-Receipt-2026-04-11.jpg]]
 
 ---
 
@@ -33,6 +35,7 @@
 
 > [!NOTE] **[2026-3-7]**
 > 今日執得哂 full song 祢在萬有之上
+> 
 >
 
 > [!NOTE] **[2026-1-25]**

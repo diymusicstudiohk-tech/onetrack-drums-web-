@@ -13,7 +13,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-11]**
-> 待輸入
+> 唔洗整動態譜，就咁show網頁就得
+> today tried 0.9x full song  LOUDER DRUMS enchated taylor swift.mp4
 >
 
 > [!QUOTE] ***購買記錄***
