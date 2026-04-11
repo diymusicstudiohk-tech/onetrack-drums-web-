@@ -19,7 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-10]**
-> 待輸入
+> source: golden p1, golden p2.png 
+> source: 【KPop Demon Hunters 】 GOLDEN - HUNTR⁄X【Drum cover】KPOPガールズ! デーモン・ハンターズ (1080p_24fps_H264-128kbit_AAC).mp4
+> 
+> today tried 0.95x-1x cover
+> 可能可以連吓  8th triplet single stroke with quarter kick鐵棍
+> 
+> # Bruno Mars - I Just Might [Official Music Video]
+
+[](https://www.youtube.com/@brunomars)
+> next: https://www.songsterr.com/a/wsa/bruno-mars-i-just-might-drum-tab-s3531530
+> next: https://www.youtube.com/watch?v=98QGSRqstlo
+> next : https://www.youtube.com/watch?v=mrV8kK5t0V8
 >
 
 > [!NOTE] **[2026-03-20]**

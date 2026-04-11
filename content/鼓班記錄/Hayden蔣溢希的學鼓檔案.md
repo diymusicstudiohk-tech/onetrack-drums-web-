@@ -23,7 +23,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-10]**
-> 待輸入
+> 
+> source: Full song - shut down - black pink .mp4
+> 
+>  today tried 0.8x Full song- shut down - black pink .mp4
 >
 
 > [!NOTE] **[2026-04-03]**

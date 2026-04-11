@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北  ❤️ 鐘華仁 🤭Gisella
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  ❤️ 鐘華仁 🤭Gisella
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
  
@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-10]**
-> 待輸入
+> source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
+> 
+> Grade 4 noisy neighbour 今日打咗全首0.7x ~ 佢 0:20 表演跌鼓棍+ 換鼓棍
+> 
 >
 
 > [!NOTE] **[2026-04-03]**

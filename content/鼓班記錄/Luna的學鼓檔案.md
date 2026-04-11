@@ -1,4 +1,4 @@
-> [!TIP] [Remark: ] ❤️  👦🏻 📸 葉梓灝 2025/2/22 
+> [!TIP] [Remark: ] ❤️  👦🏻 📸 葉梓灝 2025/2/22  ?? Edmond Kwok ??
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ---
@@ -16,7 +16,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-10]**
-> 待輸入
+> SOURCE: full song Homura- LiSA.mp4
+> 
+> TODAY TRIED 今日cover 咗 0.93-1X FULL SONG full song Homura- LiSA
+>
+>next: https://www.youtube.com/watch?v=f7CdZaph24g
 >
 
 > [!NOTE] **[2026-04-03]**
