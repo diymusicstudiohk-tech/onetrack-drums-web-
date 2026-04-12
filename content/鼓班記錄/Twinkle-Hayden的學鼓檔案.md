@@ -12,8 +12,23 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-11]**
-> 待輸入
+>  source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
+>  
+> **Twinkle**:  tried 1x whole song - UPDATED noisy neighbour rsl grade 4 with solo
+>next: hrtz wav nineteen
 >
+> Hayden: 
+> 今日練 原速 無鼓版  exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+
+> [!NOTE] **[2026-4-4]**
+> source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
+> **Twinkle**:  tried 0.8x whole song UPDATED noisy neighbour rsl grade 4 with solo
+
+> [!NOTE] **[2026-3-28]**
+> 
+> source : UPDATED noisy neighbour rsl grade 4 with solo .mp4
+> 
+> tried 0.7x 全首 Grade 4 - Noisy neighbour
 
 > [!NOTE] **[2026-3-21]**
 >
@@ -36,15 +51,9 @@ hrtz.wav 係透過 Mnet 樂團生存節目 **「STEAL HEART CLUB」**（2025年�
 | 케이텐 (Keiten) | 結他 | 節目期間與 Hagiwa 同住 |
 | 하기와 (Hagiwa) | 鼓手 | 日本人，前知名網紅（戴口罩出鏡）|
 
-> [!NOTE] **[2026-3-28]**
-> 
-> source : UPDATED noisy neighbour rsl grade 4 with solo .mp4
-> 
-> tried 0.7x 全首 Grade 4 - Noisy neighbour
 
-> [!NOTE] **[2026-4-4]**
-> 待輸入
->
+
+
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-3-21 已購買4堂；有效期至 2026-5-16
