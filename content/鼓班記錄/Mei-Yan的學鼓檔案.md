@@ -17,7 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-13]**
-> 待輸入
+> source: 全情敬拜.pages
+> sourcE: 資料夾： mei yan 全情敬拜 - ACM 齊唱兒歌5 (官方完整CD版) (128kbit_AAC)-F major-134bpm-441hz
+> 
+> 今日執全情敬拜去到p.2 verse , 爭 last verse and coda 未執, tried with music at 0.8x 
+> ![[鼓班記錄/attachments/Mei-Yan-lesson-2026-04-13.jpg]]
 >
 
 > [!NOTE] **[2026-04-01]**
