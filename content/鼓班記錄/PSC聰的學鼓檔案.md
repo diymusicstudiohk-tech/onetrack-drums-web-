@@ -16,8 +16,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-13]**
-> 待輸入
+> 今日 tried  0.85x full song KATSUO ONO ( Detective Conan-OST
 >
+>未來可能開 grade 5
+>
+>練手＋腳sticking RLKLR 
+>https://gscribe.com/share/XvWcQYPMKGBas5xG8
 
 > [!NOTE] **[2026-04-10]**
 > source:p1_KATSUO ONO ( Detective Conan-OST
