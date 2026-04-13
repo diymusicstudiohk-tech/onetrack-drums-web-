@@ -13,7 +13,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-13]**
-待輸入
+> source: full song demo 我願是無名的傳道者.mp4
+> source: full song update我願是無名的傳道者
+> 
+> 今日tried 0.9x 由 verse 去到 p.2 bridge, p.1 開頭至verse 啱啱整未練好
+
 
 > [!QUOTE] ***購買記錄***
 在 2026-04-13 已購買4堂，有效期至 2026-06-08
