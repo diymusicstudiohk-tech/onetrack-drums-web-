@@ -6,8 +6,8 @@
 scary, hammerblow, in my place , NOISY NEIGHBOUR
 
 Grade 5 song choices : 
-Tiberius~~, Hard to handle~~ ,  
-Don’t let go, Canned heat
+(finished)Tiberius~~, (gave up) Hard to handle~~ ,  
+(finished)Don’t let go, (finished)Canned heat
 
 or Bryan’s take Geek and Window seat.
 
@@ -27,7 +27,14 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-15]**
-> 待輸入
+> source : Bros ¦ Rockschool Drums Grade 5 2024 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 上載咗moises.ai 但未下載落黎整loud drums ver
+> 
+> 今日開第四首 grade 5 歌 "bros" till bar 19 0.7x
+> 
+> bar 18-19, best 199bpm today 
+> https://gscribe.com/share/HKztafNW8o3y7d7n8
 >
 
 > [!NOTE] **[2026-4-8]**
