@@ -20,7 +20,13 @@
 >[!DANGER] 鼓棍破壞王！！！成地碎！！！！
 
 > [!NOTE] **[2026-04-14]**
-> 待輸入
+> 今日試cover 當昨日凝視著我 原速full song
+> 
+> SOURCE: UPDATED 我很不愛你 - 陳健安 On Chan copy.pdf
+> 
+> 今日 我很不愛你 , tried 0.9-1 x full song 
+> 
+> 
 
 > [!NOTE] **[2026-04-07]**
 > SOURCE: with click 當昨日凝視着我.mp4

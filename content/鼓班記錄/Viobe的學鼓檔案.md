@@ -1,4 +1,4 @@
-
+ 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: Leftie]
 
@@ -10,7 +10,10 @@
 > 4_  
 
 > [!NOTE] **[2026-04-14]**
-> 待輸入
+> SOURCE: updated full song嘉賓 - 張遠.mp4
+> 
+> 今日 tried 0.7x full song 嘉賓 - 張遠.mp4
+> bar 69-71 打後 bridge, last C not stable 
 
 > [!NOTE] **[2026-03-31]**
 > 今日 tried 0.7x full song 嘉賓 - 張遠.mp4

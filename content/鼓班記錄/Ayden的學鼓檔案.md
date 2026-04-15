@@ -19,7 +19,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-14]**
-> 待輸入
+>  超短爆ss for tiberius double time fill 雜綿 (3, 7 ss roll)  
+> https://gscribe.com/share/RoWUKkJRwKzgeugm6
+>wok:163 bpm 
+>
+>今日 cover 咗 full song Grade 5 - Tiberius 0.9x
 
 > [!NOTE] **[2026-04-07]**
 > 超短爆ss for tiberius double time fill 雜綿 (3, 7 ss roll)  
