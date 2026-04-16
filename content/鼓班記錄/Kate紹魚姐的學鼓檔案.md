@@ -18,6 +18,10 @@
 
 ***課堂記錄***
 
+> [!NOTE] **[2026-04-16]**
+> 待輸入
+>
+
 > [!NOTE] **[2026-04-07]**
 > source: louder drums - 엔플라잉(N.flying) - 피었습니다(Into bloom) .mp4
 > source: n flying into bloom p1.png, n flying into bloom p2.png, n flying into bloom p3.png

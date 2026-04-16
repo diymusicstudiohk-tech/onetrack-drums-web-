@@ -27,6 +27,10 @@
 
 ***課堂記錄***
 
+> [!NOTE] **[2026-04-16]**
+> 待輸入
+>
+
 > [!NOTE] **[2026-3-23]**
 > 
 > SOURCE: louder drums with click- Black Smoke Rising.mp4
