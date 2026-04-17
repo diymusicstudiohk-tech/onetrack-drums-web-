@@ -11,7 +11,7 @@
 > 3_  2026-03-17
 > 4_  2026-04-03
 > 5_  2026-04-07
-> 6_
+> 6_ 2026-04-16
 > 7_
 > 8_
 >
@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-16]**
-> 待輸入
+> source: louder drums - 엔플라잉(N.flying) - 피었습니다(Into bloom) .mp4
+> source: n flying into bloom p1.png, n flying into bloom p2.png, n flying into bloom p3.png
+> 
+> 今日打咗 0.9x into bloom, next 原速 & 開 everlasting (n.flying)
 >
 
 > [!NOTE] **[2026-04-07]**

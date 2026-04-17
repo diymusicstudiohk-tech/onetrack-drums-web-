@@ -23,7 +23,7 @@ Jonathan 五首考試歌 影片
 > 3_ 2026-04-02 Jonathan only
 > 4_  2026-04-09 Katrina
 > 5_  2026-04-09 Jonathan
-> 6_
+> 6_ 2026-04-16 Katrina
 > 7_
 > 8_
 >
@@ -31,8 +31,9 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-16]**
-> 待輸入
->
+> **Katrina:** 今日 cover咗 supersonic 0.9x (stable) - 1x ( not stable)  全首 
+> 
+>source: Katrina Grade 1 5 songs with drums.mp4
 
 > [!NOTE] **[2026-04-09]**
 > **Katrina:** 今日 cover咗 supersonic 0.7x 全首 

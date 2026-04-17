@@ -2,13 +2,14 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 最早可 7:15pm 上堂
 > 
-> 2月尾可能會出隊 
+>
 > 
 > Rockschool grade 5 已完成目標: 
 > Hard to handle (ori, Jan26), 
 > Tiberius (0.7x , Jan26) , 
 > Don’t let go (ori, Jan 26);
 > Canned heat (ori, feb 26)
+> Black Smoke Rising (0.9x , apr26)
 
 ---
 
@@ -16,7 +17,7 @@
 > 1_  2026-02-20
 > 2_  2026-03-06
 > 3_  2026-3-23
-> 4_
+> 4_ 2026-04-16
 > 5_
 > 6_
 > 7_
@@ -28,8 +29,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-16]**
-> 待輸入
->
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> today tried 0.9x RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> also practice jor 16th kick + right hand coordination
+>https://gscribe.com/share/wzZ8BAA79fEk11uU9
 
 > [!NOTE] **[2026-3-23]**
 > 
