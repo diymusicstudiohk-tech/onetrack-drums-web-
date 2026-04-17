@@ -2,7 +2,7 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ☠️ Muay Thai Fighter + Hyrox trainee ❗❗❗ | 11st July BDay | ENFP | 手碗有舊患!!]
 > 
-> 28th Mar 2026
+> 
 
 ---
 
@@ -19,7 +19,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-17]**
-> 待輸入
+> 今日 cover 咗 原速 GOLDEN - HUNTR⁄X
+> 
+> source: bruno mars - i just might.pdf
+> source: Bruno Mars - I Just Might Drum Score [ Drum Sheet Music Play Along ] #drumscore (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> today tried 0.75x till bar 
+> 
+> bar 5-6 HH accent
+> https://gscribe.com/share/Fn15VmiK5PdR8kxu7
+> 
 >
 
 > [!NOTE] **[2026-04-10]**

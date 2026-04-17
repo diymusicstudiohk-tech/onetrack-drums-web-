@@ -21,7 +21,13 @@ Rockschool grade 5 pick : tiberius
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-17]**
-> 待輸入
+> source: till 2nd C - Evanescence - Bring Me To Life
+> 
+> today tried 0.8x till 2nd C - Evanescence - Bring Me To Life
+> 2nd V not stable 
+> 
+> 要練手腳協調 pattern 
+> https://gscribe.com/share/btQwNmBavckaRcJ4A
 >
 
 > [!NOTE] **[2026-04-10]**

@@ -19,7 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-17]**
-> 待輸入
+> source : UPDATED noisy neighbour rsl grade 4 with solo .mp4 .mp4
+> 
+> Grade 4 noisy neighbour 今日打咗全首0.9x
 >
 
 > [!NOTE] **[2026-04-10]**
