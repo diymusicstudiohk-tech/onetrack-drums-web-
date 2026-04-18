@@ -13,7 +13,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-18]**
-> 待輸入
+> source: 1ST C AND POST C ONLY - NINETEEN HRTZ WAV
+> source: exam ver click only TWINKLE 5 SONGS GRADE 2.mp4
+> 
+> Twinkle tried 0.9x 1ST C AND POST C ONLY - NINETEEN HRTZ WAV
+> Hayden cont practice 原速 無鼓版  exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+
 >
 
 > [!QUOTE] ***購買記錄***

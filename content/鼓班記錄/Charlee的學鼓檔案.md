@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ❌ 🧑🏻‍⚕️] 張卓羚 上水禮賢會
+> [!TIP] [Remark: ❌ 🧑🏻‍⚕️] 張卓羚 上水禮賢會, 李嘉誠
 
 ---
 
@@ -18,7 +18,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-18]**
-> 待輸入
+> 今日cover 咗你的世界 原速 
+> 
+> source: outro only 邊一個發明了Encore (71).mp4
+> source: 邊一個發明了Encore - 林家謙.pdf?
+> 
+> 今日開始邊一個發明了Encore
+> 試 tried 原速 outro 嘅 marching snare 
 >
 
 > [!NOTE] **[2026-04-01]**

@@ -18,7 +18,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-18]**
-> 待輸入
+> SOURCE: 26UPDATED - full moon 有馬 FULL SONG ROLLING SCORE.mp4
+> 
+> 今日都係 重溫 到 B after 2nd C 
+> 要留意邊頁轉ride
+>
+> last 4 bars - B after 2nd C 
+> https://gscribe.com/share/iN1k542fwKjUQa2Z7
 >
 
 > [!NOTE] **[2026-3-28]**

@@ -22,7 +22,25 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-18]**
-> 待輸入
+> 
+> ！！！要執右手 手背向天 + 中指無名指尾指掂住鼓棍
+> 
+> 今日繼續練習 Rockschool  Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 
+>  source: ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+> 今日仍然 grade 7 , no drums ver
+> 
+> 一口氣test
+> 
+> 第一首：  bar 88 少少亂)，bar 93-99亂了
+> 
+> 第二首： bar 45 -50 （腳亂）
+> 
+> 第三首：41-48 略快（同段81-88 not stable)  ，47-48 腳亂, 79-80(亂)
+> 
+> 第四首：1-8 亂  , 23, 45-51 ( not stable), 86-87 三下腳, 95-107 快咗 / 不穩 , 106-117
+> 
+> 第五首： 
 >
 
 > [!NOTE] **[2026-4-11]**
