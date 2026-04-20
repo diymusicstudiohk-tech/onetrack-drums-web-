@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-20]**
-> 待輸入
+> source: full song 長相廝守.mp4
+> 
+> today tried 0.7x full song 長相廝守.mp4 not stable
 >
 
 > [!NOTE] **[2026-04-09]**
