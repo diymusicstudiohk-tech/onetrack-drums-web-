@@ -19,8 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-19]**
-> 待輸入
->
+> 今日 cover 咗考試原速  full song Grade 5 - Tiberius 
+> 
+> next: joj o新歌
 
 > [!NOTE] **[2026-04-14]**
 >  超短爆ss for tiberius double time fill 雜綿 (3, 7 ss roll)  

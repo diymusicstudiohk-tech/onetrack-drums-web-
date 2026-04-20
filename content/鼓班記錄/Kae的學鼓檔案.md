@@ -18,7 +18,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-19]**
-> 待輸入
+> source: till Verse02 after Bridge 將天敞開.mp4
+> 
+> today tried 0.7x till Verse02 after Bridge 將天敞開.mp4
+> 
+> !!! 阿仙奴對曼城 
 >
 
 > [!NOTE] **[2026-04-07]**

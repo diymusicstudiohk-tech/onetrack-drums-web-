@@ -18,7 +18,26 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-19]**
-> 待輸入
+> source: p1 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver).png, p2 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver)
+> 
+> source: 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver) - かぐや(cv.夏吉ゆうこ)月見ヤチヨ(cv.早見沙織)【Drum cover】叩いてみた 超かぐや姫-854x480-avc1-mp4a.mp4
+> 
+> cap 咗微笑哥 條片 做 兩頁譜 , 未整動態譜
+> 
+> ！！！可隨自己喜歡 skip @2, @4 右腳 kick
+> 
+> intro 
+> https://gscribe.com/share/B3vFTq2EEJYaPFjR7
+> 
+> 1st C1
+> https://gscribe.com/share/a7Brdhp9S1KC2qgs7
+> 
+> 1st C2
+> https://gscribe.com/share/y3SAqtHLMDdNn57a8
+> 
+
+> 
+> 
 >
 
 > [!NOTE] **[2026-03-29]**

@@ -18,7 +18,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-19]**
-> 待輸入
+> SOURCE: full song - 14天.mp4
+> 
+> 今日 cover 咗原速 full song - 14天.mp4
+> 
+> next: 周國賢 Endy Chow《天馬行空》??
 >
 
 > [!NOTE] **[2026-04-12]**
