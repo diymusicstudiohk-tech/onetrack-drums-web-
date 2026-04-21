@@ -15,9 +15,12 @@
 
 
 > [!NOTE] **[2026-4-21]**
-> 待輸入
+> source : new 8 bars loop - 安靜 .mp4
+> 
+> today tried 0.8x new 8 bars loop - 安靜 .mp4
 
 >[!QUOTE] 購買記錄  
-> 未付學費
+> 在 2026-4-21 已購買4堂，有效期至 2026-6-16
+> ![[鼓班記錄/attachments/532268918_1776755028.jpg]]
 
 ---

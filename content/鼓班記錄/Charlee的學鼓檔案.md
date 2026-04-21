@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ❌ 🧑🏻‍⚕️] 張卓羚 上水禮賢會, 李嘉誠, 學 cajon 
+> [!TIP] [Remark: ❌ 🧑🏻‍⚕️] 張卓羚 上水禮賢會, 李嘉誠, 學 cajon , 同女結他手 friends, 出隊
 
 ---
 
