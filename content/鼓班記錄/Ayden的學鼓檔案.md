@@ -18,7 +18,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-21]**
-> 待輸入
+> SOURCE: 1ST C ONLY BLOODY STREAM .mp4
+> "BLOODY STREAM"IN FCPX
+> 
+> TRIED 0.7X 1ST C ONLY BLOODY STREAM .mp4 NOT STBALE
+> 
 
 ---
 

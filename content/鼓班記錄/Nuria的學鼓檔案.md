@@ -1,4 +1,4 @@
- > [!TIPS] 94CM 長腿 
+ > [!TIPS] 94CM 長腿, 強勢 E/I STJ 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -12,7 +12,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-21]**
-> 待輸入
+> source: till 1st Solo  - come as you are.mp4
+> 
+> tried 0.8x till 1st Solo  - come as you are.mp4
 
 > [!NOTE] **[2026-03-29]**
 > raw source: How to Play 🥁   Come As You Are   NIrvana-1920x1080-avc1-mp4a.mp4
