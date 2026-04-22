@@ -31,7 +31,8 @@ or Bryan’s take Geek and Window seat.
 >
 
 > [!QUOTE] ***購買記錄***
-> 未付學費
+> 在 2026-04-21 已購買8堂，有效期至 2026-08-11
+> ![[鼓班記錄/attachments/Benjamin-Receipt-2026-04-21.jpg]]
 **
 
 ---
