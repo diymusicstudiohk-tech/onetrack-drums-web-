@@ -24,6 +24,11 @@
 > TRIED 0.7X 1ST C ONLY BLOODY STREAM .mp4 NOT STBALE
 > 
 
+> [!QUOTE] ***購買記錄***
+> 在 2026-04-23 已購買8堂，有效期至 2026-08-13
+![[鼓班記錄/attachments/Ayden receipt 2026-04-23.jpg]]
+**
+
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
