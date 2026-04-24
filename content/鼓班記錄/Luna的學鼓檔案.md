@@ -16,7 +16,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-24]**
-> 待輸入
+> source: till 1st C 晝夜思想.mp4
+> 
+> today tried 0.75x till 1st C 晝夜思想.mp4
 >
 
 > [!NOTE] **[2026-04-10]**
