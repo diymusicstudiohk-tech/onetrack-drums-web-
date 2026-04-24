@@ -16,7 +16,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-24]**
-> 待輸入
+> 
+> today cover jor 1x Full song- shut down - black pink .mp4
+> 
+> 下次 開 holy forever 
+> 
+> source: holy forever p1, p2, p3, p4 image;
+> source: Holy Forever _ Bethel Music [Jenn Johnson, feat. CeCe Winans] ( Drum Cover ∖ Sheet ∖ Score)
 >
 
 ---
@@ -34,7 +40,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-17]**
-> 待輸入
+> source: Full song - shut down - black pink .mp4
+> today tried 0.9x Full song- shut down - black pink .mp4
 >
 
 > [!NOTE] **[2026-04-10]**

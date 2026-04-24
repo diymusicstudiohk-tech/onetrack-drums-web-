@@ -17,11 +17,16 @@ Rockschool grade 5 pick : tiberius
 > 6_  2026-04-24
 > 7_
 > 8_
->
+> 9_ (我遲 到 5分鐘搵日補番)
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-24]**
-> 待輸入
+> source: p1 Evanescence - Bring Me To Life, p2 Evanescence - Bring Me To Life
+> source: Bridge only - Evanescence - Bring Me To Life
+> source: till bridge - Evanescence - Bring Me To Life.mp4
+> 
+> today tried 0.7x Bridge only - Evanescence - Bring Me To Life.mp4
+> before bridge can do 0.9x 
 >
 
 > [!NOTE] **[2026-04-17]**

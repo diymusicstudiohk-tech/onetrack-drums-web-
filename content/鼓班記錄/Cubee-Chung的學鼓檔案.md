@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF 
+> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF , , 2026-6月尾至七月中 台北五月天, 
 
 
 ---
@@ -19,7 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-24]**
-> 待輸入
+> source: 憨人 p1, 憨人 p2, 憨人 p3.png
+> source: 鼓譜【學生系列】憨人 五月天 Drum Cover by 承漢(12-year-old) 動態鼓譜｜爵士鼓｜鼓｜鼓譜｜譜｜drum｜score｜sheet｜cover
+> 
+> 用片黎做 backing track ，睇 cap圖 
+> 
+> today tried 0.75x till 1st MB
+> 
+> 
+> https://gscribe.com/share/mafVPE14i22MSVjP8
+> 
+> 
+> 
 >
 
 > [!NOTE] **[2026-04-09]**
