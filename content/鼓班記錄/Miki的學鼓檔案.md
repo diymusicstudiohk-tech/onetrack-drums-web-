@@ -18,7 +18,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-23]**
-> 待輸入
+> SOURCE: Outro only 轉回.mp4
+> TRIED 0.7X Outro only 轉回.mp4
+> 
+> Outro 01
+> https://gscribe.com/share/oWEW2pKQGWEC25S97
+> 
+> Outro 02
+> https://gscribe.com/share/eYYk8VGMCQnraUCFA
+> 
+> Outro 03
+> https://gscribe.com/share/35WU6QkL5Resf4wY8
 >
 
 > [!NOTE] **[2026-4-8]**

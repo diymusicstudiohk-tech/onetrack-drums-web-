@@ -29,7 +29,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-23]**
-> 待輸入
+> 
+> source: no drums ver - Black Smoke Rising.mp4
+> SOURCE: louder drums with click- Black Smoke Rising.mp4
+> 
+> bar 41-42  拍子練習
+> https://gscribe.com/share/jrvXRnJscaD9poW97
+> BEST 70-80BPM TODAY
+> 
+> 今日試咗 black smoke rising no drums ver 嘅 0.9-1x , bar 41-42 拍子唔準 
 >
 
 > [!NOTE] **[2026-04-16]**

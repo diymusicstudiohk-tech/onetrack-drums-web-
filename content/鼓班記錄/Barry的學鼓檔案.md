@@ -14,11 +14,15 @@ Rockschool grade 5 pick : tiberius
 > 3_  2026-04-03
 > 4_  2026-04-10
 > 5_  2026-04-17
-> 6_
+> 6_  2026-04-24
 > 7_
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-04-24]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-04-17]**
 > source: till 2nd C - Evanescence - Bring Me To Life
