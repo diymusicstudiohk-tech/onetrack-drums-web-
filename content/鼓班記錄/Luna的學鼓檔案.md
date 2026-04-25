@@ -18,7 +18,7 @@
 > [!NOTE] **[2026-04-24]**
 > source: till 1st C 晝夜思想.mp4
 > 
-> today tried 0.75x till 1st C 晝夜思想.mp4
+> today tried 0.75-0.82x till 1st C 晝夜思想.mp4
 >
 
 > [!NOTE] **[2026-04-10]**

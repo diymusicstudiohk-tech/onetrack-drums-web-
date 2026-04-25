@@ -12,6 +12,13 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-04-24
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
 >
 ***課堂記錄***
 
@@ -24,6 +31,12 @@
 > source: holy forever p1, p2, p3, p4 image;
 > source: Holy Forever _ Bethel Music [Jenn Johnson, feat. CeCe Winans] ( Drum Cover ∖ Sheet ∖ Score)
 >
+
+> [!QUOTE] ***購買記錄***
+> 2026-04-24 - 已購買堂數：8堂；有效期至 2026-08-24
+>
+![[鼓班記錄/attachments/532268918_1777029769.jpg]]****
+---
 
 ---
 
@@ -85,7 +98,7 @@
 > 2026-02-13 - 已購買堂數：8堂；有效期至 2026-06-05
 >
 ![[WhatsApp Image 2026-02-13 at 17.42.28.jpeg]]
-![[鼓班記錄/attachments/532268918_1777029769.jpg]]****
+
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
