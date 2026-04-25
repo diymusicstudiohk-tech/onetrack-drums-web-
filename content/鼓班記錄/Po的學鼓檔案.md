@@ -17,8 +17,28 @@
 >
 ***課堂記錄***
 
+>[!TIPS] **next wish list**
+>開 pokemon OG OP
+
+
 > [!NOTE] **[2026-4-25]**
-> 待輸入
+> 
+> SOURCE: 26UPDATED - full moon 有馬 FULL SONG ROLLING SCORE.mp4
+> 
+> 今日都係 重溫 咗 0.75x  B after 2nd C 
+> 然後開始重溫 最後三頁，at around 0.7x
+> 
+> 
+> 3rd C ( 2nd half)
+> https://gscribe.com/share/9woyokhdS51FQnYg8
+> 
+> 4th C (p.2)
+> https://gscribe.com/share/SiFBYiEudfz9Eobw8
+> 
+> Coda + Outro
+> https://gscribe.com/share/MExhT2v2zK6BCZ8u5
+> 
+> 
 >
 
 > [!NOTE] **[2026-4-18]**
