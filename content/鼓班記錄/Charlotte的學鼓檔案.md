@@ -17,8 +17,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-25]**
-> 待輸入
->
+> 
+> today cover 咗 原速  full song - Enchanted -Taylor Swift
 
 > [!NOTE] **[2026-4-11]**
 > 唔洗整動態譜，就咁show網頁就得

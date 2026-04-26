@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-25]**
-> 待輸入
+> SOURCE: FULL SONG 將天敞開.mp4
+> 
+> TODAY TRIED 0.7X FULL SONG 將天敞開.mp4
 >
 
 > [!NOTE] **[2026-04-19]**

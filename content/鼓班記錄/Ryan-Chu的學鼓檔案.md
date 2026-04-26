@@ -22,7 +22,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-25]**
-> 待輸入
+> 
+> 今日繼續練習 Rockschool  Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 
+>  source: ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+> 今日仍然 grade 7 , no drums ver
+> 
+> 一口氣test
+> 
+> 第一首 ： 91-99 亂咗少少
+> 第二首：43-59 少少亂
+> 第三首： 47-48 /79-80 少少不穩， 88-89 不穩 89 少咗一吓
+> 第四首： 47-52 少甩, 94-95 少甩, 
+> 第五首： 3-4, 23-24, 48 甩
 >
 
 > [!NOTE] **[2026-4-18]**

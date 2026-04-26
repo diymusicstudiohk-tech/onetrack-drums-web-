@@ -11,11 +11,14 @@
 > 4_  2026-03-22
 > 5_  2026-03-29
 > 6_  2026-04-19
-> 7_
+> 7_  2026-4-26
 > 8_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-4-26]**
+> 待輸入
 
 > [!NOTE] **[2026-04-19]**
 > source: p1 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver).png, p2 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver)
