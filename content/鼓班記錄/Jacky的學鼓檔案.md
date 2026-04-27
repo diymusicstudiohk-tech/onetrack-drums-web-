@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-26]**
-> 待輸入
+> SOURCE:till 2ND C - ray (超かぐや姫！ Version).mp4
+> 
+> TODAY TRIED 0.8X till 2ND C - ray (超かぐや姫！ Version).mp4
 
 > [!NOTE] **[2026-04-19]**
 > source: p1 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver).png, p2 【Cosmic Princess Kaguya!】ray(超かぐや姫 ver)

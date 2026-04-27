@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-26]**
-> 待輸入
+> source: till 1ST MB BLOODY STREAM.mp4
+> 
+> tried 0.8x till 1ST MB BLOODY STREAM.mp4
 
 > [!NOTE] **[2026-4-21]**
 > SOURCE: 1ST C ONLY BLOODY STREAM .mp4
