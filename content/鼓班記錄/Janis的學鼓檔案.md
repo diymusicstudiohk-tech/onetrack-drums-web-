@@ -20,7 +20,11 @@
 >[!DANGER] 鼓棍破壞王！！！成地碎！！！！
 
 > [!NOTE] **[2026-04-28]**
-> 待輸入
+> source： 光.pdf
+> source: with click light 光 周國㬾.mp4
+> 
+> 今日cover 咗 0.9x 
+> pdf 可click 番 link 
 >
 
 > [!NOTE] **[2026-4-21]**
