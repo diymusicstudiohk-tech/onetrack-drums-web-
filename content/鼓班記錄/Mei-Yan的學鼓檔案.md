@@ -17,7 +17,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-27]**
-> 待輸入
+> 今日review 咗復活節出隊錄音同完成 全情敬拜cover
+> 下堂可能review Grade 6-ziggy startdust 自習得如何
 >
 
 > [!NOTE] **[2026-4-13]**
