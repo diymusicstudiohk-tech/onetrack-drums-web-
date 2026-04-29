@@ -16,7 +16,7 @@ or Bryan’s take Geek and Window seat.
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-4-22
-> 2_
+> 2_  2026-4-29
 > 3_
 > 4_
 > 5_
@@ -25,6 +25,10 @@ or Bryan’s take Geek and Window seat.
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-4-29]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-4-22]**
 > source : Bros ¦ Rockschool Drums Grade 5 2024 (1080p_30fps_H264-128kbit_AAC).mp4
