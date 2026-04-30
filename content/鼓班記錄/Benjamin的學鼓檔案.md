@@ -27,8 +27,13 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-29]**
-> 待輸入
->
+> source : Bros ¦ Rockschool Drums Grade 5 2024 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> today tried 0.7x grade 5 歌 "bros" full song
+> 
+> fill to Last 
+> https://gscribe.com/share/dc5QMbLcDbum1oHg9
+> 
 
 > [!NOTE] **[2026-4-22]**
 > source : Bros ¦ Rockschool Drums Grade 5 2024 (1080p_30fps_H264-128kbit_AAC).mp4

@@ -8,7 +8,7 @@
 > 2_  2026-3-23
 > 3_  2026-04-10
 > 4_  2026-4-13
-> 5_  2026-4-29
+> 5_  2026-4-29（45分鐘）
 > 6_
 > 7_
 > 8_
@@ -16,8 +16,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-4-29]**
-> 待輸入（45分鐘）
+> 
+> 今日 tried 0.8x full song KATSUO ONO ( Detective Conan-OST
+> 集中練 p2 main pattern 稱定性 "特別喺 3en"
+> 
+>sticking partice for p2 main pattern (3en k-s-hh)
+> https://gscribe.com/share/jyz1yXq82MGsGq5s5
+> 
+> sticking partice for p2  #02
+> https://gscribe.com/share/xgYz7fK77SnPhXk8A
 >
+>p2 main pattern
+>https://gscribe.com/share/Cv1yYScWn5bmYfom8
 
 > [!NOTE] **[2026-4-13]**
 > 今日 tried  0.85x full song KATSUO ONO ( Detective Conan-OST
