@@ -10,7 +10,10 @@
 > 4_  
 
 > [!NOTE] **[2026-4-30]**
-> 待輸入
+>SOURCE: updated full song嘉賓 - 張遠.mp4
+> 
+> 今日 tried 0.7-0.8x full song 嘉賓 - 張遠.mp4
+> next: ends song at 0.8x 
 
 > [!NOTE] **[2026-04-14]**
 > SOURCE: updated full song嘉賓 - 張遠.mp4
