@@ -34,9 +34,9 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-04-30]**
-> **Katrina:** 待輸入
->
-> **Jonathan:** 待輸入
+>source: Katrina Grade 1 5 songs with drums.mp4
+> **Katrina:** 今日 cover咗 liberation - 0.7x  全首
+> **Jonathan:** today tried 0.7x  grade 4 - weak , 全首 
 >
 
 ---

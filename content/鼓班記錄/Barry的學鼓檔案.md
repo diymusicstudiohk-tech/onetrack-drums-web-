@@ -1,4 +1,4 @@
-
+ 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 > [!TIP] Remark: 前茶餐廳太子爺]
@@ -17,11 +17,13 @@ Rockschool grade 5 pick : tiberius
 > 6_  2026-04-24
 > 7_  2026-05-01
 > 8_
-> 9_ (我遲 到 5分鐘搵日補番)
+> 9_ (我遲 到 5分鐘搵日補番, 2026-05-01 已補)
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-01]**
-> 待輸入
+> SOURCE: full song - Evanescence - Bring Me To Life.mp4
+> 
+> TODAY TRIED 0.9X till bridge , just tried after bridge no song 
 >
 
 > [!NOTE] **[2026-04-24]**
