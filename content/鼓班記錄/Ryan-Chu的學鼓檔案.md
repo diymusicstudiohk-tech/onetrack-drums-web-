@@ -22,7 +22,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-2]**
-> 待輸入
+> 
+> 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 
+> source: ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS copy.mp4
+>   
+> focus 喺 razorhead  幾吓 crash  連住要打得清楚  
+> 
+> bar 41 -42 to 17-18, Razorhead (168)
+> https://gscribe.com/share/mgGMiXsKH6q6ciSn7
+> 
+> 
 >
 
 > [!QUOTE] ***購買記錄***

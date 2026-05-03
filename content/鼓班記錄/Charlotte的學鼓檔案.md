@@ -17,8 +17,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-2]**
-> 待輸入
+> source: Birdy - Wings (Official Music Video)
+> 
+> today started birdy- wings , tried 原速
+> 改寫難D唧 2nd verse and chorus 
+> 
+>Verse
+>https://gscribe.com/share/xXfCKyXBaXo77Npp8
 >
+> Chorus x3
+> https://gscribe.com/share/LNXAPKYh4HcCDCf98
+>
+![[IMG_5466.jpg]]
 
 > [!NOTE] **[2026-4-25]**
 > 

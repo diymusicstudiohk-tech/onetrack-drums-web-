@@ -13,8 +13,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-2]**
-> 待輸入
+> **Twinkle**
+>source: till POST C  - NINETEEN HRTZ.mp4
 >
+>2nd PC 
+>https://gscribe.com/share/9AEzUme2o9HWegAJ7
 
 > [!NOTE] **[2026-4-25]**
 > 
@@ -23,8 +26,9 @@
 > today tried 0.8x till POST C  - NINETEEN HRTZ.mp4
 >
 >**Hayden**
->source: till POST C  - NINETEEN HRTZ.mp4
->Hayden cont practice 原速 無鼓版 exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+>
+>Hayden cont practice 原速 無鼓版 
+>exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
 >
 
 > [!NOTE] **[2026-4-18]**

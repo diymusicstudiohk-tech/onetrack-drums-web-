@@ -1,11 +1,25 @@
 #!/bin/bash
 # STRICT Sync for Drum Lesson Records ONLY
 
-VAULT_DIR="/Users/benzonkpchan/obsidian/personal"
+LEGACY_VAULT_DIR="/Users/benzonkpchan/obsidian/personal"
+CURRENT_VAULT_DIR="/Users/benzonkpchan/Documents/Obsidian Vault"
 WEB_CONTENT_DIR="/Users/benzonkpchan/onetrack-drums-web/content"
 WEB_DIR="/Users/benzonkpchan/onetrack-drums-web"
 
+if [[ -d "$LEGACY_VAULT_DIR" ]]; then
+    VAULT_DIR="$LEGACY_VAULT_DIR"
+elif [[ -d "$CURRENT_VAULT_DIR" ]]; then
+    VAULT_DIR="$CURRENT_VAULT_DIR"
+else
+    echo "❌ Obsidian vault not found."
+    echo "Checked:"
+    echo "  - $LEGACY_VAULT_DIR"
+    echo "  - $CURRENT_VAULT_DIR"
+    exit 1
+fi
+
 echo "🚀 Syncing ONLY Student Records to Quartz..."
+echo "📂 Using Obsidian vault: $VAULT_DIR"
 
 # 1. Clean up existing content to ensure strictness
 rm -rf "$WEB_CONTENT_DIR/鼓班記錄"

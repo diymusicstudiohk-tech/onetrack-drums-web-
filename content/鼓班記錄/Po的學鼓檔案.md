@@ -2,7 +2,6 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 自稱 I 人 😱] 26年復活節：胡志明, 
 
-
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -18,7 +17,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-2]**
-> 待輸入
+> SOURCE: 26UPDATED - full moon 有馬 FULL SONG ROLLING SCORE.mp4
+>
+>today tried 0.75x full song 
+>
+> 3rd C ( 2nd half)
+> https://gscribe.com/share/9woyokhdS51FQnYg8
+> 
+> 4th C (p.2)
+> https://gscribe.com/share/SiFBYiEudfz9Eobw8
+> 
+> Coda + Outro
+> https://gscribe.com/share/MExhT2v2zK6BCZ8u5
+> 
 >
 
 > [!QUOTE] ***購買記錄***

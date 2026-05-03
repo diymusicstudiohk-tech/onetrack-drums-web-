@@ -8,7 +8,7 @@
 > 1_  2026-04-12
 > 2_  2026-04-19
 > 3_  2026-4-26
-> 4_
+> 4_  2026-05-03
 > 5_
 > 6_
 > 7_
@@ -16,6 +16,23 @@
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-05-03]**
+> 
+> single stroke  16th 2 bars ( today best : 170bpm )
+> https://gscribe.com/share/54dDqTnTFAnptg7m6
+> 
+> single stroke 16th 4 bars （today best : 170-180bpm 
+> https://gscribe.com/share/1rcT7TNBMMwrnrC86
+> 
+> 右手捉左手手碗對上手臂
+> https://gscribe.com/share/zUKpsbab3vc1jTEk9
+> 
+> 今日試咗原速 till 2nd V2,
+> 2nd C1, C2同 MB after C2 試到0.8-0.9x
+> 
+> source: 0.9X 2nd C and MB only 天馬行空 X4.mp4
+> 
 
 > [!NOTE] **[2026-4-26]**
 > 今日cover 咗 0.9x till 2nd V2 天馬行空 (簡易動態譜) .mp4
