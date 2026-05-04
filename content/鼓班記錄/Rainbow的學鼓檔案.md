@@ -23,6 +23,13 @@
 > SOURCE: till Guitar Solo (p2 ends 如果花火可不消散.mp4
 > 
 > today covered 0.8x till Guitar Solo (p2 ends 如果花火可不消散.mp4
+> 
+> 開咗少少 intro only 深宵便利愛 .mp4
+> source: intro only 深宵便利愛 .mp4
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-05-04 已購買8堂，有效期至 2026-08-24
+> ![[鼓班記錄/attachments/532268918_1777881779.jpg]]
 
 ---
 
