@@ -20,7 +20,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-04]**
-> 待輸入
+> SOURCE: till Guitar Solo (p2 ends 如果花火可不消散.mp4
+> 
+> today covered 0.8x till Guitar Solo (p2 ends 如果花火可不消散.mp4
 
 ---
 
