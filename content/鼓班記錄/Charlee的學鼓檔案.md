@@ -1,6 +1,8 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ❌ 🧑🏻‍⚕️] 張卓羚 上水禮賢會, 李嘉誠, 學 cajon , 同女結他手 friends, 出隊
+> 
+> Grade trip 5月尾 to 6 月中 ，台灣 + 莫斯科
 
 ---
 
@@ -18,7 +20,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-05]**
-> 待輸入
+> source: 2nd v till ends - 邊一個發明了Encore (71).mp4
+> 
+> today tried 0.8x 2nd v till ends - 邊一個發明了Encore (71).mp4
+> 
+> drag 兩吓要彈得高D大聲D
 >
 
 > [!NOTE] **[2026-4-18]**

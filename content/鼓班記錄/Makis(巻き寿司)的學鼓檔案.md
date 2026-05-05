@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  ❤️ 鐘華仁 🤭Gisella
+ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  ❤️ 鐘華仁 🤭Gisella
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
  
@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-05]**
-> 待輸入
+> source: GOOD VERSION scary grade 4 2.mp4
+> 
+> 今日開始 Grade 4 - Scary till bar 19
+> tried 0.7x Grade 4 - Scary till bar 19
 >
 
 > [!NOTE] **[2026-04-28]**
