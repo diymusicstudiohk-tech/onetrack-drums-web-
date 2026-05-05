@@ -16,7 +16,25 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-04]**
-> 待輸入
+> 今日暫時放低  full song KATSUO ONO ( Detective Conan-OST
+> 
+> 不過 照練習呢個 ( today best:100--110bpm )
+>sticking partice for p2 main pattern (3en k-s-hh)
+> https://gscribe.com/share/jyz1yXq82MGsGq5s5
+> 
+> na3en coordination ex (today best: 140bpm+)
+> https://gscribe.com/share/eT853AhP4FYjy5AB9
+> 
+> p2 main pattern (135bpm) 
+> https://gscribe.com/share/Copf9VFFpxS3T8CAA
+> 
+> 
+> 今日開咗 grade 5 - Don't let go , tried full song  0.9x
+>
+>source: Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+>source: Dont let go - RSL GRADE 5.pdf
+> 
+> 
 
 > [!NOTE] **[2026-4-29]**
 > 

@@ -16,7 +16,9 @@
 > 8_
 
 > [!NOTE] **[2026-05-04]**
-> 待輸入
+> SOURCE: till 2nd C 活出愛 2026 ver.mp4
+> 
+> TODAY TRIED 0.8X till 2nd C 活出愛 2026 ver.mp4
 
 > [!NOTE] **[2026-3-23]**
 > today tried 0.9x full song - 在祢沒有難成的事 , not stable

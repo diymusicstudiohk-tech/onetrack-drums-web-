@@ -1,9 +1,9 @@
-
+ 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-4-13
 > 2_  2026-04-24
-> 3_  2026-05-04
+> 3_  2026-05-04 (45min)
 > 4_
 > 5_
 > 6_
@@ -13,7 +13,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-04]**
-> 待輸入
+> source: full song 恩主美善愛眷.mp4
+> 
+> today tried 0.8-0.9x full song 恩主美善愛眷.mp4
+> 
+> next: end song and start 今生所盼 living hope 
+> using this cover as drums arr idea 
+> https://www.youtube.com/watch?v=Za-gyYr81H8
 
 > [!NOTE] **[2026-04-24]**
 > source: full song 逾越 .mp4
