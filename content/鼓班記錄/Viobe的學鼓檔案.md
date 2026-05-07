@@ -10,7 +10,10 @@
 > 4_  2026-05-07
 
 > [!NOTE] **[2026-05-07]**
-> 待輸入
+> SOURCE: updated02 full song嘉賓 - 張遠.mp4
+> 
+> 今日 cover 咗0.8x full song 嘉賓 - 張遠.mp4
+> next: new song
 >
 
 > [!NOTE] **[2026-4-30]**
