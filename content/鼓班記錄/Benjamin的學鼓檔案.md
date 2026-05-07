@@ -27,7 +27,12 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-6]**
-> 待輸入
+> source: Updated - Louder drums - Grade 5 - Bros .mp4
+> 
+> today covered 1x grade 5 歌 "bros" full song
+> 
+> bar 75 -78
+> https://gscribe.com/share/7RAZUbwbZfNXVWZ28
 >
 
 > [!NOTE] **[2026-4-29]**
