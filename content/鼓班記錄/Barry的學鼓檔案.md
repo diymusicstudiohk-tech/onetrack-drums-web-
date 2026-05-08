@@ -21,7 +21,10 @@ Rockschool grade 5 pick : tiberius
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-08]**
-> 待輸入
+> SOURCE: full song - Evanescence - Bring Me To Life.mp4
+> 
+> TODAY TRIED 0.9Xwhole song , outro not stable 
+> next: ends song
 >
 
 > [!NOTE] **[2026-05-01]**
