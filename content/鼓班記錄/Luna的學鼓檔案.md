@@ -16,7 +16,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-08]**
-> 待輸入
+> source: full song 晝夜思想.mp4
+> 
+> today tried 0.8x-0.9x full song 晝夜思想.mp4 ( 2nd V not yet tried)
 >
 
 > [!NOTE] **[2026-04-24]**
