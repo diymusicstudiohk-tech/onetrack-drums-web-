@@ -6,7 +6,7 @@
 > 
 > [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
 > [Remark: 2nd Aug 沖繩]
-> Kason ( 字醜) , Jillian (演奏級 violin) ； Nemesis: Kaspar (1st in Eng, Science)
+> Kason ( 字醜) , Jillian (演奏級 violin), Evelyn (violin G8) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
 
 ---
 
@@ -24,7 +24,11 @@
 
 
 > [!NOTE] **[2026-05-08]**
-> 待輸入
+>  source: holy forever p1, p2, p3, p4,p5 image;
+> source: Holy Forever _ Bethel Music [Jenn Johnson, feat. CeCe Winans] ( Drum Cover ∖ Sheet ∖ Score)
+> 
+> tried till bar 18  
+>
 >
 > ![[鼓班記錄/attachments/532268918_1778233818.jpg]]
 >
