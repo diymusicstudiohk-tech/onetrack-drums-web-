@@ -29,7 +29,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-07]**
-> 待輸入
+> 
+> SOURCE: louder drums with click- Black Smoke Rising.mp4
+> 
+> 今日cover 咗 0.9x-1x Black Smoke Rising
+> 
+> next: 預習 this 
+> 075x - Grade 5 - Bros.mp4
 >
 
 > [!NOTE] **[2026-04-23]**

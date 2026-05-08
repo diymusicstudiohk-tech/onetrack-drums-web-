@@ -20,6 +20,10 @@
 > [!NOTE] **[2026-05-07]**
 > source: full song 轉回.mp4
 > 
+> 今日cover 咗原速 full song 轉回
+> 
+> next: 王的應許
+> https://www.youtube.com/watch?v=mpEZNaviS5s
 > 
 >
 
