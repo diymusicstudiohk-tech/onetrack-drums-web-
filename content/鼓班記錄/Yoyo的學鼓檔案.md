@@ -15,7 +15,10 @@
 
 
 > [!NOTE] **[2026-05-08]**
-> 待輸入
+> source: FULL SONG 簡單愛.mp4
+> 
+> 今日重溫咗考試用唧 FULL SONG 簡單愛.mp4
+> tried 0.9-1x
 >
 
 > [!NOTE] **[2026-4-8]**
