@@ -7,7 +7,7 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-4-11
 > 2_  2026-4-25
-> 3_  2026-5-2  2026-5-2
+> 3_  2026-5-2  
 > 4_  2026-5-9
 > 5_
 > 6_
@@ -17,12 +17,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-9]**
-> 待輸入
->
+> source:moises.ai: Birdy - Wings (Official Music Video)
+> 
+> 今次 tried 原速 full song - Birdy , 
+> 下堂可能再試試（今日窒咗d ）
+> 
+> Verse
+> https://gscribe.com/share/FFid7UGJsHEdqt1s9
+> 
+> intro x1 ,  Chorus x2.(Ride), MB x1(semi OHH) 
+> https://gscribe.com/share/imGQtefe93XWFcZj9
+> 
+> Chorus after Bridge
+> https://gscribe.com/share/Aw5oxBAAN7qmnNvJA
 
-> [!NOTE] **[2026-5-2]**
-> 待輸入
->
 
 > [!NOTE] **[2026-5-2]**
 > source: Birdy - Wings (Official Music Video)
