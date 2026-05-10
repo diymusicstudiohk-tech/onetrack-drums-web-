@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-10]**
-> 待輸入
+> source: FULL SONG - ray (超かぐや姫！ Version).mp4
+> 
+> today tried whole song 0.9x 
+> next end song 
 
 > [!NOTE] **[2026-4-26]**
 > SOURCE:till 2ND C - ray (超かぐや姫！ Version).mp4
