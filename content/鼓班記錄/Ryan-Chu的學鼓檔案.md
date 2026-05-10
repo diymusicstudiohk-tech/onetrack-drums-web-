@@ -22,7 +22,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-9]**
-> 待輸入
+> 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 
+> 一口氣test
+> 
+> 第一首 ：bar 96 , 前面幾clean 
+> 第二首：
+> 第三首： bar 47.48; 79-80( 好似打少咗)
+> 
+> bar 47-48
+> https://gscribe.com/share/urgdrU3NrxQVijJ39
+> 
+> 第四首： 86>87 kick , 106-107 亂咗 
+> 第五首： bar 4 (32th fill ), 29 
+> 
 >
 
 > [!NOTE] **[2026-5-2]**
@@ -40,6 +53,8 @@
 >
 
 > [!QUOTE] ***購買記錄***
+> 
+> 在 2025-05-02 已購買8堂，有效期至 2025-09-20
 > ![[鼓班記錄/attachments/Ryan-Chu-receipt-20260509.jpg]]
 **
 

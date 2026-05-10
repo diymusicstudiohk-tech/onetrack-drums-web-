@@ -6,18 +6,24 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-4-18
 > 2_  2026-4-25
-> 3_  2026-5-2  2026-5-2
+> 3_  2026-5-2  
 > 4_  2026-5-9
 >
 
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-9]**
-> 待輸入
+> Twinkle
+> source: till 2ND POST C  - NINETEEN HRTZ.mp4
+> 
+> today tried 0.8x till 2ND POST C  - NINETEEN HRTZ.mp4
+> 
+> **Hayden**
 >
-
-> [!NOTE] **[2026-5-2]**
-> 待輸入
+>Hayden cont practice 原速 無鼓版 Grade 2 5首考試歌
+>exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+>
+>最尾嗰首錯得多d 
 >
 
 > [!NOTE] **[2026-5-2]**
