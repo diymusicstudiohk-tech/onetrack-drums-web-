@@ -16,7 +16,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-11]**
-> 待輸入
+> source: 我的救贖者活著 demo till 1st MB .MOV
+> source: 我的救贖者活著.pages
+>
+>C1 bar 5-8 practice 
+>https://gscribe.com/share/1LLgZazVk7RXVmDG6
+>
+>今日 cover 咗 0.7x till 1st MB , 你唧功課除咗要練打，都要執埋之後首歌d bars 數量
 >
 
 > [!NOTE] **[2026-04-20]**

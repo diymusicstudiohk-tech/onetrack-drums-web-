@@ -17,7 +17,24 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-11]**
-> 待輸入
+> 
+> **下次表演 Grade 6 - technical ex 特別係 style study **
+> 
+>  今日完成咗 今日完成咗 grade 6- ziggy stardust。
+>  開始 grade 6 - i feel you ( i got you ) 
+>  
+>  source: Got You (I Feel Good) Rockschool Grade 6 Drums (720p_60fps_H264-128kbit_AAC).mp4
+>  today tried 0.8 -0.9 x full song 
+>  
+>  右手打 hihat 要細力d 用棍尖，cross stick 要大力好多( 調轉支棍用棍尾rim click)
+>  
+>  之後 建議練埋 grade 6 - dutch flowerz, pop it in the top
+>  
+>  下次開 pop it in the top ( 屋企)
+>  
+>  今日 i got you (145) main pattern 打到 top stable tempo: 125-130bpm 
+>  MAIN PATTERN 
+>  https://gscribe.com/share/dZTQSZawPjNRhfM49
 >
 
 > [!NOTE] **[2026-4-27]**

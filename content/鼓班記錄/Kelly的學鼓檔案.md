@@ -9,7 +9,10 @@
 4_
 
 > [!NOTE] **[2026-05-11]**
-> 待輸入
+> source:逆流之歌 - Rubberband.pdf
+> 
+> tried 0.85x till bar 70
+> 今日去到page 2 guitar solo 完
 >
 
 > [!NOTE] **[2026-03-30]**

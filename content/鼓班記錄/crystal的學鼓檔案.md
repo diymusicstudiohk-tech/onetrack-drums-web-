@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-11]**
-> 待輸入
+> source: 09X till Bridge 03 天馬行空.mp4
+> 
+> today tried 09X till Bridge 03 天馬行空.mp4
+> bridge only 0.7-0.8x not stable
 >
 
 > [!NOTE] **[2026-05-03]**

@@ -17,7 +17,23 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-11]**
-> 待輸入
+> 
+> source:full rerolling score 太陽與地球.mp4
+> 
+> 今日玩咗 0.8x full rerolling score 太陽與地球.mp4, 打哂全首
+> 
+> 所有 pattern  2"a"個 kick 都踩快咗
+> 
+> 今日淨係練習 2"a"嗰隻kick pattern 
+> 唔知點解 純右手＋右腳 手腳協調係OK，
+> 但加喺 pattern 到 （有歌定無歌）都會 踩快 咗 2"a"個kick
+> 
+> 建議好慢咁練（bpm 40)
+> 慢歌 2a 3 kick pattern 
+> https://gscribe.com/share/Uh7ZAUE8PWAy3uLo9
+> 
+> 另可用其他慢歌呢個 " 慢歌 2a 3 kick pattern "
+> 例如用 《祢把我尋回》
 >
 
 > [!NOTE] **[2026-04-20]**
