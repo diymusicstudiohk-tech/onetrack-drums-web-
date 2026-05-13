@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-12]**
-> 待輸入
+> source: 過後 - 陳柏宇.pdf
+> source: folder (Jason Chan - 過後 Moved On ¦ Official Music Video (128kbit_AAC)-Bb major-87bpm-441hz)
 >
 
 > [!QUOTE] ***購買記錄***

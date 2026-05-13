@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ISFJ  or INFJ , Jan 22nd ‼️ Leftie , CNblue 鄭容和, 
+> [!TIP] [Remark: ISFJ  or INFJ , Jan 22nd ‼️ Leftie , CNblue 鄭容和; RBBB
 
 衝擊力直接回傳： 如果握棒過緊，或者過度依賴手腕「硬砸」下去，那麼鼓面回傳的衝擊力會直接衝擊您的腕關節，而不是被手指和手臂的協同動作所緩衝。這會對腕骨間的韌帶，特別是「三角纖維軟骨複合體 (TFCC)」造成壓力，引發疼痛。]
 
@@ -20,7 +20,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-12]**
-> 待輸入
+> source: till 2nd C 深宵便利愛 .mp4
+> 
+> today tried 0.9x-1x till 2nd C 深宵便利愛 .mp4
 >
 
 > [!NOTE] **[2026-05-04]**

@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-12]**
-> 待輸入
+> source: full song - BLOODY STREAM .mp4
+> 
+> tried 0.9x full song - BLOODY STREAM .mp4
 >
 
 > [!NOTE] **[2026-05-10]**
