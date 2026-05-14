@@ -7,7 +7,7 @@ scary, hammerblow, in my place , NOISY NEIGHBOUR
 
 Grade 5 song choices : 
 (finished)Tiberius~~, (gave up) Hard to handle~~ ,  
-(finished)Don’t let go, (finished)Canned heat, (ongoing) Bros
+(finished)Don’t let go, (finished)Canned heat, (finished) Bros
 
 or Bryan’s take Geek and Window seat.
 
@@ -17,7 +17,7 @@ or Bryan’s take Geek and Window seat.
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-4-22
 > 2_  2026-4-29
-> 3_  2026-5-6  2026-5-6
+> 3_  2026-5-6  
 > 4_  2026-5-13
 > 5_
 > 6_
@@ -27,11 +27,12 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-13]**
-> 待輸入
->
-
-> [!NOTE] **[2026-5-6]**
-> 待輸入
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> 今日tried till bar 24, 0.8x ,  RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> bar 3 -8(revised) 
+> https://gscribe.com/share/4xSvo6oqZL2ZYf9Z7
 >
 
 > [!NOTE] **[2026-5-6]**
