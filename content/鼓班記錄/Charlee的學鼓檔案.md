@@ -26,7 +26,8 @@ TODAY TRIED 0.95X full song - 邊一個發明了Encore (71).mp4
 >
 
 > [!QUOTE] ***購買記錄***
-> (待填寫)
+> 在 2026-05-14 已購買8堂，有效期至 2026-09-03
+> ![[鼓班記錄/attachments/charlee-payment-20260514.jpg]]
 
 ---
 
