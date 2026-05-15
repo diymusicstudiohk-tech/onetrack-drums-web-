@@ -13,7 +13,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-14]**
-> 待輸入
+> 
+> 今日cover 咗原速 full song 恩主美善愛眷.mp4
+> 
+> source: isaac kr version living hope p1, p2, p3
+> source : 2nd V and PC only - 주 예수 나의 산 소망 (Living Hope) .mp4
+> 
+> 今日開咗少少living hope 
 >
 
 > [!NOTE] **[2026-05-04]**
