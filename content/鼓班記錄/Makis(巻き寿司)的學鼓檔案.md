@@ -6,14 +6,14 @@ ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬�
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
-> 1_  2026-03-20
-> 2_  2026-03-27
-> 3_  2026-04-03
-> 4_  2026-04-10
-> 5_  2026-04-17
-> 6_  2026-04-28
-> 7_  2026-05-05
-> 8_  2026-05-15
+> 1_  2026-03-27
+> 2_  2026-04-03
+> 3_  2026-04-10
+> 4_  2026-04-17
+> 5_  2026-04-28
+> 6_  2026-05-05
+> 7_  2026-05-15
+> 8_  
 >
 
 ***課堂記錄***
@@ -67,12 +67,6 @@ tried 0.7x Grade 4 - Scary till bar 36
 > 今日開另一首 Grade 4 , today tried 0.7x Grade 4 noisy neighbour till bar 18 
 >
 
-> [!NOTE] **[2026-03-20]**
->
->source: IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4 (720p_60fps_H264-128kbit_AAC).mp4
->
- 今日開始同cover 咗 Grade 4 - In my place 全首 0.8-0.9x 
->
 
 > [!QUOTE] ***購買記錄***
 > 2026-03-19 - 已購買堂數：8堂；有效期至 2026-07-09
@@ -87,11 +81,18 @@ tried 0.7x Grade 4 - Scary till bar 36
 > 3_  2026-2-06
 > 4_  2026-02-13
 > 5_  2026-02-20
-> 6_  2026-02-20
-> 7_  2026-03-06
-> 8_  2026-03-13
+> 6_  2026-03-06
+> 7_  2026-03-13
+> 8_  2026-03-20
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-03-20]**
+>
+>source: IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4 (720p_60fps_H264-128kbit_AAC).mp4
+>
+ 今日開始同cover 咗 Grade 4 - In my place 全首 0.8-0.9x 
+>
 
 > [!NOTE] **[2026-03-13]**
 > 今日 Makis(巻き寿司) 試咗 0.9x-1x grade 3 - indecisive full song
