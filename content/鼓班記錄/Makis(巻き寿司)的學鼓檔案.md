@@ -1,4 +1,4 @@
-ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  ❤️ 鐘華仁 🤭Gisella
+ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
  
@@ -19,7 +19,13 @@ ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬�
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-15]**
-> 待輸入
+> 
+> source: GOOD VERSION scary grade 4 2.mp4 
+tried 0.7x Grade 4 - Scary till bar 36
+> 
+> 
+> scary bar 20-28
+> https://gscribe.com/share/QGht1ptBhTrZv9sG8
 >
 
 > [!NOTE] **[2026-05-05]**

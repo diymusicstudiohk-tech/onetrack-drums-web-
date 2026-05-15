@@ -24,7 +24,21 @@
 
 
 > [!NOTE] **[2026-05-15]**
-> 待輸入
+> 
+> source: holy forever p1, p2, p3, p4,p5 image;  
+source: Holy Forever _ Bethel Music [Jenn Johnson, feat. CeCe Winans] ( Drum Cover ∖ Sheet ∖ Score)
+> 
+> tried till bar 24
+> stuck at 拍子foundation
+> 
+> bar 17-24
+> https://gscribe.com/share/esrDrEJvH5HouK1U8
+> 
+> bar 15 -18
+> https://gscribe.com/share/QbLv3Mjd7qpWvQiu5
+> 
+> 
+> 
 >
 
 > [!NOTE] **[2026-05-08]**

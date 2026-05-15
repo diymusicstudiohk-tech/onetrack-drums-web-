@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-15]**
-> 待輸入
+> source: beauty and a beat.pages
+> 
+> 今日開始咗 justin bieber 的 beauty and a beat, 用咗一個 韓仔 cover 再改內容
+> 試咗 p.1 0.8x-0.9x
 >
 
 > [!NOTE] **[2026-04-17]**
