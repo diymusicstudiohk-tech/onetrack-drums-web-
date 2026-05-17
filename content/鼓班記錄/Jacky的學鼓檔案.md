@@ -18,12 +18,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-17]**
-> 待填
+> source (自製動態譜):FULL SONG - ray (超かぐや姫！ Version).mp4
+>
+> today tried whole song 0.95x
+> bottleneck at 2nd V2
+> https://gscribe.com/share/Nxw5hp3GsX1ywLu27
+>
+> next end song
 >
 
 > [!QUOTE] ***購買記錄***
-> 在 2026-05-17 已購買8堂，有效期至 2026-09-06
-> ![[鼓班記錄/attachments/Jacky-Receipt-2026-05-17.jpg]]
+> 未付學費（待付）
 **
 
 ---
