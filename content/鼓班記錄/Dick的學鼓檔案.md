@@ -1,5 +1,8 @@
-
+> [!TIP] [Remark: ]
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+
+---
+
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-05-16
 > 2_
@@ -9,16 +12,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-16]**
-> 待輸入
+> 今日cover 咗 0.9-1x  full song 長相廝守.mp4
+> 
+> main pattern pre study - Måneskin - Beggin.mp4
+> 今日練住呢個先 0.7x 
+> 
+
 >
 
 > [!QUOTE] ***購買記錄***
 > 已收學費（見收據）
 > ![[鼓班記錄/attachments/dick-payment-20260515.jpg]]
-
----
-
-> [!TIP] [Remark: ]
 
 ---
 

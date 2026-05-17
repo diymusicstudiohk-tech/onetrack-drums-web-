@@ -19,7 +19,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-16]**
-> 待輸入
+> source: nflying everlasting p1, p2,
+> source: 엔플라잉(N.flying) - 만년설(Everlasting) Lv2ㅣ드럼커버ㅣDrum coverㅣ쉬운드럼악보 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 
+> today tried 0.9x 만년설(Everlasting
+> next ends song
+> 
+> fill to PC
+> https://gscribe.com/share/gy2AeiAMizUDhSy89
 >
 
 > [!NOTE] **[2026-05-01]**
@@ -27,7 +35,7 @@
 > 
 > cap咗 everlasting 嘅 譜做圖，試咗少少only 1st Chorus and interlude
 > 
-> source: nflying everlasting p1, p2, p3
+> source: nflying everlasting p1, p2,
 > source: 엔플라잉(N.flying) - 만년설(Everlasting) Lv2ㅣ드럼커버ㅣDrum coverㅣ쉬운드럼악보 (1080p_30fps_H264-128kbit_AAC).mp4
 >
 

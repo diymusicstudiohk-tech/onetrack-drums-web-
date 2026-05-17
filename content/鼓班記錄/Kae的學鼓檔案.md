@@ -12,18 +12,25 @@
 > 4_  2026-04-19
 > 5_  2026-4-25
 > 6_  2026-5-2  
-> 7_  2026-05-16
+> 7_ 2026-05-16
 > 8_
 > 9_ ( 搵日補番 整電腦嗰 10 分鐘 )
 >
 ***課堂記錄***
 
-> [!NOTE] **[2026-05-16]**
-> 待輸入
+> [!NOTE] **[2026-5-16]**
+> 
+> 今日完成咗 080x 將天敞開 cover.MOV
 >
-
-> [!NOTE] **[2026-5-2]**
-> 待輸入
+>
+>source : LOUDER DRUMS 立志擺上  低中高能量 ver copy
+>今日tried 1x 2nd v till ends
+>
+>超低能量
+>https://gscribe.com/share/1gTSxKN117mXDMJr7
+>
+>較低能量
+>https://gscribe.com/share/BmAFv6GapsfoHLtq9
 >
 
 > [!NOTE] **[2026-5-2]**

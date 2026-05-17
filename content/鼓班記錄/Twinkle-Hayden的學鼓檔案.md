@@ -12,7 +12,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-16]**
-> 待輸入
+> 
+> **Twinkle**
+> source: full song - NINETEEN hrtz wav.mp4
+> 
+> today tried 0.8x ull song - NINETEEN hrtz wav.mp4
+> 
+> **Hayden**
+> source: exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+>
+>
+>
 >
 
 ---
