@@ -5,11 +5,16 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 1_  2026-03-30
 2_  2026-05-11
-3_  2026-05-18
+3_  2026-05-18  
 4_
 
 > [!NOTE] **[2026-05-18]**
 > 待輸入
+
+> [!NOTE] **[2026-05-18]**
+> source: 逆流之歌 - Rubberband copy.pdf
+> 
+> today tried 原速 逆流之歌, next start new song 
 
 > [!NOTE] **[2026-05-11]**
 > source:逆流之歌 - Rubberband.pdf

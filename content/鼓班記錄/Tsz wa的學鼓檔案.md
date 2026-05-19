@@ -14,7 +14,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-18]**
-> 待輸入
+> SOURCE: WITH RIDE - new 8 bars loop - 安靜 .mp4
+> 
+> today tried 0.8xWITH RIDE - new 8 bars loop - 安靜 .mp4
+> 今日第一次試轉 hihat-ride-hihat 
+> 
 
 > [!NOTE] **[2026-4-30]**
 > 待輸入

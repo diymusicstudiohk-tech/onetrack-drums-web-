@@ -19,12 +19,15 @@ or Bryan’s take Geek and Window seat.
 > 2_  2026-4-29
 > 3_  2026-5-6  
 > 4_  2026-5-13
-> 5_
+> 5_  2026-05-19
 > 6_
 > 7_
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-05-19]**
+> 待輸入
 
 > [!NOTE] **[2026-5-13]**
 > source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
