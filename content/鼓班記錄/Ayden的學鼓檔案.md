@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-19]**
-> 待輸入
+> source: Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 今日開 grade 5 - Don't let go , tried 0.8x till bar 36
 
 > [!NOTE] **[2026-05-17]**
 > > source: full song - BLOODY STREAM .mp4

@@ -6,7 +6,7 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-05-12
-> 2_  2026-05-18  2026-05-18
+> 2_  2026-05-18  
 > 3_  2026-05-19
 > 4_
 >
@@ -14,10 +14,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-19]**
-> 待輸入
-
-> [!NOTE] **[2026-05-18]**
-> 待輸入
+> source: FULL SONG - MOON - BABY MONSTER.mp4
+> 
+> today tried 1x 原速全首  MOON - BABY MONSTER
+> 
+> next maybe this : https://www.youtube.com/watch?v=2wA_b6YHjqQ
 
 > [!NOTE] **[2026-05-18]**
 > source: FULL SONG - MOON - BABY MONSTER.mp4

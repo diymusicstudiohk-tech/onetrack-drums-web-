@@ -27,7 +27,10 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-19]**
-> 待輸入
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> today tried 0.8x  full song - Grade 5 - Black Smoke Rising
+
 
 > [!NOTE] **[2026-5-13]**
 > source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
