@@ -12,6 +12,15 @@ https://www.youtube.com/@Actuallyclax_youtube
 Katrina 五首考試歌影片
 (Files: Katrina Grade 1 5 songs with drums.mp4)
 
+Katrina 學過以下 **Grade 1 歌曲**：
+| # | 歌曲 | 首次練習 | 進度 |
+|---|------|----------|------|
+| 1 | **Kaiser Roll** | 2025-08-14 | 1x 全首 ✅ |
+| 2 | **Yeah** | 2025-09-25 | 原速 ✅ |
+| 3 | **Time Is Running Out** | 2026-01-22 | 0.9x–1x ✅ |
+| 4 | **Supersonic** | 2026-03-19 | 1x 全首 ✅ |
+| 5 | **Liberation** | 2026-04-23 | 1x 全首 ✅ 
+
 Jonathan 五首考試歌 影片
 (Files: jonathan grade 2 5 songs updatde with official audio.mp4)
 
@@ -34,15 +43,18 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-21]**
-> **Katrina:** 待輸入
-> **Jonathan:** 待輸入
+> 
+> source: Katrina Grade 1 5 songs with drums.mp4
+> **Katrina:** 今日 cover咗 0.8x -Grade 1 5首歌
+> **Jonathan:** today tried 1x  grade 4 - weak , 全首 
+>
 >
 
 > [!NOTE] **[2026-05-14]**
 > 
 > source: Katrina Grade 1 5 songs with drums.mp4
 > **Katrina:** 今日 cover咗 liberation - 1x  全首
-> **Jonathan:** today tried 0.0.867x  grade 4 - weak , 全首 
+> **Jonathan:** today tried 0.867x  grade 4 - weak , 全首 
 >
 
 > [!NOTE] **[2026-04-30]**

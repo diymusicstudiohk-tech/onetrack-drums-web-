@@ -20,7 +20,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-21]**
-> 待輸入
+> Source: full song - 邊一個發明了Encore (71).mp4
+> TODAY TRIED 1X full song - 邊一個發明了Encore (71).mp4
+> 
+> SOURCE: till 1st MB 致明日的舞.mp4
+> TRIED 0.8X till 1st MB 致明日的舞.mp4
+> 
+> reference to this drum cover : 
+> https://www.youtube.com/watch?v=5imVItd6sXg
 >
 
 > [!NOTE] **[2026-05-14]**
