@@ -24,7 +24,9 @@
 
 
 > [!NOTE] **[2026-05-22]**
-> 待輸入
+> SOURCE: 1ST V TO C - what a miracle.mp4
+> 
+> TODAY TRIED 原速 1ST V TO C - what a miracle.mp4
 >
 
 > [!NOTE] **[2026-05-15]**

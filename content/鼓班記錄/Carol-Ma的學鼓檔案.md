@@ -16,7 +16,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-22]**
-> 待輸入
+> SOURCE: 我的救贖者活著 full song demo .mp4
+> SOURCE: 我的救贖者活著 FULL SONG.pdf
+> 
+> today tried 0.8x 我的救贖者活著 full song demo .mp4
+> 
+> Ride 版本Chorus C1 4-8th bars
+> https://gscribe.com/share/xy4RSemi9xYDKSrr7
 >
 
 > [!NOTE] **[2026-05-11]**

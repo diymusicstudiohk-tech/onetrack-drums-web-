@@ -19,12 +19,23 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-22]**
-> 待輸入
+
+> 星期六 - 五月天 小巨蛋尾場搶飛  
+> 
+> source: 憨人 p1, 憨人 p2, 憨人 p3.png
+> source: 鼓譜【學生系列】憨人 五月天 Drum Cover by 承漢(12-year-old) 動態鼓譜｜爵士鼓｜鼓｜鼓譜｜譜｜drum｜score｜sheet｜cover
+> 
+> 用片黎做 backing track ，睇 cap圖 
+> 
+> today tried till p.r2 bar 54, 0.8x 
+> 
+> bar 14-17
+> https://gscribe.com/share/3fbMqeCFRFKV9FJWA
+> 
+> bar 53-55
+> https://gscribe.com/share/SYXaaybSHXhyPNBPA
 >
 
-> [!NOTE] **[2026-05-07]**
-> 待填
->
 
 > [!QUOTE] **購買記錄**
 > 2026-05-07 - 已購買堂數：8堂；有效期至 2026-08-27

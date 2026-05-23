@@ -16,7 +16,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-22]**
-> 待輸入
+> SOURCE: full song 未會遲.mp4
+> TODAY TRIED 0.9-1X full song 未會遲.mp4
+> NEXT END SONG
+> 
+> 1ST V1 
+> https://gscribe.com/share/JKKveTL8MCx1vCJz6
 >
 
 > [!NOTE] **[2026-05-15]**
