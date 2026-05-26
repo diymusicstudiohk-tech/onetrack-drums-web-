@@ -17,7 +17,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-23]**
-> 待輸入
+> 
+> source:full rerolling score 太陽與地球.mp4
+> 
+> 所有 pattern 2"a"個 kick 都踩快咗
+> 
+今日淨係練習 2"a"嗰隻kick pattern  
+唔知點解 純右手＋右腳 手腳協調係OK，  
+但加喺 pattern 到 （有歌定無歌）都會 踩快 咗 2"a"個kick
+
+> 兩個練習由 45bpm 開始
+> https://gscribe.com/share/Qbb7rj8VKTkTXF269
+> 
+> https://gscribe.com/share/dSouVZKekSK84Vo2A
 >
 
 > [!NOTE] **[2026-05-11]**

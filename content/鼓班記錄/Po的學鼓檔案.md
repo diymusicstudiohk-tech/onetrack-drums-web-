@@ -17,7 +17,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-23]**
-> 待輸入
+> 
+> SOURCE: 26UPDATED - full moon 有馬 FULL SONG ROLLING SCORE.mp4
+> today tried 0.9-1x not stable 
+> next ends song
+>
+> after this song , starts :
+> 
+> Satoshi（CV:Rica Matsumoto） - Mezase Pokémon Master -with my friends- / THE FIRST TAKE
+> https://www.youtube.com/watch?v=hMKf5mE3sdo
 >
 
 > [!NOTE] **[2026-5-13]**

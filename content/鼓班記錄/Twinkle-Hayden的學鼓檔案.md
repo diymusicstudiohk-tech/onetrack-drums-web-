@@ -1,6 +1,7 @@
 > [!TIP] [Remark: Hayden 用左手mx] Twinkle : 銀河守護者，譚扯謙鐘意肥妹仔同學范思婷
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
+> 1/6 Hayden , 9/7 Twinkle
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -12,7 +13,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-23]**
-> 待輸入
+> 
+> **Twinkle**
+> source: full song - NINETEEN hrtz wav.mp4
+> 
+> today tried 0.9x ull song - NINETEEN hrtz wav.mp4
+> 
+> **Hayden**
+> source: exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+>
 >
 
 > [!NOTE] **[2026-05-16]**
