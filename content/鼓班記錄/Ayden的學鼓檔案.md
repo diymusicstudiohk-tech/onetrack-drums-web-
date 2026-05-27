@@ -18,8 +18,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-26]**
-> 待輸入
->
+> 
+> don't let go 4 fills
+> https://gscribe.com/share/eGGmkcVX4iWbzQAw7
+> 
+> source: Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 今日開 grade 5 - Don't let go , tried 0.8x till bar 36
+> 
+
 
 > [!NOTE] **[2026-05-19]**
 > source: Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4

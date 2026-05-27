@@ -18,7 +18,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-26]**
-> 待輸入
+> source: 過後 - 陳柏宇.pdf
+> source: folder (Jason Chan - 過後 Moved On ¦ Official Music Video (128kbit_AAC)-Bb major-87bpm-441hz)
+>
+>預習 當我們不再說晚安(80/160)
+>
+>bar 32  - 40
+>https://gscribe.com/share/PgqHZEbkMKstE7et5
+>bar 41-44
+>https://gscribe.com/share/dSsxa7vxEVJ2gRyx9
+>bar 45-52
+>https://gscribe.com/share/FhwX2XWgoeRiaCWG8
 >
 
 > [!NOTE] **[2026-05-19]**
