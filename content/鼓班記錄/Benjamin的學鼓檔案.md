@@ -8,6 +8,7 @@ scary, hammerblow, in my place , NOISY NEIGHBOUR
 Grade 5 song choices : 
 (finished)Tiberius~~, (gave up) Hard to handle~~ ,  
 (finished)Don’t let go, (finished)Canned heat, (finished) Bros
+(finished)black smoke rising 
 
 or Bryan’s take Geek and Window seat.
 
@@ -27,7 +28,9 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-27]**
-> 待輸入
+>  source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> today tried 1x  full song - Grade 5 - Black Smoke Rising
 >
 
 > [!NOTE] **[2026-05-19]**
