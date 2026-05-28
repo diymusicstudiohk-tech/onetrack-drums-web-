@@ -17,9 +17,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-28]**
-> source: 待輸入
+> source: till 1st C normal ver可再遇見.mp4
 >
-> 上課內容: 待輸入
+> 上課內容: today tried 0.8x till 1st C normal ver可再遇見.mp4
 >
 
 > [!QUOTE] ***購買記錄***
