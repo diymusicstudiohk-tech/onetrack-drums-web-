@@ -13,7 +13,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-28]**
-> 待輸入
+> source: till 1st B 分合.mp4
+> 
+> today tried 0.8-0.9x till 1st B 分合.mp4
+> 用 分合 嘅人地整嘅動態譜as reference
 >
 
 > [!NOTE] **[2026-05-21]**
