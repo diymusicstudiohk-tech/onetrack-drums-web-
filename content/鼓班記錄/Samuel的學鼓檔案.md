@@ -29,7 +29,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-28]**
-> 待輸入
+> 
+> source: Updated - Louder drums - Grade 5 - Bros 
+> 
+> 今日cover 咗 0.7-8x Updated - Louder drums - Grade 5 - Bros 
+> 去到bar 76,未到 F段
 > 
 
 > [!NOTE] **[2026-05-07]**
