@@ -21,10 +21,16 @@ Rockschool grade 5 pick : tiberius
 
 > [!NOTE] **[2026-05-29]**
 > 
+> 今日cover 咗 "Evanescence - Bring Me To Life"  原速 
+> 
+> 
+> source: 0.85x - RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising
+> 預習this 
 > 
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-05-29 已購買8堂，有效期至 2026-09-18 (未付學費)
+> ![[鼓班記錄/attachments/photo-532268918-1780033789817-AQAD1Q1rG-_CyFR-.jpg]]
 **
 
 ---
