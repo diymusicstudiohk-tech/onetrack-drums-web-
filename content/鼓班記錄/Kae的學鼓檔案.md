@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 培養耐性的堅持務實者], 問傳道人咩事, 29/5 生日
+> [!TIP] [Remark: 培養耐性的堅持務實者], 問傳道人咩事, 29/5 生日; 鐘意被讚 「叻女喎」
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 22/5 生日 trip 宿霧 
 
@@ -19,7 +19,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-30]**
-> 待輸入
+> 
+> 今日cover 咗原速 LOUDER DRUMS 立志擺上  低中高能量 ver copy
+> 
+> source: full song 轉回.mp4
+> today tried 1x full song 轉回.mp4 till outro 01
 >
 
 > [!NOTE] **[2026-5-16]**

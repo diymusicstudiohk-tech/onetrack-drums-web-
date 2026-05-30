@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-30]**
-> 待輸入
+> TODAY cover jor 原速 full moon 有馬 FULL SONG ROLLING SCORE
+> 
+> source: prestudy - Satoshi.mp4
+> 開始預習呢首pokemon 
 >
 
 > [!NOTE] **[2026-5-23]**

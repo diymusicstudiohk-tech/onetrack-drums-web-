@@ -12,7 +12,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-30]**
-> 待輸入
+> SOURCE: TILL 1ST C - Måneskin - Beggin.mp4
+> 
+> Today tried 0.75x , 1st PC not stable (bar 4->5 transition)
 >
 
 > [!NOTE] **[2026-05-16]**

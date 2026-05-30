@@ -17,7 +17,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-5-30]**
-> 待輸入
+> 今日cover 咗 原速 Birdy - Wings 
+> 
+> source: beauty and a beat (pages, moises.ai)
+> 今日開咗少少beauty and a beat
+> 可能要將ellen 版改易佢
+> 
+> 1st V1
+>https://gscribe.com/share/3dratMGFxxnpT1qW9
+>
+>1st V2
+>https://gscribe.com/share/H2we96jk6YbLp4uX8
 >
 
 > [!NOTE] **[2026-5-9]**
