@@ -19,7 +19,8 @@ ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬�
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-29]**
-> 待輸入
+> source: GOOD VERSION scary grade 4 2.mp4 
+> tried 0.9x Grade 4 - Scary FULL SONG 
 >
 
 > [!QUOTE] ***購買記錄***

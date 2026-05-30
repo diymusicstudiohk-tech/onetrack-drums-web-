@@ -4,9 +4,9 @@
 > 
 > 生日在考試週
 > 
-> [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 KG]
+> [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 >32 KG, 142cm ]
 > [Remark: 2nd Aug 沖繩]
-> Kason ( 字醜) , Jillian (演奏級 violin), Evelyn (violin G8) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
+> Kason ( 字醜) , Jillian (演奏級 violin), Evelyn (violin G8) , dreamer(嘈) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
 
 ---
 
@@ -23,7 +23,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-29]**
-> 待輸入
+> SOURCE: till 2nd C - what a miracle
+> 
+> TODAY TRIED 0.9-1X till 2nd C - what a miracle
+> (final cut pro 有drum cover as reference)
 > 
 
 > [!NOTE] **[2026-05-22]**
