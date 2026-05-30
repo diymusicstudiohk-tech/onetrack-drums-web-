@@ -39,8 +39,10 @@
 > source: exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
 >
 >
->
->
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-05-16 已購買4堂；有效期至 2026-07-11
+> ![[鼓班記錄/attachments/Twinkle-Receipt-2026-05-16.jpg]]
 
 ---
 
