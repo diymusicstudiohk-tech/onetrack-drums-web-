@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-31]**
-> 待輸入
+> source (自製動態譜):FULL SONG - ray (超かぐや姫！ Version).mp4
+>
+> today tried whole song 0.95x
 > 
 
 > [!NOTE] **[2026-05-17]**
