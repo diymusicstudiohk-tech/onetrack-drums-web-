@@ -13,7 +13,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-30]**
-> 待輸入
+> **Twinkle**
+> source: full song - NINETEEN hrtz wav.mp4
+> 
+> today cover jor 1x ull song - NINETEEN hrtz wav.mp4
+> next change song
+> 
+> **Hayden**
+> source: exam ver click only TWINKLE 5 SONGS GRADE 2 2.mp4
+> 
+> most unstable: dora and bootsy, loosing my religion
 >
 
 > [!NOTE] **[2026-05-23]**

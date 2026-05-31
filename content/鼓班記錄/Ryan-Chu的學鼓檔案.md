@@ -22,7 +22,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-30]**
-> 待輸入
+> 
+> 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 今日病病地攰攰地少咳
+> 
+> song 1 , 
+> song 2, bar 2 (32th彈棍); bar 60 開 hihat 
+> song 3, bar 64 >65 ( 少少甩) , bar85/86 個 fill 少咗 /少甩
+> song 4 ,bar 16>17 少甩，, repeat 去 bar 18 少甩, 102-104 stability
+> song 5, bar 4 少甩, bar 24 甩咗, bar 49-52 ( 甩咗)
+> 
 >
 
 > [!NOTE] **[2026-05-23]**
