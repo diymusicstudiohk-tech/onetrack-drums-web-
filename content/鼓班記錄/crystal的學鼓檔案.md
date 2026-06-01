@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-05-31]**
-> 待輸入
+> 
+> full song 天馬行空.mp4
+> 今日cover 咗原速 天馬行空 ～
 > 
 
 > [!NOTE] **[2026-05-11]**
@@ -26,6 +28,10 @@
 > 
 > today tried 09X till Bridge 03 天馬行空.mp4
 > bridge only 0.7-0.8x not stable
+>
+>next: 漢城沉沒了 using this cover as reference:
+>https://www.youtube.com/watch?v=oE7929gtN8g
+>
 >
 
 > [!NOTE] **[2026-05-03]**

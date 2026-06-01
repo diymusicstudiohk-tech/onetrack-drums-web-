@@ -20,7 +20,9 @@
 > [!NOTE] **[2026-05-31]**
 > source (自製動態譜):FULL SONG - ray (超かぐや姫！ Version).mp4
 >
-> today tried whole song 0.95x
+> today tried whole song 1x -  ray (超かぐや姫！ Version)
+> 
+> next: maybe : https://www.youtube.com/watch?v=LyW0ogMeORA
 > 
 
 > [!NOTE] **[2026-05-17]**
