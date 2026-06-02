@@ -16,10 +16,20 @@
 > 8_
 
 > [!NOTE] **[2026-06-01]**
-> 待輸入
-
-> [!NOTE] **[2026-05-18]**
-> 待輸入
+> 今日cover 咗原速 活出愛
+> 
+> next: 我們同心宣告 - 約書亞
+> https://www.youtube.com/watch?v=TMDlNsSTaoI
+> 
+> refence to original band arr: https://www.youtube.com/watch?v=poBD5w1iz8M
+> 
+> 今日整住1st C 先 @ 100bpm
+> https://gscribe.com/share/ZpA3fZyxF3f852VR7
+> 
+> or (harder ver)
+> https://gscribe.com/share/zDVLaSQi7qaDbEJbA
+> 
+> 
 
 > [!NOTE] **[2026-05-18]**
 > SOURCE: full song 2026 ver - 活出愛.mp4

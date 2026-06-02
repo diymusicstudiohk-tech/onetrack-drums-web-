@@ -29,7 +29,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-01]**
-> 待輸入
+> 
+> SOURCE: Grade 5 - Bros - UPDATED with ALL FILLS.mp4
+> 
+> Today tried 0.8x Grade 5 - Bros - UPDATED with ALL FILLS.mp4
+> **
+> toady sidetrack to  updated02 full song嘉賓 - 張遠.mp4
+> today tried full song 原速
 > 
 
 > [!NOTE] **[2026-05-28]**

@@ -9,10 +9,30 @@
 4_  2026-06-01
 
 > [!NOTE] **[2026-06-01]**
-> 待輸入
-
-> [!NOTE] **[2026-05-18]**
-> 待輸入
+> source: dropdead p1, dropdeadp2
+> 
+> Forearm Flexor Carpi Ulnaris (FCU) 受傷舒緩
+> 
+> 今日開始olivia rodrigo-drop dead
+> 
+> 1st C 
+> https://gscribe.com/share/3aFTt4kvqaBzALD38
+> 
+> 1st MB
+> https://gscribe.com/share/DwDfm8xXFocFpXTCA
+> 
+> 2nd V1
+> https://gscribe.com/share/bK5u6XL6SbMQPzBW8
+> 
+> 2nd V2
+> https://gscribe.com/share/WTXusNBT32m42UjZ8
+> 
+> 2nd C1
+> https://gscribe.com/share/imAWjN7aFDDnJtF36
+> 
+> 2nd C2
+> https://gscribe.com/share/4NVRTequhV74MkKGA
+> 
 
 > [!NOTE] **[2026-05-18]**
 > source: 逆流之歌 - Rubberband copy.pdf
