@@ -13,8 +13,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-02]**
-> 待輸入
+> 
+> source:1st v to c - 주 예수 나의 산 소망 (Living Hope) .mp4
+> 
+> today tried 0.9x 1st v to c - 주 예수 나의 산 소망 (Living Hope) .mp4
 >
+>ref source: isaac kr version living hope p1, p2, p3
 
 > [!NOTE] **[2026-05-14]**
 > 

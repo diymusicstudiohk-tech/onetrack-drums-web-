@@ -19,8 +19,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-02]**
-> 待輸入
->
+> 今日完成原速考試歌  grade 5 - Don't let go 
+>next: https://www.youtube.com/watch?v=R7yg_WuHzOs
 
 > [!NOTE] **[2026-05-31]**
 >  

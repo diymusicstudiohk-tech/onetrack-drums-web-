@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-02]**
-> 待輸入
+> source: 1ST pc to C ONLY - NFLYING CHANGING SEASONS.mp4
+> 
+> today tried 0.8-0.9x 1ST pc to C ONLY - NFLYING CHANGING SEASONS.mp4
+> no reference , transcribe live
 >
 
 > [!NOTE] **[2026-05-27]**
