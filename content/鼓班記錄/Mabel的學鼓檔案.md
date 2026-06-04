@@ -29,7 +29,47 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-03]**
-> 待輸入
+> 
+> 
+> source:  FULL SONG 不再猶豫.mp4
+> 
+> 今日預習咗少少 1st C1, C2, 1st MB pattern and fill
+> 
+> HW: 主力練咗嗰個 1st C1 C2 fill 先，有餘力先預習 條片
+> 
+> 
+> Fill  to intro
+> 
+> https://gscribe.com/share/27kD2jmyvywLPxvv9
+> 
+> intro
+> 
+> https://gscribe.com/share/gWCpMXSq396D1NDx5
+> 
+> 1st Verse 1
+> https://gscribe.com/share/rj99LmD1dg7FqJS76
+> 
+> 1st  Verse 2
+> https://gscribe.com/share/cwew3m5fFCDmWLX48
+> 
+> 1st  PC
+> https://gscribe.com/share/BUr2UJXVaM6GMbdU8
+> 
+> 1st C1
+> https://gscribe.com/share/v2JmZLThaEm2FqWs7
+> 
+> 1st C2
+> https://gscribe.com/share/6GCZSNEFoKddRJ418
+> 
+> 1st MB1
+> https://gscribe.com/share/wzrUcKSjpfkJ6xAg9
+> 
+> 1st MB2
+> https://gscribe.com/share/gaxcE4K88CfoNXwR6
+> 
+> 2nd Verse 1
+> 
+> https://gscribe.com/share/AWTZDdQz6pSCnR9p9
 > 
 
 > [!NOTE] **[2026-5-6]**

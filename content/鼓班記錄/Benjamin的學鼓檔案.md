@@ -10,7 +10,16 @@ Grade 5 song choices :
 (finished)Don’t let go, (finished)Canned heat, (finished) Bros
 (finished)black smoke rising 
 
-or Bryan’s take Geek and Window seat.
+從 Benjamin的學鼓檔案.md 抽到的 Grade 5 source filenames 去重如下：
+
+- RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+- Updated - Louder drums - Grade 5 - Bros .mp4
+- Bros ¦ Rockschool Drums Grade 5 2024 (1080p_30fps_H264-128kbit_AAC).mp4
+- UPDATED WITH ending fill - canned heat grade 5.mp4
+- WITH ending fill - canned heat grade 5.mp4
+- Hard To Handle Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+- Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC).mp4
+- with develop tiberius grade 5.mp4
 
 
 ---
@@ -28,7 +37,9 @@ or Bryan’s take Geek and Window seat.
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-03]**
-> 待輸入
+> source: with develop tiberius grade 5.mp4
+> 
+> today tried 0.9x tiberius again , bar 32>33 not stable 
 > 
 
 > [!NOTE] **[2026-05-27]**
