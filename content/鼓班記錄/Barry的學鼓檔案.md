@@ -21,7 +21,16 @@ Rockschool grade 5 pick : tiberius
 
 > [!NOTE] **[2026-06-05]**
 > 
-> 待輸入
+> tried till section B 
+> 
+> bar 3 - 8 (barry ver)
+> https://gscribe.com/share/JSftzmJwAQ1LuGz47
+> 
+> bar 23-25
+> https://gscribe.com/share/Sx1SF8sdbkmC3rKN9
+> 
+> bar 41-42  拍子練習
+> https://gscribe.com/share/jrvXRnJscaD9poW97
 > 
 
 > [!NOTE] **[2026-05-29]**
