@@ -43,7 +43,8 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-04]**
-> 待輸入
+>  source: Katrina Grade 1 5 songs with drums.mp4
+> **Katrina:** 今日 cover咗 0.8x -Grade 1 5首歌
 >
 
 > [!NOTE] **[2026-05-21]**

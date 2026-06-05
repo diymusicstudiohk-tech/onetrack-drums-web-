@@ -20,7 +20,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-04]**
-> 待輸入
+> source: TILL Bridge 致明日的舞.mp4
+> today tried 0.9x-1x TILL Bridge 致明日的舞.mp4
 >
 
 > [!NOTE] **[2026-05-21]**

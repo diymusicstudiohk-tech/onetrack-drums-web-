@@ -13,8 +13,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-04]**
-> 待輸入
+> SOURCE: full song 分合 2026 ver.mp4
+> 
+> BEFORE bar 42.5 : 0.9x, after: trying 
+> bar 42.5 to 46.5
+> 
+>bar 42.5 to 46.5
+>https://gscribe.com/share/mfngrGbecGCzgZEU8
 >
+>bar 46.5 to ends
+>https://gscribe.com/share/sPqADNDgWZeiWBjcA
 
 > [!NOTE] **[2026-05-28]**
 > source: till 1st B 分合.mp4
