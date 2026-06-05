@@ -24,7 +24,9 @@
 
 > [!NOTE] **[2026-06-05]**
 > 
-> 待輸入
+> source:full song - what a miracle.mp4
+> 
+> tried 0.9x full song - what a miracle.mp4
 > 
 
 > [!NOTE] **[2026-05-29]**
