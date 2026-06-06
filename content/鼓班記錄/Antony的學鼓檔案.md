@@ -14,7 +14,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-6-6]**
-> 待輸入
+> 
+> source: beauty and a beat (.pages, .pdf)
+> 
+> source: (folder) Justin Bieber - Beauty And A Beat ft. Nicki Minaj (Official Audio) ft. Nicki Minaj (128kbit_AAC)-A minor-128bpm-441hz
+> 
+> 今日cover 咗 p.1 @ 0.7x , drum solo 只有。76bpm
 >
 
 > [!NOTE] **[2026-5-23]**
