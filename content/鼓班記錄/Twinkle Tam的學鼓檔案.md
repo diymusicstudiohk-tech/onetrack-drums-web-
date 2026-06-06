@@ -19,5 +19,5 @@
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-06-06 已購買4堂；有效期至 2026-08-01
-> ![[鼓班記錄/attachments/Twinkle-Receipt-2026-06-06.jpg]]
+> ![[鼓班記錄/attachments/Twinkle-Hayden-Receipt-2026-06-06.jpg]]
 **

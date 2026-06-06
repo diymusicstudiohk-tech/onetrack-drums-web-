@@ -19,7 +19,12 @@
 
 > [!NOTE] **[2026-06-06]**
 > 
-> 待輸入
+> source: full song 轉回.mp4
+> today tried 1x full song 轉回.mp4 till outro 01
+> 
+> source:轉回 kae ver.mp4
+> 
+> outro 02 too hard so this is easy ver, tried 
 > 
 
 > [!QUOTE] ***購買記錄***

@@ -20,7 +20,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-06]**
-> 待輸入
+> 
+> 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 
+> 要特別練下面呢個 razorhead bar 7 -12
+> https://gscribe.com/share/ZUUBpV6UNeULfFjb9
 > 
 
 > [!NOTE] **[2026-05-30]**
