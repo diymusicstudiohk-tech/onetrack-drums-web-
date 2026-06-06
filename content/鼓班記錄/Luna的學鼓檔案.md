@@ -39,7 +39,11 @@
 
 > [!NOTE] **[2026-06-05]**
 > 
-> 待輸入
+> 今日 cover  咗 原速 full song 未會遲
+> 
+> source: till 1st C 誰曾應許.mp4
+> 
+> 今日試咗 0.8x 去 1st V2, Chorus pattern 未練
 > 
 
 > [!NOTE] **[2026-05-22]**
