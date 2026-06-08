@@ -18,7 +18,11 @@
 
 > [!NOTE] **[2026-06-08]**
 > 
-> 待輸入
+> source: full song 可再遇見.mp4
+> 
+> source: 八次 淨係 Last Chorus 080x 可再遇見.mp4
+> whole song except Last C should can play 0.9x , last C now at 0.7x -0.8x not stable
+> 
 
 > [!NOTE] **[2026-05-28]**
 > source: till 1st C normal ver可再遇見.mp4

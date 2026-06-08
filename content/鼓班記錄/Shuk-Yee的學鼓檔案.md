@@ -17,7 +17,9 @@
 
 > [!NOTE] **[2026-06-08]**
 > 
-> 待輸入
+> SOURCE: till 2nd C 我們同心宣告.mp4
+> 
+> TODAY TRIED 0.7X till 2nd C 我們同心宣告.mp4 , JUST TRIED NOT STABLE
 
 > [!NOTE] **[2026-06-01]**
 > 今日cover 咗原速 活出愛
