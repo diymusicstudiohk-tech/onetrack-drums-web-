@@ -18,7 +18,21 @@
 
 > [!NOTE] **[2026-06-08]**
 > 
-> 待輸入
+> 今日cover 咗 i got u 原速 grade 6
+> 
+> 開始咗 dutch flowerz 
+> 
+> bar 32 pratice 
+> https://gscribe.com/share/FFfZSeq4LWhwyxwz5
+> 
+> bar 76 pratice 
+> https://gscribe.com/share/1oe2y8NSKVdRBzQN8
+> 
+> 爭呢兩個fill , 要背 cont sim d pattern 
+> 
+> 今日sight reading 咗 dutch flowerz 0.8x full song 
+> 
+> 
 
 > [!NOTE] **[2026-05-11]**
 > 

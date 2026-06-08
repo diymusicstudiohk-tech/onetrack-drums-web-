@@ -19,7 +19,10 @@
 
 > [!NOTE] **[2026-06-08]**
 > 
-> 待輸入
+> source： TILL 1ST BRIDGE 漢城沉沒了 (77）.mp4
+> 
+> today tried 0.9x TILL 1ST BRIDGE 漢城沉沒了 (77）.mp4
+> 
 
 > [!NOTE] **[2026-05-31]**
 > 
