@@ -1,8 +1,11 @@
-, 
+
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: Aug 9th Birthday]
-2026Feb: 下堂開 Rockschool Grade 5, 2026-4/30至5/4  大板
-
+> 2026Feb: 下堂開 Rockschool Grade 5, 2026-4/30至5/4  大板
+> 
+> pop song wish list: 
+> https://www.youtube.com/watch?v=1tk1pqwrOys
+> 
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -19,7 +22,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-07]**
-> 待輸入
+> SOURCE: 1st C 廻廻奇譚 (185).mp4
+> 
 
 > [!NOTE] **[2026-06-02]**
 > 今日完成原速考試歌  grade 5 - Don't let go 

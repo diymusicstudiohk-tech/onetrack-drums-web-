@@ -18,7 +18,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-07]**
-> 待輸入
+> 
+> source: LOUDER drums - 青い春と西の空.mp4
+> source: 青い春と西の空 p1, 2, 3, 4.png 
+> 
+> today tried 0.7x bar 93 to bar 111
+> 
 
 > [!NOTE] **[2026-05-31]**
 > source (自製動態譜):FULL SONG - ray (超かぐや姫！ Version).mp4

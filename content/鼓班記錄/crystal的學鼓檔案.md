@@ -11,17 +11,24 @@
 > 4_  2026-05-03
 > 5_  2026-05-11
 > 6_  2026-05-31
-> 7_
+> 7_  2026-06-08
 > 8_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-06-08]**
+> 
+> 待輸入
 
 > [!NOTE] **[2026-05-31]**
 > 
 > full song 天馬行空.mp4
 > 今日cover 咗原速 天馬行空 ～
 > 
+> 
+>next: 漢城沉沒了 using this cover as reference:
+>https://www.youtube.com/watch?v=oE7929gtN8g
 
 > [!NOTE] **[2026-05-11]**
 > source: 09X till Bridge 03 天馬行空.mp4
@@ -29,10 +36,7 @@
 > today tried 09X till Bridge 03 天馬行空.mp4
 > bridge only 0.7-0.8x not stable
 >
->next: 漢城沉沒了 using this cover as reference:
->https://www.youtube.com/watch?v=oE7929gtN8g
->
->
+
 
 > [!NOTE] **[2026-05-03]**
 > 
