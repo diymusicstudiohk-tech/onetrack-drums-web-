@@ -22,12 +22,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-09]**
-> 待輸入
+> source: 1ST PC AND C 廻廻奇譚 (185).mp4
+> 
+> 1st PC just tried , Pc2 to C 0.7x
 > 
 
 > [!NOTE] **[2026-06-07]**
 > SOURCE: 1st C 廻廻奇譚 (185).mp4
-> 
+> REFENCE:https://www.youtube.com/watch?v=wKHu7zc4N94&list=RDwKHu7zc4N94&start_radio=1
 
 > [!NOTE] **[2026-06-02]**
 > 今日完成原速考試歌  grade 5 - Don't let go 
