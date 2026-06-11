@@ -21,8 +21,13 @@
 
 > [!NOTE] **[2026-06-11]**
 > 
-> 待輸入
+>  today cover jor 原速  full song 深宵便利愛 .mp4
+>  
+> source: 과거 현재 미래(Then, Now and Forever) -  씨엔블루(CNBLUE) 드럼커버 & 드럼악보 (Drum cover & drum score) ⁄  과거현재미래 드럼 (128kbit_AAC)
 > 
+> source: CNBLUE Then, Now and Forever p123 full .pages/pdf
+> 
+> HW: 預習一下試吓打，主要喺第一頁就可～
 
 > [!NOTE] **[2026-05-29]**
 > 

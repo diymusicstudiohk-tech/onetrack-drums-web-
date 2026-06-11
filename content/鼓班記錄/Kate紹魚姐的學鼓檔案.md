@@ -20,7 +20,23 @@
 
 > [!NOTE] **[2026-06-11]**
 > 
-> 待輸入
+> SOURCE: N.Flying - Transition Period  p1, 2, 3, 4, 5.png
+> source: n flying transitino period LVL2 .pages / .pdf
+> 
+> bgm source : 엔플라잉(N.Flying) - 환절기 Lv2ㅣ드럼커버ㅣDrum coverㅣ쉬운드럼악보
+> 
+> today tried all except bar 95 to 102
+> 
+> bar 11 12
+> https://gscribe.com/share/CWej8hivtmdQaiiZ7
+> 
+> bar 47 48
+> https://gscribe.com/share/w3TTtzSGsB9uWpWM6
+> 
+> bar 109 110
+> https://gscribe.com/share/d2wQY4giLYobwCU67
+> 
+> 
 >
 
 > [!NOTE] **[2026-06-02]**
