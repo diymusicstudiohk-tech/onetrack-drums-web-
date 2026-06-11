@@ -26,7 +26,9 @@
 
 > [!NOTE] **[2026-06-10]**
 > 
-> 待輸入
+> source: 夏日之子moddified full song (pdf, pages)
+> 
+> today tried whole song section by section , 0.8x 
 > 
 
 > [!NOTE] **[2026-05-26]**
