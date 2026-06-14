@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-6-13]**
-> 待輸入
+> source: tom pattern study.pdf
+> 
+> 今日主要係溫常用嘅tom pattenr （因為出隊未出歌）
 >
 
 > [!NOTE] **[2026-5-9]**

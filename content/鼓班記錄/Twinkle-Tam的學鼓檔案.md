@@ -2,7 +2,9 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ]
 > 
-> 青梅竹馬TKO有女朋友，不熟悉的陌生人
+> 青梅竹馬TKO有女朋友，不熟悉的陌生； 拍門事件； hayden 大佬嘅甜妹
+> 
+> > 1/6 Hayden , 9/7 Twinkle
 > 
 > 1. Rockschool Grade 2 考試歌
    Time Period：2025-01-11（或更早）至 2025-06-07
@@ -49,7 +51,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-13]**
-> 待輸入
+> sounrce: WITH ending fill - canned heat grade 5.mp4
+>五級 考試歌  canned heat grade 5， tried 0.7x till bar 370
 >
 
 > [!NOTE] **[2026-06-06]**
@@ -58,7 +61,7 @@
 >五級 考試歌  canned heat grade 5， tried 0.7x till bar 31
 > 
 > bar 1-4 
-> https://gscribe.com/share/gSnBEgr635CxPsmo7
+> https://gscribe.com/share/fCjpWdroEsRmB5N57
 > 
 > bar 12-15
 > https://gscribe.com/share/oeDnamKaEwySr3Ym8
@@ -66,8 +69,11 @@
 > bar 22-23
 > https://gscribe.com/share/N3zRMhzfjvxqQMoM8
 >
->bar 30-31
->https://gscribe.com/share/P8njYFakbHe9sf8p7
+>bar 28-32
+>https://gscribe.com/share/DsyZ47JSkYjBfqTP8
+>
+>bar 55-59
+>https://gscribe.com/share/ye6kCmsshmroPbM59
 >
 
 > [!QUOTE] ***購買記錄***

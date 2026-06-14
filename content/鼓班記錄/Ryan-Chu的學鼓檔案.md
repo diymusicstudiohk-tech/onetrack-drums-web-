@@ -20,7 +20,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-13]**
-> 待輸入
+> 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
+> 
+> 要特別練下面呢個 razorhead bar 7 -12
+> https://gscribe.com/share/ZUUBpV6UNeULfFjb9
+> 
+> not stable parts:
+> song 1:  bar 93-95
+> song 2 : bar 24 ( 5 stroke roll 唔夠清)
+> song 3:
+> song 4: bar 17 -24, 45-52 , 113-115 （kick 踩n 踩 得唔太中間）
+> song 5: bar 47>48 ( 少甩) 49-52
 >
 
 > [!NOTE] **[2026-06-06]**

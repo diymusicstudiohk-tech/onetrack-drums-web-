@@ -14,9 +14,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-13]**
-> 待輸入
->
+> source: till 1st C2 海屿你.mp4
 > 
+> today tried 1x till 1st C2 海屿你.mp4
+> 
+> reference ： https://www.youtube.com/watch?v=1ZW7peoDayU&list=RD1ZW7peoDayU&start_radio=1
+>
+
+
 > [!NOTE] **[2026-06-06]**
 > 
 > **Hayden**
