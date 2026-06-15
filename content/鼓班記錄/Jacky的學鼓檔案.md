@@ -18,7 +18,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-14]**
-> 待輸入
+> source: 青い春と西の空 p1,2,3 updated
+> 
+> today tried 0.7x  p1,2 till bar 62
+> 
+> also revised p.3 bar 93 to bar 111 0.7x 
 >
 
 > [!NOTE] **[2026-06-07]**
