@@ -19,7 +19,9 @@
 
 > [!NOTE] **[2026-06-15]**
 > 
-> 待輸入
+> source： full song 漢城沉沒了 (77）.mp4
+> 
+> today tried 0.9-1x before 1:18, tried 0.8x after 1:18
 > 
 
 > [!NOTE] **[2026-06-08]**
