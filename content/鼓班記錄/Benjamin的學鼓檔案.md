@@ -38,7 +38,10 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-06-17]**
 > 
-> 待輸入
+> source: grade 5 benjamin five songs.mp4
+> 
+> 今日試咗 五首 grade 5 考試歌連住打，0.9x ，要重溫番好多位都唔記得咗 🤣 
+> 
 
 > [!NOTE] **[2026-06-03]**
 > source: with develop tiberius grade 5.mp4
