@@ -19,7 +19,8 @@ ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬�
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-16]**
-> 待輸入
+> source: 點燃.pdf 
+> 今日cover 過 點燃 , cover at IMG_6131.MOV
 
 > [!NOTE] **[2026-06-05]**
 > 

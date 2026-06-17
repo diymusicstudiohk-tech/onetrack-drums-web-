@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-16]**
-> 待輸入
+> source: 085x UPDATED FULL SONG 當我們不再說晚安.mp4
+> 
+> today tried whole song 0.85x
+> next ends song and also ends 漢城沉沒了
 
 > [!NOTE] **[2026-06-09]**
 > source: full song score 當我們不再說晚安.mp4

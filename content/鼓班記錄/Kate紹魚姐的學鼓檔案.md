@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-16]**
-> 待輸入
+> 
+> source:nflying transition LOUDER vocal with OPPA lv2 drums.mp4
+> 
+> 今日cover 咗原速 N.Flying (엔플라잉) ‘환절기 (換節期)’ 
 
 > [!NOTE] **[2026-06-11]**
 > 

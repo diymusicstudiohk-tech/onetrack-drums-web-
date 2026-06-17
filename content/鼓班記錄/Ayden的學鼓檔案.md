@@ -22,7 +22,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-16]**
-> 待輸入
+>source: 1ST V TO 1ST C2 廻廻奇譚 (185).mp4
+>today tried 0.7x 1ST V TO 1ST C2 廻廻奇譚 (185).mp4
 
 > [!NOTE] **[2026-06-09]**
 > source: 1ST PC AND C 廻廻奇譚 (185).mp4
