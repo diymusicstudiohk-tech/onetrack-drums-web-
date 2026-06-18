@@ -30,7 +30,10 @@
 
 > [!NOTE] **[2026-06-17]**
 > 
-> 待輸入
+> source: FULL SONG 不再猶豫.mp4
+> 
+> 今日 tried 0.8x till 1st MB2 (2:00mark 前)
+> 
 
 > [!NOTE] **[2026-06-03]**
 > 
