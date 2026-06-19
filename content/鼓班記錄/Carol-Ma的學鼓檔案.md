@@ -16,7 +16,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-18]**
-> 待輸入
+> source: 轉回 easier ver.mp4
+> 
+> today trird 1x before outro 01, 0.8x at outro 01-03
 > 
 
 > [!NOTE] **[2026-06-04]**
