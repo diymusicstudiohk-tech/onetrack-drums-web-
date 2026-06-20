@@ -21,10 +21,22 @@ Rockschool grade 5 pick : tiberius
 
 > [!NOTE] **[2026-06-19]**
 > 
-> 待輸入
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+>  tried full song 0.75x
+>  
+>  fill 27-28
+>  https://gscribe.com/share/NxcCvr59xVKGRTpz5
+>  
+>  fill 31-32
+>  https://gscribe.com/share/ZdGNYM6xmxvvDfcP7
+>  
+>  
 > 
 
 > [!NOTE] **[2026-06-05]**
+> 
+> source : RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
 > 
 > tried till section B 
 > 

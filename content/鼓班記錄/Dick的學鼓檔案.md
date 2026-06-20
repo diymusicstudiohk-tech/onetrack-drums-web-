@@ -12,11 +12,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-19]**
-> 待輸入
+> SOURCE: TILL 2ND C - Måneskin - Beggin.mp4
+> TRIED 0.7X  TILL 2ND C - Måneskin - Beggin.mp4
 > 
 
 > [!NOTE] **[2026-06-13]**
-> 待輸入
+> (no show)
 >
 
 > [!NOTE] **[2026-05-30]**

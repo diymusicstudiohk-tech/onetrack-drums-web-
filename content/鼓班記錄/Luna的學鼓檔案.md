@@ -16,7 +16,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-19]**
-> 待輸入
+> source: full song誰曾應許.mp4
+> 
+> today tried 0.9x ,V2 > C fill not stable / accurate
+> 
+> 下 次 要 做 食指 矯正
 > 
 
 

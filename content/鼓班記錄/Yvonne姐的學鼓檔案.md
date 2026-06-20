@@ -13,7 +13,26 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-19]**
-> 待輸入
+> C1 (low energy ) 
+https://gscribe.com/share/SDCMubAUJ239R61n6
+
+C2 (low energy ) 
+https://gscribe.com/share/x2TksQgc196NhMDw8
+
+C1 (mid energy ) 
+https://gscribe.com/share/rGBNw9SL48QjXFPc6
+
+C2 (mid energy ) 
+https://gscribe.com/share/oPPmU9y4u8EKUmas5
+
+C1 (high energy ) 
+https://gscribe.com/share/5ygQchEj4WjDL4dc8
+
+C2 without coda (high energy ) 
+https://gscribe.com/share/zn4ib1t2r4SsWnD29
+
+Coda (high energy ) 
+https://gscribe.com/share/23qLbuDWvReAjH2V9
 > 
 
 > [!NOTE] **[2026-6-13]**
