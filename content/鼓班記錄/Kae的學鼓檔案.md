@@ -19,7 +19,12 @@
 
 > [!NOTE] **[2026-06-20]**
 > 
-> 待輸入
+> source:轉回 easier ver.mp4
+> 
+> before outro 1x, outro 01-03 tried 0.8x, 32th transition not stable
+> 
+> Outro 01 to 02 practice
+> https://gscribe.com/share/uhGNHGq95KEtdAHS9
 > 
 
 > [!NOTE] **[2026-06-06]**

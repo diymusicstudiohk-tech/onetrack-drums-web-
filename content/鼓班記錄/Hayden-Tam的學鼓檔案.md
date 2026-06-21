@@ -15,7 +15,10 @@
 
 > [!NOTE] **[2026-06-20]**
 > 
-> 待輸入
+> source: till 1st MB 海屿你.mp4
+> 
+> today tried  海屿你 0.9x till 2nd C2, MB not yet tried 
+> 
 > 
 
 > [!NOTE] **[2026-06-13]**

@@ -52,12 +52,13 @@
 
 > [!NOTE] **[2026-06-20]**
 > 
-> 待輸入
+> sounrce: WITH ending fill - canned heat grade 5.mp4
+>五級 考試歌  canned heat grade 5， tried 0.7x 全首
 > 
 
 > [!NOTE] **[2026-06-13]**
 > sounrce: WITH ending fill - canned heat grade 5.mp4
->五級 考試歌  canned heat grade 5， tried 0.7x till bar 370
+>五級 考試歌  canned heat grade 5， tried 0.7x till bar 37
 >
 
 > [!NOTE] **[2026-06-06]**
