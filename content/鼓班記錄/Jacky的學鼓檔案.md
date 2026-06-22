@@ -18,7 +18,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-21]**
-> 待輸入
+>  source: 青い春と西の空 p1,2,3 updated
+>  (一定要用updated )
+>  
+>  VIDEO SOURCE: updated with click LOUDER drums - 青い春と西の空.mp4
+> ( 這是最新版) 
+> 
+>  bar 63 -66
+>  https://gscribe.com/share/jP8AkhBgJrio8JyD7
 >
 
 > [!NOTE] **[2026-06-14]**
