@@ -38,7 +38,9 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-06-24]**
 > 
-> 待輸入
+>  source: grade 5 benjamin five songs.mp4
+> 
+> 今日試咗 五首 grade 5 考試歌連住打，0.85x ，重災區喺 第 2，3，4 首
 > 
 
 ---
