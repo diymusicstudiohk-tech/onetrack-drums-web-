@@ -21,7 +21,7 @@
 
 > [!NOTE] **[2026-06-24]**
 > 
-> 待輸入
+> 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
 > 
 
 ---
