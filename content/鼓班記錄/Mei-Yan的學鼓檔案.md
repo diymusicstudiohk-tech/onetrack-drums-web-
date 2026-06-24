@@ -17,7 +17,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-22]**
-> 待輸入
+> source: 
+> 
+> 070x solo only - Pop it in the top G6.mp4
+> 
+> next 開始 pop it in the pop
+> 
+> 另外今日cover 咗 dutch florwerz 0.8x
+> 都係爭嗰兩個fill : 
+> 
+> bar 32, 76 fill practice 
+https://gscribe.com/share/apkThi2RRNQThmqV7
 > 
 
 > [!QUOTE] ***購買記錄***

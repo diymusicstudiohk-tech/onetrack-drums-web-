@@ -13,8 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-22]**
-> 待輸入
-> 
+> SOURCE : p2 72-84 only 주 예수 나의 산 소망 (Living Hope) .mp4
+   SOURCE: TILL 1ST MB 주 예수 나의 산 소망 (Living Hope) .mp4
+   
 
 > [!NOTE] **[2026-06-02]**
 > 
