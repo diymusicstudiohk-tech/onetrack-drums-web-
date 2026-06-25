@@ -25,7 +25,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-25]**
-> 待輸入
+> 
+> ource: 夏日之子moddified full song (pdf, pages)
+> 
+> today tried full song 0.9-0.95x 
+> 
 >
 
 > [!NOTE] **[2026-06-10]**

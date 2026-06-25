@@ -19,12 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-25]**
-> 待輸入
+> 
+> source: 憨人 p1, 憨人 p2, 憨人 p3.png
+> source: 鼓譜【學生系列】憨人 五月天 Drum Cover by 承漢(12-year-old) 動態鼓譜｜爵士鼓｜鼓｜鼓譜｜譜｜drum｜score｜sheet｜cover
+> 
+> 用片黎做 backing track ，睇 cap圖 
+> 
+> today tried whole song 0.8-0.9x, next ends song 
 >
 
 > [!NOTE] **[2026-06-11]**
 > 
-> ource: 憨人 p1, 憨人 p2, 憨人 p3.png
+> source: 憨人 p1, 憨人 p2, 憨人 p3.png
 > source: 鼓譜【學生系列】憨人 五月天 Drum Cover by 承漢(12-year-old) 動態鼓譜｜爵士鼓｜鼓｜鼓譜｜譜｜drum｜score｜sheet｜cover
 > 
 > 用片黎做 backing track ，睇 cap圖 
