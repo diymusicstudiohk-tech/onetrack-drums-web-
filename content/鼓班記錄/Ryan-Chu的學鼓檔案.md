@@ -24,6 +24,11 @@
 > 今日繼續練習 Rockschool Grade 7 , no drums ver 一口氣打哂 5 首歌 ～
 > 
 
+> [!QUOTE] ***購買記錄***
+> 在 2026-06-25 已購買8堂，有效期至 2026-10-15
+> ![[鼓班記錄/attachments/Ryan-Chu-Receipt-2026-06-25.jpg]]
+**
+
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
