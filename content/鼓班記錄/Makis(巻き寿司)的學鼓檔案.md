@@ -1,5 +1,16 @@
-ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  (crush: Nancy, Kari, Ewliz, Giselle , Melody; frd: Pravin, Walter)   ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> 
+> **1. In My Place*
+`[2026-03-27]` — `Makis cover 咗Grade 4 考試原速 IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4`
+> 
+> **2. Noisy Neighbour**
+> `[2026-04-28]` — `Grade 4 noisy neighbour 
+> 
+> **3. Scary**
+> `[2026-06-05]` — `today finished 1x Grade 4 - Scary FULL SONG`
+> 
+>
 > 
  
 
@@ -20,7 +31,10 @@ ui> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬�
 
 > [!NOTE] **[2026-06-26]**
 > 
-> 待輸入
+> sourcE： Respect  - Rockschool Grade 4.mp4
+> 
+> today tried 0.8x   Respect  - Rockschool Grade 4.mp4 till bar 15
+> bar 16 onward ride - bell just started
 > 
 
 > [!NOTE] **[2026-06-16]**

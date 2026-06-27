@@ -17,7 +17,16 @@
 
 > [!NOTE] **[2026-06-26]**
 > 
-> 待輸入
+> 今日 cover 咗 full song 誰曾應許
+> 
+> 開始 AMV 永久 , 今日預習咗少少
+> final cut pro 有 session 
+> moises: 【AMV】永久 - MY FIRST STORY × HYDE
+> 
+> last C main groove pre study
+> https://gscribe.com/share/nVuvW1bL2N7otRaz8
+> 
+>不過呢首 172 bpm 太快可能要轉歌
 > 
 
 > [!NOTE] **[2026-06-19]**

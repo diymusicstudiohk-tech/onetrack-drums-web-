@@ -20,7 +20,11 @@
 
 > [!NOTE] **[2026-06-26]**
 > 
-> 待輸入
+> source: beauty and a beat (.pages, .pdf)
+> 
+> source: (folder) Justin Bieber - Beauty And A Beat ft. Nicki Minaj (Official Audio) ft. Nicki Minaj (128kbit_AAC)-A minor-128bpm-441hz
+> 
+> today tried whole song 09-1x，1x not stable , next end song
 > 
 
 > [!NOTE] **[2026-06-05]**

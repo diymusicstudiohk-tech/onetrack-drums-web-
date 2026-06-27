@@ -6,7 +6,7 @@
 > 
 > [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 >32 KG, 142cm ]
 > [Remark: 2nd Aug 沖繩]
-> Kason ( 字醜) , Jillian (演奏級 violin), Evelyn (violin G8) , dreamer(嘈) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
+> Kason ( 字醜) , Jillian (演奏級 violin), Katelyn,  Evelyn (violin G8) , dreamer(嘈) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
 
 ---
 
@@ -24,7 +24,9 @@
 
 > [!NOTE] **[2026-06-26]**
 > 
-> 待輸入
+>  source:full song - what a miracle.mp4
+> 
+>  cover jor 1x full song - what a miracle.mp4
 > 
 
 > [!NOTE] **[2026-06-05]**
