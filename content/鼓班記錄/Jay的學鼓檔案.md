@@ -18,12 +18,17 @@
 
 > [!NOTE] **[2026-06-27]**
 > 
-> 待輸入
+> source:guitar solo and bridge only 二十還好.mp4
+> 開始 二十還好 guitar solo and bridge , tried 0.6x
+> 
+> reference pdf : 二十還好 - Kolor.pdf
 > 
 
 > [!NOTE] **[2026-06-15]**
 > 
-> 待輸入
+>  source: full song 可再遇見.mp4
+>  完成 cover 呢首歌
+>  俾咗 8th-triplet-16th-sextuplet 練習俾你玩 
 > 
 
 > [!NOTE] **[2026-06-08]**
