@@ -15,7 +15,9 @@
 
 > [!NOTE] **[2026-06-27]**
 > 
-> 待輸入
+> source : FULL SONG 海屿你.mp4
+> 
+> today tried 0.9x full song , next ends song
 > 
 
 > [!NOTE] **[2026-06-20]**
