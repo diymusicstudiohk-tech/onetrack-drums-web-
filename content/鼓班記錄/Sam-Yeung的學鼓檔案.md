@@ -16,8 +16,19 @@
 
 ***課堂記錄***
 
-> [!NOTE] **[2026-06-28]** (今天上 90min)
-> 待輸入
+> [!NOTE] **[2026-06-28]** 
+> 
+> source: full song 魔法少女.mp4
+> today tried  full song 魔法少女.mp4
+> 
+> fill ex01 ( bpm 70-150)
+> https://gscribe.com/share/9p9mzmwDuSd1gfm59
+>
+> fill ex02 ( bpm 70-150)
+> https://gscribe.com/share/JnBHqeqYrJKrbgCf7
+> 
+>  fill ex03 ( bpm 70-150)
+>  https://gscribe.com/share/SgNkne6bJ9mqNVAT8
 >
 
 > [!NOTE] **[2026-4-7]**

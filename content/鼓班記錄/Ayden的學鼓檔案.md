@@ -22,11 +22,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-28]**
-> 待輸入
+>  source:   till 1st MB 廻廻奇譚 (185).mp4
+> 
+> tried 0.7xtill 1st MB 廻廻奇譚 (185).mp4
 >
 
 > [!NOTE] **[2026-06-21]**
-> source:   
+> source:   till 1st MB 廻廻奇譚 (185).mp4
 > 
 > tried 0.7xtill 1st MB 廻廻奇譚 (185).mp4
 >
