@@ -17,7 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-29]**
-> 待輸入
+> SOURCE: TILL 1ST C2聖馬力諾之心.mp4
+> 
+> today tried 0.7x TILL 1ST C2聖馬力諾之心.mp4
+> 
+> reference: 聖馬力諾之心 - Dear Jane .pdf
 >
 
 > [!NOTE] **[2026-06-25]**

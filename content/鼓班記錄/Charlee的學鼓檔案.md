@@ -20,7 +20,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-29]**
-> 待輸入
+> source: full song致明日的舞.mp4
+> 
+> today cover jor full song致明日的舞.mp4
+> 
+> next: new song
+> or re shoot the cover 
 >
 
 > [!NOTE] **[2026-06-04]**
