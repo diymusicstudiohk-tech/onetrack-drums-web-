@@ -18,7 +18,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-30]**
-> 待輸入
+> 
+> 今日cover 咗 原束 當我們不再說晚安
+> at Last take cover- 當我們不再說晚安.mp4
+> 
+> next: KOLOR - 圍城 for Printing.pdf
 >
 
 > [!NOTE] **[2026-06-16]**

@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-06-30]**
-> 待輸入
+> source: till C2 after B 王的應許.mp4
+> 
+> bridge 之前打到 0.9x , bridge 之後just tried bridge, C1, C2 not tried 
 >
 
 > [!NOTE] **[2026-05-27]**
