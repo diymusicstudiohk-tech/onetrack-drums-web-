@@ -13,7 +13,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-02]**
-> 待輸入
+> 
+> SOURCE: full song 分合 2026 ver.mp4
+> 
+> today tried full song 0.8x, next end song at 0.8-0.9x
 > 
 
 > [!NOTE] **[2026-06-18]**
