@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-01]**
-> 待輸入
+> 
+> source: full song 魔法少女.mp4
+> 
+> today covered jor 0.75x full song 魔法少女.mp4
 > 
 
 > [!NOTE] **[2026-06-28]** 

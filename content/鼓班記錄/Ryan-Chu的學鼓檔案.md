@@ -20,7 +20,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-01]**
-> 待輸入
+> source: ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS.mp4
+> 
+> song 1 : bar 90-95 
+> 
+> song 3 : bar 16, bar 47 (kick); 78-79)
+> 
+> song 4 : bar 17-24
 > 
 
 > [!NOTE] **[2026-06-24]**
