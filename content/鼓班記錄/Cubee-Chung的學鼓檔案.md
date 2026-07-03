@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-02]**
-> 待輸入
+> 
+> source: 憨人 p1, 憨人 p2, 憨人 p3.png
+> 
+> today tried whole song 0.9-1x, next ends song
 >
 
 > [!NOTE] **[2026-06-25]**
