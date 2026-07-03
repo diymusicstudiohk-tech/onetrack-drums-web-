@@ -28,11 +28,18 @@
 
 > [!NOTE] **[2026-07-03]**
 > 
-> 待輸入
+> source: 3拍歌打法 - 神我讚美祢.pdf
+> 今日練過吓出隊嘅三拍歌
+> 
+> source:UPDATED - 原速 5 songs samuel grade 5.mp4
+> 
+>also today tried 0.9x , 5首 grade 5 考試歌 ，頭 三首 kick d
+> 
 > 
 
 > [!QUOTE] ***購買記錄***
 > 未付學費（待付）
+> ![[鼓班記錄/attachments/photo-532268918-1783082030817-AQADtRNrG6UfQVZ-.jpg]]
 
 ---
 

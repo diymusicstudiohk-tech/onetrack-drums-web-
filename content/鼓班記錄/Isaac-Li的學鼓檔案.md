@@ -14,7 +14,9 @@
 
 > [!NOTE] **[2026-07-03]**
 > 
-> 待輸入
+> SOURCE: till bar 84 - 주 예수 나의 산 소망 (Living Hope) .mp4
+> 
+> today TRIED 0.8-0.9X TILL BAR 84, 記得中間 嗰 8 個 bar 要打空氣鼓練定後面
 > 
 
 > [!NOTE] **[2026-06-22]**

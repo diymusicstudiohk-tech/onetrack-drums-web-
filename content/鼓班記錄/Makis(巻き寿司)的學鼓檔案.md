@@ -33,8 +33,7 @@
 > 
 > sourcE： Respect  - Rockschool Grade 4.mp4
 > 
-> today tried 0.8x   Respect  - Rockschool Grade 4.mp4 
-> 
+> today tried 0.8x  去到 bar 16-24 ride bell 嗰段 
 
 > [!NOTE] **[2026-06-26]**
 > 
