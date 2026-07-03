@@ -17,7 +17,23 @@
 
 > [!NOTE] **[2026-07-03]**
 > 
-> 待輸入
+> last C1 ( 3:36-47)
+> https://gscribe.com/share/kRFjQFikYozZ3Lep9
+> 
+> last C2 ( 3:47-3:59)
+> https://gscribe.com/share/gC2idCYefudxhE5P8
+> 
+> last Post C1 ( 3:59-4:07)
+> https://gscribe.com/share/XWCeYrTeLYG5divr5
+> 
+> last Post C2 ( 4:07-ends)
+> https://gscribe.com/share/wLigxe4HUyjDfx1J6
+> 
+> source: AMV 永久.pages
+> 
+> 今日先做咗譜，print 咗出黎 ，要 mark  tom /snare 嘅行數再對番邊個鼓 
+> 下堂先整動態譜
+> 
 > 
 
 > [!NOTE] **[2026-06-26]**

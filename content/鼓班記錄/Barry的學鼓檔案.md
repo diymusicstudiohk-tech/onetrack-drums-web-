@@ -1,11 +1,20 @@
- 
+
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-
+> 
 > [!TIP] Remark: 前茶餐廳太子爺]
-**Rockschool Grade 3 picks:**
-Overrated, Old bones blue, standard/ fallout
-Rockschool grade 5 pick : tiberius
-
+> **Rockschool Grade 3 picks:**Overrated, Old bones blue, standard/ fallout
+> 
+> ### 1. Tiberius (Rockschool Grade 5)
+> 
+> * **2026-03-13**：試打 0.9x–原速，double time 嘅 fill 同 kick、last section 嘅 kick 仍不穩定。
+> ### 2. Canned Heat (Rockschool Grade 5)
+> 
+> * **2026-04-10**：順利完成 0.9x，之後轉做 ghost note 練習。
+> 
+>   
+> ### 3. Black Smoke Rising (Rockschool Grade 5)
+> 
+> * **22026-07-03 ： 完咗 原速
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -21,7 +30,13 @@ Rockschool grade 5 pick : tiberius
 
 > [!NOTE] **[2026-07-03]**
 > 
-> 待輸入
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> tried full song 1x
+> 
+> 
+> next: 7th & 42nd | Rockschool Drums Grade 5 2024
+
 > 
 
 > [!NOTE] **[2026-06-26]**
