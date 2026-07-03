@@ -31,7 +31,9 @@
 
 > [!NOTE] **[2026-07-03]**
 > 
-> 待輸入
+> sourcE： Respect  - Rockschool Grade 4.mp4
+> 
+> today tried 0.8x   Respect  - Rockschool Grade 4.mp4 
 > 
 
 > [!NOTE] **[2026-06-26]**

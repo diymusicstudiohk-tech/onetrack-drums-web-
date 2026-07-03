@@ -24,7 +24,11 @@
 
 > [!NOTE] **[2026-07-03]**
 > 
-> 待輸入
+>  source : 1st V n C - What a Beautiful Name .mp4
+>  
+>  reference : what a beautiful name ellen  copy (1).pdf
+>  
+>  today tried   原速 1st V n C - What a Beautiful Name
 > 
 
 > [!NOTE] **[2026-06-26]**
