@@ -10,7 +10,7 @@
 > 3_  2026-5-2  
 > 4_  2026-5-9
 > 5_  2026-5-30
-> 6_  2026-07-04
+> 6_  2026-07-04 (45min)
 > 7_
 > 8_
 >
@@ -19,7 +19,11 @@
 
 > [!NOTE] **[2026-07-04]**
 > 
-> 待輸入
+> beauty and a beat (128), 只有 x 0.75 = 96bpm 有正整數
+> 
+> source: till 1st MB - Beauty and a Beat.mp4
+> 
+> today tried 0.8x till 1st MB - Beauty and a Beat.mp4
 > 
 
 > [!NOTE] **[2026-5-30]**
