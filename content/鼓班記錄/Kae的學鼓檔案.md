@@ -19,12 +19,16 @@
 
 > [!NOTE] **[2026-07-04]**
 > 
-> 待輸入
+> SOURCE: LAST 3 C 勇敢走出去.mp4
+> 
+> TODAY TRIED 0.9X LAST 3 C 勇敢走出去.mp4
 > 
 
 > [!NOTE] **[2026-06-27]**
 > 
-> 待輸入
+> source:轉回 easier ver.mp4
+> 
+> cover 咗0.9x -1x
 > 
 
 > [!NOTE] **[2026-06-20]**

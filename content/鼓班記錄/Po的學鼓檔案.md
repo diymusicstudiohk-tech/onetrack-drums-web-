@@ -19,7 +19,8 @@
 
 > [!NOTE] **[2026-07-04]**
 > 
-> 待輸入
+> SOURCE: till 1st MB - Satoshi.mp4
+> TODAY TRIED 0.7X till 1st MB - Satoshi.mp4
 > 
 
 > [!NOTE] **[2026-5-30]**
