@@ -52,8 +52,12 @@
 
 > [!NOTE] **[2026-07-04]**
 > 
-> 待輸入
+> sounrce: WITH ending fill - canned heat grade 5.mp4
+>五級 考試歌  canned heat grade 5， tried 0.8x 全首
 > 
+> 
+> Last 4 bars practice
+> https://gscribe.com/share/d995EsZmcugnAFfe7
 
 > [!NOTE] **[2026-06-20]**
 > 

@@ -22,7 +22,14 @@
 
 > [!NOTE] **[2026-07-04]**
 > 
-> 待輸入
+> 整咗更新版：
+> 
+> 
+> .fcpx : ryan chu grade 7 video updates 
+> source: ROCKSCHOOL GRADE 7 FIVE SONGS WITH DRUMS.mp4
+> source:ROCKSCHOOL GRADE 7 FIVE SONGS WITHOUT DRUMS.mp4
+> 
+> 今日發現第一首歌有兩個 bar 同原譜不一樣，以家review 咗第一 二，四 首歌 
 > 
 
 > [!NOTE] **[2026-07-01]**
