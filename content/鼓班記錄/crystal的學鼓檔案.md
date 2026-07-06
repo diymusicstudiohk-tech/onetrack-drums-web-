@@ -17,11 +17,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-06]**
-> 待輸入
+> 今日cover 咗 原速 漢城沉沒了
+> 
+> next: 極樂
+> reference : https://www.songsterr.com/a/wsa/endy-chow-drum-tab-s4612526
+> 
+> reference as pdf: 極樂 reference.pdf
+> 
+> 今日先print 咗譜預習吓先，下堂跟譜 整番 動態譜
+> 
 
 > [!QUOTE] 購買記錄  
 > 2026-07-06 - 已購買堂數：8堂；有效期至 2026-10-26
-**
+> ![[鼓班記錄/attachments/crystal-payment-20260706.jpg]]
+
 
 ---
 
