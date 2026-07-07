@@ -24,7 +24,7 @@ Katrina 學過以下 **Grade 1 歌曲**：
 Jonathan 五首考試歌 影片
 (Files: jonathan grade 2 5 songs updatde with official audio.mp4)
 
-**Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , ~~hammerblow~~, weak 
+**Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , ~~hammerblow~~, weak , 
 
 
 ---
