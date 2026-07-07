@@ -17,7 +17,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-06]**
-> 待輸入
+> source:070 TO 1X - SOLO ONLY - POP IT IN THE TOP.mp4
+> source: 070 TO 1X - RIDE FOOT PRACTICE - POP IT IN THE TOP.mp4
+> 
+> use these two to practice specific sections
+> 
+> main : Pop It In The Top   Rockschool Drums Grade 6 (1080p_60fps_H264-128kbit_AAC).mp4
 
 > [!NOTE] **[2026-06-22]**
 > source: 
@@ -30,7 +35,7 @@
 > 都係爭嗰兩個fill : 
 > 
 > bar 32, 76 fill practice 
-https://gscribe.com/share/apkThi2RRNQThmqV7
+> https://gscribe.com/share/apkThi2RRNQThmqV7
 > 
 
 > [!QUOTE] ***購買記錄***

@@ -31,8 +31,8 @@ Jonathan 五首考試歌 影片
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-06-30 Katrina
-> 2_  
-> 3_  
+> 2_  2026-07-07 Katrina
+> 3_  2026-07-07 Jonathan
 > 4_  
 > 5_  
 > 6_  
@@ -41,6 +41,11 @@ Jonathan 五首考試歌 影片
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-07-07]**
+> **Katrina:** 待輸入
+> **Jonathan:** 待輸入
+>
 
 > [!NOTE] **[2026-06-30]**
 >  **Katrina:** 
@@ -77,8 +82,6 @@ Jonathan 五首考試歌 影片
  source: Katrina Grade 1 5 songs with drums.mp4
 > **Katrina:** 今日 cover咗 0.9x -Grade 1 5首歌
 > 試咗 頭兩首原速
-
->
 
 > [!NOTE] **[2026-06-04]**
 >  source: Katrina Grade 1 5 songs with drums.mp4
