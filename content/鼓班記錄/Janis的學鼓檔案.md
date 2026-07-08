@@ -16,9 +16,20 @@
 
 
 ***課堂記錄***
-
+> 
 > [!NOTE] **[2026-07-07]**
-> 待輸入
+> 
+> source: KOLOR - 圍城 for Printing.pdf
+> today tried 0.9x 
+> 
+> 
+> playback music using mosaic
+> 
+> p1 bar 27 to 29
+> https://gscribe.com/share/XozLwYy4TeL74xp99
+> 
+> Last  fill 
+> https://gscribe.com/share/BmMd27U8Drruva4a7
 >
 
 > [!NOTE] **[2026-06-30]**

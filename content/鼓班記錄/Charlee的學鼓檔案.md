@@ -20,7 +20,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-07]**
-> 待輸入
+> source: till 1st C2 夏日之子 charlee.mp4
+> 
+> today tried 0.7x  till 1st C2 夏日之子 charlee.mp4
 >
 
 > [!NOTE] **[2026-06-29]**
