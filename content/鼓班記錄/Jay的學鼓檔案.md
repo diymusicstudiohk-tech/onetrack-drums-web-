@@ -18,7 +18,16 @@
 
 > [!NOTE] **[2026-07-09]**
 > 
-> 待輸入
+> source:guitar solo and bridge only 二十還好.mp4
+> 
+> today tried 0.7x guitar solo and bridge only 二十還好.mp4
+> started flam
+> 
+> Guitar solo fill practice 
+> https://gscribe.com/share/vMmJ9MBUMvTNQDjC7
+> 
+> Bridge fill pracrtice
+> https://gscribe.com/share/6yfTDS8qPinh2JYm6
 > 
 
 > [!NOTE] **[2026-06-27]**
