@@ -21,7 +21,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-08]**
-> 待輸入
+> 
+> source: RENEW - ryan chu grade 7 no drums.mp4
+> 
+> razorhead practice  ( bar 42 to bar 17 to 21)
+> https://gscribe.com/share/stYWS3z4GVTabHAr6
+> 
+> Razorhead 手腳協調練習 (bar 113 to 116)
+> https://gscribe.com/share/Fhx7tvqVzQ7qc8sq9
 >
 
 > [!NOTE] **[2026-07-04]**
