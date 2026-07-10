@@ -1,5 +1,8 @@
- 
+
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> [!TIP] [Remark: ] 8月 8 日 生日 
+> drumming level: 75-85dB
+ 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-4-13
 > 2_  2026-04-24
@@ -13,7 +16,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-09]**
-> 待輸入
+> 
+> source: full song 주 예수 나의 산 소망 (Living Hope) .mp4
+> 
+> today tried 0.8x full song 주 예수 나의 산 소망 (Living Hope) .mp4
 >
 
 > [!NOTE] **[2026-07-03]**

@@ -20,7 +20,10 @@
 
 > [!NOTE] **[2026-07-09]**
 > 
-> 待輸入
+> source : LAST 8 BARS 我很小朋友.mp4
+> 
+> 今日cover咗 原速 LAST 8 BARS 我很小朋友.mp4
+> next : maybe more gareth t? 
 > 
 
 > [!NOTE] **[2026-06-16]**
