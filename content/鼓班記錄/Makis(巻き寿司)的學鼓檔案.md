@@ -31,7 +31,11 @@
 
 > [!NOTE] **[2026-07-10]**
 > 
-> 待輸入
+> bar 16-23 practice (ride bell)
+> https://gscribe.com/share/zUZrF4RoCEHs2KhXA
+> 
+> ourcE： Respect  - Rockschool Grade 4.mp4
+>  today tried full song Respect  - Rockschool Grade 4 - 0.8x 
 > 
 
 > [!NOTE] **[2026-07-03]**

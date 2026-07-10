@@ -25,7 +25,8 @@
 
 > [!NOTE] **[2026-07-10]**
 > 
-> 待輸入
+> source: till p1 section Cb - What a Beautiful Name .mp4
+> today tried 原速 till p1 section Cb - What a Beautiful Name .mp4
 > 
 
 > [!QUOTE] ***購買記錄***
