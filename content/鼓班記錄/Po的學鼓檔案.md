@@ -19,7 +19,11 @@
 
 > [!NOTE] **[2026-07-11]**
 > 
-> 待輸入
+> source: till Bridge - Satoshi.mp4
+> today tried 0.7x 
+> 
+> Bridge fill practice 
+> https://gscribe.com/share/pLQXMNHiCbxBam7YA
 >
 
 > [!NOTE] **[2026-07-04]**

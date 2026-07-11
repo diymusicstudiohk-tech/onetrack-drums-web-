@@ -22,7 +22,8 @@
 
 > [!NOTE] **[2026-07-11]**
 > 
-> 待輸入
+> source: RENEW - ryan chu grade 7 no drums.mp4
+> 
 >
 
 > [!NOTE] **[2026-07-08]**
