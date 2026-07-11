@@ -11,7 +11,7 @@
 > 4_  2026-5-9
 > 5_  2026-5-30
 > 6_  2026-07-04 (45min)
-> 7_  2026-07-10
+> 7_  2026-07-10 ( 75min)
 > 8_
 >
 
@@ -19,7 +19,9 @@
 
 > [!NOTE] **[2026-07-10]**
 > 
-> 待輸入
+> source: till  2nd Rap02 - Beauty and a Beat..mp4
+> 
+> today tried 0.8-0.9x till  2nd Rap02 - Beauty and a Beat..mp4
 > 
 
 > [!NOTE] **[2026-07-04]**
