@@ -17,9 +17,16 @@
 >
 
 ***課堂記錄***
-
+> 
 > [!NOTE] **[2026-07-13]**
-> 待輸入
+> 
+> 今日cover咗用背脊唱情歌
+> 
+> source: TNaF full.pdf
+> CNBLUE Then, Now and Forever p123 full.pdf
+> 
+> 下堂開 cnblue  , then now and forever
+
 
 > [!NOTE] **[2026-07-09]**
 > 

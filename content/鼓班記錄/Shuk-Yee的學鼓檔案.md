@@ -16,7 +16,10 @@
 > 8_
 
 > [!NOTE] **[2026-07-13]**
-> 待輸入
+> source: full song 我們同心宣告.mp4
+> 
+> today tried 0.8x -0.9x full song 
+> next ends song
 
 ---
 

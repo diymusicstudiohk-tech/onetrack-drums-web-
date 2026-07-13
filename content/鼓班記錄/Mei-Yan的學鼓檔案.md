@@ -7,7 +7,7 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-06-22
 > 2_  2026-07-06
-> 3_  2026-07-13
+> 3_  2026-07-13 (50min)
 > 4_  
 > 5_
 > 6_
@@ -17,7 +17,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-13]**
-> 待輸入
+> today grade 6 - pop it in the top tried 0.9x
+> 
+>各段練習重點在 whatsapp
 
 > [!NOTE] **[2026-07-06]**
 > source:070 TO 1X - SOLO ONLY - POP IT IN THE TOP.mp4

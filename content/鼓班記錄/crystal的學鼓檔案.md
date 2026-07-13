@@ -17,7 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-13]**
-> 待輸入
+> srouce: till 1st C2-極樂.mp4
+> 
+> today tried 0.8x 
+> 
+> reference as pdf: 極樂 reference.pdf
 
 > [!NOTE] **[2026-07-06]**
 > 今日cover 咗 原速 漢城沉沒了
