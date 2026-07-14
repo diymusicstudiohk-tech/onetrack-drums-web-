@@ -4,6 +4,8 @@
 > 
 > 譚沚澄 ，29/7 英國交流圈
 > 
+> 譚沚澄 ，29/7 英國交流圈
+> 
 > 青梅竹馬TKO有女朋友，不熟悉的陌生； 拍門事件； hayden 大佬嘅甜妹
 > 
 > > 1/6 Hayden , 9/7 Twinkle
@@ -45,12 +47,21 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-07-11
-> 2_  
+> 2_  2026-07-14
 > 3_  
-> 4_  
+> source: WITH ending fill - canned heat grade 5.mp4
+>五級 考試歌  canned heat grade 5， tried 0.8x 全首
+> 
+> Last 4 bars practice
+> https://gscribe.com/share/4skjNcQEjmbLJfhm6
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-07-14]**
+> 
+> 待輸入
+>
 
 > [!NOTE] **[2026-07-11]**
 > 
