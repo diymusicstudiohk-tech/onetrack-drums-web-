@@ -1,15 +1,13 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ]
+> [!TIP] [Remark: ] 1/6 Hayden , 9/7 Twinkle
 > 
 > 譚沚澄 ，29/7 英國交流圈
 > 
 > 譚沚澄 ，29/7 英國交流圈
 > 
 > 青梅竹馬TKO有女朋友，不熟悉的陌生； 拍門事件； hayden 大佬嘅甜妹
-> 
-> > 1/6 Hayden , 9/7 Twinkle
-> 
+>
 > 1. Rockschool Grade 2 考試歌
    Time Period：2025-01-11（或更早）至 2025-06-07
 >    歌曲包括：《Georgia on My Mind》、《Passionfruit》、《Y'all》、《Losing My Religion》等。
@@ -49,18 +47,18 @@
 > 1_  2026-07-11
 > 2_  2026-07-14
 > 3_  
-> source: WITH ending fill - canned heat grade 5.mp4
->五級 考試歌  canned heat grade 5， tried 0.8x 全首
-> 
-> Last 4 bars practice
-> https://gscribe.com/share/4skjNcQEjmbLJfhm6
->
+> 4_
+
+
+
 
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-14]**
 > 
-> 待輸入
+>  source: WITH ending fill - canned heat grade 5.mp4
+>  grade 5 - canned heat， tried 0.9x 全首
+>next： 開第二首五級歌
 >
 
 > [!NOTE] **[2026-07-11]**
