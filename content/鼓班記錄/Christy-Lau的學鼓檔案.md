@@ -27,7 +27,15 @@
 
 > [!NOTE] **[2026-07-17]**
 > 
-> 待輸入
+> 今日 cover 咗 夏日之子 cover 原速
+> 
+> 另外 練 flying finger techqniue
+> 
+> ex01
+> https://gscribe.com/share/FPWf2wFFsExTmWFh7
+> 
+> ex02
+> https://gscribe.com/share/qdHo637c7BpoZDFN6
 > 
 
 > [!NOTE] **[2026-07-02]**
@@ -54,7 +62,7 @@
 
 > [!NOTE] **[2026-06-25]**
 > 
-> ource: 夏日之子moddified full song (pdf, pages)
+> source: 夏日之子moddified full song (pdf, pages)
 > 
 > today tried full song 0.9-0.95x 
 > 

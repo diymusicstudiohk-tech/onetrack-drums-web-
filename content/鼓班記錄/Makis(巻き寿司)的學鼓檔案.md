@@ -31,7 +31,9 @@
 
 > [!NOTE] **[2026-07-17]**
 > 
-> 待輸入
+> 今日 cover 咗 Grade 4 - Repsect 考試原速
+> 下次開第五首 grade 4
+> 
 > 
 
 > [!NOTE] **[2026-07-10]**
@@ -39,7 +41,7 @@
 > bar 16-23 practice (ride bell)
 > https://gscribe.com/share/zUZrF4RoCEHs2KhXA
 > 
-> ourcE： Respect  - Rockschool Grade 4.mp4
+> sourcE： Respect  - Rockschool Grade 4.mp4
 >  today tried full song Respect  - Rockschool Grade 4 - 0.8x 
 > 
 
