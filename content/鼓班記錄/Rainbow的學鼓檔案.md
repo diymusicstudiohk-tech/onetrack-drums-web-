@@ -18,9 +18,17 @@
 >
 
 ***課堂記錄***
-
+> 
 > [!NOTE] **[2026-07-16]**
-> 待輸入
+> 
+> ‼️ 下堂提Rainbow 用鼓棍校正
+> 
+> Main ref source:【tuki.】晩餐歌-叩いてみた【ドラム楽譜あり】【Drum Cover】 (1080p_60fps_H264-128kbit_AAC).mp4
+> 
+> 2nd ref source: 츠키(Tuki) - 만찬가(晩餐歌) Lv2 ⁄쉬운 드럼악보⁄Drum score⁄드럼 커버⁄Drum cover (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> 今日試咗 0.8-0.9x 2nd PC to post C 晚餐歌.mp4
+> 之後整動態譜 ，首選 main ref source, 2nd ref source 用黎guide 簡化方向 
 >
 
 > [!NOTE] **[2026-06-11]**

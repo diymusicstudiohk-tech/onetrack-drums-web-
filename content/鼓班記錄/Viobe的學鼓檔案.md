@@ -13,7 +13,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-16]**
-> 待輸入
+> SOURCE: full song 分合 2026 ver.mp4
+> 
+> today cover jor  full song 分合 2026 ver 0.9x , next NEW song 
 >
 
 > [!NOTE] **[2026-07-02]**
