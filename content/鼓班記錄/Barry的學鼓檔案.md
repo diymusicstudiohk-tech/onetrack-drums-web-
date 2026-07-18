@@ -30,7 +30,17 @@
 
 > [!NOTE] **[2026-07-17]**
 > 
-> 待輸入
+> Dear Jane - 無可避免
+> today tried 43 原速
+> 
+> bar 37-38
+> https://gscribe.com/share/m84LGznzYucRadwj7
+> 
+>bar 41-43
+>https://gscribe.com/share/RSUko5JQwEipMeTdA
+>
+>
+> 
 >
 
 > [!NOTE] **[2026-07-03]**
