@@ -15,7 +15,9 @@
 
 > [!NOTE] **[2026-07-18]**
 > 
-> 待輸入
+> source : 1st section ( chorus x 4) 雨爱DJ ( (140).mp4
+> 
+> today tried 0.9x 1st section ( chorus x 4) 雨爱DJ ( (140).mp4
 > 
 
 > [!NOTE] **[2026-07-11]**

@@ -19,7 +19,10 @@
 
 > [!NOTE] **[2026-07-18]**
 > 
-> 待輸入
+> source: full song 勇敢走出去.mp4
+> 
+> today tried 0.9x full song 勇敢走出去.mp4
+> next ends song
 > 
 
 > [!NOTE] **[2026-07-04]**

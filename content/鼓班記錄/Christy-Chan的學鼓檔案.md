@@ -15,7 +15,9 @@
 
 > [!NOTE] **[2026-07-18]**
 > 
-> 待輸入
+> SOURCE:till 3rd C 我要看見- Christy Chan ver.mp4
+> TRIED 0.7X 
+> 可以用之前D譜 同動態譜 as reference
 > 
 
 > [!NOTE] **[2026-07-04]**

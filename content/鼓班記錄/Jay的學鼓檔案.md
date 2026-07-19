@@ -18,7 +18,11 @@
 
 > [!NOTE] **[2026-07-18]**
 > 
-> 待輸入
+> source: guitar solo till outro - 二十還好.mp4
+> tried 0.7x 
+> 
+> 快＝細力＋放鬆，六連音 pad 練習
+> https://gscribe.com/share/dEthr3pW3iMw6u579
 > 
 
 > [!NOTE] **[2026-07-09]**

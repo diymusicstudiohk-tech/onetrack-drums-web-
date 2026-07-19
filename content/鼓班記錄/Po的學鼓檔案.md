@@ -19,7 +19,8 @@
 
 > [!NOTE] **[2026-07-18]**
 > 
-> 待輸入
+> SOURCE: till MB after Bridge - Satoshi.mp4
+> tried 0.7x till MB after bridge
 > 
 
 > [!NOTE] **[2026-07-11]**

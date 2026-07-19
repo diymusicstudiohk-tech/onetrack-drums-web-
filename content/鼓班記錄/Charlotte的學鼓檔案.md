@@ -19,7 +19,9 @@
 
 > [!NOTE] **[2026-07-18]**
 > 
-> 待輸入
+> source: FULL SONG - beauty and a beat.mp4
+> 
+> before Last C1, C2 : 0.8x, Last C1, C2: 0.7x
 > 
 
 > [!NOTE] **[2026-07-10]**
