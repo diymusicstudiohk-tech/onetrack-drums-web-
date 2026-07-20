@@ -6,6 +6,8 @@
 > pop song wish list: 
 > https://www.youtube.com/watch?v=1tk1pqwrOys
 > 
+> Grade 5 暫時做過 don't let go , tiberius
+> 
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -18,18 +20,14 @@
 > 7_
 > 8_
 > 
-> 10_  2026-07-12
 >
 
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-19]**
-> 待輸入
->
-
-> [!NOTE] **[2026-07-12]**
-> source: full song 廻廻奇譚 (185).mp4
-> tried 0.9-0.95x 
+> source: WITH ending fill - canned heat grade 5.mp4
+> 
+> 今日 開始 grade 5 考試歌 Canned heat 去到 bar 31, 0.7x
 >
 
 > [!NOTE] **[2026-07-14]**
@@ -39,6 +37,10 @@
 > 
 > Ayden cover 咗原速 廻廻奇譚 (185).mp4，下次開番 五級考試歌
 >
+
+> [!NOTE] **[2026-07-12]**
+> source: full song 廻廻奇譚 (185).mp4
+> tried 0.9-0.95x 
 
 > [!NOTE] **[2026-07-12]**
 > source: full song 廻廻奇譚 (185).mp4

@@ -21,7 +21,8 @@
 >
 
 > [!NOTE] **[2026-07-15]**
-> 待輸入
+> source: till 1st MB 陽光-黎明.mp4
+> today tried 0.8x till 1st MB 陽光-黎明.mp4
 >
 
 > [!NOTE] **[2026-07-01]**
