@@ -17,8 +17,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-20]**
-> 待輸入
->
+> 
+> source: 090X till bridge 極樂.mp4
+> 
+> today tried 0.9x 
+> 
+> reference as pdf: 極樂 reference.pdf
+> 
 
 > [!NOTE] **[2026-07-13]**
 > srouce: till 1st C2-極樂.mp4
