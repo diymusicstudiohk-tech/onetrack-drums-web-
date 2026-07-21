@@ -33,14 +33,20 @@ Jonathan 五首考試歌 影片
 > 1_  2026-06-30 Katrina
 > 2_  2026-07-07 Katrina
 > 3_  2026-07-07 Jonathan
-> 4_  
-> 5_  
+> 4_  2026-07-21 Katrina
+> 5_  2026-07-21 Jonathan
 > 6_  
 > 7_  
 > 8_  
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-07-21]**
+> **Katrina:** 待輸入
+> 
+> **Jonathan:** 待輸入
+>
 
 > [!NOTE] **[2026-07-07]**
 > **Katrina:** source: Katrina Grade 1 5 songs with drums.mp4
