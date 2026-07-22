@@ -18,6 +18,6 @@
 >
 
 > [!QUOTE] ***購買記錄***
-> 在[DATE]已購買4堂，有效期至 [DATE的八個星期後]
-> (receipt)
+> 在 2026-07-22 已購買4堂，有效期至 2026-09-16
+![[鼓班記錄/attachments/Janice-Choy receipt 2026-07-22.jpg]]
 **
