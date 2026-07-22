@@ -43,9 +43,13 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-21]**
-> **Katrina:** 待輸入
+> **Katrina:** source: Katrina Grade 1 5 songs with drums.mp4
+> Katrina 今日 cover咗 原速 Grade 1 5首歌
 > 
-> **Jonathan:** 待輸入
+> **Jonathan:**  
+> source: with drums - ready or not - Jonathan ver .mp4
+> 
+> Jonathan today tried原速 full song , grade 4 -ready or not 
 >
 
 > [!NOTE] **[2026-07-07]**

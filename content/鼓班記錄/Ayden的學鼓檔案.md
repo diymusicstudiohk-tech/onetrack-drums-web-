@@ -25,7 +25,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-21]**
-> 待輸入
+> 
+> bar 22-23
+> https://gscribe.com/share/cB4h7vLaQEA2k7DTA
+> 
+> bar 28-32
+> https://gscribe.com/share/VbFgqN9yaqXaoabd8
+> 
+> bar 55-59
+> https://gscribe.com/share/VNC7nw7tLBPQge9Y8
+> 
+> 
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried 0.75x bar 64 , grade 5 考試歌  canned heat
 >
 
 > [!NOTE] **[2026-07-19]**
