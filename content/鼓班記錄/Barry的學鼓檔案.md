@@ -1,7 +1,7 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
-> [!TIP] Remark: 前茶餐廳太子爺]
+> [!TIP] Remark: 前茶餐廳太子爺
 > **Rockschool Grade 3 picks:**Overrated, Old bones blue, standard/ fallout
 > 
 > ### 1. Tiberius (Rockschool Grade 5)
@@ -30,7 +30,9 @@
 
 > [!NOTE] **[2026-07-24]**
 > 
-> 待輸入
+> source: 無可避免 - Dear Jane -Updated .pdf
+> 
+> today tried full song at original tempo , not stable at fills @b48, 54
 > 
 
 > [!NOTE] **[2026-07-17]**
