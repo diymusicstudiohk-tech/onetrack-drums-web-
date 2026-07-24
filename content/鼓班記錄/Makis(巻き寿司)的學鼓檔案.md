@@ -36,6 +36,7 @@
 
 > [!QUOTE] ***購買記錄***
 > 未付學費（待付）
+> ![[鼓班記錄/attachments/Makis-Receipt-2026-07-24.jpg]]
 
 ---
 
