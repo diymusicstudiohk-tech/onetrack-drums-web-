@@ -20,7 +20,28 @@
 
 > [!NOTE] **[2026-07-24]**
 > 
-> 待輸入
+> reference source: ref dai dai p1, p2, p3.png 
+> moises playback : Shakira & Burna Boy - Dai Dai (Lyrics) World Cup Song 2026
+> 
+> 未整動態譜/普通譜，要將reference 再執一次變難嘅version :
+> 
+> b5-12
+> https://gscribe.com/share/MA8iAi82s4hi59jC8
+> 
+> b13-20
+> https://gscribe.com/share/svFU2N1atZzeC3e9A
+> 
+> b21-28
+> https://gscribe.com/share/fybvis7XczHwAfc2A
+> 
+> bar 29-36
+> https://gscribe.com/share/mtDBMgCtyET1W73M6
+> 
+> b37-44
+> https://gscribe.com/share/jHPwJ2eTivqDU5dX6
+> 
+> b45-54
+> https://gscribe.com/share/at3xfbfJtYR4s6Gu9
 > 
 
 > [!NOTE] **[2026-07-03]**
