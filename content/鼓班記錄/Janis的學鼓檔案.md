@@ -18,7 +18,18 @@
 ***課堂記錄***
 > 
 > [!NOTE] **[2026-07-23]**
-> 待輸入
+> 
+> 
+>  今日cover 咗 Kolor-圍城原速
+>  
+>  ref source: 花臂 (.pages, .pdf)
+>  ref source: 花臂rolling score.mp4
+>  
+>  你先預習 花臂點打
+>  
+>  bar 29-30
+>  https://gscribe.com/share/xe4DdpW65SdMQo7b6
+>  
 
 > [!NOTE] **[2026-07-07]**
 > 

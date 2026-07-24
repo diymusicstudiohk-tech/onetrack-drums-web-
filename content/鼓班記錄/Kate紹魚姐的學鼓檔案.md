@@ -19,7 +19,26 @@
 ***課堂記錄***
 > 
 > [!NOTE] **[2026-07-23]**
-> 待輸入
+> 
+> source: CNBLUE Then, Now and Forever p123 full ( .pages, .pdf)
+> playback using moises
+> 
+> tried 0.8-0.9x till bridge
+> 
+> main Chorus practice (today best 70bpm)
+> https://gscribe.com/share/Z5BtmdjPhxxDS7L79
+> 
+> TNaF 1st V and PC
+> https://gscribe.com/share/gvrMC4K5ZZgsWcUv9
+> 
+> TNaF 2nd V and PC
+> https://gscribe.com/share/wLJRzGAbMXdfiWQm9
+> 
+> TNaF - bridge OHH
+> https://gscribe.com/share/mNZkh31ExmMUiNKa8
+> 
+> 
+> 
 
 > [!NOTE] **[2026-07-13]**
 > 
