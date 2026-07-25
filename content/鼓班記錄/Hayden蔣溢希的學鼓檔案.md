@@ -25,7 +25,8 @@
 
 > [!NOTE] **[2026-07-24]**
 > 
-> 待填
+> source: TILL P2 SECTION CB What a Beautiful Name .mp4
+> today tried 0.8x TILL P2 SECTION CB What a Beautiful Name .mp4
 > 
 
 > [!NOTE] **[2026-07-10]**

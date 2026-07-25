@@ -10,7 +10,10 @@
 > **3. Scary**
 > `[2026-06-05]` — `today finished 1x Grade 4 - Scary FULL SONG`
 > 
->
+> 4, Respect
+> [2026-07-17]
+> 
+>5. ready or not [ 2026-07-24]
 > 
  
 
@@ -31,11 +34,13 @@
 
 > [!NOTE] **[2026-07-24]**
 > 
-> 待填
+> source : with drums - ready or not - Jonathan ver .mp4
+> 
+> 今日cover 咗 grade 4 - ready or not 原速 not stable 
 > 
 
 > [!QUOTE] ***購買記錄***
-> 未付學費（待付）
+> 2026-07-24 - 已購買堂數：8堂；有效期至 2026-11-24
 > ![[鼓班記錄/attachments/Makis-Receipt-2026-07-24.jpg]]
 
 ---
