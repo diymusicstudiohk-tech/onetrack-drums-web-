@@ -2,9 +2,9 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ] 1/6 Hayden , 9/7 Twinkle
 > 
-> 譚沚澄 ，29/7 英國交流圈
+> 譚沚澄 ，29/7 - 13/8 英國交流圈
 > 
-> 譚沚澄 ，29/7 英國交流圈
+> 2026-11-21 : Akasaki Hong Kong live at Whompoa 
 > 
 > 青梅竹馬TKO有女朋友，不熟悉的陌生； 拍門事件； hayden 大佬嘅甜妹
 >
@@ -55,7 +55,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-25]**
-> 待輸入
+> source: Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC)
+> 
+> today tried full song 0.8x 
 >
 
 > [!NOTE] **[2026-07-14]**

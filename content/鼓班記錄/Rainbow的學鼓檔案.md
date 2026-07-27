@@ -20,7 +20,9 @@
 ***課堂記錄***
 > 
 > [!NOTE] **[2026-07-25]**
-> 待輸入
+> source:1st PC til 2nd Post C 晚餐歌.mp4
+> 
+> today tried 0.9x 1st PC til 2nd Post C 晚餐歌.mp4
 >
 
 > [!NOTE] **[2026-07-16]**

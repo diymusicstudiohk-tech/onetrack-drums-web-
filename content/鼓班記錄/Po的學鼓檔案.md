@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-25]**
-> 待輸入
+> 
+> source: full song Satoshi.mp4
+> today tried 0.9x full song Satoshi.mp4
 >
 
 > [!NOTE] **[2026-07-18]**
