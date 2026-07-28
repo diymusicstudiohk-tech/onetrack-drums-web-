@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-27]**
-> 待輸入
+> source: 主你知道 2026 Ada ver after lesson update.pages
+> 
+>今日執哂成份譜，HW ： 練熟
 >
 
 > [!NOTE] **[2026-07-02]**

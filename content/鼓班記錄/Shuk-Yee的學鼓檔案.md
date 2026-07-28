@@ -16,7 +16,10 @@
 > 8_
 
 > [!NOTE] **[2026-07-27]**
-> 待輸入
+> source:till 1st CnMB 你是否感到群山震動.mp4
+> 
+> today tried 0.8x 
+> 今次做法係：用final cut pro x session 聽鼓，整咗鼓譜係cap 圖做片，再錄電鼓入去
 
 > [!NOTE] **[2026-07-13]**
 > source: full song 我們同心宣告.mp4

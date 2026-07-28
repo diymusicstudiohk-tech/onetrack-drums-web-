@@ -17,8 +17,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-27]**
-> 待輸入
->
+> source:If I could change your mind - RSL 2024 06.pdf
+> playback using: [Grade 6] If I could change your mind ¦ Rockschool Drums 2024 (1080p_25fps_H264-128kbit_AAC).mp4
+> 
+> today tried whole song 0.8x 
+> 
+> devlop fill practice
+>https://gscribe.com/share/ybMtfnQpNUqaSCbc7
 
 > [!NOTE] **[2026-07-13]**
 > today grade 6 - pop it in the top tried 0.9x
