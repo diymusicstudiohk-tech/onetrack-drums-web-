@@ -20,7 +20,10 @@
 > 
 > [!NOTE] **[2026-07-28]**
 > 
-> 待輸入
+> source:CNBLUE Then, Now and Forever p123 full ( .pages, .pdf)
+> playback using moises
+> 
+> tried full song 0.8-0.9x 
 > 
 
 > [!NOTE] **[2026-07-23]**

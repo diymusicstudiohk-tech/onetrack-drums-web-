@@ -26,7 +26,12 @@
 
 > [!NOTE] **[2026-07-28]**
 > 
-> 待輸入
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried till bar 71
+> 
+> bar 70-71
+> https://gscribe.com/share/zD7Vhu6aisqpvzqr9
 > 
 
 > [!NOTE] **[2026-07-21]**

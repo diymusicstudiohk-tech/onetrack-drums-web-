@@ -24,7 +24,7 @@ Katrina 學過以下 **Grade 1 歌曲**：
 Jonathan 五首考試歌 影片
 (Files: jonathan grade 2 5 songs updatde with official audio.mp4)
 
-**Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , ~~hammerblow~~, weak , 
+**Jonjon Progress:** Grade 4 - scary , in my place, noisy neighbour , ~~hammerblow~~, weak , ready or not
 
 
 ---
@@ -43,9 +43,18 @@ Jonathan 五首考試歌 影片
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-28]**
-> **Katrina:** 待輸入
+> **Katrina:** source: Katrina Grade 1 5 songs with drums.mp4
 > 
-> **Jonathan:** 待輸入
+> source: mimi katrina rockschool GRADE.pages
+> Katrina 今日 試拍咗 原速 Grade 1 5首歌 嘅考試歌
+> 第三歌 time is running out bar 21-28 not stable
+> 第四歌 bar 16 not stable
+> 
+> 
+> **Jonathan:** 今日開始哂五首 Grade 4 考試歌 at 0.8x
+> source: 5 songs jonathan grade 4.mp4
+> 
+> today tried all 5 songs at 0.8x 
 >
 
 > [!NOTE] **[2026-07-21]**
