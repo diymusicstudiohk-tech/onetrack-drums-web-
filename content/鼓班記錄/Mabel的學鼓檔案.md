@@ -30,8 +30,14 @@
 
 
 > [!NOTE] **[2026-07-29]**
-> 待輸入
->
+> source: till 1st C 詩篇 100 .mp4
+> today starts trying
+> 
+> pre intro to verse
+> https://gscribe.com/share/GLE5tBeWmX8m43Zd7
+> 
+
+
 > [!NOTE] **[2026-07-15]**
 > source: FULL SONG 不再猶豫.mp4
 > 今日 cover 咗 FULL song 不再猶豫

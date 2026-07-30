@@ -18,8 +18,12 @@
 
 
 > [!NOTE] **[2026-07-29]**
-> 待輸入
->
+> source:MAIN PATTERN PRACTICE - End Of Beginning .mp4
+> tried 0.8x
+> 
+> reference source: End of Beginning.pages
+
+
 > [!NOTE] **[2026-07-22]**
 > 今日喺 cajon 練咗出隊兩首歌
 

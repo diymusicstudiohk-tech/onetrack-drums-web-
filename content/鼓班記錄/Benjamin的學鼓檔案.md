@@ -38,8 +38,19 @@ Grade 5 song choices :
 
 
 > [!NOTE] **[2026-07-29]**
-> 待輸入
->
+> 
+> source: grade 5 benjamin five songs.mp4
+> 
+> song 1: 0.9x (OK) 0.95 *stable* , 1(OK )
+> song 2: 0.8x ( stable) 0.85x (OK) 0.9x (barely)
+> song 3:0.9x （good), 0.95x (OK) 1x (barely)
+> song 4: 0.9x (OK only)
+> song 5: easy peasy 
+> 
+> 
+> 
+> 
+
 > [!NOTE] **[2026-07-20]**
 > source: grade 5 benjamin five songs.mp4
 >
