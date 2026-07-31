@@ -25,7 +25,9 @@
 
 > [!NOTE] **[2026-07-31]**
 > 
-> 待輸入
+> source: full song What a Beautiful Name 
+> 
+> today tried 0.9x full song What a Beautiful Name 
 > 
 
 > [!NOTE] **[2026-07-24]**

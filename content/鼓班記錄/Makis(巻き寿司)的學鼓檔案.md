@@ -34,7 +34,9 @@
 
 > [!NOTE] **[2026-07-31]**
 > 
-> 待輸入
+>  source: grade 5 benjamin five songs.mp4
+>  
+>  今日開始 grade 5 don't let go , 0.8x 去到 bar 35
 > 
 
 > [!NOTE] **[2026-07-24]**
