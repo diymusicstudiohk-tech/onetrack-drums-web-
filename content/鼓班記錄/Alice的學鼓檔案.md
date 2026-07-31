@@ -18,14 +18,12 @@
 > source: 我的生命獻給你amended (1).mp4
 > 
 > 今日cover 咗 我的生命獻給你
-> next: 
-> 
-> 
+> next: LOUDER DRUMS 立志擺上  低中高能量 ver.mp4
 >
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-07-31 已購買4堂，有效期至 2026-09-25
-> (receipt)
+> (cash)
 **
 
 
