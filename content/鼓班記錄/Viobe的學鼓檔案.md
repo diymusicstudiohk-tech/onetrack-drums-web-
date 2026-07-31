@@ -13,7 +13,21 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-30]**
-> 待輸入
+> 
+> source: let it be p1, let it be p2
+> playback: Let It Be - The Beatles DRUM COVER (2160p_30fps_AV1-128kbit_AAC).mp4
+> 
+> bar 8-9
+> https://gscribe.com/share/Q91eoQC4rs5WaXwcA
+> 
+> bar 13 14 
+> https://gscribe.com/share/pu8EST2SjriJZZJT7
+> 
+> bar 20 21
+> https://gscribe.com/share/Xq8Mcj8keRa7umPA9
+> 
+> bar 36-37
+> https://gscribe.com/share/LNLZfkTXzWZ2XKEv9
 >
 
 > [!NOTE] **[2026-07-16]**

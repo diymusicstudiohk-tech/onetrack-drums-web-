@@ -8,13 +8,22 @@
 > 1_  2026-06-22
 > 2_  2026-07-06
 > 3_  2026-07-13 (50min)
-> 4_  2026-07-27
+> 4_  2026-07-272026-07-27
 > 5_
 > 6_
 > 7_
 > 8_
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-07-27]**
+> source:If I could change your mind - RSL 2024 06.pdf
+> playback using: [Grade 6] If I could change your mind ¦ Rockschool Drums 2024 (1080p_25fps_H264-128kbit_AAC).mp4
+> 
+> today tried whole song 0.8x 
+> 
+> devlop fill practice
+>https://gscribe.com/share/ybMtfnQpNUqaSCbc7
 
 > [!NOTE] **[2026-07-27]**
 > source:If I could change your mind - RSL 2024 06.pdf

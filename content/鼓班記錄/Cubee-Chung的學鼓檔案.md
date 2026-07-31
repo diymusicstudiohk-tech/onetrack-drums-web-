@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF , , 2026-6月尾至七月中 台北五月天 (7/10-12 三場) , ； 4個月 減 10KG
+> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF , , 2026-6月尾至七月中 台北五月天 (7/10-12 三場) , ； 4個月 減 10KG (72 kg 「一月頭」> 57kg「七月尾」 ) 
 
 
 ---
@@ -19,7 +19,21 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-07-30]**
-> 待輸入
+> 
+> source: 五月天 - 一千個世紀.pdf
+> playback: moises
+> playback:五月天 - 一千個世紀Drum Cover (1080p_60fps_H264-128kbit_AAC).mp4
+> 
+> today tried bar 83-94 ( 最難嘅outro), 五月天 - 一千個世紀., 0.7x (drum cover :3:57-ends)
+> 
+> bar 85-86
+> |https://gscribe.com/share/hM7AEBaNxQbM7B4R7
+> 
+> bar 87-88
+> https://gscribe.com/share/yRpgKqpa1HTp4Cy89
+>
+>bar89 -90
+>https://gscribe.com/share/uHd2s2BLPucgA4UU6
 >
 
 > [!NOTE] **[2026-07-16]**
