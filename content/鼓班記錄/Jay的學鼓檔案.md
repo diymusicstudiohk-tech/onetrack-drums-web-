@@ -18,7 +18,10 @@
 
 > [!NOTE] **[2026-07-31]**
 > 
-> 待輸入
+> source: 2nd till ends 二十還好.mp4
+> ref source: 二十還好 - Kolor.pdf
+> 
+> today tried 0.7x
 > 
 
 > [!NOTE] **[2026-07-18]**
