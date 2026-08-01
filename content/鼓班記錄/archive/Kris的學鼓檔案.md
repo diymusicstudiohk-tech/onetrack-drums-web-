@@ -1,5 +1,4 @@
 
-- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ADD 🤯
 22-29th July - Seoul]
 

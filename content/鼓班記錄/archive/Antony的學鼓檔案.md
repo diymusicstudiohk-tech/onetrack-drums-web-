@@ -1,5 +1,4 @@
 > [!TIP] [Remark: WEAK AT 4-7 ; body check result 11月底]
-- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [Wishlist: 開發左腳，打到中間opened hihat ，係咁踩佢]
 
 ---

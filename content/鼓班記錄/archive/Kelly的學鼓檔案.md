@@ -1,5 +1,4 @@
 
-- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: Grade 8 - Saxophone]
 
 > [!WARNING] ***上課日期與剩餘堂數：***

@@ -14,8 +14,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-01]**
-> 待輸入
+> 今日 cover 咗原速 full song 雨爱DJ ( (140
 >
+>next: YOU REALLY GOT ME UPDATED WITH SCORE VER.mp4
 
 > [!NOTE] **[2026-07-25]**
 > source: full song 雨爱DJ ( (140).mp4

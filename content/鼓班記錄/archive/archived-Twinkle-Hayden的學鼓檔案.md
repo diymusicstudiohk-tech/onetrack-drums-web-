@@ -1,5 +1,4 @@
 > [!TIP] [Remark: Hayden 用左手mx] Twinkle : 銀河守護者，譚扯謙鐘意肥妹仔同學范思婷
-- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
 > 1/6 Hayden , 9/7 Twinkle
 ---

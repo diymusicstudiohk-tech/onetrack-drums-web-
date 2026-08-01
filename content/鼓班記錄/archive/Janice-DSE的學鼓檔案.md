@@ -1,5 +1,4 @@
 
-- [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 16/7 放榜, 七月開始 part time , 6月底 grad trip, the 1975 and 5SOS 
 28/6-2/7  OFT ; ISTP, 高達]
 

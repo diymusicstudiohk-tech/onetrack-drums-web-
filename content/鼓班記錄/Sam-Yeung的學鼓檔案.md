@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-01]**
-> 待輸入
+> source: intro section only - MCR - Blac Parade.mp4
+> today tried 0.8-0.9x
+> 
+> also cover 咗 0.9x full song陽光-黎明
 >
 
 > [!NOTE] **[2026-07-19]**
