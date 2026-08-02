@@ -25,7 +25,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-02]**
-> 待輸入
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried whole song 0.7x
 >
 
 > [!NOTE] **[2026-07-28]**

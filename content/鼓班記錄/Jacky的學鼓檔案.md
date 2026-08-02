@@ -18,11 +18,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-02]**
-> 待輸入
+> VIDEO SOURCE: updated with click LOUDER drums - 青い春と西の空.mp4
+> ( 這是最新版) 
+> 
+> source: 青い春と西の空 p1,2,3，4 updated
+>  (一定要用updated )
+>  
+>  today tried 0.93x full song , fill not stable
+>  next end song 
 >
 
 > [!QUOTE] ***購買記錄***
-> 學費未付（2026-08-02 記）
+> 2026-08-02 - 已購買堂數：8堂；有效期至 2026-11-22（已付 $2,240，PayMe）
+> ![[鼓班記錄/attachments/jacky-payment-20260802.jpg]]
 **
 
 ---
