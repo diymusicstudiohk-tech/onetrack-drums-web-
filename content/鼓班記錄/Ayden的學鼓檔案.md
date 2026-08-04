@@ -25,11 +25,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-04]**
-> （上課內容待填）
+>  source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried whole song 0.9x, Grade 5 - canned heat
 >
 
 > [!QUOTE] ***購買記錄***
-> 在 2026-08-04 開新一期8堂（**未付學費**）
+> 在 2026-08-04 已購買8堂（已付 $2,240），有效期至 2026-11-24
+![[鼓班記錄/attachments/Ayden receipt 2026-08-04.jpg]]
 **
 
 ---
