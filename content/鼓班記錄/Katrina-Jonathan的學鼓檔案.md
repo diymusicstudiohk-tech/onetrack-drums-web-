@@ -1,8 +1,8 @@
 r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
-> [!TIP] [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi 😱🐍  😘💋 許超然 💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 
+>  [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
+[Mimi 😱🐍  😘💋 spiderman  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 許超然
 [Jon 😱  🕷️ 💔 Eve*, 🏀❌ LOGAN,Shawn Shit, Athul ( nigger), AArav (nigger) ,   🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister, 普通話藍球教練
 
 https://www.youtube.com/@Clax_Edits
@@ -57,7 +57,7 @@ Jonathan 五首考試歌 影片
 > 5_  2026-07-21 Jonathan
 > 6_  2026-07-28 Katrina
 > 7_  2026-07-28 Jonathan
-> 8_  
+> 8_  2026-08-04 Jonathan
 >
 
 ***課堂記錄***
