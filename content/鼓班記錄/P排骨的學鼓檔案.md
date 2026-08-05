@@ -17,7 +17,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-05]**
-> 待輸入
+> source: till 2nd C End Of Beginning .mp4
+> 
+> today tried 0.8-0.9x till 2nd C 
 
 > [!NOTE] **[2026-07-29]**
 > source:MAIN PATTERN PRACTICE - End Of Beginning .mp4
