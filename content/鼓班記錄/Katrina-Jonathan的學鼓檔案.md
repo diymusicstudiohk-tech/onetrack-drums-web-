@@ -2,7 +2,7 @@ r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 >  [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi 😱🐍  😘💋 spiderman  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 許超然
+[Mimi 😱🐍  😘💋 spiderman  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 許超然許超然
 [Jon 😱  🕷️ 💔 Eve*, 🏀❌ LOGAN,Shawn Shit, Athul ( nigger), AArav (nigger) ,   🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister, 普通話藍球教練
 
 https://www.youtube.com/@Clax_Edits

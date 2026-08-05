@@ -25,6 +25,30 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-04]**
+> （上課內容待填）
+>
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-08-04 開新一期8堂（**未付學費**）
+**
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-08-04
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+> 
+>
+
+***課堂記錄***
+
+> [!NOTE] **[2026-08-04]**
 >  source: UPDATED WITH ending fill - canned heat grade 5.mp4
 > 
 > today tried whole song 0.9x, Grade 5 - canned heat
