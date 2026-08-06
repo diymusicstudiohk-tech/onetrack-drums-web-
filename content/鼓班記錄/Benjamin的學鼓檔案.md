@@ -37,7 +37,14 @@ Grade 5 song choices :
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-05]**
-> 待輸入
+> source: grade 5 benjamin five songs.mp4
+> 
+> song 1  1x
+> song 2:  0.9-0.95x
+> song 3: 0.95-1x
+> song 4: 0.95-1x
+> song 5: easy peasy 
+> 
 
 > [!NOTE] **[2026-07-29]**
 > 

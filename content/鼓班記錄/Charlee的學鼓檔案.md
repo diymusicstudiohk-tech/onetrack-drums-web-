@@ -20,7 +20,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-05]**
-> 待輸入
+> SOURCE: full song夏日之子 charlee.mp4
+> 
+> TODAY TRIED 0.9X , NEXT ENDS SONG
 
 > [!NOTE] **[2026-07-23]**
 > 
