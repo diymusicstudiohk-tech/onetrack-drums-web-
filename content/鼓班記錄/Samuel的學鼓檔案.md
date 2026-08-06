@@ -27,7 +27,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-06]**
-> 待輸入
+> 
+>  source:UPDATED - 原速 5 songs samuel grade 5.mp4
+> 
+>also today tried 0.9x ,song 1 bros 嘅 3ena 4ena 𥚃面嘅kick not stable
+>
+>
+>右手右腳要齊
+>https://gscribe.com/share/KVTptYrc5vxWPXmEA
 >
 
 > [!NOTE] **[2026-07-03]**
