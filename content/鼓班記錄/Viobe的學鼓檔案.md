@@ -14,11 +14,32 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-06]**
-> （上課內容待填）
+> 
+> source: let it be p1, let it be p2
+> playback: Let It Be - The Beatles DRUM COVER (2160p_30fps_AV1-128kbit_AAC).mp4
+> 
+> 
+> today tried 0.9x till bar 28
+> 
+>  bar 8-9
+> https://gscribe.com/share/Q91eoQC4rs5WaXwcA
+> 
+> bar 13 14 
+> https://gscribe.com/share/pu8EST2SjriJZZJT7
+> 
+> bar 20 21
+> https://gscribe.com/share/Xq8Mcj8keRa7umPA9
+> 
+> bar 36-37
+> https://gscribe.com/share/LNLZfkTXzWZ2XKEv9
+> 
+> bar 16 to 26 pratice 
+> https://gscribe.com/share/jEm3oqdVrLshkyJD6
 >
 
 > [!QUOTE] ***購買記錄***
-> 在 2026-08-06 開新一期4堂（**未付學費**）
+> 在 2026-08-06 已購買4堂，有效期至 2026-10-01（已付款：港幣 1,200.00 元）
+> ![[鼓班記錄/attachments/Viobe-Receipt-2026-08-06.jpg]]
 
 ---
 > [!WARNING] ***上課日期與剩餘堂數：***
