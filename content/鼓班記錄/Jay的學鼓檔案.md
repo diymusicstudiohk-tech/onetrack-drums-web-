@@ -18,7 +18,18 @@
 
 > [!NOTE] **[2026-08-07]**
 > 
-> 待輸入
+> source:full song 二十還好.mp4
+> 
+> tried 0.7x *before 1st MB*. 0.9x after 1st MB
+> 
+> last C practice
+https://gscribe.com/share/eHgCL7iGVqsXm2ba8
+
+intro fill
+https://gscribe.com/share/4nK35iR9zFgGYkPGA
+
+1st C fill
+https://gscribe.com/share/Hu3i9tGQxQsDtkNt8
 > 
 
 > [!NOTE] **[2026-07-31]**

@@ -34,7 +34,15 @@
 
 > [!NOTE] **[2026-08-07]**
 > 
-> 待輸入
+>  source: grade 5 benjamin five songs.mp4
+>  
+>  today tried  grade 5 don't let go , 0.8x full song 
+>  
+>  need practice: bar 37, 
+>  
+>  bar 37 -38 
+>  https://gscribe.com/share/hjJa6d7b53mN7KbRA
+>  
 > 
 
 > [!NOTE] **[2026-07-31]**

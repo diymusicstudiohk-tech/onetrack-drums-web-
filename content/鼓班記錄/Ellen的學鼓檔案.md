@@ -21,7 +21,11 @@
 
 > [!NOTE] **[2026-08-07]**
 > 
-> 待輸入
+> today finished cover Dai dai 
+> next: maybe # KATSEYE - Gabriela (Drum Transcription Sheet Music Score, Virtual Drums)
+[](https://www.youtube.com/@easydrumtranscriptions)
+> 
+> https://www.youtube.com/watch?v=_LY-78MkZDQ&list=RD_LY-78MkZDQ&start_radio=1
 > 
 
 > [!NOTE] **[2026-07-31]**

@@ -29,7 +29,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-07]**
-> （上課內容待填）
+> 
+> > source : 7th & 42nd Rockschool G5.pdf
+> > play back : song master 資料夾 "7th & 42nd ¦ Rockschool Drums Grade 5 2024 (128kbit_AAC)-E minor-115bpm-441hz"
+> 
+> today tried 0.6x till bar 12 
+> 
+> source: 主節奏練習p2 （由慢到原速）7th and 42nd.mp4
+> 呢個要先練，佢係 p2 main patterns (both hihat and ride version)，同時練咗能解鎖其他 pattern 
+> 
+> Ride 變low tom , 最尾snare 變 high tom
+> https://gscribe.com/share/DSwrjH2zEZ7NRBgA7
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-08-07 已購買8堂，有效期至 2026-11-27（未付學費）
