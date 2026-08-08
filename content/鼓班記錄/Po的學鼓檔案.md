@@ -19,11 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-08]**
-> （上課內容待填）
+> 
+> source: source: full song Satoshi.mp4
+> 今日 cover 咗full song 0.8x , main pattern 手腳太痴 ()
+> 
+> main pattern 手腳太痴 practice
+> https://gscribe.com/share/nFy4oGf5dZ8QYCAV8
+> 
 >
 
 > [!QUOTE] ***購買記錄***
-> 在 2026-08-08 開新一期8堂（**未付學費**）
+> 在 2026-08-08 已購買8堂，有效期至 2026-11-28
+> ![[鼓班記錄/attachments/532268918_1786172318.jpg]]
 **
 
 ---

@@ -18,7 +18,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-08]**
-> 待輸入
+> 
+> source: 能不能  一生愛祢 full song.mp4
+> 今日試cover 咗 能不能  一生愛祢 full song
+> Last C2 not stable
+> 
+> next: maybe 䢢越
+> 
+> Last C
+> https://gscribe.com/share/2dztq8bBRybyXt828
 >
 
 

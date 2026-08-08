@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 🛞🚗 , 🎸]  24/4 前你上番 剩低嗰堂都OK
+> [!TIP] [Remark: 🛞🚗 , 🎸]  
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ---
@@ -16,7 +16,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-08]**
-> 待輸入
+> 
+> source: full song 逾越  copy.mp4
+> 
+> 今日 cover 咗原速 full song 逾越  copy.mp4
 >
 
 
