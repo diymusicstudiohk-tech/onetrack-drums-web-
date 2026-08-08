@@ -4,6 +4,7 @@
 
 ---
  > [!WARNING] ***上課日期與剩餘堂數：***
+ > 
 > 1_  2026-04-07
 > 2_  2026-06-28
 > 3_  2026-07-01
@@ -18,7 +19,7 @@
 
 > [!NOTE] **[2026-08-01]**
 > source: intro section only - MCR - Blac Parade.mp4
-> today tried 0.8-0.9x
+> today tried 0.8-0.9x not stable
 > 
 > also cover 咗 0.9x full song陽光-黎明
 >
