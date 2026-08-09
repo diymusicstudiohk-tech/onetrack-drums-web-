@@ -18,7 +18,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-09]**
-> 待輸入
+> 
+> VIDEO SOURCE: updated with click LOUDER drums - 青い春と西の空.mp4
+> 
+> 今日 cover 咗 0.9x 全首 青い春と西の空
+> 
+> next: Drifting Soul - Xenoblade 2 
+> playback: Drifting Soul《Xenoblade 2 异度之刃2》【光田康典】动态鼓谱 ドラム楽譜 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> bar 69-73
+> https://gscribe.com/share/4tftWgT5dvcjTGGS9
 >
 
 > [!NOTE] **[2026-08-02]**

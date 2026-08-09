@@ -6,7 +6,7 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 
-> 1_ 2026-08-09
+> 1_ 2026-08-09 (今日上咗30min)
 > 2_
 > 3_
 > 4_
@@ -23,7 +23,8 @@
 >
 
 > [!QUOTE] ***購買記錄***
-> 新一期 8 堂（未付學費；有效期待定）
+> 在 2026-08-09 已購買8堂；HKD 2,240；有效期至 2026-11-29
+> ![[鼓班記錄/attachments/sam-yeung-payment-20260809.jpg]]
 
 ---
  > [!WARNING] ***上課日期與剩餘堂數：***
@@ -41,11 +42,22 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-09]**
-> 待輸入
+> 
+> source: intro section only - MCR - Blac Parade.mp4
+> reference: MCR - black parade p1. 2. 3. 4. 5
+> 
+> source:
+> today tried 0.8x till 1st C2 - MCR - Blac Parade.mp4
+> 
+> p2 intro fill practice
+> https://gscribe.com/share/HhLGpSzZ12AmnvCG7
 >
 
 > [!NOTE] **[2026-08-01]**
 > source: intro section only - MCR - Blac Parade.mp4
+> reference: MCR - black parade p1. 2. 3. 4. 5
+> 
+> 
 > today tried 0.8-0.9x not stable
 > 
 > also cover 咗 0.9x full song陽光-黎明
