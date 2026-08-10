@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-10]**
-> 待輸入
+> source: 能不能  一生愛祢 full song.mp4
+> 
+> today finished cover 能不能  一生愛祢 full song
 >
 
 > [!NOTE] **[2026-08-08]**

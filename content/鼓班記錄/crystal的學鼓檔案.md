@@ -17,12 +17,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-10]**
-> 待輸入
+> sourcE: 1st C n MB only 雪國.mp4
+> tried 0.9x 1st C n MB only 雪國.mp4
 >
 
 > [!NOTE] **[2026-08-03]**
-> sourcE: 1st C n MB only 雪國.mp4
-> tried 0.9x 1st C n MB only 雪國.mp4
+> 
+> 完成 極樂 cover
+> 
 >
 
 > [!NOTE] **[2026-07-20]**

@@ -8,18 +8,22 @@
 > [!WARNING] **_上課日期與剩餘堂數：_**
 > 1_ 2026-07-13
 > 2_ 2026-07-27
-> 3_ 2026-07-27
-> 4_ 2026-08-10
+> 3_ 2026-08-10
+> 4_ 
 > 5_
 > 6_
 > 7_
 > 8_
 
 > [!NOTE] **[2026-08-10]**
-> 待輸入
-
-> [!NOTE] **[2026-07-27]**
-> 待輸入
+> source:till 2nd C 你是否感到群山震動.mp4
+> 
+> today tried 0.8-0.9x
+> 今次做法係：用final cut pro x session 聽鼓，整咗鼓譜係cap 圖做片，再錄電鼓入去
+> 
+>  最尾嗰段pattern 
+>  https://gscribe.com/share/aAAwne2eYNPmv2fZ6
+> 
 
 > [!NOTE] **[2026-07-27]**
 > source:till 1st CnMB 你是否感到群山震動.mp4

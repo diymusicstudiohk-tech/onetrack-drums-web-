@@ -21,7 +21,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-10]**
-> 待輸入
+> 1。b88-91
+> 2.b17-20, 
+> 3.
+> 4.
+> 5. b6-7
+>
+>今日繼續拍 Grade 7 video exam 影片 
+>（下次要擺番本書出黎）
+>ryan chu grade 7 take 2.mov
 >
 
 > [!NOTE] **[2026-08-06]**
@@ -30,7 +38,10 @@
 > 2: bar 22-23.  
 > 3.
 > 4.bar 3-4 , 44-48 ( slow a little bit)
-> 5. bar 4, bar 9 (snare @ 2e)
+> 6. bar 4, bar 9 (snare @ 2e)
+>    
+>    今日開始拍 Grade 7 video exam 影片 
+>    ryan chu grade 7 take 1.mov
 >
 
 > [!NOTE] **[2026-07-27]**

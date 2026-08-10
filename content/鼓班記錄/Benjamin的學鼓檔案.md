@@ -31,13 +31,23 @@ Grade 5 song choices :
 > 4_  2026-07-20
 > 5_  2026-07-29
 > 6_  2026-08-05
-> 7_  2026-08-10
+> 7_  2026-08-10 (Bryan 山海)
 > 8_  
 >
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-10]**
-> 待輸入
+> 
+> Bryan : today tried 0.8x bar 24, 山海 （草冬沒有派對
+> 
+> b5-8 
+> https://gscribe.com/share/YMAPhucV1DAWZ2W69
+> 
+> b13-16
+>https://gscribe.com/share/n5k2Mb2awGgPQ7SJ8
+>
+>b17-20
+>https://gscribe.com/share/rux3Fygjf9u3XXmD8
 >
 
 > [!NOTE] **[2026-08-05]**
