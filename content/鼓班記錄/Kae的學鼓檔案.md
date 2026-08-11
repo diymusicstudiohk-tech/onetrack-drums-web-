@@ -1,6 +1,7 @@
 > [!TIP] [Remark: 培養耐性的堅持務實者], 問傳道人咩事, 29/5 生日; 鐘意被讚 「叻女喎」
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 22/5 生日 trip 宿霧 
+> 8月尾福岡
 
 >[!DANGER]  send 片要用whatsapp 圖片mode send
 ---
@@ -21,6 +22,9 @@
 > source: 能不能  一生愛祢 full song.mp4
 > 
 > today finished cover 能不能  一生愛祢 full song
+> 
+> source: full song 逾越  copy (1).mp4
+> today tried 原速til 1st MB , just tried Bridge's pattern  without playback
 >
 
 > [!NOTE] **[2026-08-08]**

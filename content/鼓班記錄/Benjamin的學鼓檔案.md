@@ -1,6 +1,9 @@
  
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 >[!INFO] Isaac, Scotty@Scottyducky@YT, Owen；； 1月 20 日生日
+>
+>16-19/8 2026, fishing trip
+>
 **Remark:**
 有興趣嘅 grade 4 歌 : 
 scary, hammerblow, in my place , NOISY NEIGHBOUR
