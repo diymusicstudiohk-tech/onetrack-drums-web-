@@ -31,7 +31,9 @@
 
 > [!NOTE] **[2026-08-12]**
 > 
-> 待輸入
+> source: till 2nd C 詩篇 100 .mp4
+> 
+> today tried 0.8x till 1st C , 2nd V1, 2nd V2 just tried 
 > 
 
 > [!NOTE] **[2026-07-29]**

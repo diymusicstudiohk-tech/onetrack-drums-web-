@@ -41,7 +41,7 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-08-12]**
 > 
-> 待輸入
+> 今日試過 五首考試歌考試原速 , song 1-3 not stable 
 > 
 
 > [!NOTE] **[2026-08-10]**
