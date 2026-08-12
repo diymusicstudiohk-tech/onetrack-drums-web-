@@ -20,7 +20,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-11]**
-> 待輸入
+> 
+> source: 花臂.pdf
+> 今日tried whole song 0.8x 
+> 
+> playback: song master pro 5, 花臂 (128kbit_AAC)-Bb minor-114bpm-441hz
+> 
+> also source: 075x to 1x 花臂 bar 69-85.mp4
+> 
 >
 
 > [!NOTE] **[2026-08-04]**

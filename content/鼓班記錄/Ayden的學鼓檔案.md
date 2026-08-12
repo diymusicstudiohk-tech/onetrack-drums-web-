@@ -26,7 +26,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-11]**
-> 待輸入
+> 
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried whole song 0.8x, Grade 5 - canned heat,
+> 主要練番準d fill-in
+> 
+> b 54-55
+> https://gscribe.com/share/MZsHt72Z5ApQQBas7
 >
 
 > [!NOTE] **[2026-08-09]**
