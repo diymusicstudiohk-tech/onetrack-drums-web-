@@ -14,12 +14,23 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-13]**
-> 待輸入
+> 
+> 
+> source: let it be p1, let it be p2 updated
+> playback: Let It Be - The Beatles DRUM COVER (2160p_30fps_AV1-128kbit_AAC).mp4
+> 
+> today tried whole song 0.9-1x, next the cranberries - zombie
+> https://www.youtube.com/watch?v=RGI-Qd88KR4&list=RDRGI-Qd88KR4&start_radio=1
+> 
+> source:b29 to b 36 practice
+> https://gscribe.com/share/KtRuhuB6pBdr52LG8
+> 
+> 
 >
 
 > [!NOTE] **[2026-08-06]**
 > 
-> source: let it be p1, let it be p2
+> source: let it be p1, let it be p2 updated
 > playback: Let It Be - The Beatles DRUM COVER (2160p_30fps_AV1-128kbit_AAC).mp4
 > 
 > 
