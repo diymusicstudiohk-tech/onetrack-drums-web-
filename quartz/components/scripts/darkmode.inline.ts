@@ -18,18 +18,9 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
 document.addEventListener("nav", () => {
   const switchTheme = () => {
     // Logic kept but essentially disabled since we want to force light
-    const newTheme = document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
-    // document.documentElement.setAttribute("saved-theme", newTheme)
-    // localStorage.setItem("theme", newTheme)
-    // emitThemeChangeEvent(newTheme)
   }
 
-  const themeChange = (e: MediaQueryListEvent) => {
-    // const newTheme = e.matches ? "dark" : "light"
-    // document.documentElement.setAttribute("saved-theme", newTheme)
-    // localStorage.setItem("theme", newTheme)
-    // emitThemeChangeEvent(newTheme)
-  }
+  const themeChange = () => {}
 
   const darkmodeBtn = document.getElementsByClassName("darkmode")
   for (const btn of darkmodeBtn) {
