@@ -20,11 +20,21 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-13]**
-> 待輸入
+> 
+> source: cropped 殘酷天使的行動綱領 p1, cropped 殘酷天使的行動綱領 p2.png
+> playback: 타카하시 요코(たかはしようこ) - 잔혹한 천사의 테제(残酷な天使のテーゼ) [애니 에반게리온 OST]ㅣ드럼커버ㅣ드럼악보ㅣDRUM COVERㅣDRUM SHEET (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> > **scope ： 由bar 62 至完 **
+> 
+> 
+> 今日整咗動態譜 full song 殘酷天使的行動綱領 .mp4
+> tried 0.7x full song 
+> next maybe end song and start "legend of mermaid"
+
 >
 
 > [!NOTE] **[2026-08-05]**
-> 待輸入
+> 今日完成咗 晚餐歌原速 cover
 
 
 > [!NOTE] **[2026-07-25]**
