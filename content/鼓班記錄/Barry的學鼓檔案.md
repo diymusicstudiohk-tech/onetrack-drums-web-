@@ -46,7 +46,8 @@
 > https://gscribe.com/share/DSwrjH2zEZ7NRBgA7
 
 > [!QUOTE] ***購買記錄***
-> 在 2026-08-07 已購買8堂，有效期至 2026-11-27（未付學費）
+> 在 2026-08-07 已購買8堂，有效期至 2026-11-27
+> ![[鼓班記錄/attachments/Barry-Receipt-2026-08-07.jpg]]
 **
 
 ---
