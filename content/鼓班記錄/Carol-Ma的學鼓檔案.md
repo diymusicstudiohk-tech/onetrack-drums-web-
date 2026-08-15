@@ -16,7 +16,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-15]**
-> 待輸入
+> source: 我們歡迎君王降臨full song  (1).mp4
+> 
+>  today tried 0.85x full song, 
+>  3rd bridge @p.1 (bar28) 變咗 hihat 打 而唔係打 Ride
+>  
+>  3rd Bridge to Chorus transition
+>  https://gscribe.com/share/uoW3ieKXLkzbroZ5A
 >
 
 > [!NOTE] **[2026-08-08]**

@@ -12,11 +12,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-15]**
-> 待輸入
+> 
+> SOURCE: TILL 2ND C - Måneskin - Beggin.mp4
+> 
+> 1st C to 2nd V
+> https://gscribe.com/share/KEpCbxWkDHPiRmWN7
 >
 
 > [!QUOTE] ***購買記錄***
-> 2026-08-15 - 新一期4堂；有效期至 2026-10-10（學費未付）
+> 2026-08-15 - 已購買4堂；有效期至 2026-10-10
+> ![[鼓班記錄/attachments/Dick-Receipt-2026-08-15.jpg]]
 
 ---
 
@@ -49,8 +54,6 @@
 > main pattern pre study - Måneskin - Beggin.mp4
 > 今日練住呢個先 0.7x 
 > 
-
->
 
 > [!QUOTE] ***購買記錄***
 > 已收學費（見收據）
