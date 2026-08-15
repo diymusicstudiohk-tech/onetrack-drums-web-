@@ -15,10 +15,14 @@
 
 > [!NOTE] **[2026-08-14]**
 >
-> 待輸入
+>source: 1m34s till ends - Proud Of Myself (100).mp4
+> tried 0.8x 
+> 要同時 update 動態譜同 google doc
+
 
 > [!QUOTE] ***購買記錄***
-> 在 2026-08-14 已購買4堂，有效期至 2026-10-09（未付學費）
+> 在 2026-08-14 已購買4堂，有效期至 2026-10-09
+> ![[鼓班記錄/attachments/Raymond-Receipt-2026-08-14.jpg]]
 
 ---
 

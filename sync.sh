@@ -72,6 +72,6 @@ else
     echo "📦 Committing changes..."
     git commit -m "Strict student-only sync (Blank index with YAML): $(date)"
     echo "📤 Pushing to GitHub..."
-    git push origin v4
+    git push origin main
     echo "🎉 Sync complete! Website will update in 1-2 minutes."
 fi

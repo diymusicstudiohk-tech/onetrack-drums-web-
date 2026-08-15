@@ -30,7 +30,11 @@
 
 > [!NOTE] **[2026-08-14]**
 >
-> 待輸入
+> Homework 練呢段 7th & 42nd solo
+> 
+> bar 37 to 44 drum solo
+> https://gscribe.com/share/PPWfZCfvDbFoK4uM7
+> 
 
 > [!NOTE] **[2026-08-07]**
 > 

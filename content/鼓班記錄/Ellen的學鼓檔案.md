@@ -21,7 +21,17 @@
 
 > [!NOTE] **[2026-08-14]**
 >
-> 待輸入
+>playback : KATSEYE - Gabriela (Drum Transcription Sheet Music Score, Virtual Drums) (1080p_60fps_H264-128kbit_AAC).mp4
+>
+>tried whole song 0.85x
+>next: end song and start next kateye song
+>
+> RRL 彈棍練習
+> https://gscribe.com/share/NUkbS6FhioDbp4XdA
+> 
+> Gabriela 4 bars loop
+> https://gscribe.com/share/ubMUTbcF7U6cyjuY7
+> 
 
 > [!NOTE] **[2026-08-07]**
 > 
