@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-15]**
-> 待輸入
+> 
+> 今日cover 咗 beauty and a beat，0.8x 全首
+> 
+> next：  Glen Check - Dazed & Confused
 >
 
 > [!NOTE] **[2026-08-08]**

@@ -13,7 +13,9 @@
 
 > [!NOTE] **[2026-08-15]**
 > 
-> SOURCE: TILL 2ND C - Måneskin - Beggin.mp4
+> SOURCE: full song Måneskin - Beggin.mp4
+> 
+> today tried 0.7x **full song Måneskin - Beggin.mp4**
 > 
 > 1st C to 2nd V
 > https://gscribe.com/share/KEpCbxWkDHPiRmWN7
