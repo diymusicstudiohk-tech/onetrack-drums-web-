@@ -18,7 +18,8 @@
 
 > [!NOTE] **[2026-08-17]**
 > 
-> 待輸入
+> SOURCE: TILL LAST C 雪國.mp4
+> TRIED 0.8X NEW PARTS , 1X OLD PARTS ( covered in prev lesson)
 >
 
 > [!NOTE] **[2026-08-10]**
