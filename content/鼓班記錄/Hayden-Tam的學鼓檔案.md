@@ -5,6 +5,22 @@
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
+> 1_
+> 2_
+> 3_
+> 4_
+>
+
+***課堂記錄***
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-08-15 已購買4堂；有效期至 2026-10-10
+> ![[鼓班記錄/attachments/Hayden-Tam-Receipt-2026-08-15.jpg]]
+**
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-08-15
 > 2_
 > 3_
@@ -14,7 +30,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-15]**
-> 待輸入
+> 
+> source: YOU REALLY GOT ME UPDATED WITH SCORE VER.mp4
+> today tried 0.7x full song 
+> 
+> bar 21-24
+> https://gscribe.com/share/4VmgcSAnQ6Y8byk48
 >
 
 > [!QUOTE] ***購買記錄***
