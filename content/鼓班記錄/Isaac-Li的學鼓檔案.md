@@ -17,11 +17,19 @@
 
 > [!NOTE] **[2026-08-17]**
 >
-> 上課內容待填
+>今日完成 cover 주 예수 나의 산 소망 (Living Hope)  cover by Isaac .mp4
+>
+>
+>NEXT: 在你沒有難成的事
+>
+> SOURCE: full song - 在祢沒有難成的事 shuk yee.pdf
+> 
+> SOURCE: full song - 在祢沒有難成的事 - shuk yee  ver .mp3
 >
 
 > [!QUOTE] ***購買記錄***
-> 新一期 8 堂，學費未付
+> 在 2026-08-17 已購買8堂，有效期至 2026-12-07
+> ![[鼓班記錄/attachments/Isaac-Li-Receipt-2026-08-17.jpg]]
 
 ---
 
