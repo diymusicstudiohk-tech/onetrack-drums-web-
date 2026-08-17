@@ -22,7 +22,11 @@
 
 > [!NOTE] **[2026-08-17]**
 > 
-> 待輸入
+> source: ryan chu grade 7 take 4.MOV
+> 
+> song 5  bar 24>25 fill 錯咗令之後都錯咗
+> 
+> ** 要擺書** ** 要 re focus iphone **
 >
 
 > [!NOTE] **[2026-08-13]**
@@ -30,6 +34,9 @@
 > s2:b4
 >
 >ryan chu grade 7 take 3.mov
+>
+>source: RENEW - ryan chu grade 7 no drums.mp4
+>
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-08-16 已購買8堂，有效期至 2026-12-06
