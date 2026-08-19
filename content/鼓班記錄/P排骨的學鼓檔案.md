@@ -17,7 +17,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-19]**
-> 待輸入
+> 
+> source:full song 0 End Of Beginning .mp4
+> 
+> 今日試咗 0.85x end of beginning , 下次原速完
+> 
+> Last C practice
+> https://gscribe.com/share/AtLPwshNJmrSwVte9
+> 
 
 > [!NOTE] **[2026-08-05]**
 > source: till 2nd C End Of Beginning .mp4
