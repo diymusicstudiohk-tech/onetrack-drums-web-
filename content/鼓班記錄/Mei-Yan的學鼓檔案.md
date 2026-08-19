@@ -17,7 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-19]**
-> 待輸入
+> 
+> 今日完成 cover grade 6 "if i could change your mind", 
+> 開始tech ex grade 6, 叫左你預習 push pull
+> 拍咗你打 tech ex grade 6未有時間分析 ( mei yan trial grade 6 tech ex.mp4) 
+> 
 
 > [!NOTE] **[2026-07-27]**
 > source:If I could change your mind - RSL 2024 06.pdf
