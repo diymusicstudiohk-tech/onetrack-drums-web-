@@ -27,7 +27,13 @@
 
 > [!NOTE] **[2026-08-18]**
 > 
-> 待輸入
+> playback：【不停讚美祢 Won't Stop Praising】爵士鼓完整示範 Drum Tutorial / Play-Through | 讚美之泉樂團教室
+> 
+> today tried whoel song 0.8-09x 
+> bottleneck at bar 17 - 24
+> 
+>  姆指食指放鬆，其餘三手指貼棍，用手碗not手臂
+>  https://gscribe.com/share/8Ds3bvWdKdGjhNkF6
 > 
 
 > [!NOTE] **[2026-07-28]**

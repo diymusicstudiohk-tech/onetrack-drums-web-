@@ -21,7 +21,14 @@
 
 > [!NOTE] **[2026-08-18]**
 > 
-> 待輸入
+> 今日完成咗 夏日之子 原速 cover
+> 
+> 今日開咗 少少靈魂相願去到 bar 47
+> 
+> playback:張敬軒Hins Cheung - 靈魂相願Drum Cover [aM8gY3K3Jg8].mp4
+> 
+> bar 41-46
+> https://gscribe.com/share/hsaxkJKfbp7m1aK77
 > 
 
 > [!NOTE] **[2026-08-05]**

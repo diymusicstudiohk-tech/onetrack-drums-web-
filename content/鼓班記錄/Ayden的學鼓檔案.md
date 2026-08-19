@@ -6,7 +6,7 @@
 > pop song wish list: 
 > https://www.youtube.com/watch?v=1tk1pqwrOys
 > 
-> Grade 5 暫時做過 don't let go , tiberius
+> Grade 5 暫時做過 don't let go , tiberius, canned heat 
 > 
 ---
 
@@ -27,7 +27,11 @@
 
 > [!NOTE] **[2026-08-18]**
 > 
-> 待輸入
+> 今日完成咗原速 Grade 5 - Canned heat, 開第四首考試歌： black smoke rising 
+> 
+> bar 3 -8(revised) 
+> https://gscribe.com/share/1aQpn2Zf9VKTn8KUA
+> 
 > 
 
 > [!NOTE] **[2026-08-11]**
