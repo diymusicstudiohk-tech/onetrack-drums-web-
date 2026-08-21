@@ -19,7 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-20]**
-> 待輸入
+> 
+> 熱身 用 45npm 
+> https://gscribe.com/share/tRiV6Fv4ftzCndRf9
 >
 
 > [!QUOTE] ***購買記錄***

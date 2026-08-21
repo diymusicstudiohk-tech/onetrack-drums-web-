@@ -1,6 +1,6 @@
  
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: Leftie]
+> [!TIP] [Remark: Leftie] , 6-26/9 葡萄牙加瑞士
 
 ---
 
@@ -14,7 +14,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-20]**
-> 待輸入
+> 
+> 今日 cover 咗 let it be 0.9x 
+> 開始 zombie 
+> 
+> Zombie p1, p2, p3 , p4
+> 
+> zombie main pattern 
+> https://gscribe.com/share/U44r9bhqsYrccHeg6
 >
 
 > [!NOTE] **[2026-08-13]**

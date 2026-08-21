@@ -29,8 +29,8 @@ Grade 5 song choices :
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-08-19
-> 2_  2026-08-20
-> 3_  2026-08-20
+> 2_  2026-08-20 （Bryan double lesson) 
+> 3_  2026-08-20 （Bryan double lesson) 
 > 4_
 > 5_
 > 6_
@@ -40,7 +40,27 @@ Grade 5 song choices :
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-20]**
-> 待輸入
+>  Bryan : 
+>  今日先執咗出隊 2首歌，沒有祢沒有我，祢是王
+>  
+>  also today tried 0.8x bar 40, 山海 （草冬沒有派對
+> 
+> playback:080x 山海 草东没有派对.mp4
+> 
+> b5-8 
+> https://gscribe.com/share/YMAPhucV1DAWZ2W69
+> 
+> b13-16
+>https://gscribe.com/share/n5k2Mb2awGgPQ7SJ8
+>
+>b17-20
+>https://gscribe.com/share/rux3Fygjf9u3XXmD8
+>
+>b27-32
+>https://gscribe.com/share/ioMkAh6zUn2mYQri8
+>
+>b33 -40
+>https://gscribe.com/share/poScrDub3k1NdJsD8
 >
 
 > [!NOTE] **[2026-08-19]**
@@ -74,6 +94,8 @@ Grade 5 song choices :
 > 
 > Bryan : today tried 0.8x bar 24, 山海 （草冬沒有派對
 > 
+> playback:080x 山海 草东没有派对.mp4
+> 
 > b5-8 
 > https://gscribe.com/share/YMAPhucV1DAWZ2W69
 > 
@@ -82,6 +104,10 @@ Grade 5 song choices :
 >
 >b17-20
 >https://gscribe.com/share/rux3Fygjf9u3XXmD8
+>
+>b27-32
+>https://gscribe.com/share/ioMkAh6zUn2mYQri8
+>
 >
 
 > [!NOTE] **[2026-08-05]**
