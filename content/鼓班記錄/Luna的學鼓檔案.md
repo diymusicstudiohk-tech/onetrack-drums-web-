@@ -17,7 +17,8 @@
 
 > [!NOTE] **[2026-08-21]**
 > 
-> 待輸入
+> source: full song 自我處理.mp4
+> today  cover 咗原速full song
 > 
 
 > [!NOTE] **[2026-07-17]**

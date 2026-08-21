@@ -30,7 +30,8 @@
 
 > [!NOTE] **[2026-08-21]**
 >
-> 待輸入
+> 要練習 075X TO 1X - BAR 35 TO 45 - 7th and 42nd.mp4
+> 另外 7th and 42nd 要自己練 p.1-2 rockschool 原譜
 >
 
 > [!NOTE] **[2026-08-14]**
