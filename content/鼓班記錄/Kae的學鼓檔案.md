@@ -19,8 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
->
+> 今日完成 咗 逾越cover 原速 
+> 
+> next：練習 我們歡迎君王降臨 studio ver ，然後跟 崇拜錄音打
+> 今日試咗少少last C 同 2nd bridge @ p.1 ( bar20)
+> 
+> source： 
+> /Volumes/4TB SSD/Video/source/我們歡迎君王降臨  kae church live stream.mp3
+> /Volumes/4TB SSD/Video/source/我們歡迎君王降臨  kae church live stream.mov
+> uploaed 咗去 moises.ai
+>另外今日都錄咗 kae church live stream 嘅將天敞開：
+>/Volumes/4TB SSD/Video/source/將天敞開  kae church live stream.mp3
+> /Volumes/4TB SSD/Video/source/將天敞開 kae church live stream.mov 
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-08-22 已購買8堂，有效期至 2026-12-12

@@ -18,7 +18,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
+> 
+> 完成 drums only full song 隔牆有耳 (61.5).mp4
+> 
+> source: drums only full song 隔牆有耳 (61.5).mp4
+> 
+> 我整哂成個動態譜 at final cut pro session 未sync audio 
 >
 
 > [!NOTE] **[2026-08-11]**
