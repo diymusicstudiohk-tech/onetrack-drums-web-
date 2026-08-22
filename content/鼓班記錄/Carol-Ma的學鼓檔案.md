@@ -16,7 +16,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
+> 
+> 今日完成 cover 我們歡迎君王降臨full song 原速 
+>
+>今日開始 「主的喜樂是我力量 」
+>playback: UPDATED louder drums- 主的喜樂是我力量 .mp4
+>
+>today tried 0.7x till song end , c2 crash 可用左手打
+>
 >
 
 > [!QUOTE] ***購買記錄***

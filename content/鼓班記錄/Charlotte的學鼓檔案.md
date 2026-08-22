@@ -19,11 +19,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
+> 
+> source:TILL 1ST C2 - Dazed & Confused (104).mp4
+> today tried 0.8x TILL 1ST C2 - Dazed & Confused (104).mp4
 >
 
 > [!NOTE] **[2026-08-15]**
-> 待輸入
+> 今日cover 咗 beauty and a beat , full song 原速
 >
 
 > [!NOTE] **[2026-08-15]**
