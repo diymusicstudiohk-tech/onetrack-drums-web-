@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 21/12 Birthday] , 27/2 to 2/3 Tokyo (live, pokemon park); GBWC
+> [!TIP] [Remark: 21/12 Birthday] , GBWC, 考 N1
 
 ---
 
@@ -18,7 +18,28 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
+> 
+> playback and score : Drifting Soul《Xenoblade 2 异度之刃2》【光田康典】动态鼓谱 ドラム楽譜 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> tried bar 65- end , around 0.8x not stable
+> 
+> bar 69-73
+> https://gscribe.com/share/BJL4cGr5jZT3xEkf6
+> 
+> bar 65-73
+>https://gscribe.com/share/Z5H1CkjkT2mbMhnD8
+>
+>bar 76
+>https://gscribe.com/share/RhKaunZhH3XpFxgt6
+>
+>bar 81
+>https://gscribe.com/share/DN9Gy4qXD1LNVhTG9
+>
+>bar85
+>https://gscribe.com/share/wN8s1SK11tvnSiCq7
+>
+>bar 86-89
+>https://gscribe.com/share/r82YLbbvCC98RUbi6
 >
 
 > [!NOTE] **[2026-08-09]**
