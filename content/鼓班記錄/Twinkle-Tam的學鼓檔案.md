@@ -53,7 +53,9 @@
 
 > [!NOTE] **[2026-08-22]**
 > 
-> 
+> > source: Don't Let Go Rockschool Grade 5 Drums (1080p_30fps_H264-128kbit_AAC)
+> > 
+> Twinkle 今日完成咗 Grade 5  don't let go 原速
 >
 
 > [!QUOTE] ***購買記錄***

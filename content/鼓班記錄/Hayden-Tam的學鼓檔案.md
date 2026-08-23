@@ -5,8 +5,8 @@
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
-> 1_  2026-08-22
-> 2_
+> 1_  2026-08-15
+> 2_ 2026-08-22
 > 3_
 > 4_
 >
@@ -14,24 +14,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
->
-
-> [!QUOTE] ***購買記錄***
-> 在 2026-08-15 已購買4堂；有效期至 2026-10-10
-> ![[鼓班記錄/attachments/Hayden-Tam-Receipt-2026-08-15.jpg]]
-**
-
----
-
-> [!WARNING] ***上課日期與剩餘堂數：***
-> 1_  2026-08-15
-> 2_
-> 3_
-> 4_
->
-
-***課堂記錄***
+> source: YOU REALLY GOT ME UPDATED WITH SCORE VER.mp4
+> Hayden 今日打咗 0.8-9x full song  Grade 3 You really got me 
+> 
+> bar 20-24
+> https://gscribe.com/share/3UYcNJ9J9zLy1GfQA
+> 
 
 > [!NOTE] **[2026-08-15]**
 > 
