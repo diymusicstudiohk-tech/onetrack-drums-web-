@@ -12,13 +12,22 @@
 > 2_  2026-08-17
 > 3_  2026-08-20
 > 4_  2026-08-24
+> 5  2026-08-20
+> 4_
 > 5_
 >
 
 ***課堂記錄***
 
+> [!NOTE] **[2026-08-20]**
+> 
+> ryan chu grade 7 CLEAN take 5.MOV
+> 
+
 > [!NOTE] **[2026-08-24]**
-> 待輸入
+> ryan chu grade 7 CLEAN take 6.MOV
+> 
+> TAKE 5 IS STILL THE BEST TAKE
 >
 
 > [!NOTE] **[2026-08-20]**

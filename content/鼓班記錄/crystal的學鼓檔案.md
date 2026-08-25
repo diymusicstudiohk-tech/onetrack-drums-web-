@@ -17,7 +17,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-24]**
-> 待輸入
+> source:full song雪國.mp4
+> 
+> today tried cover full song雪國.mp4, next cover again and change song
 >
 
 > [!NOTE] **[2026-08-17]**

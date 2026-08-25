@@ -16,7 +16,10 @@
 > 8_
 
 > [!NOTE] **[2026-08-24]**
-> 待輸入
+> 
+> source: full song 你是否感到群山震動.mp4
+> 
+> before drum solo : 0.8x. , drum solo onward: just tried 
 >
 
 > [!NOTE] **[2026-08-10]**

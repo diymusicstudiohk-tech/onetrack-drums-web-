@@ -32,17 +32,21 @@ Grade 5 song choices :
 > 2_  2026-08-20 （Bryan double lesson) 
 > 3_  2026-08-20 （Bryan double lesson) 
 > 4_  2026-08-24 （Bryan double lesson) 
-> 5_ 2026-08-24 （Bryan double lesson) 
+> 5_ 2026-08-24 （Bryan double lesson, 30min) 
 > 6_
 > 7_
 > 8_
+> 9_ （30min left)
 >
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-24]**
 > 
+> Bryan:
+> source: 林俊傑 - 那些你很冒險的夢.pages
+帶我去找夜生活.pages
 > 
-> 
+> 今日執咗 Bryan 表演兩首歌 嘅譜
 > 
 
 > [!NOTE] **[2026-08-20]**
@@ -103,7 +107,129 @@ Grade 5 song choices :
 > playback:080x 山海 草东没有派对.mp4
 > 
 > b5-8 
+> https://gscribe.com/share/YMAPhucV1DAWZ2W698-19
+> 2_  2026-08-20 （Bryan double lesson) 
+> 3_  2026-08-20 （Bryan double lesson) 
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+>
+***課堂記錄***
+
+> [!NOTE] **[2026-08-20]**
+>  Bryan : 
+>  今日先執咗出隊 2首歌，沒有祢沒有我，祢是王
+>  
+>  also today tried 0.8x bar 40, 山海 （草冬沒有派對
+> 
+> playback:080x 山海 草东没有派对.mp4
+> 
+> b5-8 
 > https://gscribe.com/share/YMAPhucV1DAWZ2W69
+> 
+> b13-16
+>https://gscribe.com/share/n5k2Mb2awGgPQ7SJ8
+>
+>b17-20
+>https://gscribe.com/share/rux3Fygjf9u3XXmD8
+>
+>b27-32
+>https://gscribe.com/share/ioMkAh6zUn2mYQri8
+>
+>b33 -40
+>https://gscribe.com/share/poScrDub3k1NdJsD8
+>
+
+> [!NOTE] **[2026-08-19]**
+> 
+> 今日試過 五首考試歌考試原速 , 係爭 song 2 "Bros" 只係打到 0.9x 打唔到 1x 
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-08-19 已購買8堂，有效期至 2026-12-09（已付款：港幣 2,240.00 元）
+> ![[鼓班記錄/attachments/Benjamin-Receipt-2026-08-19.jpg]]
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-06-24
+> 2_  2026-07-01
+> 3_  2026-07-16
+> 4_  2026-07-20
+> 5_  2026-07-29
+> 6_  2026-08-05
+> 7_  2026-08-10 (Bryan 山海)
+> 8_  2026-08-12
+>
+***課堂記錄***
+
+> [!NOTE] **[2026-08-12]**
+> 
+> 今日試過 五首考試歌考試原速 , song 1-3 not stable 
+> 
+
+> [!NOTE] **[2026-08-10]**
+> 
+> Bryan : today tried 0.8x bar 24, 山海 （草冬沒有派對
+> 
+> playback:080x 山海 草东没有派对.mp4
+> 
+> b5-8 
+> https://gscribe.com/share/YMAPhucV1DAWZ2W69
+> 
+> b13-16
+>https://gscribe.com/share/n5k2Mb2awGgPQ7SJ8
+>
+>b17-20
+>https://gscribe.com/share/rux3Fygjf9u3XXmD8
+>
+>b27-32
+>https://gscribe.com/share/ioMkAh6zUn2mYQri8
+>
+>
+
+> [!NOTE] **[2026-08-05]**
+> source: grade 5 benjamin five songs.mp4
+> 
+> song 1  1x
+> song 2:  0.9-0.95x
+> song 3: 0.95-1x
+> song 4: 0.95-1x
+> song 5: easy peasy 
+> 
+
+> [!NOTE] **[2026-07-29]**
+> 
+> source: grade 5 benjamin five songs.mp4
+> 
+> song 1: 0.9x (OK) 0.95 *stable* , 1(OK )
+> song 2: 0.8x ( stable) 0.85x (OK) 0.9x (barely)
+> song 3:0.9x （good), 0.95x (OK) 1x (barely)
+> song 4: 0.9x (OK only)
+> song 5: easy peasy 
+> 
+> 
+> 
+> 
+
+> [!NOTE] **[2026-07-20]**
+> source: grade 5 benjamin five songs.mp4
+>
+
+> [!NOTE] **[2026-07-16]**
+> source: grade 5 benjamin five songs.mp4
+>
+
+> [!NOTE] **[2026-07-01]**
+> source: grade 5 benjamin five songs.mp4
+>
+
+> [!NOTE] **[2026-06-24]**
+> 
+>  source: grade 5 benjamin five songs.mp4
+> 
+> 今日試咗 五首 grade 5 考試歌連住打，0.85x ，重災區喺 第 2，3，4 首
 > 
 > b13-16
 >https://gscribe.com/share/n5k2Mb2awGgPQ7SJ8
