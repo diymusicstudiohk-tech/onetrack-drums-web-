@@ -33,12 +33,16 @@ Grade 5 song choices :
 > 3_  2026-08-20 （Bryan double lesson) 
 > 4_  2026-08-24 （Bryan double lesson) 
 > 5_ 2026-08-24 （Bryan double lesson, 30min) 
-> 6_
+> 6_  2026-08-26
 > 7_
 > 8_
 > 9_ （30min left)
 >
 ***課堂記錄***
+
+> [!NOTE] **[2026-08-26]**
+>
+> 待輸入
 
 > [!NOTE] **[2026-08-24]**
 > 

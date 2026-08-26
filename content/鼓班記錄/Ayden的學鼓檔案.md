@@ -29,11 +29,14 @@
 >
 >source:RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
 > 
-> 今日試咗 Grade 5 - Black smoke rising , 0.6x 去到 bar 33
+> 今日試咗 Grade 5 - Black smoke rising , 0.6x 去到 bar 39
 >
 >
 >bar 25 -33
 > https://gscribe.com/share/afTNcWMF4xS5SkYH9
+> 
+> bar 36-39
+> https://gscribe.com/share/vxd2MderY88wthar8
 >
 
 > [!NOTE] **[2026-08-23]**
