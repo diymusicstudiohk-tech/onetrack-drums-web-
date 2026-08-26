@@ -21,11 +21,15 @@
 
 > [!NOTE] **[2026-08-26]**
 >
-> 待輸入
+> 今日完成咗 殘酷天使 cover 
+> 開 legend of mermaid 唱K小魚仙
+> source: Legend of Mermaid Drums.pdf
 >
 
 > [!QUOTE] ***購買記錄***
-> 2026-08-26 開始新一期8堂，有效期至 2026-12-16（學費未付）
+> 2026-08-26 - 已購買堂數：8堂；有效期至 2026-12-16
+>
+> ![[鼓班記錄/attachments/Rainbow-Receipt-2026-08-26.jpg]]
 
 ---
 
