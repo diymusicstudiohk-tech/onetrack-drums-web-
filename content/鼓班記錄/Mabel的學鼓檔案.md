@@ -30,7 +30,9 @@
 
 > [!NOTE] **[2026-08-26]**
 >
-> 待輸入
+> source: UPDATED till 2nd C 詩篇 100 .mp4
+> 
+> today tried 0.7-0.8x , 2nd V1, v2 not stable
 
 > [!NOTE] **[2026-08-12]**
 > 
