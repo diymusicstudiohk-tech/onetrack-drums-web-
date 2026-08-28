@@ -24,6 +24,9 @@
 > 今日完成咗 殘酷天使 cover 
 > 開 legend of mermaid 唱K小魚仙
 > source: Legend of Mermaid Drums.pdf
+> 
+> source: 唱K小魚仙 半動態譜.mp4
+> 
 >
 
 > [!QUOTE] ***購買記錄***

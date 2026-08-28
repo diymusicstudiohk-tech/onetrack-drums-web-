@@ -15,7 +15,10 @@
 
 > [!NOTE] **[2026-08-27]**
 >
-> 待輸入
+> source: LOUDER DRUMS 立志擺上  低中高能量 ver.mp4
+> 
+> tried 0.8x , 1st C not stable (16th kick ) 
+> 
 
 > [!NOTE] **[2026-08-14]**
 >

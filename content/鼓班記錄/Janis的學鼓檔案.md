@@ -21,7 +21,12 @@
 
 > [!NOTE] **[2026-08-27]**
 >
-> 待輸入
+> source: full song花臂.mp4
+> 
+> today tried 0.9x , drum solo ( bar 69 onward) not stable
+> 
+> 都玩咗一陣 0.9x full song雪國 (1).mp4
+> 
 
 > [!NOTE] **[2026-08-11]**
 > 

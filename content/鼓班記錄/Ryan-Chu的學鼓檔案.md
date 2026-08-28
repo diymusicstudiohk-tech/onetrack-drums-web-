@@ -19,7 +19,7 @@
 
 > [!NOTE] **[2026-08-27]**
 >
-> 待輸入
+> ryan chu grade 7 LAST take .MOV
 
 > [!NOTE] **[2026-08-20]**
 > 
