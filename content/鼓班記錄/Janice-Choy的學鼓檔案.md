@@ -14,7 +14,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-28]**
-> 待輸入
+> 
+> source： 070x-1x last C1 C2 only - 祢是配得.mp4
+> source： full song 祢是配得.mp4
+> 今日整同咗 練 last C1 C2 , 開始攝手喺 3en 
+> next end song 
 >
 
 > [!NOTE] **[2026-07-29]**

@@ -20,7 +20,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-28]**
-> 待輸入
+> 
+>今日完咗 gabriela cover 
+>
+>開 katseye -debut 
+>moises playback
+>練住 1st C 先，其他要自己寫譜
+>reference: https://www.songsterr.com/a/wsa/katseye-debut-mv-drum-tab-s5580050
+> 
+> 1st C (0:37-53)
+> https://gscribe.com/share/ZUysYbZT9uXgXotPA
 >
 
 > [!NOTE] **[2026-08-14]**

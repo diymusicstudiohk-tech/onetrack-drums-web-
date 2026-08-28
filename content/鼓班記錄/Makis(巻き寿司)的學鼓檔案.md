@@ -14,6 +14,8 @@
 > [2026-07-17]
 > 
 >5. ready or not [ 2026-07-24]
+>   
+>   6. Grade 5 don't let go  [ 2026-08-28]
 > 
  
 
@@ -33,7 +35,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-28]**
-> 待輸入
+> source: grade 5 benjamin five songs.mp4
+>  
+>  today finished 原速  grade 5 don't let go
 >
 
 > [!NOTE] **[2026-08-21]**
