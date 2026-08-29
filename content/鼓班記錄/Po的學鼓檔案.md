@@ -19,7 +19,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-29]**
-> 待輸入
+> source: full song Satoshi.mp4  
+> 今日 cover 咗full song 0.8-0.9x
+> 
+> at0.9x , V2> C not stable, main pattern 普遍太 痴 ,  bridge and outro
+> 
+> Bridge to Outro pracitce
+> https://gscribe.com/share/j2vjqEF8qKiLFKJe9
 >
 
 > [!NOTE] **[2026-08-22]**

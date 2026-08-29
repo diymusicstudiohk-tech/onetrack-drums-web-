@@ -18,7 +18,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-29]**
-> 待輸入
+> 
+> source: Louder Drums - Drifting Soul - Xenoblade 2 .mp4
+> tried bar 56- end , around 0.8x not stable
+> 
+> bar 56 to 64 
+> https://gscribe.com/share/fB79KscyirC7ZDWd7
 >
 
 > [!NOTE] **[2026-08-22]**
@@ -43,7 +48,7 @@
 >https://gscribe.com/share/wN8s1SK11tvnSiCq7
 >
 >bar 86-89
->https://gscribe.com/share/r82YLbbvCC98RUbi6
+>https://gscribe.com/share/mRvfmCdBXfLUMqu48
 >
 
 > [!NOTE] **[2026-08-09]**

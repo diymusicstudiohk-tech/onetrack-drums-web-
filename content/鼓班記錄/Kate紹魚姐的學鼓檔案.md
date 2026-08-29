@@ -19,11 +19,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-29]**
-> 待輸入
+> 
+> source:CNBLUE Then, Now and Forever p123 full ( .pages, .pdf)
+> playback using moises
+> 
+> tried full song 0.9x 
 >
 
 > [!QUOTE] ***購買記錄***
-> 2026-08-29 - 新一期8堂；有效期至 2026-12-19（學費未付）
+> 2026-08-29 - 已購買堂數：8堂；有效期至 2026-12-19
+> ![[鼓班記錄/attachments/Kate-Receipt-2026-08-29.jpg]]
 
 ---
 

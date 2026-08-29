@@ -14,7 +14,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-29]**
-> 待輸入
+> source: till 2nd C 到此為止- Christy Chan ver.mp4
+> today tried 0.8x , fill not stable 
 >
 
 > [!NOTE] **[2026-07-18]**
