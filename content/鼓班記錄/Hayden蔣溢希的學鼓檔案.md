@@ -24,7 +24,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-28]**
-> 待輸入
+> source： full song 0 D+182Day.mp4
+> 
+> today tried 0.9x-1x  full song - D+182Day
 >
 
 > [!NOTE] **[2026-08-21]**

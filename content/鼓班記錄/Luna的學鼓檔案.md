@@ -16,7 +16,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-28]**
-> 待輸入
+> source: full song 祢是我惟一的倚靠.mp4
+> 
+> today cover 咗原速  full song 祢是我惟一的倚靠
+> 
+> source: 1st C only 旋轉木馬 (160).mp4
+> 
+> today tried 0.6-0.7x 1st C only 旋轉木馬 (160).mp4
+> 1st C1 個 fill 下堂要改，改唔攝kick 喺 n 
+> final pro cut 有 session  
 >
 
 > [!NOTE] **[2026-08-21]**
