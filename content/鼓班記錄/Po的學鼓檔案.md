@@ -23,7 +23,12 @@
 >
 
 > [!NOTE] **[2026-08-22]**
-> 待輸入
+> source:  full song Satoshi.mp4
+> 今日 cover 咗full song 0.8x , main pattern 手腳太痴 ()
+> 
+> main pattern 手腳太痴 practice
+> https://gscribe.com/share/nFy4oGf5dZ8QYCAV8
+> 
 >
 
 > [!NOTE] **[2026-08-08]**
