@@ -52,7 +52,28 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-29]**
-> 待輸入
+> 
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> tried 0.6x till bar 33 
+> 
+> bar 3 - 8 (barry ver)
+> https://gscribe.com/share/JSftzmJwAQ1LuGz47
+> 
+> bar 23-25
+> https://gscribe.com/share/Sx1SF8sdbkmC3rKN9
+> 
+>  fill 27-28
+>  https://gscribe.com/share/NxcCvr59xVKGRTpz5
+>  
+>  fill 31-32
+>  https://gscribe.com/share/ZdGNYM6xmxvvDfcP7
+>  
+> section D (bar 36-39)
+> https://gscribe.com/share/a1Lf6wjsYTaaQqTL8
+> 
+> bar 41-42  拍子練習
+> https://gscribe.com/share/jrvXRnJscaD9poW97
 >
 
 > [!NOTE] **[2026-08-22]**
