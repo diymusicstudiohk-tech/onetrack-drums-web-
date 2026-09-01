@@ -16,7 +16,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-08-31]**
-> 待輸入
+> 
+> source:till 2nd C 在祢沒有難成的事.mp4
+> reference:full song - 在祢沒有難成的事 shuk yee.pdf
+> today tried 0.7x till 2nd C 在祢沒有難成的事.mp4
 >
 
 > [!NOTE] **[2026-08-17]**
