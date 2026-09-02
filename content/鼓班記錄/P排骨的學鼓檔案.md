@@ -18,7 +18,7 @@
 
 > [!NOTE] **[2026-09-01]**
 >
-> 待輸入
+> tried 0.6x Last V to C - I Really Want to Stay At Your House.mp4
 >
 
 > [!NOTE] **[2026-08-26]**

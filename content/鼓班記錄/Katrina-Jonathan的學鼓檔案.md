@@ -41,9 +41,15 @@ Jonathan 五首考試歌 影片
 >
 
 > [!NOTE] **[2026-09-01]**
-> **Katrina:** 待輸入
->
-> **Jonathan:** 待輸入
+> > **Katrina:** source: Katrina Grade 1 5 songs with drums.mp4
+> 
+> source: mimi katrina rockschool GRADE.pages
+> Katrina 今日 試咗 原速 Grade 1 5首歌 嘅考試歌
+> 
+> **Jonathan:** 今日繼續五首 Grade 4 考試歌 at 0.8x
+> source: 5 songs jonathan grade 4.mp4
+> 
+> today tried all 5 songs at 0.8x 
 >
 
 > [!NOTE] **[2026-08-25]**

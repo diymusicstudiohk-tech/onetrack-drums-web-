@@ -21,7 +21,13 @@
 
 > [!NOTE] **[2026-09-01]**
 >
-> 待輸入
+> source: 080x full song花臂.mp4
+> HW:080x full song花臂.mp4
+> 
+> 今日試咗 0.9-0.95x not stable
+> 
+> sourcE: The Rumbling - SiM after lesson.pdf
+> 呢首sightreading 咗全首
 >
 
 > [!NOTE] **[2026-08-27]**

@@ -27,7 +27,12 @@
 
 > [!NOTE] **[2026-09-01]**
 >
-> 待輸入
+> bar 41-43
+> https://gscribe.com/share/muEP11oNLLd2ZVPj8
+> 
+> source:RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> 今日試咗 Grade 5 - Black smoke rising , 0.6x 全首 
 >
 
 > [!NOTE] **[2026-08-25]**
