@@ -27,7 +27,10 @@
 
 > [!NOTE] **[2026-09-02]**
 >
-> 待輸入
+> review 咗出隊三首歌嘅譜
+> 
+> 2ndSep best 125(w/ kick), target 146nbpm
+> https://gscribe.com/share/BcrXh1APEtphnBVe7
 >
 
 > [!NOTE] **[2026-08-18]**
