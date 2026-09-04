@@ -15,7 +15,10 @@
 
 > [!NOTE] **[2026-09-03]**
 > 
-> 待輸入
+> source: till 2nd C zombie.mp4
+> today tried 0.7x till 2nd C zombie.mp4
+> 
+> 段落內原曲本身拍子 飄，之後可以再細調 每段動態譜
 >
 
 > [!NOTE] **[2026-08-20]**
