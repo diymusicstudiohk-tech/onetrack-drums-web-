@@ -22,6 +22,9 @@
 > source: Louder Drums - Drifting Soul - Xenoblade 2 .mp4
 > tried bar 56- end ,  0.8x 
 > 
+> bar 50-51
+> https://gscribe.com/share/K3ai8iUt4CQWZERx9
+> 
 
 > [!NOTE] **[2026-08-29]**
 > 
