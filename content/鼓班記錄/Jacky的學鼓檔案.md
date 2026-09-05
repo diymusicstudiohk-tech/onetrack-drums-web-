@@ -9,13 +9,19 @@
 > 2_  2026-08-09
 > 3_  2026-08-22
 > 4_  2026-08-29
-> 5_
+> 5_  2026-09-05
 > 6_
 > 7_
 > 8_
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-09-05]**
+> 
+> source: Louder Drums - Drifting Soul - Xenoblade 2 .mp4
+> tried bar 56- end ,  0.8x 
+> 
 
 > [!NOTE] **[2026-08-29]**
 > 
@@ -24,6 +30,9 @@
 > 
 > bar 56 to 64 
 > https://gscribe.com/share/fB79KscyirC7ZDWd7
+> 
+> bar 98 -99
+> https://gscribe.com/share/mcDZWB7bNdDZ9c1q7
 >
 
 > [!NOTE] **[2026-08-22]**

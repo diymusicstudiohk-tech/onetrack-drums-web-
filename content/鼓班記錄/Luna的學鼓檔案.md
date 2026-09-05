@@ -1,4 +1,4 @@
-> [!TIP] [Remark: ] ❤️  👦🏻 📸 葉梓灝 2025/2/22  ?? Edmond Kwok ??
+> [!TIP] [Remark: ] ❤️  👦🏻 📸 葉梓灝 2025/2/22  ?? Edmond Kwok ??中文，英文，數學 (core)，chem，APL （護理）
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ---
@@ -17,7 +17,9 @@
 
 > [!NOTE] **[2026-09-04]**
 >
-> 待輸入
+> source： 1st V2 to C2 旋轉木馬 (160).mp4
+> 
+> today tried 0.7x 1st V2 to C2 旋轉木馬 (160).mp4
 >
 
 > [!NOTE] **[2026-08-28]**

@@ -11,7 +11,7 @@
 > 2_  2026-08-07
 > 3_  2026-08-14
 > 4_  2026-08-28
-> 5_  2026-09-04
+> 5_  2026-09-04 (45min)
 > 6_
 > 7_
 > 8_
@@ -21,7 +21,13 @@
 
 > [!NOTE] **[2026-09-04]**
 >
-> 待輸入
+>source: full song - katseye -debut.mp4
+> today tried 0.8x-0.9x 
+> 
+> main pattern max tempo at 107-110bpm 
+> 
+> main pattern practice 
+> https://gscribe.com/share/bwXxeKAMjLZPgRKB8
 >
 
 > [!NOTE] **[2026-08-28]**

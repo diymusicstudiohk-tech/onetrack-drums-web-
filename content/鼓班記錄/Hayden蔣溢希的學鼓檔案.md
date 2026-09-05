@@ -25,7 +25,9 @@
 
 > [!NOTE] **[2026-09-04]**
 >
-> 待輸入
+> source： full song 0 D+182Day.mp4
+> 
+> today covered jor  1x  full song - D+182Day
 >
 
 > [!NOTE] **[2026-08-28]**
