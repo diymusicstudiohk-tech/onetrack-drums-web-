@@ -52,7 +52,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-05]**
-> 待輸入
+> 
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> Twinkle 今日 0.7x 打到 bar 33
 >
 
 > [!NOTE] **[2026-08-29]**

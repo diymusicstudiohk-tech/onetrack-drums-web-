@@ -14,7 +14,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-05]**
-> 待輸入
+> 
+> source: YOU REALLY GOT ME UPDATED WITH SCORE VER.mp4  
+Hayden 今日打咗 0.9x full song Grade 3 You really got me
 >
 
 > [!NOTE] **[2026-08-22]**
