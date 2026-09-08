@@ -17,7 +17,35 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-07]**
-> 待輸入
+> 
+> 今日 COVER 咗雪國
+> 開始 大數據以為我還愛你 - Zpecial.pdf
+> 
+> practice: p2 PC to C (BAR 43-54) 大數據.mp4
+> today tried 0.6x not stable
+> 
+> AI整咗第二頁 , bar 54後未 proof read
+> 
+> bar 43-46
+> https://gscribe.com/share/xPDWCfFEFKRJxN7H8
+> 
+> bar 47-50
+> https://gscribe.com/share/cVCs1nNJH48FhcuXA
+> 
+> bar  51-54
+> https://gscribe.com/share/s7Rbkvc3D314CskaA
+> 
+> 未proof read
+> 55-62
+> https://gscribe.com/share/UZmnUiAN6izmvQNDA
+> 
+> 63-70
+> https://gscribe.com/share/G8cDzCN433sPvEpS7
+> 
+> 
+> 
+> 
+> 
 
 > [!NOTE] **[2026-08-24]**
 > source:full song雪國.mp4
