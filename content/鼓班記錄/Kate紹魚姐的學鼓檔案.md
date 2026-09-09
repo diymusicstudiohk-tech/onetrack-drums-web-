@@ -19,8 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-08]**
-> 待輸入
->
+> 今日 cover 咗原速 CNBLUE Then, Now and Forever COVER 原速
+> 
+> 整咗出隊嘅 在這𥚃 (.pdf, .pages), 拍咗 demo 
 
 > [!NOTE] **[2026-08-29]**
 > 

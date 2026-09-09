@@ -20,7 +20,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-08]**
-> 待輸入
+> 
+> source: UPDATED louder drums with click - The Rumbling.mp4
+> tried 0.9-0.95x , next ends song
+> 
+> also practice jor little 花臂 at 0.9x
 >
 
 > [!NOTE] **[2026-09-01]**

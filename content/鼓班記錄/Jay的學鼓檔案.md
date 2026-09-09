@@ -17,7 +17,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-08]**
-> 待輸入
+> source: full song 隔牆有耳 (61.5).mp4
+> 
+> today tried 0.8x full song not stable
 >
 
 > [!NOTE] **[2026-08-22]**
