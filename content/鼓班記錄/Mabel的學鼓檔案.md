@@ -30,7 +30,8 @@
 
 > [!NOTE] **[2026-09-09]**
 >
-> 待輸入
+> source： full song 詩篇 100 .mp4
+> today tried 0.9-0.95x full song , 16th fill not stable
 
 > [!NOTE] **[2026-08-26]**
 >
