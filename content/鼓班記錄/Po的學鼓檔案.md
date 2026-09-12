@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-12]**
-> 待輸入
+> 
+>  source: full song Satoshi.mp4  
+> 今日 cover 咗full song 0.9x - Satoshi
+> 
+> MAIN PATTERN 痴嘅問題改善咗但仍有
+> fill 大致OK
 >
 
 > [!NOTE] **[2026-08-29]**

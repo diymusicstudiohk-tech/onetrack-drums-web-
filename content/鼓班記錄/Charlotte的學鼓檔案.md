@@ -7,8 +7,8 @@
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-08-08
 > 2_  2026-08-15
-> 3_  2026-08-15
-> 4_  2026-08-22
+> 3_  2026-08-22
+> 4_  
 > 5_
 > 6_
 > 7_
@@ -22,10 +22,6 @@
 > 
 > source:TILL 1ST C2 - Dazed & Confused (104).mp4
 > today tried 0.8x TILL 1ST C2 - Dazed & Confused (104).mp4
->
-
-> [!NOTE] **[2026-08-15]**
-> 今日cover 咗 beauty and a beat , full song 原速
 >
 
 > [!NOTE] **[2026-08-15]**
