@@ -21,8 +21,22 @@
 
 > [!NOTE] **[2026-09-11]**
 >
-> 待輸入
+> source: full song - katseye -debut.mp4
+> today tried 0.95x ,  full song - katseye -debut
+> 
+> main pattern max tempo at 114 bpm 
+> 
+> next: try 1x 
+> 
+> main pattern practice 
+> https://gscribe.com/share/bwXxeKAMjLZPgRKB8
 >
+>I will survive （女仔打鼓 片）final cut pro 有 session 
+>有 女仔片 ＋原曲 stems 
+>今日開咗少少一開頭嘅頭 8 個 bar 
+>
+>0:00-0-15
+>https://gscribe.com/share/s7KEy1f2tEXwFHZg8
 
 > [!NOTE] **[2026-09-04]**
 >

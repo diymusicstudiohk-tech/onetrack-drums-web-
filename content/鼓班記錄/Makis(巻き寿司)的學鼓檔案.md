@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  (crush: Nancy, Kari, Ewliz, Giselle , Melody; frd: Pravin, Walter)   ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  (crush: Nancy, Kari, Eliz, Giselle , Melody; frd: Pravin, Walter)   ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66； 覺得媽咪好叻煮飯好食
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
 > **1. In My Place*
@@ -17,6 +17,8 @@
 >   
 >   6. Grade 5 don't let go  [ 2026-08-28]
 > 
+> 7. Grade 5 canned heat [2026-09-04]
+>    
  
 
 ---
@@ -36,7 +38,19 @@
 
 > [!NOTE] **[2026-09-11]**
 >
-> 待輸入
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried Grade 5 Canned heat 0.7x till bar 46
+> 
+> 
+> bar 22-23
+> https://gscribe.com/share/bjiMxDN6dcJJwHJq6
+> 
+> bar 30-31
+> https://gscribe.com/share/PuLamDgh249EF6TA8
+> 
+> 
+> 
 >
 
 > [!NOTE] **[2026-09-04]**
