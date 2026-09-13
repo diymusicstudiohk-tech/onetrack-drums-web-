@@ -19,11 +19,18 @@
 > 5_  2026-08-23
 > 6_  2026-08-25
 > 7_  2026-09-01
-> 8_  
+> 8_  2026-09-13
 > 
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-09-13]**
+> 
+> source:RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> 今日試咗 Grade 5 - Black smoke rising , 0.6x 全首 
+>
 
 > [!NOTE] **[2026-09-01]**
 >

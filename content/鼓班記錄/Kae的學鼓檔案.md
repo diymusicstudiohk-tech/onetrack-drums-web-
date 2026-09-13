@@ -19,8 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-12]**
-> 待輸入
->
+> source:我們歡迎君王降臨.pdf
+我們歡迎君王降臨kae church ver demo.mp3
+> 我們歡迎君王降臨.pages
+> 
+> source: /Users/benzonkpchan/Downloads/kae ver mp4
+> 所有 kae 用過嘅動態譜
+> 
+> 今日用 我們歡迎君王降臨full song  (1).mp4
+> 套用落去 moises 上嘅 我們歡迎君王降臨 kae church live stream
+> 寫咗 我們歡迎君王降臨.pdf /.pages 嘅譜
+> demo 係 我們歡迎君王降臨kae church ver demo.mp3
+> 
 
 > [!NOTE] **[2026-08-22]**
 > 今日完成 咗 逾越cover 原速 

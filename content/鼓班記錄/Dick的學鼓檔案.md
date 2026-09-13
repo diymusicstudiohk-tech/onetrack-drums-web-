@@ -12,40 +12,27 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-12]**
-> 待輸入
->
-
-> [!NOTE] **[2026-08-15]**
-> 待輸入
->
-
-> [!QUOTE] ***購買記錄***
-> 2026-08-15 - 新一期4堂；有效期至 2026-10-10（學費未付）
-
----
-
-> [!WARNING] ***上課日期與剩餘堂數：***
-> 1_  2026-08-15
-> 2_
-> 3_
-> 4_
->
-***課堂記錄***
+> 
+>  SOURCE: full song Måneskin - Beggin.mp4
+> 
+> today tried 0.8x **full song Måneskin - Beggin.mp4**
+> 
 
 > [!NOTE] **[2026-08-15]**
 > 
-> SOURCE: full song Måneskin - Beggin.mp4
+>  SOURCE: full song Måneskin - Beggin.mp4
 > 
 > today tried 0.7x **full song Måneskin - Beggin.mp4**
 > 
 > 1st C to 2nd V
 > https://gscribe.com/share/KEpCbxWkDHPiRmWN7
 >
+>
 
 > [!QUOTE] ***購買記錄***
-> 2026-08-15 - 已購買4堂；有效期至 2026-10-10
+> 2026-08-15 - 新一期4堂；有效期至 2026-10-10（學費未付）
 > ![[鼓班記錄/attachments/Dick-Receipt-2026-08-15.jpg]]
-
+        
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***

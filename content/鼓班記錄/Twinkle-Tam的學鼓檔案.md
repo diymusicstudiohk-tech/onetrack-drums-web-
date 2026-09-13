@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ] 1/6 Hayden , 9/7 Twinkle
+> [!TIP] [Remark: ] 1/6 Hayden , 9/7 Twinkle, C-R-U-S-H
 > 
 > 譚沚澄 ，29/7 - 13/8 英國交流圈
 > 
@@ -52,7 +52,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-12]**
-> 待輸入
+> 
+> source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> bar 27 28 
+> https://gscribe.com/share/iytDYdLYDWmD1bG37
+> 
+> bar 41 42
+> https://gscribe.com/share/4CKPBoQWXVnGLF9XA
+> 
+> Twinkle 今日 0.7x  full cover 
 >
 
 > [!NOTE] **[2026-09-05]**

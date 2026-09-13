@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ]
+> [!TIP] [Remark: ] 1/6 Hayden 生日送飯
 
 ---
 
@@ -14,7 +14,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-12]**
-> 待輸入
+> 
+>  source: YOU REALLY GOT ME UPDATED WITH SCORE VER.mp4  
+Hayden 今日打咗 0.9-0.95x full song Grade 3 You really got me
+> 
+> bar 20-24  
+[https://gscribe.com/share/3UYcNJ9J9zLy1GfQA](https://gscribe.com/share/3UYcNJ9J9zLy1GfQA)
 >
 
 > [!NOTE] **[2026-09-05]**
