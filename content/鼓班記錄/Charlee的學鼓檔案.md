@@ -20,11 +20,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-14]**
-> 上課內容待填
+> 
+> 今日cover 咗 原速 
+> source: 張敬軒 Hins Cheung - 靈魂相願.pdf
+> 靈魂相願 cover by Charlee
+>
+>另外cap 定咗譜
+>映画ちいかわ 人魚の島のひみつ 「うさぎラップ (ソロver.)」ドラム 叩いてみた【うさぎ(CV.小澤亜李), 人魚(CV.大木咲絵子) & 人魚(CV.七瀬彩夏)】 drum cover (1080p_30fps_H264-128kbit_AAC).png
 >
 
 > [!QUOTE] ***購買記錄***
 > 新一期2026-09-14開始，學費未付
+> ![[鼓班記錄/attachments/charlee-payment-20260914.jpg]]
 
 ---
 

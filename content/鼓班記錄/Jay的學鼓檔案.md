@@ -17,7 +17,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-14]**
-> 待輸入
+> 
+> 今日爭少少打到 穩定嘅原速 隔牆有耳 ，下次完
+> 另外預習咗少少 失約巴黎
+> 
+> source: 失約巴黎-Jeffrey Ngai 魏浚笙.pdf
+> 預習兩個 fill 
+> https://gscribe.com/share/kbZrgwHaKMedcQcN9
+> https://gscribe.com/share/naFm6RKaZMczQNkn7
 >
 
 > [!NOTE] **[2026-09-08]**

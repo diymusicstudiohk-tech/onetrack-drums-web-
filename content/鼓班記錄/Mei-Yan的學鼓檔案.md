@@ -8,7 +8,7 @@
 > 1_  2026-06-22
 > 2_  2026-07-06
 > 3_  2026-07-13 (50min)
-> 4_  2026-07-272026-07-27
+> 4_  2026-07-27
 > 5_  2026-08-19
 > 6_  2026-08-31 (70min)
 > 7_  2026-09-14
@@ -17,7 +17,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-14]**
-> 待輸入
+> 
+> 
+> Rockschool grade 6 tech ex:
+> group A: 80bpm with kick 
+> group B :65-70bpm
+> group C : 72bpm OK 
+> group D: 5 stroke still a bit lur, 9 stroke still lur
+> 
+> Funk last bar , Rockschool G6 
+> https://gscribe.com/share/bgRcxqCVcvjWKDUF6
 >
 
 > [!NOTE]

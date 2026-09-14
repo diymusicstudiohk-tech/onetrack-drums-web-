@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-14]**
-> 上課內容待填
+> 
+> source: bar 42 till ends - 大數據.mp4
+> 
+> tried 0.7x bar 42 till ends - 大數據.mp4
 >
 
 > [!QUOTE] ***購買記錄***
