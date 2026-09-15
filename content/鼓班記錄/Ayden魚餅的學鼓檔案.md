@@ -6,9 +6,29 @@
 > pop song wish list: 
 > https://www.youtube.com/watch?v=1tk1pqwrOys
 > 
-> Grade 5 暫時做過 don't let go , tiberius, canned heat 
+> Grade 5 暫時做過 don't let go , tiberius, canned heat , black smoke rising
 > 
 ---
+
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-09-15
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+>
+
+***課堂記錄***
+
+> [!NOTE] **[2026-09-15]**
+> 待填
+
+> [!QUOTE] ***購買記錄***
+> 新一期8堂，學費未付（購買日期及有效期待填）
 
 
 > [!WARNING] ***上課日期與剩餘堂數：***
