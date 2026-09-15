@@ -25,7 +25,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-15]**
-> 待填
+>  source:RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> 今日cover咗 Grade 5 - Black smoke rising 1x 全首 
+> 
+> source: grade 5 benjamin five songs.mp4
+> 
+> 今日開咗 Grade 5  Bros 去到 bar 16， 0.8x 
+> 
+> 
 
 > [!QUOTE] ***購買記錄***
 > 新一期8堂，學費未付（購買日期及有效期待填）
