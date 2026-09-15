@@ -15,10 +15,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-15]**
-> 待填
+> 
+> source: UPDATED - FULL SONG 願你公義降臨 (1).mp4
+> today tried 0.8x till 1st MB 
+> 
 
 > [!QUOTE] ***購買記錄***
-> 新一期4堂，學費未付（購買日期及有效期待填）
+> 在 2026-09-15 已購買4堂，有效期至 2026-11-10
+![[鼓班記錄/attachments/Janice-Choy-Receipt-2026-09-15.jpg]]
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-07-22
