@@ -21,7 +21,13 @@
 
 > [!NOTE] **[2026-09-16]**
 >
-> 待輸入
+> source: 唱K小魚仙 半動態譜 with click .mp4
+> 
+> 今日 tried 0.93x 全首, next ends song
+> 
+> next: https://www.youtube.com/watch?v=tfKXdrL_6hE
+> 要 做 4th and 8th note 簡化動態譜
+> 
 
 > [!NOTE] **[2026-09-04]**
 >

@@ -42,10 +42,16 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-09-16]**
 >
-> 待填
+> 
+> source: grade 5 benjamin five songs.mp4
+>
+>今日 五首五級考試歌都試過 1x but not stable ，0.9x 就普遍穩定 ; 
+>3rd and 4th  song fill not stable at  1x 
+> 
 
 > [!QUOTE] ***購買記錄***
 > 新一期8堂，學費未付（購買日期及有效期待填）
+> ![[鼓班記錄/attachments/Benjamin-Receipt-2026-09-16.jpg]]
 
 
 ---
