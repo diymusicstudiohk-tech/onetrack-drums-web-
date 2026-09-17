@@ -18,7 +18,9 @@
 
 > [!NOTE] **[2026-09-16]**
 >
-> 待輸入
+> tried 0.8-9x Last V to C - I Really Want to Stay At Your House.mp4
+> NEXT END SONG 
+> 
 
 > [!NOTE] **[2026-09-01]**
 >
