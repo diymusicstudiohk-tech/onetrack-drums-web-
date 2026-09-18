@@ -38,7 +38,11 @@
 
 > [!NOTE] **[2026-09-18]**
 >
-> 待輸入
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried Grade 5 Canned heat 0.7x 全首 
+> 
+> last fill not stable
 >
 
 > [!NOTE] **[2026-09-11]**

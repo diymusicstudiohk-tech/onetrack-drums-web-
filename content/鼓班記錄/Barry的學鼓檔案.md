@@ -30,7 +30,16 @@
 
 > [!NOTE] **[2026-09-18]**
 >
-> 待輸入
+> source: 075X TO 1X - BAR 35 TO 45 - 7th and 42nd.mp4
+> 
+> source:主節奏練習p2 （由慢到原速）7th and 42nd.mp4
+> 
+> sourcE: updated 18th Sep -  fill 7th & 42nd Rockschool G5 .pdf
+> 
+> 今日 sightread and tried  0.8x, 7th and 42th 由 頭去到 drum solo bar 45
+> 
+> bar 12-16
+> https://gscribe.com/share/s4LNH3BfQ2runsHi8
 >
 
 > [!NOTE] **[2026-08-21]**

@@ -25,7 +25,9 @@
 
 > [!NOTE] **[2026-09-18]**
 >
-> 待輸入
+> source:full song - hedwig's theme.mp4
+> 
+> today tried v1 only
 >
 
 > [!NOTE] **[2026-09-04]**
