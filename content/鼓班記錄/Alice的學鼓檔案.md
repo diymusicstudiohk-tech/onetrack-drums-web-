@@ -14,7 +14,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-17]**
-> 待輸入
+> 
+> 今日 cover 咗 原速立志擺上
+> 
+> source: FULL SONG 一生的恩惠.mp4
+> 
+> 今日開咗一生的恩惠 Bridge ，先練熟
+> 
+> Bridge 重點 fill 練習
+> https://gscribe.com/share/kzunTgdJh1d3yPX66
 
 > [!NOTE] **[2026-08-27]**
 >

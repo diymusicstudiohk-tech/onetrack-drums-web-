@@ -16,7 +16,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-17]**
-> 待輸入
+> 
+> 今日用咗你lead 嘅 祢的恩典與愛 黎練打鼓出隊
+> source: without click 祢的恩典與愛 service .mp3
+> with click 祢的恩典與愛 service .mp3
+> 祢的恩典與愛.pdf
+> 祢的恩典與愛.pages
+> 
 
 > [!NOTE] **[2026-09-08]**
 > 

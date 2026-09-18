@@ -1,6 +1,10 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF , , 2026-6月尾至七月中 台北五月天 (7/10-12 三場) , ；14/8 新加坡 FF;  4個月 減 10KG (72 kg 「一月頭」> 57kg「七月尾」 ) 
+> [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF , , 2026-6月尾至七月中 台北五月天 (7/10-12 三場) , ；14/8 新加坡 FF;  
+> 17-19/10 高雄,  26-31/10 , 2026青島 
+> 
+> 4個月 減 10KG (72 kg 「一月頭」> 57kg「七月尾」 ) 
+> 九月 @   54-57KG
 
 
 ---
@@ -19,7 +23,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-17]**
-> 待輸入
+> tried b60 till ends, 0.8x 
+> 
+> 
 
 > [!NOTE] **[2026-08-13]**
 > 
@@ -35,6 +41,22 @@
 > b60-b67
 > https://gscribe.com/share/jsPhmwDZomnjuPy47
 > 
+>
+> 
+> bar 85-86
+> |https://gscribe.com/share/hM7AEBaNxQbM7B4R7
+> 
+> bar 87-88
+> https://gscribe.com/share/yRpgKqpa1HTp4Cy89
+>
+>bar89 -90
+>https://gscribe.com/share/uHd2s2BLPucgA4UU6
+>
+
+> [!NOTE] **[2026-07-16]**
+> 
+> today cover jor  憨人 1x, next NEW song
+>
 >
 
 > [!NOTE] **[2026-08-07]**

@@ -27,7 +27,22 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-17]**
-> 待輸入
+> 
+> source: UPDATED - 原速 5 songs samuel grade 5.mp4
+> tried 0.95-1x 
+> 
+> song 1 bros : 0.95x stable , 1x not stable ( 3ena 4ena  in section A kick is slower than Right hand )
+> 
+> song 2: 1x fill not stable 
+> 
+> 
+> source : RSL_Drums_G5_2018_Audio.zip
+> 之後要問你拎 2024 書 嘅audio 同 hardcopy 譜 做片
+> 
+> Bros 3ena 4ena 
+> https://gscribe.com/share/Dm5TCFX7Lud3Gwpb8
+> 
+
 
 > [!NOTE] **[2026-08-24]**
 > 今日執咗 rehearsal 後嘅 我的名字在祢心上 
@@ -43,7 +58,7 @@
 
 > [!NOTE] **[2026-08-06]**
 > 
->  source:UPDATED - 原速 5 songs samuel grade 5.mp4
+>  source: UPDATED - 原速 5 songs samuel grade 5.mp4
 > 
 >also today tried 0.9x ,song 1 bros 嘅 3ena 4ena 𥚃面嘅kick not stable
 >
