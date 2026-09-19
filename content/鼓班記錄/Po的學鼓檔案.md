@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-19]**
-> 待輸入
+> 
+> source: full song Satoshi.mp4  
+> tried 0.9-0.95x, 16th fill not stable ( L hand not fast enough)
+> 
+> Fill at Outro ends
+> https://gscribe.com/share/hEX9VTPMzNTrVLj99
 >
 
 > [!NOTE] **[2026-09-12]**

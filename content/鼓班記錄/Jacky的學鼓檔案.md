@@ -18,7 +18,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-19]**
-> 待輸入
+> 
+> source: Louder Drums - Drifting Soul - Xenoblade 2 .mp4
+> tried 0.8x, full song 
+> 
+> 下次 可能改條片，顯示fill 左定右先
+> 
+> bar 85-89
+> https://gscribe.com/share/Zy4FiNKizTyJpKkr6
+> 
 >
 
 > [!NOTE] **[2026-09-12]**
