@@ -2,7 +2,7 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ] 1/6 Hayden , 9/7 Twinkle, C-R-U-S-H
 > 
-> 譚沚澄 ，29/7 - 13/8 英國交流圈
+> 3B班 譚沚澄 ，29/7 - 13/8 英國交流圈
 > 
 > 2026-11-21 : Akasaki Hong Kong live at Whompoa 
 > 
@@ -53,7 +53,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-19]**
-> 待輸入
+> 
+>  source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+> 
+> Twinkle 今日 0.9-1x  full cover GRADE 5 - Black Smoke Rising
 >
 
 > [!QUOTE] ***購買記錄***

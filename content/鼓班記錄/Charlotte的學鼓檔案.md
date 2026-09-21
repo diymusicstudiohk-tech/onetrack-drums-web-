@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-19]**
-> 待輸入
+> 
+> source: full song - Dazed & Confused (104).mp4
+> today tried 0.93-1x , next ends song
+> 
+> Chorus Fill practice
+> https://gscribe.com/share/xAEscvn5G6gKjCqX9
 >
 
 > [!NOTE] **[2026-08-22]**

@@ -14,7 +14,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-19]**
-> 待輸入
+> 
+> source: YOU REALLY GOT ME UPDATED WITH SCORE VER.mp4  
+> Hayden 今日打咗 0.95x full song Grade 3 You really got me
+> 
+> source: GRADE 3 OVERRATED BARRY VER.mp4
+> today also tried Grade 3 overrated bar 1-8
 >
 
 > [!QUOTE] ***購買記錄***
