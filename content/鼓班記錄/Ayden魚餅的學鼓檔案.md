@@ -13,7 +13,7 @@
 
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-09-15
-> 2_
+> 2_  2026-09-22
 > 3_
 > 4_
 > 5_
@@ -23,6 +23,10 @@
 >
 
 ***課堂記錄***
+
+> [!NOTE] **[2026-09-22]**
+> 待輸入
+>
 
 > [!NOTE] **[2026-09-15]**
 >  source:RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4

@@ -16,7 +16,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-21]**
-> 待輸入
+> 
+> 現階段先練用 4/8 bar loop  ，無譜咁跟崇拜錄音咁打
+> 
+> playback source: 能不能一生愛你 carol ma live 02.mp3
+> 
+> https://gscribe.com/share/RmdJWs81c9TzcBkJA
+> 今日 用呢個 (Hihat 能不能, Ride 一生愛你 
+> 
+> 下次要背呢 8 個 bar  （同幾時有 Crash）
+> 
+> 
 
 > [!NOTE] **[2026-09-17]**
 > 

@@ -17,7 +17,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-21]**
-> 待輸入
+> 
+> source: till 2nd MB 聖馬力諾之心.mp4
+> source: 聖馬力諾之心 - Dear Jane .pdf
+> 
+> 今日resume 呢首歌 and 整新動態譜去 到 2nd MB , tried 0.7x 
+
 
 > [!NOTE] **[2026-09-07]**
 > 待輸入

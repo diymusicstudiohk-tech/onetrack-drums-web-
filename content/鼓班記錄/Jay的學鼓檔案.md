@@ -17,7 +17,19 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-21]**
-> 待輸入
+> 
+> source: full song 隔牆有耳 (61.5).mp4
+> 
+> today covered jor 原速 full song 隔牆有耳 (61.5)
+> 
+> 失約巴黎要盡量 skip  手腳組合（要減腳）
+> 
+> source: 失約巴黎-Jeffrey Ngai 魏浚笙.pdf
+> source: 2nd C to MB 失約巴黎 .mp4
+> 
+> 今日整咗少少 2nd C to MB 難嘅部份練住先 
+> 
+> 
 
 > [!NOTE] **[2026-09-14]**
 > 
