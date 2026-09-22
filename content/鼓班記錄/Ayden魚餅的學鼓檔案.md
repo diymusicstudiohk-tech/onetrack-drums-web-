@@ -25,8 +25,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-22]**
-> 待輸入
->
+>  
+> source : Grade 5 - Bros - UPDATED with ALL FILLS.mp4
+> 
+> bar 19-22
+> https://gscribe.com/share/YqMhD4AG1LaG52Ej6
+> 
+> bar 21-24
+> https://gscribe.com/share/iudLAHqSnkWkAX586
+> 
+> 今日打Grade 5-  Bro , 0.7x 去到 bar 32
+> 
 
 > [!NOTE] **[2026-09-15]**
 >  source:RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
@@ -41,6 +50,7 @@
 
 > [!QUOTE] ***購買記錄***
 > 新一期8堂，學費未付（購買日期及有效期待填）
+![[鼓班記錄/attachments/Ayden receipt 2026-09-22.jpg]]
 
 
 > [!WARNING] ***上課日期與剩餘堂數：***
