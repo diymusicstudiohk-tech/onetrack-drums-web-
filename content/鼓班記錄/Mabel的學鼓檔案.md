@@ -27,14 +27,15 @@
 >
 
 ***課堂記錄***
-
 > [!NOTE] **[2026-09-23]**
 >
-> 待輸入
+> source： full song 詩篇 100 .mp4
+>today covered 0.9x-1x   full song 詩篇 100 
 >
 
 > [!QUOTE] ***購買記錄***
 > 未付學費
+> ![[鼓班記錄/attachments/Mabel-Receipt-2026-09-23.jpg]]
 
 ---
 
@@ -50,12 +51,6 @@
 >
 
 ***課堂記錄***
-
-> [!NOTE] **[2026-09-23]**
->
-> source： full song 詩篇 100 .mp4
->today covered 0.9x-1x   full song 詩篇 100 
->
 
 > [!NOTE] **[2026-09-09]**
 >
