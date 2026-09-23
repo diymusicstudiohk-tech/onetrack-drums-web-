@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-23]**
-> 待輸入
+> 
+> source: FULL SONG - Last Night On Earth (60).mp4
+> today tried 0.9x , fill and opened hihat and crash with snare not stable
 >
 
 > [!QUOTE] ***購買記錄***
