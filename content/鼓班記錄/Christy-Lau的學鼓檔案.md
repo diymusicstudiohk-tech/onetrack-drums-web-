@@ -27,8 +27,26 @@
 
 > [!NOTE] **[2026-09-23]**
 >
-> 待輸入
+>playback : moises: 不停讚美你 
+>today tried 0.9x
 >
+>speed test 
+>
+>Bridge DOUBLE kick practice
+>https://gscribe.com/share/jGJHKCxBkxYqQXBs9
+>
+>p1 16th double hand accent
+>https://gscribe.com/share/AzVug7xuVdAFcwdGA
+>
+> Bridge 02 pattern 
+> https://gscribe.com/share/dZU8imBdyWiMaZPW6
+> 
+> Chorus main
+> https://gscribe.com/share/eCEGhF6bcdVNLz3W8
+> 
+> Chorus fill 
+> https://gscribe.com/share/FpEMXJNPmTMVHpCK8
+> 
 
 > [!NOTE] **[2026-09-02]**
 >

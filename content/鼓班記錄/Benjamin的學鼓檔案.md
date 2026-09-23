@@ -42,8 +42,14 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-09-23]**
 >
-> 待輸入
+>今日試轉 bro 做 7th and 42nd （116） 
+>試咗 solo at 0.6 , 0.6x到 
 >
+>source: 075X TO 1X - BAR 35 TO 45 - 7th and 42nd.mp4
+>
+> sourcE: bar 35 to 45 drum solo
+> https://gscribe.com/share/YJ8f4Ezdy2jhyZGX7
+> 
 
 > [!NOTE] **[2026-09-16]**
 >
