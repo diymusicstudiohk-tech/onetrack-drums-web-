@@ -20,7 +20,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-22]**
-> 待輸入
+> 
+> The rumbling 今日打到 0.95x stable , 1x not stable ; 
+> 
+> bar 13-20
+> https://gscribe.com/share/khzXNMgwg1gzQ96k6
+> 
+> 花臂 , 0.95x stable, 1x not stable (double kick )
+> source: full song花臂.mp4
+> bar 92-93
+> https://gscribe.com/share/bids8hcavALjYY6dA
 >
 
 > [!NOTE] **[2026-09-08]**
