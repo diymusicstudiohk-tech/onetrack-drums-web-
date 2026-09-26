@@ -30,7 +30,22 @@
 
 > [!NOTE] **[2026-09-25]**
 >
-> 待輸入
+> source: updated 25th Sep -  fill 7th & 42nd Rockschool G5  (1).pdf
+> playback:7th & 42nd ¦ Rockschool Drums Grade 5 2024 (1080p_30fps_H264-128kbit_AAC).mp4 
+> 
+> today tried 0.8x till bar 45
+> 
+> 
+> 
+> bar 12-16
+> https://gscribe.com/share/s4LNH3BfQ2runsHi8
+> 
+> bar 21-29
+> https://gscribe.com/share/HG4sxpfkwCDPQbB96
+> 
+>  source: 075X TO 1X - BAR 35 TO 45 - 7th and 42nd.mp4
+> 
+> source:主節奏練習p2 （由慢到原速）7th and 42nd.mp4
 
 > [!NOTE] **[2026-09-18]**
 >

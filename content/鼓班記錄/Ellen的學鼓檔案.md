@@ -13,7 +13,7 @@
 > 4_  2026-08-28
 > 5_  2026-09-04 (45min)
 > 6_  2026-09-11
-> 7_  2026-09-25
+> 7_  2026-09-25 (75min)
 > 8_
 >
 
@@ -21,7 +21,20 @@
 
 > [!NOTE] **[2026-09-25]**
 >
-> 待輸入
+> Katseye - debut  (112)
+> 
+> 今日發現 chorus main pattern 嘅 1a 同 4e kick 慢咗
+> 因為  對kick 1 a n n e 嘅空間唔太 掌握
+> Chorus main pattern kick part practice 
+> https://gscribe.com/share/C4qJe4jcdnJysoR56
+> 
+> I will survive (116)
+>  0:00-0:15
+>  https://gscribe.com/share/jFdY5Bnr9ftKjotq9
+>  
+>  0:15-0:30
+>  https://gscribe.com/share/EMBzyWYDBgvHn97M7
+> 
 
 > [!NOTE] **[2026-09-11]**
 >
