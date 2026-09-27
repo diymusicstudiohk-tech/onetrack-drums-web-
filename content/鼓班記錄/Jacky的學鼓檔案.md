@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-26]**
-> 待輸入
+> 
+> source: with sticking -  Drifting Soul - Xenoblade 2.mp4
+> today tried 0.95x, next ends song
 >
 
 > [!NOTE] **[2026-09-19]**
