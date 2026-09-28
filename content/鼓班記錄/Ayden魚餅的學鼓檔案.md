@@ -25,7 +25,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-27]**
-> 待輸入
+> 
+> source : Grade 5 - Bros - UPDATED with ALL FILLS.mp4
+> today tried 0.75x full song, Grade 5 - Bros
+> 
+> bar 49-52
+> https://gscribe.com/share/LecbnV8236CsNw717
+> 
+> bar 71-72
+> https://gscribe.com/share/YqavxacBJfisSESr5
 >
 
 > [!NOTE] **[2026-09-22]**
