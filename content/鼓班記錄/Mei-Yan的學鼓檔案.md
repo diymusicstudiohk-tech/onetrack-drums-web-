@@ -17,7 +17,25 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-28]**
-> 待輸入
+> 
+> 用鐵棍同 practice pad 先熱身, 三雙手指要大力拍鼓棍去掌心 
+> 
+> 5 stroke roll: 五粒平均清楚，5th 下要手指＋手碗發力 （140-150bpm too lur, target 160bpm)
+> https://gscribe.com/share/L18AKBcqzFw19dXC9
+> 
+> 9 stroke roll
+> https://gscribe.com/share/yv2WToMRPCJM8N7H8
+> 
+> 13stroke roll - 3隻手指盡量大力
+> https://gscribe.com/share/F3L7T8X1ndkKoZUe6
+> 
+> group B: paradiddle- diddle 要 平均D，聽落似 single stroke
+>  
+>  3 style study 原速無問題 
+> 
+> HW： 溫番 grade 6 三首歌
+> 
+> 
 
 > [!NOTE] **[2026-09-14]**
 > 

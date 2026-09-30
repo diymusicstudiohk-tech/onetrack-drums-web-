@@ -19,7 +19,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-28]**
-> 待輸入
+> 
+> sourcE: full song王的應許.mp4
+> 
+> today tried 0.85x , 
+> 1st PC and C 's fill not stable
+> 
+> 1st PC fill practice 
+> https://gscribe.com/share/ZVm139qqDDtXHYTs5
+> 
 
 > [!NOTE] **[2026-08-20]**
 > 

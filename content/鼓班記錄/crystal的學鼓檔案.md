@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-09-28]**
-> 待輸入
+> SOURCE: FULL SONG 大數據.mp4
+> 
+> tried full song 0.8x 
 
 > [!NOTE] **[2026-09-14]**
 > 
