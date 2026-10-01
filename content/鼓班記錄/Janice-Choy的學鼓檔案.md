@@ -16,7 +16,9 @@
 
 > [!NOTE] **[2026-09-30]**
 >
-> 待輸入
+> source: UPDATED - FULL SONG 願你公義降臨 (1).mp4
+> today tried 0.9x full song 
+> > 
 
 > [!NOTE] **[2026-09-15]**
 > 

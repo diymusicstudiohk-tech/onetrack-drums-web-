@@ -18,7 +18,10 @@
 
 > [!NOTE] **[2026-09-30]**
 >
-> 待輸入
+> source:Last V to C - I Really Want to Stay At Your House.mp4
+> 
+> 今日打咗原速 , next : for you - grade 2
+> 
 
 > [!NOTE] **[2026-09-16]**
 >

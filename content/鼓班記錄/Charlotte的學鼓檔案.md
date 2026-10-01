@@ -20,7 +20,14 @@
 
 > [!NOTE] **[2026-09-30]**
 >
-> 待輸入
+>source: full song - Dazed & Confused (104).mp4
+>今日cover 咗原速嘅 full song - Dazed & Confused (104)
+>
+>
+>
+>source: full song - little bit lost .mp4
+>today tried 0.7x -0.8x 
+> 
 
 > [!NOTE] **[2026-09-19]**
 > 
