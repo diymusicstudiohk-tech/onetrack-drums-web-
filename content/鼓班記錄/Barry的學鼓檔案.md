@@ -30,7 +30,9 @@
 
 > [!NOTE] **[2026-10-02]**
 >
-> 待輸入
+> source: till bar 46- 7th and 42nd - benjamin ver.mp4
+> today tried 0.75x 
+> 
 
 > [!NOTE] **[2026-09-25]**
 >

@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: ] 一月之星！，長水
+> [!TIP] [Remark: ] 一月之星！，長江三峽 2026/11 頭兩星期
 
 ---
 
@@ -27,7 +27,9 @@
 
 > [!NOTE] **[2026-09-11]**
 >
-> 待輸入
+> source: FULL SONG - Proud Of Myself (100).mp4
+> 
+> 今日 proud of myself 打到 0.9x ，練熟 0.9x 然後再練上 原速
 >
 
 > [!NOTE] **[2026-09-02]**

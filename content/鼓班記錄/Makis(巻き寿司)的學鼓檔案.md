@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  (crush: Nancy, Kari, Eliz, Giselle , Melody; frd: Pravin, Walter)   ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66； 覺得媽咪好叻煮飯好食
+> [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  (crush: Nancy, Kari, Eliz, Giselle , Melody; frd: Pravin, Walter)   ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66； 覺得媽咪好叻煮飯好食； Aireen 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
 > **1. In My Place*
@@ -38,7 +38,9 @@
 
 > [!NOTE] **[2026-10-02]**
 >
-> 待輸入
+> Last 4 bars practice
+> https://gscribe.com/share/Zqg1CPTySp1zQZde8
+> 
 
 > [!NOTE] **[2026-09-18]**
 >

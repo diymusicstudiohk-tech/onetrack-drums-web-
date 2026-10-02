@@ -18,7 +18,12 @@
 
 > [!NOTE] **[2026-10-02]**
 >
-> 待輸入
+>source: intro till 1st C2旋轉木馬 (160).mp4
+> tried 0.7x intro till 1st C2旋轉木馬 (160).mp4
+>
+> 2nd V 
+> https://gscribe.com/share/RYHGwQixtUHrKFKt7
+> 
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-09-18 已購買8堂，有效期至 2027-01-08

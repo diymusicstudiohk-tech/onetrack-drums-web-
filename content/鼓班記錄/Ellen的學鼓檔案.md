@@ -21,7 +21,10 @@
 
 > [!NOTE] **[2026-10-02]**
 >
-> 待輸入
+> source: full solo - i will survive.mp4
+> 
+> tried 0.8x  
+> 
 
 > [!NOTE] **[2026-09-25]**
 >

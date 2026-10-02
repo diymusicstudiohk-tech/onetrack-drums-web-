@@ -25,7 +25,10 @@
 
 > [!NOTE] **[2026-10-02]**
 >
-> 待輸入
+> source:full song - hedwig's theme.mp4
+> 
+> today tried full song 0.7x , hedwig's theme
+> 
 
 > [!NOTE] **[2026-09-18]**
 >

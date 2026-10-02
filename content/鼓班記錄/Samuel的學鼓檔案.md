@@ -2,7 +2,7 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 最早可 7:15pm 上堂
 > 
->
+>F-A-I-T-H
 > 
 > Rockschool grade 5 已完成目標: 
 > Hard to handle (ori, Jan26), 
