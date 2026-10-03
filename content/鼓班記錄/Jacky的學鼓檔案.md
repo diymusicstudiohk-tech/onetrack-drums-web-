@@ -19,11 +19,15 @@
 
 > [!NOTE] **[2026-10-03]**
 > 
-> 待輸入
+> source: with sticking -  Drifting Soul - Xenoblade 2.mp4
+> 
+>  today tried 1x  ends song - Drifting Soul - Xenoblade 2
+> 
 >
 
 > [!QUOTE] ***購買記錄***
-> 2026-10-03 - 新一期8堂；有效期至 2027-01-23（學費未付）
+> 2026-10-03 - 已購買堂數：8堂；有效期至 2027-01-23（已付 $2,240，PayMe）
+> ![[鼓班記錄/attachments/jacky-payment-20261003.jpg]]
 
 ---
 

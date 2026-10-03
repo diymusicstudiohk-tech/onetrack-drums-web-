@@ -17,7 +17,12 @@
 
 > [!NOTE] **[2026-10-03]**
 > 
-> 待輸入
+> 今日用小小貓紙睇main pattern and fill , 完成 能不能一生愛你 cover
+>
+>萬用 pattern and fill :
+> https://gscribe.com/share/RmdJWs81c9TzcBkJA
+>
+>
 >
 
 > [!NOTE] **[2026-09-21]**

@@ -20,7 +20,9 @@
 
 > [!NOTE] **[2026-10-03]**
 > 
-> 待輸入
+> source: N.Flying-Our+Ending+[Original+Ver.pdf
+> today tried 0.7x without playback , score only
+> 
 >
 
 > [!NOTE] **[2026-09-08]**
