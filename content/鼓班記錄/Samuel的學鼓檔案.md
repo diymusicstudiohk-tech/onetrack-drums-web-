@@ -28,7 +28,16 @@
 
 > [!NOTE] **[2026-10-02]**
 >
-> 待輸入
+> Bro 第一部份 練習 (Hihat/Ride)
+> https://gscribe.com/share/Wkv2KGs1uumbuEmY9
+> 
+> 今日有時 Kick  / RH 唔齊，有時 係 攝左手唔夠快
+> 
+> Bro 第一部份 練習02 (右手右腳要齊）
+> https://gscribe.com/share/X9KaMizNjgw57Aus7
+> 
+> 
+> 
 
 > [!NOTE] **[2026-09-17]**
 > 
