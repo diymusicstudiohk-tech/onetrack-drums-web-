@@ -4,9 +4,11 @@
 > 
 > 3B班 譚沚澄 ，29/7 - 13/8 英國交流圈
 > 
+> 7/10  搬去太子 
+> 
 > 2026-11-21 : Akasaki Hong Kong live at Whompoa 
 > 
-> 青梅竹馬TKO有女朋友，不熟悉的陌生； 拍門事件； hayden 大佬嘅甜妹
+> 青梅竹馬TKO有女朋友，不熟悉的陌生； hayden 大佬嘅甜妹
 >
 > 1. Rockschool Grade 2 考試歌
    Time Period：2025-01-11（或更早）至 2025-06-07
@@ -38,6 +40,15 @@
 > 
 > 10. hrtz.wav - NINETEEN
 >    Time Period：2026-04-11 至 2026-05-30
+> 
+> 11. Rockschool Grade 5 - Canned Heat
+>    Time Period：2026-06-06 至 2026-07-14
+> 
+> 12. Rockschool Grade 5 - Don't Let Go
+>    Time Period：2026-07-25 至 2026-08-22（2026-08-22 完成原速）
+> 
+> 13. Rockschool Grade 5 - Black Smoke Rising
+>    Time Period：2026-08-29 至今（最近記錄 2026-09-19：0.9-1x full cover）
 > 
 > 
 

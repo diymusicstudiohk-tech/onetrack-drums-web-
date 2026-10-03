@@ -2,8 +2,15 @@ r
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: 李承恩 Katrina (Mimi) & 李祖匡 Jonathan (Jon)]
 >  [Remark: 🎂 JON - 1st Sep ; Mimi - 4th Sep]
-[Mimi 😱🐍  😘💋 spiderman  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 許超然許超然
-[Jon 😱  🕷️ 💔 Eve*, 🏀❌ LOGAN,Shawn Shit, Athul ( nigger), AArav (nigger) ,   🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister, 普通話藍球教練
+> [Mimi 😱🐍  😘💋 spiderman  💔 Hanna  💔 Verna ❌Jumbo, 👭 Jason, Ethena, Aki, Brody, Joshua, Katniss , Yanni, Chenzeya (NC)]NC vs CC , 許超然許超然, sunny,  haze
+> 
+> [Jon 😱  🕷️ 💔 Eve*, 🏀❌ LOGAN,Shawn Shit, Athul ( nigger), AArav (nigger) ,   🔫 Brian, 🎮David,  Eve, Erica ❤️ David*, Viola ❤️ Jeff* ], Victoria=David's big sister, 普通話藍球教練
+> 
+> 英華，匯基，顏寶鈴，李國寶 
+> 
+
+
+
 
 https://www.youtube.com/@Clax_Edits
 https://www.youtube.com/@Actuallyclax_youtube
@@ -41,7 +48,15 @@ Jonathan 五首考試歌 影片
 >
 
 > [!NOTE] **[2026-10-03]**
-> **Jonathan:** 待輸入
+> **Jonathan:**
+> 
+> source: 5 songs jonathan grade 4 UPDATED .mp4
+> today tried 1x 5 songs jonathan grade 4 UPDATED .mp4
+> rearrange jor song order 
+> next: replace video's audio with exam version 
+> 
+> noisy neighbor fill practice  
+> https://gscribe.com/share/wpyWRKdrjNB13hoj9
 >
 
 > [!NOTE] **[2026-09-01]**
