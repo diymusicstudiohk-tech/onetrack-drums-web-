@@ -65,7 +65,11 @@
 
 > [!NOTE] **[2026-10-03]**
 > 
-> 待輸入
+>  source: RSL GRADE 5 - UDATED - louder drums with click- Black Smoke Rising.mp4
+>  Twinkle 今日 0.9-1x  full cover GRADE 5 - Black Smoke Rising
+>
+>source: till bar 46- 7th and 42nd - benjamin ver.mp4
+>today tried drum solo 少少
 >
 
 > [!NOTE] **[2026-09-19]**

@@ -1,6 +1,12 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ] 1/6 Hayden 生日送飯
+> GRADE 3 其他候選歌：
+> On Broadway【Rock school Drum Lv3】
+> Heads Will Roll【Rock school Drum Lv3】
+> Long Beach Skyline【Rock school Drum Lv3】
+> Best of You【Rock school Drum Lv3】
+> 
 
 ---
 
@@ -15,7 +21,12 @@
 
 > [!NOTE] **[2026-10-03]**
 > 
-> 待輸入
+> source: Long Beach Skyline【Rock school Drum Lv3】/Long Beach Skyline【Rock school Drum Lv3】 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> today tried bar 1-8
+> 
+> bar 1-8
+> https://gscribe.com/share/Z1sitp8ZPB7Z9DV5A
 >
 
 > [!NOTE] **[2026-09-19]**
