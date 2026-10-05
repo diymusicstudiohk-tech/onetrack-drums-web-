@@ -25,7 +25,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-04]**
-> 待輸入
+> source:Grade 5 - Bros - UPDATED with ALL FILLS and Outro.mp4
+> 
+> today tried 0.8-0.9x - Grade 5 - Bros
 >
 
 > [!NOTE] **[2026-09-27]**
