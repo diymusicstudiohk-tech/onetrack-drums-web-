@@ -27,7 +27,17 @@
 
 > [!NOTE] **[2026-10-05]**
 > 
-> 待輸入
+> 今日繼續：不停讚美你，tried 1x not stable 
+> 
+> 今日仍練咗 右手- 右腳協調，右手上落 snare/hihat 影響 左手問題
+> 
+> 齋右手右腳唔協調問題for bridge
+> https://gscribe.com/share/21KoyLabqkPR29ZJ6
+> 
+>  右手打snare 導致 左手打hihat 快咗/唔平均問題
+>  https://gscribe.com/share/Fcu9Yoog3iCRSk3QA
+>  
+>  
 > 
 
 > [!NOTE] **[2026-09-23]**
