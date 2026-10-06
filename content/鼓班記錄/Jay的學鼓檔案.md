@@ -17,7 +17,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-06]**
-> 待輸入
+> 
+> 失約巴黎要盡量 skip 手腳組合（要減腳）
+> 
+> source: 1st C to 2nd MB 失約巴黎 .mp4
+> source: 失約巴黎-Jeffrey Ngai 魏浚笙.pdf
+> 
+> today tried 0.7x
+> 
 
 
 > [!NOTE] **[2026-09-21]**

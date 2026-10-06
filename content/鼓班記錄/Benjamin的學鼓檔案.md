@@ -70,7 +70,7 @@ Grade 5 song choices :
 > 
 
 > [!QUOTE] ***購買記錄***
-> 新一期8堂，學費未付（購買日期及有效期待填）
+> 在 2026-09-16 已購買8堂，有效期至 2027-01-06
 > ![[鼓班記錄/attachments/Benjamin-Receipt-2026-09-16.jpg]]
 
 

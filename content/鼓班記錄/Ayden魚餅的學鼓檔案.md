@@ -6,7 +6,7 @@
 > pop song wish list: 
 > https://www.youtube.com/watch?v=1tk1pqwrOys
 > 
-> Grade 5 暫時做過 don't let go , tiberius, canned heat , black smoke rising
+> Grade 5 暫時做過 don't let go , tiberius, canned heat , black smoke rising，bros
 > 
 ---
 
@@ -71,7 +71,7 @@
 > 
 
 > [!QUOTE] ***購買記錄***
-> 新一期8堂，學費未付（購買日期及有效期待填）
+> 在 2026-09-15 已購買8堂，有效期至 2027-01-05
 ![[鼓班記錄/attachments/Ayden receipt 2026-09-22.jpg]]
 
 
