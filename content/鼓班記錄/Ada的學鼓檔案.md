@@ -19,7 +19,12 @@
 
 > [!NOTE] **[2026-10-05]**
 > 
-> 待輸入
+> source: 更深愛祢 Last C .mp4
+> 今日 用低中高能量 pattern and fill 打咗呢首歌 
+> last chorus 特登執咗俾你跟住打
+> 
+> 另外 都 introduce 咗新嘅高能量 4 bar loop:
+> https://gscribe.com/share/LJYHvvNF6tMajKFB7
 > 
 
 > [!NOTE] **[2026-09-14]**
