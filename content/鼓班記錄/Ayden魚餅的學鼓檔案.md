@@ -25,7 +25,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-06]**
-> 待輸入
+>  source:Grade 5 - Bros - UPDATED with ALL FILLS and Outro.mp4
+>  
+>  today tried 1x 原速 - Grade 5 - Bros ( 第五首五級考試歌)
+
 
 
 > [!NOTE] **[2026-10-04]**

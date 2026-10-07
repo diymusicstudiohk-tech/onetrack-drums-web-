@@ -1,6 +1,29 @@
 > [!TIP] [Remark: 21/12 Birthday], 需要 💰 買臭豆腐, 廖哲立 ❌馬廣北maximax  (crush: Nancy, Kari, Eliz, Giselle , Melody; frd: Pravin, Walter)   ❤️ 鐘華仁 🤭Gisella ❤️ youtuber: Haven66； 覺得媽咪好叻煮飯好食； Aireen 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
+> 1_
+> 2_
+> 3_
+> 4_
+> 5_
+> 6_
+> 7_
+> 8_
+
+***課堂記錄***
+
+> [!NOTE] **[待填日期]**
+>
+> 上課內容：待填
+
+> [!QUOTE] ***購買記錄***
+> 未付學費
+
+---
+
 > **1. In My Place*
 `[2026-03-27]` — `Makis cover 咗Grade 4 考試原速 IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4`
 > 

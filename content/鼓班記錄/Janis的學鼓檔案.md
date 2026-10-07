@@ -20,7 +20,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-06]**
-> 待輸入
+> 
+> The rumbling 今日 cover 咗原速 
+> 花臂0.9x not stable ( 腳攰)
+> 
+> next: https://youtu.be/vTRR0prsV5s?si=LfaVbejB6hs-txmq
+> 預習 bar 40 -59
+> 
 
 
 > [!NOTE] **[2026-09-22]**
