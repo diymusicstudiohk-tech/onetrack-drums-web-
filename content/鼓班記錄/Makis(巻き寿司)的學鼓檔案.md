@@ -3,6 +3,29 @@
 > 
 ---
 
+> **1. In My Place**
+> `[2026-03-27]` — `Makis cover 咗Grade 4 考試原速 IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4`
+>
+> **2. Noisy Neighbour**
+> `[2026-04-28]` — `Grade 4 noisy neighbour`
+>
+> **3. Scary**
+> `[2026-06-05]` — `today finished 1x Grade 4 - Scary FULL SONG`
+>
+> **4. Respect**
+> `[2026-07-17]`
+>
+> **5. ready or not**
+> `[2026-07-24]`
+>
+> **6. Grade 5 don't let go**
+> `[2026-08-28]`
+>
+> **7. Grade 5 canned heat**
+> `[2026-09-04]`
+>
+ 
+
 > [!WARNING] ***上課日期與剩餘堂數：***
 > 1_
 > 2_
@@ -23,27 +46,6 @@
 > 2026-10-07 - 已購買堂數：8堂；有效期至 2027-01-27
 > ![[鼓班記錄/attachments/532268918_1791362480.jpg]]
 
----
-
-> **1. In My Place*
-`[2026-03-27]` — `Makis cover 咗Grade 4 考試原速 IN MY PLACE (With Vocals) ¦ Rockschool Drums Grade 4`
-> 
-> **2. Noisy Neighbour**
-> `[2026-04-28]` — `Grade 4 noisy neighbour 
-> 
-> **3. Scary**
-> `[2026-06-05]` — `today finished 1x Grade 4 - Scary FULL SONG`
-> 
-> 4, Respect
-> [2026-07-17]
-> 
->5. ready or not [ 2026-07-24]
->   
->   6. Grade 5 don't let go  [ 2026-08-28]
-> 
-> 7. Grade 5 canned heat [2026-09-04]
->    
- 
 
 ---
 
