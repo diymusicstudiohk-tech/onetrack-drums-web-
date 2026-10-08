@@ -42,7 +42,9 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-10-07]**
 >
-> 待輸入
+> source: till bar 46- 7th and 42nd - benjamin ver.mp4
+> today tried 0.7x till bar 46- 7th and 42nd - benjamin ver.mp4
+> 
 
 > [!NOTE] **[2026-09-30]**
 >

@@ -29,7 +29,10 @@
 ***課堂記錄***
 > [!NOTE] **[2026-10-07]**
 >
-> 待輸入
+> source: till 1st MB 我是憤怒 (153).mp4
+> reference: /Volumes/Onetrack 8TB/8TB JDown/1040 ¦【 我是憤怒 - Beyond 】 (★★★☆☆)  Drum Cover 鼓譜 Drum Scores 動態鼓譜/1040 ¦【 我是憤怒 - Beyond 】 (★★★☆☆)  Drum Cover 鼓譜 Drum Scores 動態鼓譜 (2160p_30fps_VP9-128kbit_AAC).mkv
+> 
+> 
 
 > [!NOTE] **[2026-09-23]**
 >
