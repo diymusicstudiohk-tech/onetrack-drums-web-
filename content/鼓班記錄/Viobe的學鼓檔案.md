@@ -14,11 +14,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-08]**
-> 待輸入
+> source: full song - zombie.mp4
+> 3rd page theme is new part , before new part tried 0.7x
 >
 
 > [!QUOTE] ***購買記錄***
-> 新一期，學費未付 (待填寫)
+> 在 2026-10-08 已購買4堂，有效期至 2026-12-03（已付款：港幣 1,200.00 元）
+> ![[鼓班記錄/attachments/Viobe-Receipt-2026-10-08.jpg]]
 
 ---
 
