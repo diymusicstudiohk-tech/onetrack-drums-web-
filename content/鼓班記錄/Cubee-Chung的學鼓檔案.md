@@ -23,8 +23,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-08]**
-> 待輸入
->
+> 
+> source: updated 五月天 - 一千個世紀.pdf
+> 
+> today tried 69bpm at moises, from 1:20 (bar29)
+> 
 
 > [!NOTE] **[2026-09-17]**
 > tried b60 till ends, 0.8x 
@@ -44,8 +47,6 @@
 > 
 > b60-b67
 > https://gscribe.com/share/jsPhmwDZomnjuPy47
-> 
->
 > 
 > bar 85-86
 > |https://gscribe.com/share/hM7AEBaNxQbM7B4R7

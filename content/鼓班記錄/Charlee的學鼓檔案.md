@@ -20,7 +20,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-08]**
-> 待輸入
+> 
+> source: full song 人魚の島.mp4
+>tried 0.7x full song ( not tried opened hihat
 >
 
 > [!NOTE] **[2026-09-14]**

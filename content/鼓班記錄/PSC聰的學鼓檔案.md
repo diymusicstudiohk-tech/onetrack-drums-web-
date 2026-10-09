@@ -17,7 +17,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-08]**
-> 待輸入
+> source: /Users/benzonkpchan/Downloads/full song 聖馬力諾之心.mp4
+> tried 0.7x full song 
 >
 
 > [!NOTE] **[2026-09-21]**

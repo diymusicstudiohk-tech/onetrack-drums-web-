@@ -19,7 +19,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-08]**
-> 待輸入
+> 
+> sourcE: full song王的應許.mp4
+> 
+> today tried 0.92
+>x ,
+> main pattern kick pattern and last C2 pattern and fill not stable:
+> 
+> 王的應許  main pattern kick practice 
+> https://gscribe.com/share/vX2omvfebeVAN8ai8
+> 
+> Last C2 p n f practice 
+> https://gscribe.com/share/hg2UGTtK17AhQpeD6
 >
 
 > [!NOTE] **[2026-09-28]**
