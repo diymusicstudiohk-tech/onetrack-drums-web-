@@ -20,11 +20,26 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-09]**
-> 待輸入
+> 
+> source: full solo - i will survive.mp4
+> today tried 1x , p3 to p4 頭兩行not stable
+> 
+> 3rd page kick 最尾一行 （today best : 135) 
+> https://gscribe.com/share/b7awhfG7D9vFe1yk8
+> 
+> last page kick 位 01 ( today best : 110-115)
+> https://gscribe.com/share/cntktV3HPuBqd1A56
+> 
+> last page kick 位 01b ( 右手快咗叠住kick ) (today best: 115-120)
+> https://gscribe.com/share/LDgedYSn7MG4ELoz7
+> 
+> last page kick 位 02 ( today best :128bpm )
+> https://gscribe.com/share/k6XWnqPBCqUQdhKcA
 >
 
 > [!QUOTE] ***購買記錄***
-> (待填寫)　學費未付
+> 2026-10-09 - 已購買堂數：8堂；有效期至 2027-01-29
+> ![[鼓班記錄/attachments/532268918_1791529093.jpg]]
 
 ---
 
