@@ -39,7 +39,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-09]**
-> 待輸入
+> 
+> 
+> source: UPDATED WITH ending fill - canned heat grade 5.mp4
+> 
+> today tried Grade 5 Canned heat 0.95x 全首 
 >
 
 > [!QUOTE] ***購買記錄***

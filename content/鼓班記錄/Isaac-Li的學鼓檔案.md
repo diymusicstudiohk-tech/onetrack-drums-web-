@@ -16,7 +16,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-09]**
-> 待輸入
+> source:full song 在祢沒有難成的事.mp4
+> 
+> today tried 0.8x (before bridge) and 0.7x (after bridge)
+> 
+> SPENT SOME TIME TO RECITE BRIDGE AND OUTRO'S main pattern
 >
 
 > [!NOTE] **[2026-09-15]**
