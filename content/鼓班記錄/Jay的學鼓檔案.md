@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-12]**
-> 待輸入
+> 
+> source: full song 失約巴黎 .mp4
+> today tried 0.7-0.75x , fills not stable
+> 
 
 > [!NOTE] **[2026-10-06]**
 > 
