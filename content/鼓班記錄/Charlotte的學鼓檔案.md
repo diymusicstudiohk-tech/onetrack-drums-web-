@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-10]**
-> 待輸入
+> 
+> source: full song - little bit lost .mp4
+> tried 0.8x full song 
+> 
+> Chorus pattern element practice
+> https://gscribe.com/share/defEuWk2avNcvaPy9
 >
 
 > [!NOTE] **[2026-09-30]**

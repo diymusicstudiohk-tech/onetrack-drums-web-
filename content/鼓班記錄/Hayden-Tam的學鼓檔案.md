@@ -20,7 +20,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-10]**
-> 待輸入
+> 
+> source: Long Beach Skyline【Rock school Drum Lv3】/Long Beach Skyline【Rock school Drum Lv3】 (1080p_30fps_H264-128kbit_AAC).mp4
+> 
+> tried till bar 24, 0.7x
+> 
+> b9-16
+> https://gscribe.com/share/AvVEp6ifgWxeMt297
+> 
+> b 17-24
+> https://gscribe.com/share/X9nStDYzCBt5ckXB9
+> 
 >
 
 > [!NOTE] **[2026-10-03]**

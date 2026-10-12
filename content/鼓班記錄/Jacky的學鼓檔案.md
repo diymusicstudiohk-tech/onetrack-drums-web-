@@ -18,7 +18,22 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-10]**
-> 待輸入
+> 
+> source: 空の箱（空箱 轻松版）《Girls Band Cry》【トゲナシトゲアリ】动态鼓谱 [BV1cZLY6qEjx].mp4
+> 
+> tried bar 54 till ends , 0.7x 
+> 
+> b100-101, 104-105, 108-109
+> https://gscribe.com/share/vnUPCWV83QrTCd2c9
+> 
+> b87-93
+> https://gscribe.com/share/nVvnASHwELx8NY4o9
+> 
+> b71-76
+> https://gscribe.com/share/tVxywKqE43JBZkp98
+> 
+> 81-85
+> https://gscribe.com/share/kMq4Dcf9hbgZBj9p6
 >
 
 > [!NOTE] **[2026-10-03]**

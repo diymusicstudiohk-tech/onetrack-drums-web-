@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-10]**
-> 待輸入
+> source： 神羔羊配得.mp3
+> source: 神羔羊配得.pages,.pdf
+> logic pro session "kae live"
+> 
+> 今日剪咗live recording 嘅 神羔羊配得出黎
+> 練習無俾pattern 情況下 跟到拍子機打啱 beat 同適當位 crash, 轉ride
 >
 
 > [!NOTE] **[2026-10-01]**

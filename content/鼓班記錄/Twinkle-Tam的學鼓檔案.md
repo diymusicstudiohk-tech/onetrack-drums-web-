@@ -64,7 +64,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-10]**
-> 待輸入
+> 
+> source: till bar 46- 7th and 42nd - benjamin ver.mp4
+>	today tried drum solo 前一頁少少, drum solo at 0.7x
 >
 
 > [!NOTE] **[2026-10-03]**
