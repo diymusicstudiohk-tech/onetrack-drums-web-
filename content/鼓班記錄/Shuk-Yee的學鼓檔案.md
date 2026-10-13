@@ -16,7 +16,12 @@
 > 8_
 
 > [!NOTE] **[2026-10-12]**
-> 待輸入
+> 
+> source: FULL SONG 神奇的糊塗魔藥 (91).mp4
+> today trued 0.7x 
+> 
+> NEXT : SINGLE STROK 16TH. 1ENA , outro 打啱但 前面 intro/ 2nd PC 打錯，下堂要將 16th ena 放喺其他鼓件打咁開始練
+> 
 
 > [!NOTE] **[2026-09-21]**
 > SOURCE: 《神奇的糊塗魔藥》林家謙 Terence Lam .pdf

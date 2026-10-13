@@ -20,7 +20,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-12]**
-> 待輸入
+> source： with music 醉後喜歡我.mp4
+> today tried 0.8x till bar 48
+
 
 > [!NOTE] **[2026-10-01]**
 > 
