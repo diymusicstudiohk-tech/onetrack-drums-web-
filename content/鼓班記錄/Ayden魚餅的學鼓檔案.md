@@ -25,7 +25,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-13]**
-> 待輸入
+> source: grade 5 Ayden five songs with drums .mp4
+> 
+> today tried 0.8x song 1 (tiberius). song 2 0.9x (bros) song 3 0.8x (canned heat) song 4 0.8x (black smoke rising)
 
 
 > [!NOTE] **[2026-10-06]**
