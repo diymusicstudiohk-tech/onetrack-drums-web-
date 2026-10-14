@@ -1,5 +1,8 @@
 > [!TIP] [Remark: ]  22/8 ，歐洲姐； 謝𧘲朗
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
+> 
+> https://hkbeybladex.com/shop/all?tag=CX
+> 
 
 ---
 
@@ -17,10 +20,22 @@
 
 > [!NOTE] **[2026-10-14]**
 >
-> 待輸入
+>
+>source： full song - For you .mp4
+>today tried 0.6-7x, full song not stable
+>
+>source: 080x- For you BAR 21-26 由慢去快.mp4
+>also practice
+> section B main pattern 
+> https://gscribe.com/share/rRA1xK8qrnw3Uirc8
+> 
+> BAR 21-26
+> https://gscribe.com/share/Pw9LzWv7dAa8Ttvj6
+> 
 
 > [!QUOTE] ***購買記錄***
 > 新一期（8堂）學費未付，待購買後補記購買日期及有效期
+> ![[鼓班記錄/attachments/532268918_1791972909.jpg]]
 
 ---
 

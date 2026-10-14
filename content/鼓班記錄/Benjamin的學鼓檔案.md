@@ -42,7 +42,12 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-10-14]**
 >
-> 待輸入
+> source: till bar 54- 7th and 42nd.mp4
+> today tried 0.8x till bar 54, Grade 5-  7th and 42nd
+> 
+> bar 21-29
+> https://gscribe.com/share/DD6njukjfvnDWqjK9
+> 
 
 > [!NOTE] **[2026-10-07]**
 >
