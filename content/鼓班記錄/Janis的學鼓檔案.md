@@ -20,7 +20,20 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-13]**
-> 待輸入
+> 
+> source： LOUDER drums with click - under the tree.mp4
+> today tried 1x, some fill and pattern's kick not accurate enough
+> 
+> bar 43-44
+> https://gscribe.com/share/KoyoSeRWMyJHfPfG9
+> 
+> bar 54-55
+> https://gscribe.com/share/f1tEWws5acHTbBHV8
+> 
+> bar 56-57
+> 你要從慢練到快 
+> https://gscribe.com/share/RRJa5eN1ScJNtut99
+> 
 
 
 > [!NOTE] **[2026-10-06]**
