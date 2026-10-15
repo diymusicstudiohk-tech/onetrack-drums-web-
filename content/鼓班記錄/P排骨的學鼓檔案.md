@@ -22,7 +22,7 @@
 >
 >
 >source： full song - For you .mp4
->today tried 0.6-7x, full song not stable
+>today tried 0.6-7x, Grade 2 "For you " full song not stable
 >
 >source: 080x- For you BAR 21-26 由慢去快.mp4
 >also practice
