@@ -23,7 +23,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-15]**
-> 待輸入
+> 
+> source: updated 五月天 - 一千個世紀.pdf
+>  today tried 75bpm(0.9x) at moises, full song
+> 
 
 > [!NOTE] **[2026-10-08]**
 > 
