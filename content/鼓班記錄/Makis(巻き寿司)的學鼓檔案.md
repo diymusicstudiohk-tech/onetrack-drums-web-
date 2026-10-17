@@ -39,7 +39,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-16]**
-> 待輸入
+> 
+> source: full song - 7th and 42nd.mp4
+> 
+> 今日試咗新一首 Grade 5 歌 "7th and 42nd" 嘅 drum solo 部份 0.5x
+> 
+> Drum solo last 3 bars 
+> https://gscribe.com/share/Fyoe6osSMUWpBEcr6
+> 
+> 
+> bar 37 to 44 drum solo 
+> https://gscribe.com/share/DPqV3UFiRYfNeXrJA
+> 
 
 > [!NOTE] **[2026-10-09]**
 > 
