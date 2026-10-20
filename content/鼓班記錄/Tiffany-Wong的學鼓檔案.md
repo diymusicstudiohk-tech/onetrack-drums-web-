@@ -14,7 +14,8 @@
 
 > [!NOTE] **[2026-10-20]**
 > 
-> 待輸入
+> 今日執咗 祢知道全首 pattern and fill , next: 做鹽做光 pattern and fill transcribe and arragement 
+> 
 
 > [!NOTE] **[2026-10-05]**
 > 
