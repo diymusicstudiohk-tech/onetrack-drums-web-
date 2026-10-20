@@ -17,7 +17,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-20]**
-> 待輸入
+> 
+> source: 儘管我尚未看見.pages, 
+> playback:儘管我尚未看見 NO DRUMS WITH CLICK.mp3
+> 
+> 今日用咗試堂嘅pattern and fill (source:more music 耶和華尼西 alice ver trial lesson (1).mp4) 放入 儘管我尚未看見.pages ，學 structure 同出初編鼓，next: 用 儘管我尚未看見 after review.pages 變番貼近呢首歌嘅pattern and fill
+> 
 >
 
 > [!QUOTE] ***購買記錄***
