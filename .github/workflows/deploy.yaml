@@ -13,7 +13,9 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  # This site only needs the latest content. Cancel stale queued/waiting runs
+  # so an old GitHub Pages deployment cannot block newer updates indefinitely.
+  cancel-in-progress: true
 
 jobs:
   build:
