@@ -18,7 +18,18 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-19]**
-> 待輸入
+> 
+> SOURCE: FULL SONG 大數據.mp4
+> today tried 0.9x 
+> 32th fill not stable, L 要飛去 tom 嗰d fill not stabel 
+> 
+> 以下兩個75bpm 之後 not stable  
+> 
+>  bar 54 practice (3n 個R 慢咗，4aa 個 L 快咗)
+>  https://gscribe.com/share/4Vd95mbh2LP8J2Nw6
+> 
+> bar 58  practice （1ee個 L 慢咗, 嗰個 middle tom 變high tom ）
+> https://gscribe.com/share/5QkuT3X5MxWuqR3QA
 >
 
 > [!NOTE] **[2026-09-28]**
