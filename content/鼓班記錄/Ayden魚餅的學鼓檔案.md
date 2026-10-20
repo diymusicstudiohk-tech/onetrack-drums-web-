@@ -28,7 +28,10 @@
 > 待輸入
 
 > [!NOTE] **[2026-10-18]**
-> 待輸入
+> 
+> source: grade 5 Ayden five songs with drums .mp4
+> tried all 0.9x
+> 
 
 > [!NOTE] **[2026-10-13]**
 > source: grade 5 Ayden five songs with drums .mp4
