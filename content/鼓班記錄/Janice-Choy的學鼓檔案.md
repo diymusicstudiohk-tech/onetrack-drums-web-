@@ -15,7 +15,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-22]**
-> 待輸入
+> 
+> source: UPDATED - FULL SONG 願你公義降臨 (1).mp4
+> today cover 咗原速 FULL SONG 願你公義降臨 (1).mp4
+> 
+> source: full song 主超過我在面對的紅海.mp4
+> today tried 0.8x whole song 
+> 
+> 
 
 > [!NOTE] **[2026-09-30]**
 >

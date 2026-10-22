@@ -49,7 +49,13 @@ Jonathan 五首考試歌 影片
 
 > [!NOTE] **[2026-10-22]**
 > **Jonathan:**
-> 待輸入
+> 
+>  source: 5 songs jonathan grade 4 UPDATED .mp4
+> 
+> Grade 4 Jon song 3 practice 
+> https://gscribe.com/share/ggU7UzMd3wVhXHDN6
+> 
+> 
 
 > [!NOTE] **[2026-10-03]**
 > **Jonathan:**

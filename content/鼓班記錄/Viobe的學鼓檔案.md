@@ -14,7 +14,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-22]**
-> 待輸入
+> source: full song - zombie.mp4
+> today tried full song 0.8x
+> 
+> P4 SOLO practice
+> https://gscribe.com/share/3DH1gUNSGY9rmdNV8
+> 
+
 
 > [!NOTE] **[2026-10-08]**
 > source: full song - zombie.mp4
