@@ -18,7 +18,16 @@
 
 ***課堂記錄***
 > [!NOTE] **[2026-10-21]**
-> 待輸入
+> 
+> source: N.Flying - 잔불(Still) p1,p2.png
+> moises playback: 엔플라잉(N.Flying) - 잔불(Still)ㅣ드럼커버ㅣ드럼악보ㅣDRUM COVERㅣDRUM SHEET (1080p_30fps_H264-128kbit_AAC)
+> 
+> today tried 0.9-1x , tried cover at 1x but bar 46-50,  54-55, 62-63 not stable
+> 
+> 
+> bar 46-50
+> https://gscribe.com/share/zuvdX3APtZS1cXHR7
+> 
 
 
 > [!NOTE] **[2026-10-16]**

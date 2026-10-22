@@ -43,9 +43,13 @@ Jonathan 五首考試歌 影片
 > 4_2026-09-01 Katrina
 > 5_2026-09-01 Jonathan
 > 6_2026-10-03 Jonathan
-> 7_
+> 7_2026-10-22 Jonathan
 > 8_
 >
+
+> [!NOTE] **[2026-10-22]**
+> **Jonathan:**
+> 待輸入
 
 > [!NOTE] **[2026-10-03]**
 > **Jonathan:**

@@ -33,14 +33,20 @@ Grade 5 song choices :
 > 3_  2026-09-30
 > 4_  2026-10-07
 > 5_  2026-10-14
-> 6_  2026-10-21
+> 6_  2026-10-21 (1hr15min)
 > 7_
 > 8_
 >
 
 ***課堂記錄***
 > [!NOTE] **[2026-10-21]**
-> 待輸入
+> 
+> 
+> source:full song （updated) 7th and 42nd.mp4
+> today tried 0.8x full song
+> 
+> b62-65 practice
+> https://gscribe.com/share/qZyZCyXZnGAN1q8o8
 
 
 > [!NOTE] **[2026-10-14]**
