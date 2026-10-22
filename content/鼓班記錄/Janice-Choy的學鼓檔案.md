@@ -20,7 +20,7 @@
 > today cover 咗原速 FULL SONG 願你公義降臨 (1).mp4
 > 
 > source: full song 主超過我在面對的紅海.mp4
-> today tried 0.8x whole song 
+> today tried 0.8-0.9x whole song , 如果屋企練熟到試下背 
 > 
 > 
 
