@@ -21,7 +21,20 @@
 
 > [!NOTE] **[2026-10-23]**
 > 
-> 待輸入
+> source: 喺final cut pro x , waka waka 
+> instagram 段cover 140bpm , original 127bpm
+> 將 original 往 cover 方向變難，未整動態譜
+>
+> Intro
+> https://gscribe.com/share/P8WVkyJ3giiWGtZm8
+> 
+> V1
+> https://gscribe.com/share/2au9kCQi3KPokySz8
+> 
+> V2
+> https://gscribe.com/share/jCHXioeZNR1hyEYv7
+> 
+> 
 
 > [!NOTE] **[2026-10-16]**
 > 待輸入

@@ -15,7 +15,9 @@
 
 > [!NOTE] **[2026-10-23]**
 > 
-> 待輸入
+> SOURCE: SLOW TO FAST - solo only - Proud Of Myself (100).mp4 
+> 
+> 
 
 > [!NOTE] **[2026-10-02]**
 >

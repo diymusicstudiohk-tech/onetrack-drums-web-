@@ -25,12 +25,23 @@
 > 5_  2026-09-25
 > 6_  2026-10-02
 > 7_  2026-10-16 
-> 8_  2026-10-23
+> 8_  2026-10-23 （55min , 5min 之後補）
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-23]**
 > 
-> 待輸入
+> source: full song （updated) 7th and 42nd.mp4
+> today tried 0.8x full song 
+> 
+> pattern before last section practice 
+> https://gscribe.com/share/Vn5joQ9ZMbaAU3EJ9
+> 
+> bar 62-64
+> https://gscribe.com/share/79jBGzysQwLUhTj96
+> 
+> bar 62-64 純拍子練習
+> https://gscribe.com/share/2R7HBHn1shAH24HfA
+> 
 
 > [!NOTE] **[2026-10-16]**
 > 
