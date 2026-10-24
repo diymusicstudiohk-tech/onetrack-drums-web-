@@ -24,7 +24,13 @@
 
 > [!NOTE] **[2026-10-23]**
 >
-> 待輸入
+> source:full song - hedwig's theme.mp4
+> 
+> today cover 原速  hedwig's theme
+> 
+> next: 
+Tonick-雪糕糯米糍
+> 
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-10-23 已購買8堂，有效期至 2027-02-12

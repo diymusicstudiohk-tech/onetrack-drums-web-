@@ -40,7 +40,13 @@
 
 > [!NOTE] **[2026-10-23]**
 > 
-> 待輸入
+> source: full song （updated) 7th and 42nd.mp4
+> today tried Grade 5 - 7th and 42nd - video p1 and p2 頭兩行
+> 
+> p2 tom pattern 
+> https://gscribe.com/share/Ck3WMAd5cxNmghwH7
+> 
+> 
 
 > [!NOTE] **[2026-10-16]**
 > 

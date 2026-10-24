@@ -18,7 +18,9 @@
 
 > [!NOTE] **[2026-10-23]**
 > 
-> 待輸入
+> source: (with demo ) till MB after 2nd V 旋轉木馬 (160).mp4
+> today all at 0.6x 
+> 
 
 > [!NOTE] **[2026-10-17]**
 > 
