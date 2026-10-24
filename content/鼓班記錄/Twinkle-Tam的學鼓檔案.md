@@ -82,7 +82,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-17]**
-> 待輸入
+> 
+> source: full song （updated) 7th and 42nd.mp4
+> Twinkle： 今日試咗 Grade 5 : 7th and 42nd  嘅 0.55x 由 1:10-end
+> 
 
 > [!NOTE] **[2026-10-10]**
 > 

@@ -23,7 +23,7 @@
 > 
 >  source: Long Beach Skyline【Rock school Drum Lv3】/Long Beach Skyline【Rock school Drum Lv3】 (1080p_30fps_H264-128kbit_AAC).mp4
 >  
->  today tried 0.7x full song 
+>  Hayden： today tried 0.7x full song ，Grade 3 - Long beach skyline
 > 
 > Last 2 bar fill 
 > https://gscribe.com/share/7gAsw3zBRYqrqf7k8
