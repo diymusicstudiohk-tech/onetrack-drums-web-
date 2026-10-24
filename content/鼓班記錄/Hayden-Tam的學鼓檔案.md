@@ -20,7 +20,15 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-24]**
-> 待輸入
+> 
+>  source: Long Beach Skyline【Rock school Drum Lv3】/Long Beach Skyline【Rock school Drum Lv3】 (1080p_30fps_H264-128kbit_AAC).mp4
+>  
+>  today tried 0.7x full song 
+> 
+> Last 2 bar fill 
+> https://gscribe.com/share/7gAsw3zBRYqrqf7k8
+> 
+> 
 
 > [!QUOTE] ***購買記錄***
 > 新一期（4堂）學費未付，待購買後補記購買日期及有效期
