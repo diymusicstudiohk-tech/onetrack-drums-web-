@@ -20,7 +20,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-25]**
-> 待輸入
+> source: grade 5 Ayden five songs with drums .mp4
+> tried all 0.9x
 
 > [!QUOTE] ***購買記錄***
 > 新一期（4堂）學費未付，待購買後補記購買日期及有效期
