@@ -9,7 +9,7 @@
 > 1_ 2026-08-09 (今日上咗30min), 2026-10-18 (今日上咗30min)_
 > 2_ 2026-10-18
 > 3_ 2026-10-25
-> 4_
+> 4_2026-10-25 (今日上咗30min)
 > 5_
 > 6_
 > 7_
@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-25]**
-> 待輸入
+> 
+> source: full song - MCR - Blac Parade.mp4
+> 
+> today tried 0.7x before bridge 02
 
 > [!NOTE] **[2026-10-18]**
 > reference: MCR - black parade p1. 2. 3. 4. 5.png
