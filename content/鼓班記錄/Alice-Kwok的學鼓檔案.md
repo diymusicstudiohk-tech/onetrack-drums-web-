@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-26]**
-> 待輸入
+>source: 儘管我尚未看見.pages, 
+>source: 儘管我尚未看見 with my demo - alice ver.mp4
+>
+>今日用咗 original ver 的pattern 和 小小fill 放番入 alice ver 
 >
 
 > [!NOTE] **[2026-10-20]**
