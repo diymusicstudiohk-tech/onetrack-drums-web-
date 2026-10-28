@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-27]**
-> 待輸入
+> source: full song with mouse cursor 夜に駆ける.mp4
+> today tried 0.8x not stable
+> 
 
 > [!NOTE] **[2026-10-20]**
 > 
