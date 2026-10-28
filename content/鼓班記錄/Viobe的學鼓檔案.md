@@ -30,6 +30,7 @@
 > [!QUOTE] ***購買記錄***
 > 在 2026-10-08 已購買4堂，有效期至 2026-12-03（已付款：港幣 1,200.00 元）
 > ![[鼓班記錄/attachments/Viobe-Receipt-2026-10-08.jpg]]
+> ![[鼓班記錄/attachments/Viobe-Payment-2026-10-08.jpg]]
 
 ---
 

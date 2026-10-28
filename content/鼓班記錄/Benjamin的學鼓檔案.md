@@ -40,8 +40,10 @@ Grade 5 song choices :
 
 ***課堂記錄***
 > [!NOTE] **[2026-10-28]**
-> 待輸入
->
+> 
+> p2 fill practice 
+> https://gscribe.com/share/KF27rdHpTnuRXwfd9
+> 
 
 > [!NOTE] **[2026-10-21]**
 > 

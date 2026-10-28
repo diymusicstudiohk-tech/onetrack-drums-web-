@@ -1,4 +1,4 @@
-> [!TIP] [Remark: ]  22/8 ，歐洲姐； 謝𧘲朗
+> [!TIP] [Remark: ]  22/8 ，歐洲姐； 謝𧘲朗; 29/10 64強比賽 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
 > https://hkbeybladex.com/shop/all?tag=CX
