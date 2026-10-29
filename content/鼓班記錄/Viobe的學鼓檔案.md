@@ -14,7 +14,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-29]**
-> 待輸入
+> source: LAST C - 某某.mp4
+> today tried 0.7-0.8x
+> 
 
 > [!NOTE] **[2026-10-22]**
 > source: full song - zombie.mp4
