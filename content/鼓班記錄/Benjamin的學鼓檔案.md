@@ -41,6 +41,12 @@ Grade 5 song choices :
 ***課堂記錄***
 > [!NOTE] **[2026-10-28]**
 > 
+> sourcE: NO DRUMS - benjamin new 5 songs with 7th and 42nd.mp4
+> 
+> source: benjamin new 5 songs with 7th and 42nd
+> today tried 0.8x 新五首 Grade 5 songs 
+> 
+> 
 > p2 fill practice 
 > https://gscribe.com/share/KF27rdHpTnuRXwfd9
 > 

@@ -19,7 +19,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-28]**
-> 待輸入
+> 
+> source: 085x -full song -  Grade 2 For you .mp4
+> today tried 0.85x for you, bar 24 to 25 transition and bar 25-32 ride pattern's kick not stable
+> 
+> For you last 4 bars 
+> https://gscribe.com/share/LKzrARzMnFdZugf59
 >
 
 > [!NOTE] **[2026-10-14]**
