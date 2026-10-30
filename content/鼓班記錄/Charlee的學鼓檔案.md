@@ -20,7 +20,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-29]**
-> 待輸入
+> 
+> source: UPDATED - full song 人魚の島.mp4
+> today covered full song at 0.8x (without part of OHH)
+> 
 
 > [!NOTE] **[2026-10-08]**
 > 

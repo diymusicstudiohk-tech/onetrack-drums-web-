@@ -15,11 +15,12 @@
 > ### 3. Black Smoke Rising (Rockschool Grade 5)
 > 
 > * **22026-07-03 ： 完咗 原速
----
-
-> [!QUOTE] ***購買記錄***
-> 新一期（8堂）學費未付，待購買後補記購買日期及有效期
-
+>   
+>   ### 4. 7th and 42nd 
+>   
+>   2026-10-30 : 0.9x 
+>   
+>   
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -35,7 +36,21 @@
 
 > [!NOTE] **[2026-10-29]**
 >
-> 上課內容：待填
+>source: full song （updated) 7th and 42nd.mp4  
+> today tried 0.9x full song
+> 
+> next: new grade 5 song
+>
+> bar 12-16
+> https://gscribe.com/share/oh88dbCifCMXe1DHA
+> 
+> Drum solo last 3 bars 
+> https://gscribe.com/share/jeHS6JdFdRPkTBEg8
+> 
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-10-30 已購買8堂，學費港幣 2,240，有效期至 2027-02-19
+> ![[鼓班記錄/attachments/Barry-Receipt-2026-10-30.jpg]]
 
 ---
 

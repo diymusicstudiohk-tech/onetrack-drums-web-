@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-29]**
-> 待輸入
+>  今日執咗出隊用嘅 有一種溫暖.pdf / .pages
+>  整咗唔洗 kick 嘅新嘅高能量 pattern ，收山 fill  
 
 > [!NOTE] **[2026-10-27]**
 > 今日繼續用之前高中低能量嘅pattern 打 lord inlift your name on high同 當我已無力禱告
