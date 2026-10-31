@@ -12,16 +12,25 @@
 > 3_  2026-09-16
 > 4_  2026-10-01
 > 5_  2026-10-12
-> 6_  2026-10-29
+> 6_  2026-10-30
 > 7_
 > 8_
 >
 
 ***課堂記錄***
 
-> [!NOTE] **[2026-10-29]**
+> [!NOTE] **[2026-10-30]**
 >
-> 上課內容：待輸入
+> source:  updated full song (added music)醉後喜歡我.mp4
+> today tried 0.8x 
+>
+> source : bar 51-56
+> https://gscribe.com/share/T57nx3FXbsf8Hfje9
+> 
+> bar 69
+> https://gscribe.com/share/WwcbLoRUn897HCF26
+> 
+> 
 
 > [!NOTE] **[2026-10-12]**
 > source： with music 醉後喜歡我.mp4

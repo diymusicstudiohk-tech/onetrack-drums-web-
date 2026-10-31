@@ -40,7 +40,12 @@
 
 > [!NOTE] **[2026-10-29]**
 >
-> 上課內容：待輸入
+> source: full song （updated) 7th and 42nd.mp4
+>  today tried Grade 5 - 7th and 42nd - video p1 and p2, 0.7x
+>  
+>  bar 15 16
+>  https://gscribe.com/share/xXqoTDcSYPY4CekAA
+> 
 
 > [!NOTE] **[2026-10-23]**
 > 
