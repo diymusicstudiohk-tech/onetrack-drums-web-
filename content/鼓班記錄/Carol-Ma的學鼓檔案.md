@@ -1,4 +1,4 @@
-> [!TIP] [Remark: 🛞🚗 , 🎸]  
+> [!TIP] [Remark: 🛞🚗 , 🎸]  ，Last = Coda
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 
 ---

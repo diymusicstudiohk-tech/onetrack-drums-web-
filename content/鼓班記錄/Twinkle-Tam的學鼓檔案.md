@@ -64,10 +64,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-31]**
-> 待輸入
+> 
+>  Twinkle： 今日試咗 Grade 5 : 7th and 42nd  嘅 0.55x 由 1:10-end，0.7x; 都開始 p1 
+> 
+> bar 3-4
+> https://gscribe.com/share/VS4pVVYQu5iSiPqRA
+> 
 
 > [!NOTE] **[2026-10-24]**
-> 待輸入
+> Twinkle： 今日試咗 Grade 5 : 7th and 42nd  嘅 0.55x 由 1:10-end;
+
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-10-24 已購買4堂；有效期至 2026-12-19

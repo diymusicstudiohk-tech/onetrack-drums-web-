@@ -19,7 +19,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-31]**
-> 待輸入
+> 
+> source: 神羔羊配得(updated).pages,.pdf
+> logic pro session "kae live"
+> 
+> 今日pick up 番神羔羊配得，主力用簡單 pattern 打到首歌先
+> 優先練習 跟到伴奏打鼓嘅問題
+> 
 
 > [!NOTE] **[2026-10-10]**
 > source： 神羔羊配得.mp3

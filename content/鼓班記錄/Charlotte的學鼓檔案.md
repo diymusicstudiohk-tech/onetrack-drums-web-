@@ -19,7 +19,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-31]**
-> 待輸入
+> 
+> source: (updated)full song - little bit lost .mp4
+> today cover jor 原速 , (updated)full song - little bit lost   
+> 
 
 > [!NOTE] **[2026-10-10]**
 > 

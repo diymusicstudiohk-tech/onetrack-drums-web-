@@ -1,4 +1,4 @@
-
+ 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: ] 1/6 Hayden 生日送飯
 > GRADE 3 其他候選歌：
@@ -20,7 +20,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-10-31]**
-> 待輸入
+> 
+>  source: Long Beach Skyline【Rock school Drum Lv3】/Long Beach Skyline【Rock school Drum Lv3】 (1080p_30fps_H264-128kbit_AAC).mp4
+>  
+>  Hayden today tried 0.95-1x , Long Beach Skyline
+> 
+> next: new grade 3 (not restless, maybe 2014/2018)
+> 
+> 
 
 > [!NOTE] **[2026-10-24]**
 > 
