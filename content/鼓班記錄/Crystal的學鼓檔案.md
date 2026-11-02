@@ -5,6 +5,55 @@
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
+> 1_  2026-09-14
+> 2_  2026-09-28
+> 3_  2026-10-19
+> 4_  2026-11-02
+> 5_
+> 6_
+> 7_
+> 8_
+>
+
+***課堂記錄***
+
+> [!NOTE] **[2026-11-02]**
+> 待輸入
+
+> [!NOTE] **[2026-10-19]**
+> 
+> SOURCE: FULL SONG 大數據.mp4
+> today tried 0.9x 
+> 32th fill not stable, L 要飛去 tom 嗰d fill not stabel 
+> 
+> 以下兩個75bpm 之後 not stable  
+> 
+>  bar 54 practice (3n 個R 慢咗，4aa 個 L 快咗)
+>  https://gscribe.com/share/4Vd95mbh2LP8J2Nw6
+> 
+> bar 58  practice （1ee個 L 慢咗, 嗰個 middle tom 變high tom ）
+> https://gscribe.com/share/5QkuT3X5MxWuqR3QA
+>
+
+> [!NOTE] **[2026-09-28]**
+> SOURCE: FULL SONG 大數據.mp4
+> 
+> tried full song 0.8x 
+
+> [!NOTE] **[2026-09-14]**
+> 
+> source: bar 42 till ends - 大數據.mp4
+> 
+> tried 0.7x bar 42 till ends - 大數據.mp4
+>
+
+> [!QUOTE] ***購買記錄***
+> 在 2026-09-14 已購買8堂
+> ![[鼓班記錄/attachments/crystal-payment-20260914.jpg]]
+
+---
+
+> [!WARNING] ***上課日期與剩餘堂數：***
 > 1_  2026-07-06
 > 2_  2026-07-13
 > 3_  2026-07-20
