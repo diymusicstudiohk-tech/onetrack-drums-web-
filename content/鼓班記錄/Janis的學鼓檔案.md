@@ -15,10 +15,16 @@
 > 8_
 >
 
-***課堂記錄***
-
+> ***課堂記錄***
+> 
 > [!NOTE] **[2026-11-03]**
-> 待輸入
+> 
+> source:UPDATED 夜驅 with mouse cursor .mp4
+> today tried 0.9-1x , next end
+> 
+> Into the night fill practice (1st 3a等得唔夠耐)
+> https://gscribe.com/share/ry69DBEepRBJxZbg8
+> 
 
 > [!NOTE] **[2026-10-27]**
 > source: full song with mouse cursor 夜に駆ける.mp4

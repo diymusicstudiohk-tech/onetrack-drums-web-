@@ -1,6 +1,8 @@
 > [!TIP] [Remark: ] wishlist:
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 
+> YT playlist: https://youtube.com/playlist?list=PLa7gj0gwJMB8&si=jYxojcxaTn-WKouB
+> 
 > https://youtu.be/PtJLd5GEyb4?is=tmFGOgJKRaET1v3u
 > 
 > https://youtu.be/_KwjfqgDnF4?is=k3friOSRx89XHMsJ
@@ -26,7 +28,7 @@
 > [!NOTE] **[2026-11-02]**
 > 
 > 今日 cover 咗儘管我尚未看見
-> 下次開 建殿者的呼聲 ( live ver : ||：建殿者的呼聲| 朱肇階 Daniel Chu | 真敬拜瞬間：|1-617+140)
+> 下次開 建殿者的呼聲 ( )
 > 
 
 > [!NOTE] **[2026-10-26]**

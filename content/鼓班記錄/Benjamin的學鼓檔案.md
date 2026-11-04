@@ -35,10 +35,14 @@ Grade 5 song choices :
 > 5_  2026-10-14
 > 6_  2026-10-21 (1hr15min)
 > 7_  2026-10-28
-> 8_
+> 8_  2026-11-04
 >
 
 ***課堂記錄***
+> [!NOTE] **[2026-11-04]**
+> 
+> 上課內容：待輸入
+
 > [!NOTE] **[2026-10-28]**
 > 
 > sourcE: NO DRUMS - benjamin new 5 songs with 7th and 42nd.mp4
