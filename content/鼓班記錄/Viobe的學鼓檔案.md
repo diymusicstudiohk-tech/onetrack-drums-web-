@@ -14,7 +14,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-05]**
-> 待輸入
+> SOURCE: 2ND C TILL END - 某某.mp4
+> today tried 0.7x 
 
 > [!NOTE] **[2026-10-29]**
 > source: LAST C - 某某.mp4

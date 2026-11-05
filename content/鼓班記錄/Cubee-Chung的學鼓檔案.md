@@ -1,7 +1,7 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > [!TIP] [Remark: remark: Bday Jun 11st , 2026-3 上海], 3月 15 日 深圳 FF , , 2026-6月尾至七月中 台北五月天 (7/10-12 三場) , ；14/8 新加坡 FF;  
-> 17-19/10 高雄,  26-31/10 , 2026青島 
+> 17-19/10 高雄,  26-31/10 , 2026青島 , 11/15-22 日本，11/28-30 台北FF 
 > 
 > 4個月 減 10KG (72 kg 「一月頭」> 57kg「七月尾」 ) 
 > 九月 @   54-57KG
@@ -23,7 +23,22 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-05]**
-> 待輸入
+> 
+> source: 五月天 阿信 · 言承旭 · 吳建豪 · 周渝民 · 劉宇寧 - 今夜讓我帶你高飛遠走.pdf
+> playback:劉宇寧╳五月天阿信╳言承旭╳吳建豪╳周渝民 - 今夜讓我帶你高飛遠走Drum Cover (1080p_60fps_H264-128kbit_AAC).mp4
+> 
+> today tried p3 
+> 
+> bar 65-67
+> https://gscribe.com/share/gNNnS4qfdHaTpskh7
+> 
+> bar 74-75
+> https://gscribe.com/share/Dg2ABkfDfdw9HUEc7
+> 
+> bar 78-79
+> https://gscribe.com/share/Dya49sTSmLffFr5BA
+> 
+> 
 
 > [!NOTE] **[2026-10-15]**
 > 
