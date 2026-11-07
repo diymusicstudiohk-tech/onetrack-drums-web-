@@ -11,7 +11,6 @@
 > 
 > * **2026-04-10**：順利完成 0.9x，之後轉做 ghost note 練習。
 > 
->   
 > ### 3. Black Smoke Rising (Rockschool Grade 5)
 > 
 > * **22026-07-03 ： 完咗 原速
@@ -35,7 +34,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-06]**
-> 待輸入
+> source: Grade 5 five songs with 7th and 42nd.mp4
+> 今日覆咗 7th and 42nd 0.9-1x , 開始 don't let go
 
 > [!NOTE] **[2026-10-30]**
 >

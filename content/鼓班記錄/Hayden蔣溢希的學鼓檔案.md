@@ -23,7 +23,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-06]**
-> 待輸入
+> sourcE: till 1st MB 雪糕糯米糍.mp4
+> today tried 0.9-1x, next need to write new part
 
 > [!NOTE] **[2026-10-30]**
 >

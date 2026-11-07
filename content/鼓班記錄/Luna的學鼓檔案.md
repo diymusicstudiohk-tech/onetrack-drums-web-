@@ -17,8 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-06]**
-> 待輸入
+> source: full song with demo 旋轉木馬 (160).mp4
+> tried 0.7x 
 
+
+> 
 > [!NOTE] **[2026-10-29]**
 >
 > source: full song with demo 旋轉木馬 (160).mp4

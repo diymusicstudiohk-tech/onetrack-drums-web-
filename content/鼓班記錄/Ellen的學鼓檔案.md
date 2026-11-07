@@ -20,7 +20,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-06]**
-> 待輸入
+> 
+> source: till 2nd C - waka waka.mp4
+> today tried 1x , next finish the whole song
+> 
 
 > [!NOTE] **[2026-10-23]**
 > 

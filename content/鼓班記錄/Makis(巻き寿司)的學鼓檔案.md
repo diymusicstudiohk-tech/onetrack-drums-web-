@@ -39,8 +39,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-06]**
-> 待輸入
+> source: full song （updated) 7th and 42nd.mp4
+> today tried 0.7x till drum solo 
 
+
+> 
 > [!NOTE] **[2026-10-29]**
 >
 > source: full song （updated) 7th and 42nd.mp4
