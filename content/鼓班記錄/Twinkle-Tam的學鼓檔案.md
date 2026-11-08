@@ -64,7 +64,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-07]**
-> 待輸入
+> 
+> Twinkle： 今日試咗 Grade 5 : 7th and 42nd  嘅 0.7x 由 1:10-end; 都開始 p1 and p2
+> 
+> bar 3 -10 
+> https://gscribe.com/share/BfwAYEeYzXx9zyLQ9
+> 
+> bar 11-13
+> https://gscribe.com/share/xeVJcC6zmSiyaHwj8
+> 
+> 
 
 > [!NOTE] **[2026-10-31]**
 > 

@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-07]**
-> 待輸入
+> source: 空の箱（空箱 轻松版）《Girls Band Cry》【トゲナシトゲアリ】动态鼓谱 [BV1cZLY6qEjx].mp4
+> 
+> today tried 0.8x full song 
+> 
 
 > [!NOTE] **[2026-10-17]**
 > 
