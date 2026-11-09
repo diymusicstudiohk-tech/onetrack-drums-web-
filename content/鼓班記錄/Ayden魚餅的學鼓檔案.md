@@ -24,10 +24,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-08]**
-> 待輸入
+> 
+> source: grade 5 Ayden five songs with drums .mp4  
+> 
+> today tried 0.9x-1x , 第四首歌原速 fill not stable 
+> 
+> 
 
 > [!NOTE] **[2026-11-03]**
-> 待輸入
+>  source: grade 5 Ayden five songs with drums .mp4  
+> tried all 0.95x
 
 > [!NOTE] **[2026-10-27]**
 > source: grade 5 Ayden five songs with drums .mp4  
