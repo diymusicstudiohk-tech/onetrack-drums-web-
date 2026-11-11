@@ -15,7 +15,21 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-10]**
-> 待輸入
+> source: 
+> 080x 我們的神 1st V C1.mov
+> (speedup)我們的神 verse main pattern .mov
+> 我們的神 Janice Choy ver.drumscore
+> 
+> 我們的神 Yvonne .pages
+> 我們的神Janice choy ref.pages
+> 
+> 
+> 今日完成咗紅海  原速cover 
+> 開始我們的  神 
+> 試咗verse 八個 bar 
+> 先俾咗 MB to 1st C 的 0.8x 俾你預習
+> 
+> 
 
 > [!NOTE] **[2026-10-22]**
 > 

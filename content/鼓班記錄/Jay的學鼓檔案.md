@@ -17,7 +17,17 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-10]**
-> 待輸入
+> source : Chorus 頭八個 bars with music - 為何嚴重到這樣 .mov
+> Chorus 頭八個 bars drums only - 為何嚴重到這樣 .mov
+> 攝腳練習 (今日best 60bpm).mov
+> 為何嚴重到這樣trimmed.drumscore
+> 
+> 今日完成咗失約巴黎 原速cover 
+> 開始 dear jane 為何嚴重到這樣 
+> 試咗頭八個 bar 
+> 
+
+
 
 > [!QUOTE] ***購買記錄***
 > 在 2026-11-10 已購買8堂，有效期至 2027-03-02

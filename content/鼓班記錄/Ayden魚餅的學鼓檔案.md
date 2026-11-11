@@ -24,7 +24,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-10]**
-> 待輸入
+> source: grade 5 Ayden five songs with drums .mp4
+> next： no drum ver grade 5 
 
 > [!NOTE] **[2026-11-08]**
 > 

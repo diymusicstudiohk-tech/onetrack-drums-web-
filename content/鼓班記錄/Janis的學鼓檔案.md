@@ -18,8 +18,14 @@
 > ***課堂記錄***
 > 
 > [!NOTE] **[2026-11-10]**
-> 待輸入
+> source:鬼怒川練習 Janis.drumscore
+> source:鬼怒川_after lesson copy.pdf
+> source: 鬼怒川 louder drums .mp3
 > 
+> today 完成夜驅cover , 開 鬼怒川 , tried p1 原速
+> 
+
+
 > [!NOTE] **[2026-11-03]**
 > 
 > source:UPDATED 夜驅 with mouse cursor .mp4
