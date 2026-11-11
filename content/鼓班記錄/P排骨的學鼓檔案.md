@@ -20,7 +20,13 @@
 
 > [!NOTE] **[2026-11-11]**
 > 
-> 待輸入
+> source : 075x to 095x - Grade 2 - For you.mov
+> source: For You - Grade 2_2026-11-11_18-16.drumscore
+> 
+> today tried 0.8x-0.9x 
+> fill and crash not stable
+> 
+> 
 
 > [!NOTE] **[2026-10-28]**
 > 
