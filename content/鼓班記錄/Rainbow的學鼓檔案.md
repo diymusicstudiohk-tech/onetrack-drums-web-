@@ -20,7 +20,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-13]**
-> 待輸入
+> 
+> 完成 醉後喜歡我 cover 
+> 開die with a smile 
+> source: die with a smile- rainbow ver_2026-11-13_13-16.drumscore
+> source: 080-090x 1st PC to C - die with a smile .mov
+> 
+> 
 
 > [!NOTE] **[2026-10-30]**
 >
