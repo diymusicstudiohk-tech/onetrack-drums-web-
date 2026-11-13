@@ -18,7 +18,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-12]**
-> 待輸入
+> 
+> 今日完成 Last night on earth 原速cover 
+> 
+> source: wake me up when September ends - Connie Yu_2026-11-12_19-24.drumscore
+> 
+> source:wake my up when september 主pattern 練習.mov
+> 
+> 下次開 wake me up
+> 
+> 
 
 > [!NOTE] **[2026-09-23]**
 > 
