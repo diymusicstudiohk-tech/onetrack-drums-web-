@@ -20,12 +20,13 @@
 
 > [!NOTE] **[2026-10-17]**
 > 
-> 待輸入
+> source: 080x till 2nd C - 戀.mp4
+> today tried 0.8x 戀 till 2nd C 
 >
 
 > [!NOTE] **[2026-10-03]**
 > 
-> 待輸入
+> 今日完成原速 Satoshi cover 
 >
 
 > [!NOTE] **[2026-09-26]**
