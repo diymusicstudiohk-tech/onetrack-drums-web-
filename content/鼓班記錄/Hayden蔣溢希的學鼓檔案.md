@@ -23,7 +23,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-13]**
-> 待輸入
+> source: 雪糕糯米糍-TRIMMED_2026-11-13_18-29.drumscore
+> today tried full song 0.85x 雪糕糯米糍
 
 > [!NOTE] **[2026-11-06]**
 > sourcE: till 1st MB 雪糕糯米糍.mp4

@@ -39,7 +39,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-13]**
-> 待輸入
+> 
+> source: full song （updated) 7th and 42nd.mp4|
+> today tried 0.7x full song , Grade 5 - 7th and 42nd
+> 
+> bar 62-65 fill needs practice 
+> https://gscribe.com/share/ZSmJdTUEiyRGUNae7
+> 
 
 > [!NOTE] **[2026-11-06]**
 > source: full song （updated) 7th and 42nd.mp4

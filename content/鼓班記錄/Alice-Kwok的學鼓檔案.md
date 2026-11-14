@@ -26,7 +26,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-13]**
-> 待輸入
+> 
+> source: till 1st part ends (4th PC) with my demo - 建殿者的呼聲 alice-kwok.mp4
+> source: drums-建殿者的呼聲 trimmed - 16th quantized_2026-11-13_15-30.drumscore
+> 
+> today tried 1x till 1st part ends (4th PC) with my demo
+> 
+> 
 
 > [!NOTE] **[2026-11-02]**
 > 

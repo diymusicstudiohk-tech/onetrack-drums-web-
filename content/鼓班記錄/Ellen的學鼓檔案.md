@@ -20,7 +20,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-13]**
-> 待輸入
+> source: waka waka- ellen ver- full song_2026-11-13_14-27.drumscore
+> 
+> today tried 0.95-1x full song 
+> 
+> 
 
 > [!NOTE] **[2026-11-06]**
 > 
