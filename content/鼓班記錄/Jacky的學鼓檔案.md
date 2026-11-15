@@ -18,7 +18,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-14]**
-> 待輸入
+> 
+>  空の箱 today covered jor 0.85x 
 >
 
 > [!NOTE] **[2026-11-07]**
@@ -36,7 +37,7 @@
 > 
 > b101, 105 fill
 > https://gscribe.com/share/5vxce7VYQoyW3EL3A
->
+>https://gscribe.com/share/5vxce7VYQoyW3EL3A
 
 > [!NOTE] **[2026-10-10]**
 > 

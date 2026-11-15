@@ -18,7 +18,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-14]**
-> 上課內容待填
+>  source: 戀-po ver_2026-11-14_10-27.drumscore
+>  source: 075x 戀 - full song .mov
+>  
+>  today tried full song 0.75x, after bridge just tried few times
 >
 
 > [!QUOTE] ***購買記錄***
