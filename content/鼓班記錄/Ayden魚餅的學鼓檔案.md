@@ -24,7 +24,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-15]**
-> 待輸入
+> 
+> source:NO DRUMS - grade 5 benjamin five songs.mp4
+> today tried 無鼓版0.95x , Grade 5 五首歌 , bros 最尾d kick 踩錯 
+> 
 
 > [!NOTE] **[2026-11-10]**
 > source: grade 5 Ayden five songs with drums .mp4

@@ -9,20 +9,33 @@
 > 1_ 2026-08-09 (今日上咗30min), 2026-10-18 (今日上咗30min)_
 > 2_ 2026-10-18
 > 3_ 2026-10-25
-> 4_2026-10-25 (今日上咗30min)
+> 4_2026-10-25 (今日上咗30min)， 2026-11-15  (今日上咗30min)
 > 5_ 2026-11-08
 > 6_  2026-11-15
-> 7_
+> 7_ 
 > 8_
 >
 
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-15]**
-> 待輸入
+> 
+> source: full song - MCR - Blac Parade.mp4
+> 今日 cover 咗 0.9x black parade
+> 
+> source: Don't look back in anger - sams ver_2026-11-15_13-25.drumscore
+> 
+> source: 70-80bpm to till 1st MB- Dont look back in anger.mov
+> 
+> tried till 1st MB , 70-80bpm
+> 
+> 
 
 > [!NOTE] **[2026-11-08]**
-> 待輸入
+>
+>source: full song - MCR - Blac Parade.mp4
+>today tried 0.9x not stable 
+>
 
 > [!NOTE] **[2026-10-25]**
 > 
