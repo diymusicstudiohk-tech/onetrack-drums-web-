@@ -16,7 +16,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-16]**
-> 待輸入
+> 
+> 今日 完成cover 原速 因祢堅持
+> 
+> source: 65 何等恩典鼓譜（10.2.2018).pdf
+> source: 何等恩典 isaac_2026-11-16_19-40.drumscore
+> 
+> today tried 60bpm , till MB after 1st C 
+> 
 
 > [!NOTE] **[2026-11-05]**
 > 
