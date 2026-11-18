@@ -18,7 +18,12 @@
 
 ***課堂記錄***
 > [!NOTE] **[2026-11-17]**
-> 待輸入
+> source: N.Flying - 잔불(Still)
+> source: nflying still_2026-11-17_16-31.drumscore
+> 
+> 今日完成 原速cover N.Flying - 잔불(Still)
+> 
+> 
 
 > [!NOTE] **[2026-10-21]**
 > 

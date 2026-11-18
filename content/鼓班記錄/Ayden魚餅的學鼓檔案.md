@@ -8,6 +8,9 @@
 > 
 > Grade 5 暫時做過 don't let go , tiberius, canned heat , black smoke rising，bros
 > 
+> 
+> 佢學校要練習Rock and Pop Grade 5- Alive： https://www.youtube.com/watch?v=AD_EV_ETbWY
+> 
 ---
 
 > [!WARNING] ***上課日期與剩餘堂數：***
@@ -24,7 +27,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-17]**
-> 待輸入
+> 
+> source:NO DRUMS - grade 5 benjamin five songs.mp4
+> source: 
+> 
+> 今日溫咗一次 0.9x 無鼓版 grade 5 五首歌
+> 另開咗 魚餅學校要打嘅 rock and pop grade 5- alive 去到bar 10
+> source:Alive Trinity Grade 5 Drums (1080p_25fps_H264-128kbit_AAC).mp4
+> source: RnP G5 Alive practice_2026-11-17_17-58.drumscore
+> 
+> 
 
 > [!NOTE] **[2026-11-15]**
 > 
