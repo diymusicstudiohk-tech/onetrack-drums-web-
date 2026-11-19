@@ -28,7 +28,8 @@
 
 ***課堂記錄***
 > [!NOTE] **[2026-11-18]**
-> 待輸入
+> source： full song 我是憤怒 (153).mp4
+> today cover jor  0.9-1x full song 
 
 > [!NOTE] **[2026-11-04]**
 > 
