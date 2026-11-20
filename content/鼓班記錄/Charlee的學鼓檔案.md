@@ -20,7 +20,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-19]**
-> 待輸入
+> 
+> source: 我算甚麼 - charlee_2026-11-19_18-24.drumscore
+> today tried 1x till bridge
+> 
 
 
 > [!NOTE] **[2026-10-29]**

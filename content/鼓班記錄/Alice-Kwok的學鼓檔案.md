@@ -26,7 +26,14 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-19]**
-> 待輸入
+> 
+> source:第1and2堂嘅 建殿者的呼聲 .mp4
+> source:第二堂嘅Bridge- 建殿者的呼聲 .mp4
+> source:建殿者的呼聲 trimmed - alice ver_2026-11-19_20-30.drumscore
+> 
+> today tried 0.8x 
+> 2nd bridge 之後嗰d 未執and tryy
+> 
 
 
 > [!NOTE] **[2026-11-13]**

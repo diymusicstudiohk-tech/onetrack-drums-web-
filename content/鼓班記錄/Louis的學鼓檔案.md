@@ -17,7 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-19]**
-> 待輸入
+> 與祢一起今日 cover 咗原速
+> 
+> source: 我的生命獻給祢 - Louis ver_2026-11-19_19-29.drumscore
+> 我的生命獻給你，today tried 0.9x till 1st C ends 
+> 
 
 
 > [!NOTE] **[2026-11-03]**
