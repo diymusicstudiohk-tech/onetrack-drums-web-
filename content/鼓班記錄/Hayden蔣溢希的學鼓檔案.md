@@ -1,6 +1,6 @@
 
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
-> [!TIP] [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
+> [!TIP] [Remark: 🐱 呀餅（啡） 🐈 蝦丸 (白) 🐶 嘟嘟 👯Julian 👯 Landon 🐷 媽媽豬 🐖 爸爸豬 🐽 B支]
 > 
 > 生日在考試週
 > 
@@ -23,8 +23,16 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-20]**
-> 待輸入
-
+> 
+> source: 雪糕糯米糍-TRIMMED_2026-11-13_18-29.drumscore
+> today covered full song 原速 雪糕糯米糍
+> 
+> 開咗少少 # You Don't Trust Me At All 預習 main pattern
+> 126bpm , 12/8
+> 
+> [](https://www.youtube.com/channel/UCpCPwuMLFLFAWdHE3RWFjqg)
+> 
+> 
 > [!NOTE] **[2026-11-13]**
 > source: 雪糕糯米糍-TRIMMED_2026-11-13_18-29.drumscore
 > today tried full song 0.85x 雪糕糯米糍

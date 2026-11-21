@@ -2,14 +2,18 @@
 - [[../Onetrack Studio 預約上課時間表（自動更新）|點擊查看時間表]]
 > 最早可 7:15pm 上堂
 > 
->F-A-I-T-H
-> 
+>F-A-I-T-H tattoo
+>
 > Rockschool grade 5 已完成目標: 
 > Hard to handle (ori, Jan26), 
 > Tiberius (0.7x , Jan26) , 
 > Don’t let go (ori, Jan 26);
 > Canned heat (ori, feb 26)
 > Black Smoke Rising (0.9x , apr26)
+> 
+> wishlist ：5:20 天地讚美教會要練嘅快歌
+> https://www.youtube.com/watch?v=wyFC3abPHXk
+> 
 
 ---
 
@@ -27,7 +31,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-20]**
-> 待輸入
+> 
+> source: UPDATED - 原速 5 songs samuel grade 5.mp4
+> today tried all 1x（逐首拆開 原速)
+> 
 
 > [!NOTE] **[2026-10-16]**
 > 待輸入
