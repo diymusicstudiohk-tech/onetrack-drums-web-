@@ -18,7 +18,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-21]**
-> 待輸入
+> 
+> source: 080x till 1st PC 愛は衝動.mov
+> source: 愛は衝動-trimmed_2026-11-21_11-29.drumscore
 >
 
 > [!NOTE] **[2026-11-14]**

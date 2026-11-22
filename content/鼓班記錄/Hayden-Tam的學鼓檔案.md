@@ -20,7 +20,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-21]**
-> 待輸入
+> 
+> source:Camden Square - Rockschool Grade 3 Drum Score_2026-11-21_17-59.drumscore
+> 
+> tried 0.8x till bar 16
 >
 
 > [!NOTE] **[2026-10-31]**

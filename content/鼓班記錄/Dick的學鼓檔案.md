@@ -14,7 +14,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-21]**
-> 待輸入
+> source:justin bieber baby - dick_2026-11-21_15-54.drumscore
+> source:055x Baby - Justin Beiber full song .mov
 >
 
 > [!NOTE] **[2026-11-14]**
