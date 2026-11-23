@@ -19,7 +19,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-22]**
-> 待輸入
+> 
+> source: 080x full song - Dont look back in anger.mov
+> 
 
 > [!NOTE] **[2026-11-15]**
 > 

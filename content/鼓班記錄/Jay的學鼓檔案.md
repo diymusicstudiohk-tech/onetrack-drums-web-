@@ -17,7 +17,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-22]**
-> 待輸入
+> 
+> source: 075x to 085x 為何嚴重到這樣 1st Chorus only .mov
+> 今日tried 0.7x 1st C 
+> 
 
 > [!NOTE] **[2026-11-10]**
 > source : Chorus 頭八個 bars with music - 為何嚴重到這樣 .mov

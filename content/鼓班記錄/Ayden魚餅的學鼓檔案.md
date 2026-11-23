@@ -27,7 +27,12 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-22]**
-> 待輸入
+> 
+> source:NO DRUMS - grade 5 benjamin five songs.mp4
+> source: 
+> 
+> 今日溫咗一次 0.95x 無鼓版 grade 5 五首歌
+> 
 
 > [!NOTE] **[2026-11-17]**
 > 
