@@ -17,7 +17,11 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-24]**
-> 待輸入
+> 
+> source: full song with my demo 我的生命獻給祢.mp4
+> 整咗片, just tried 0.7x till bridge 
+> 
+> 
 
 > [!NOTE] **[2026-11-19]**
 > 與祢一起今日 cover 咗原速

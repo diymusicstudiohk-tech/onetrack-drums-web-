@@ -18,8 +18,11 @@
 > ***課堂記錄***
 
 > [!NOTE] **[2026-11-24]**
-> 待輸入
-> 
+> source: 鬼怒川-4小節.mov
+> 今日 tried 1x not stable, full song ，下次完
+> 另玩咗少少 「如果感覺有顏色 」
+
+
 > [!NOTE] **[2026-11-10]**
 > source:鬼怒川練習 Janis.drumscore
 > source:鬼怒川_after lesson copy.pdf
