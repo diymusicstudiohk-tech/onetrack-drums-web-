@@ -26,7 +26,13 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-25]**
-> 待輸入
+> source: 主的喜樂是我力量 live ver. 鼓譜.pages
+> source: 060x to 070x 主的喜樂是我力量 1st V only - christy ver.mov
+> 
+> 今日執咗嘅.pages 整.drumscore 淨係整咗第一個 verse, tried 0.6-0.7x
+> 
+> 
+> 
 
 > [!NOTE] **[2026-11-16]**
 >今日review 咗婚禮三首歌 rehearsal, 之後練咗少少 不停讚美你 嘅 0.9x
