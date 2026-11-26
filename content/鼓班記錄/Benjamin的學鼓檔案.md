@@ -42,7 +42,7 @@ Grade 5 song choices :
 
 > [!NOTE] **[2026-11-25]**
 > sourcE: NO DRUMS - benjamin new 5 songs with 7th and 42nd.mp4  
-today tried 0.9x 新五首 Grade 5 songs
+> today tried 1x 新五首 Grade 5 songs，頭兩首緊張打甩咗
 
 > [!NOTE] **[2026-11-18]**
 > sourcE: NO DRUMS - benjamin new 5 songs with 7th and 42nd.mp4
