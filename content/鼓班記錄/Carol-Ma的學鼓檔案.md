@@ -17,7 +17,7 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-26]**
-> 待輸入
+> 今日cover 咗和平之君，instrumental MB 拍子無click 會快咗； 然後用 logic session carol ma live 03 , 開 與祢更靠近 
 
 ---
 

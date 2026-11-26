@@ -16,7 +16,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-26]**
-> 待輸入
+> source: 070x full song 何等恩典.mov
+> 
+> today tried 0.7x till bridge
 
 > [!NOTE] **[2026-11-16]**
 > 
