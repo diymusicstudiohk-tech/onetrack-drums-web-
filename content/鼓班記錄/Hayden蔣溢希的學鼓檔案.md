@@ -4,9 +4,9 @@
 > 
 > 生日在考試週
 > 
-> [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 >32 KG, 142cm ]
+> [Remark: 💃🏻 Chin Stand Rotation; Jun 10th 生日🎂 ; 29.5 >32 KG, 142cm >143.5cm]
 > [Remark: 2nd Aug 沖繩]
-> Kason ( 字醜) , Jillian (演奏級 violin), Katelyn,  Evelyn (violin G8) , dreamer(嘈) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
+> Kason ( 字醜) , Jillian (G8 violin), Katelyn,  Evelyn (violin G4) , dreamer(嘈) , ethan (choir frd) ； Nemesis: Sophia (rubber thief) , Kaspar (~~1st in Eng~~, Science)
 
 ---
 
@@ -23,7 +23,9 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-27]**
-> 待輸入
+> 
+> 今日試 咗 You Don't Trust Me At All 原速 去到一半
+> 
 
 > [!NOTE] **[2026-11-20]**
 > 

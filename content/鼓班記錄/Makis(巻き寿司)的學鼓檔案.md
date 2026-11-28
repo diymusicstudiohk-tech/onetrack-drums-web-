@@ -39,7 +39,10 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-27]**
-> 待輸入
+> 
+> source: full song （updated) 7th and 42nd.mp4|  
+> today tried 0.8x full song , Grade 5 - 7th and 42nd
+> 
 
 > [!NOTE] **[2026-11-13]**
 > 

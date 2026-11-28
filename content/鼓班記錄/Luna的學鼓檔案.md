@@ -17,7 +17,8 @@
 ***課堂記錄***
 
 > [!NOTE] **[2026-11-27]**
-> 待輸入
+> source: full song with demo 旋轉木馬 (160).mp4
+> tried 0.75-0.8x , remaining 01 not stable ，主要練 由 2nd V1 去 Last C2
 
 > [!NOTE] **[2026-11-20]**
 > source: full song with demo 旋轉木馬 (160).mp4
