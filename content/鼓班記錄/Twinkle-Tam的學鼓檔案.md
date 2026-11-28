@@ -57,7 +57,9 @@
 ***課堂記錄（堂數歸屬待確認）***
 
 > [!NOTE] **[2026-11-28]**
-> 待輸入
+> 
+> drumscore: 7th and 42nd p2 practice
+> 今日 打 Grade 5 的 7th and 42nd, p2 till ends , tried 0.7x 
 >
 
 ---
